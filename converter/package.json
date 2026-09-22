@@ -1,0 +1,13 @@
+{
+  "name": "trello-to-obsidian",
+  "version": "1.0.0",
+  "type": "module",
+  "bin": { "trello-to-obsidian": "./index.js" },
+  "dependencies": {
+    "commander": "^12.1.0",
+    "fs-extra": "^11.2.0",
+    "p-limit": "^6.1.0",
+    "p-retry": "^6.2.0",
+    "sanitize-filename": "^1.6.3"
+  }
+}
