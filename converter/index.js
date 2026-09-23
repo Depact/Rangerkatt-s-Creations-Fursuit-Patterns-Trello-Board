@@ -91,30 +91,33 @@ async function run(jsonFile, OUT) {
   });
 
   /* --- helper function for item grid (markdown table for GitHub compatibility) --- */
-  const createItemGridMarkdown = (items) => {
-    const displayItems = items.slice(0, Math.min(4, items.length));
-    if (displayItems.length === 0) return '';
+  const createItemGridMarkdown = (items, listName, count) => {
+    if (items.length === 0) return '';
     
-    // Build rows with 2 items per row (4 columns: Name | Preview | Name | Preview)
+    // Build rows: 4 items per row (4 columns)
+    // Each cell combines link + image: [Name](#anchor) ![Name](url)
+    const makeCell = (item) => {
+      if (!item) return '';
+      const itemAnchor = slug(one(item.name));
+      const firstItemImg = (item.attachments?.find(a => a?.mimeType?.startsWith('image/'))?.url) || '';
+      const imageMd = firstItemImg 
+        ? `![${one(item.name)}](${firstItemImg})`
+        : '*No image*';
+      return `[${one(item.name)}](${itemAnchor}) ${imageMd}`;
+    };
+    
     const rows = [];
-    for (let i = 0; i < displayItems.length; i += 2) {
-      const item1 = displayItems[i];
-      const item2 = displayItems[i + 1];
-      
-      const makeCell = (item) => {
-        if (!item) return '||';
-        const itemAnchor = slug(one(item.name));
-        const firstItemImg = (item.attachments?.find(a => a?.mimeType?.startsWith('image/'))?.url) || '';
-        const imageMd = firstItemImg 
-          ? `![${one(item.name)}](${firstItemImg})`
-          : '*No image*';
-        return `|[${one(item.name)}](${itemAnchor})|${imageMd}`;
-      };
-      
-      rows.push(`${makeCell(item1)}${makeCell(item2)}|`);
+    for (let i = 0; i < items.length; i += 4) {
+      const cells = [
+        makeCell(items[i]),
+        makeCell(items[i + 1]),
+        makeCell(items[i + 2]),
+        makeCell(items[i + 3])
+      ];
+      rows.push(`|${cells.join('|')}|`);
     }
     
-    const header = '|Item|Preview|Item|Preview|\n|---|---|---|---|';
+    const header = `### ${listName} (${count} cards)\n\n|Preview|Preview|Preview|Preview|\n|---|---|---|---|`;
     return [header, ...rows].join('\n');
   };
 
@@ -143,18 +146,18 @@ async function run(jsonFile, OUT) {
 
     /* --- Preview grid OUTSIDE spoiler (visible by default) --- */
     if (items.length > 0) {
-      body.push('### Preview Grid - First Items', '');
-      body.push(createItemGridMarkdown(items));
+      body.push(createItemGridMarkdown(items, list.name, items.length));
       body.push('');
     }
 
     const listDir = sanitize(list.name).slice(0, 80) || 'list';
 
+    /* Anchor BEFORE details so links work when collapsed */
+    body.push(`<a id="${listAnchor}"></a>`, '');
+
     body.push(
       `<details>`,
       `  <summary>${list.name} (${items.length} cards)</summary>`,
-      '',
-      `<a id="${listAnchor}"></a>`,
       '',
       `## ${list.name}`, '',
       '---', '',
