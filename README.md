@@ -5,12 +5,10 @@ This repo goal is to make Rangerkatt's Creations easy to access, as my laptop st
 
 ### Preview Grid - First Items
 
-|Item|Preview|
-|---|---|
-|[(FREE) Matrices 5 Finger Paw](free-matrices-5-finger-paw)|![(FREE) Matrices 5 Finger Paw](https://trello.com/1/cards/649064bceb3b3d7a3d8a4404/attachments/649064c3b1d221f657be9125/download/image.png)|
-|[(FREE) Curlworks Puffy Paw](free-curlworks-puffy-paw)|![(FREE) Curlworks Puffy Paw](https://trello.com/1/cards/649064feeb373cfeabd066f9/attachments/6490650dd45621fcde5f34e9/download/image.png)|
-|[(FREE) RunnerRabbit Paws](free-runnerrabbit-paws)|![(FREE) RunnerRabbit Paws](https://trello.com/1/cards/64906557e66d391cb200d6a8/attachments/64906566d7a8c6b29ffd76e7/download/image.png)|
-|[(FREE) Freakhound Canine Paw](free-freakhound-canine-paw)|![(FREE) Freakhound Canine Paw](https://trello.com/1/cards/649066c8de43bf1c9f530a71/attachments/649066e28446d5b71fe93764/download/image.png)|
+|Item|Preview|Item|Preview|
+|---|---|---|---|
+|[(FREE) Matrices 5 Finger Paw](free-matrices-5-finger-paw)|![(FREE) Matrices 5 Finger Paw](https://trello.com/1/cards/649064bceb3b3d7a3d8a4404/attachments/649064c3b1d221f657be9125/download/image.png)|[(FREE) Curlworks Puffy Paw](free-curlworks-puffy-paw)|![(FREE) Curlworks Puffy Paw](https://trello.com/1/cards/649064feeb373cfeabd066f9/attachments/6490650dd45621fcde5f34e9/download/image.png)|
+|[(FREE) RunnerRabbit Paws](free-runnerrabbit-paws)|![(FREE) RunnerRabbit Paws](https://trello.com/1/cards/64906557e66d391cb200d6a8/attachments/64906566d7a8c6b29ffd76e7/download/image.png)|[(FREE) Freakhound Canine Paw](free-freakhound-canine-paw)|![(FREE) Freakhound Canine Paw](https://trello.com/1/cards/649066c8de43bf1c9f530a71/attachments/649066e28446d5b71fe93764/download/image.png)|
 
 <details>
   <summary>Generic or Puffy Paws (54 cards)</summary>
@@ -670,12 +668,10 @@ ONLY A PATTERN FOR THE BEANS
 
 ### Preview Grid - First Items
 
-|Item|Preview|
-|---|---|
-|[(FREE) Freakhound 5 Finger Paws](free-freakhound-5-finger-paws)|![(FREE) Freakhound 5 Finger Paws](https://trello.com/1/cards/649077834fe37091f5a35a9e/attachments/64907792de38c2824b52cfd4/download/image.png)|
-|[(FREE) Mango_Savepoint Slim 5 Finger Paw](free-mango-savepoint-slim-5-finger-paw)|![(FREE) Mango_Savepoint Slim 5 Finger Paw](https://trello.com/1/cards/69e946ba8d133526e0990ec0/attachments/69e94707aae1e9d833516141/download/image.png)|
-|[Matrices 5 Finger Paw](matrices-5-finger-paw)|![Matrices 5 Finger Paw](https://trello.com/1/cards/64906e4b727528d2ba8002a0/attachments/64906e5bc5168e6333096c49/download/image.png)|
-|[Kloofsuit 5 Finger Paw](kloofsuit-5-finger-paw)|![Kloofsuit 5 Finger Paw](https://trello.com/1/cards/6490706f64771ff54457c7c8/attachments/6490708d4af244c8a649fe20/download/image.png)|
+|Item|Preview|Item|Preview|
+|---|---|---|---|
+|[(FREE) Freakhound 5 Finger Paws](free-freakhound-5-finger-paws)|![(FREE) Freakhound 5 Finger Paws](https://trello.com/1/cards/649077834fe37091f5a35a9e/attachments/64907792de38c2824b52cfd4/download/image.png)|[(FREE) Mango_Savepoint Slim 5 Finger Paw](free-mango-savepoint-slim-5-finger-paw)|![(FREE) Mango_Savepoint Slim 5 Finger Paw](https://trello.com/1/cards/69e946ba8d133526e0990ec0/attachments/69e94707aae1e9d833516141/download/image.png)|
+|[Matrices 5 Finger Paw](matrices-5-finger-paw)|![Matrices 5 Finger Paw](https://trello.com/1/cards/64906e4b727528d2ba8002a0/attachments/64906e5bc5168e6333096c49/download/image.png)|[Kloofsuit 5 Finger Paw](kloofsuit-5-finger-paw)|![Kloofsuit 5 Finger Paw](https://trello.com/1/cards/6490706f64771ff54457c7c8/attachments/6490708d4af244c8a649fe20/download/image.png)|
 
 <details>
   <summary>5 Finger Paw Patterns (23 cards)</summary>
@@ -947,12 +943,10 @@ PAID video tutorial:
 
 ### Preview Grid - First Items
 
-|Item|Preview|
-|---|---|
-|[SpiltGrapeSoda V2 Mittens](spiltgrapesoda-v2-mittens)|![SpiltGrapeSoda V2 Mittens](https://trello.com/1/cards/66b7a56fe8bd93b6d5cd2eab/attachments/66b7a57c01419c77a3024967/download/il_794xN.6083633497_nz3p.webp)|
-|[SpiltGrapeSoda V1 Mittens](spiltgrapesoda-v1-mittens)|![SpiltGrapeSoda V1 Mittens](https://trello.com/1/cards/64906ee69a4bfb67a9cf42dd/attachments/64906ee9db349797ab1ad9ff/download/image.png)|
-|[WittleStudios Mittens](wittlestudios-mittens)|![WittleStudios Mittens](https://trello.com/1/cards/649080aae7eae3c6abb16390/attachments/649080b1d178baaac180163d/download/image.png)|
-|[The Manic Macaw Mitten Paws](the-manic-macaw-mitten-paws)|![The Manic Macaw Mitten Paws](https://trello.com/1/cards/649082031db18ae5c2014530/attachments/6490821051df27c5dbd8031e/download/image.png)|
+|Item|Preview|Item|Preview|
+|---|---|---|---|
+|[SpiltGrapeSoda V2 Mittens](spiltgrapesoda-v2-mittens)|![SpiltGrapeSoda V2 Mittens](https://trello.com/1/cards/66b7a56fe8bd93b6d5cd2eab/attachments/66b7a57c01419c77a3024967/download/il_794xN.6083633497_nz3p.webp)|[SpiltGrapeSoda V1 Mittens](spiltgrapesoda-v1-mittens)|![SpiltGrapeSoda V1 Mittens](https://trello.com/1/cards/64906ee69a4bfb67a9cf42dd/attachments/64906ee9db349797ab1ad9ff/download/image.png)|
+|[WittleStudios Mittens](wittlestudios-mittens)|![WittleStudios Mittens](https://trello.com/1/cards/649080aae7eae3c6abb16390/attachments/649080b1d178baaac180163d/download/image.png)|[The Manic Macaw Mitten Paws](the-manic-macaw-mitten-paws)|![The Manic Macaw Mitten Paws](https://trello.com/1/cards/649082031db18ae5c2014530/attachments/6490821051df27c5dbd8031e/download/image.png)|
 
 <details>
   <summary>Mitten Paws (9 cards)</summary>
@@ -1068,12 +1062,10 @@ Comes with 3 sizes
 
 ### Preview Grid - First Items
 
-|Item|Preview|
-|---|---|
-|[(FREE) Foxfire Fantasy Feral Canine](free-foxfire-fantasy-feral-canine)|![(FREE) Foxfire Fantasy Feral Canine](https://trello.com/1/cards/64906446ee262c8e4b96125e/attachments/6490645a91353deac4c12b08/download/image.png)|
-|[(FREE) Foxfire Fantasy "Fox" Slim Canine](free-foxfire-fantasy-fox-slim-canine)|![(FREE) Foxfire Fantasy "Fox" Slim Canine](https://trello.com/1/cards/660af5e1684928d91e79bdc4/attachments/660af61434d461fa37109ce8/download/cover.jpg)|
-|[Freakhound Feral Paw](freakhound-feral-paw)|![Freakhound Feral Paw](https://trello.com/1/cards/64906699f5db9efc9652800c/attachments/6490669debfb72458a4c3cb0/download/image.png)|
-|[Mugiwara Simple Feral Paw](mugiwara-simple-feral-paw)|![Mugiwara Simple Feral Paw](https://trello.com/1/cards/64907308e0a0f48e1f36f0c3/attachments/64907310e7d4664ab0cfde18/download/image.png)|
+|Item|Preview|Item|Preview|
+|---|---|---|---|
+|[(FREE) Foxfire Fantasy Feral Canine](free-foxfire-fantasy-feral-canine)|![(FREE) Foxfire Fantasy Feral Canine](https://trello.com/1/cards/64906446ee262c8e4b96125e/attachments/6490645a91353deac4c12b08/download/image.png)|[(FREE) Foxfire Fantasy "Fox" Slim Canine](free-foxfire-fantasy-fox-slim-canine)|![(FREE) Foxfire Fantasy "Fox" Slim Canine](https://trello.com/1/cards/660af5e1684928d91e79bdc4/attachments/660af61434d461fa37109ce8/download/cover.jpg)|
+|[Freakhound Feral Paw](freakhound-feral-paw)|![Freakhound Feral Paw](https://trello.com/1/cards/64906699f5db9efc9652800c/attachments/6490669debfb72458a4c3cb0/download/image.png)|[Mugiwara Simple Feral Paw](mugiwara-simple-feral-paw)|![Mugiwara Simple Feral Paw](https://trello.com/1/cards/64907308e0a0f48e1f36f0c3/attachments/64907310e7d4664ab0cfde18/download/image.png)|
 
 <details>
   <summary>Feral Canine Paws (8 cards)</summary>
@@ -1188,12 +1180,10 @@ Intermediate to advanced pattern!
 
 ### Preview Grid - First Items
 
-|Item|Preview|
-|---|---|
-|[(FREE) FoxFire Fantasy Feral Feline Paws](free-foxfire-fantasy-feral-feline-paws)|![(FREE) FoxFire Fantasy Feral Feline Paws](https://trello.com/1/cards/64906d5d9a98cfb3f32aa372/attachments/64906d6033085dd6a9751e87/download/image.png)|
-|[YBL Suits Puffy Feline Paws](ybl-suits-puffy-feline-paws)|![YBL Suits Puffy Feline Paws](https://trello.com/1/cards/649070aa341a30052e29611b/attachments/649070c5c59a76064548d8ec/download/image.png)|
-|[FloofUnlimited Feline Puffy Paws](floofunlimited-feline-puffy-paws)|![FloofUnlimited Feline Puffy Paws](https://trello.com/1/cards/6904eec789991a259f0d8371/attachments/6904eed7d28fad8575d58f1d/download/image.png)|
-|[Pseudocanid Chunky Cat Paws](pseudocanid-chunky-cat-paws)|![Pseudocanid Chunky Cat Paws](https://trello.com/1/cards/649074f12de44a5c09ec45d2/attachments/649074f6c00f4171caa7ae22/download/image.png)|
+|Item|Preview|Item|Preview|
+|---|---|---|---|
+|[(FREE) FoxFire Fantasy Feral Feline Paws](free-foxfire-fantasy-feral-feline-paws)|![(FREE) FoxFire Fantasy Feral Feline Paws](https://trello.com/1/cards/64906d5d9a98cfb3f32aa372/attachments/64906d6033085dd6a9751e87/download/image.png)|[YBL Suits Puffy Feline Paws](ybl-suits-puffy-feline-paws)|![YBL Suits Puffy Feline Paws](https://trello.com/1/cards/649070aa341a30052e29611b/attachments/649070c5c59a76064548d8ec/download/image.png)|
+|[FloofUnlimited Feline Puffy Paws](floofunlimited-feline-puffy-paws)|![FloofUnlimited Feline Puffy Paws](https://trello.com/1/cards/6904eec789991a259f0d8371/attachments/6904eed7d28fad8575d58f1d/download/image.png)|[Pseudocanid Chunky Cat Paws](pseudocanid-chunky-cat-paws)|![Pseudocanid Chunky Cat Paws](https://trello.com/1/cards/649074f12de44a5c09ec45d2/attachments/649074f6c00f4171caa7ae22/download/image.png)|
 
 <details>
   <summary>Feline Paws (5 cards)</summary>
@@ -1275,12 +1265,10 @@ YaBoiLuke
 
 ### Preview Grid - First Items
 
-|Item|Preview|
-|---|---|
-|[Oktavia's Creatures Dragon/Sergal Paws](oktavia-s-creatures-dragon-sergal-paws)|![Oktavia's Creatures Dragon/Sergal Paws](https://trello.com/1/cards/64907f44218f2dff9c99fe83/attachments/64907f4d9cbfc73f0fc39911/download/image.png)|
-|[SoulEnterprise Bird/Reptile Hands](soulenterprise-bird-reptile-hands)|![SoulEnterprise Bird/Reptile Hands](https://trello.com/1/cards/649082347a64a60f54522e00/attachments/6490824581950d451efe8abf/download/image.png)|
-|[Neffertity Hand Paws](neffertity-hand-paws)|![Neffertity Hand Paws](https://trello.com/1/cards/64907f9d82dbb4a3e29c71f1/attachments/64907fac740548a9c0cb86a8/download/image.png)|
-|[Webbed Paws Tutorial](webbed-paws-tutorial)|![Webbed Paws Tutorial](https://trello.com/1/cards/64906eb111e54a57fd15cba1/attachments/64906ec130cc60c912a66688/download/image.png)|
+|Item|Preview|Item|Preview|
+|---|---|---|---|
+|[Oktavia's Creatures Dragon/Sergal Paws](oktavia-s-creatures-dragon-sergal-paws)|![Oktavia's Creatures Dragon/Sergal Paws](https://trello.com/1/cards/64907f44218f2dff9c99fe83/attachments/64907f4d9cbfc73f0fc39911/download/image.png)|[SoulEnterprise Bird/Reptile Hands](soulenterprise-bird-reptile-hands)|![SoulEnterprise Bird/Reptile Hands](https://trello.com/1/cards/649082347a64a60f54522e00/attachments/6490824581950d451efe8abf/download/image.png)|
+|[Neffertity Hand Paws](neffertity-hand-paws)|![Neffertity Hand Paws](https://trello.com/1/cards/64907f9d82dbb4a3e29c71f1/attachments/64907fac740548a9c0cb86a8/download/image.png)|[Webbed Paws Tutorial](webbed-paws-tutorial)|![Webbed Paws Tutorial](https://trello.com/1/cards/64906eb111e54a57fd15cba1/attachments/64906ec130cc60c912a66688/download/image.png)|
 
 <details>
   <summary>Other Species Hand Paws (25 cards)</summary>
@@ -1590,12 +1578,10 @@ uses mochi minky, interfacing and applique
 
 ### Preview Grid - First Items
 
-|Item|Preview|
-|---|---|
-|[(FREE) Freakhound Equine Hand Hooves](free-freakhound-equine-hand-hooves)|![(FREE) Freakhound Equine Hand Hooves](https://trello.com/1/cards/6490720e41e970ea16f6498b/attachments/6490720e41e970ea16f64ac7/download/image.png)|
-|[(FREE) TripppyLenny Horse Handhoof Pattern](free-tripppylenny-horse-handhoof-pattern)|![(FREE) TripppyLenny Horse Handhoof Pattern](https://trello.com/1/cards/64d584f602cef2a02ea68aea/attachments/64d584fb4fe87da40f501230/download/image.png)|
-|[YBL Suits 3 Finger Hand Hooves](ybl-suits-3-finger-hand-hooves)|![YBL Suits 3 Finger Hand Hooves](https://trello.com/1/cards/64ae372afe40000a3acc6be2/attachments/64ae372afe40000a3acc6cec/download/image.png)|
-|[YBL Suits Cloven Hand Hooves](ybl-suits-cloven-hand-hooves)|![YBL Suits Cloven Hand Hooves](https://trello.com/1/cards/6490720e41e970ea16f64990/attachments/64ae375c0f910a08a2ed1cea/download/image.png)|
+|Item|Preview|Item|Preview|
+|---|---|---|---|
+|[(FREE) Freakhound Equine Hand Hooves](free-freakhound-equine-hand-hooves)|![(FREE) Freakhound Equine Hand Hooves](https://trello.com/1/cards/6490720e41e970ea16f6498b/attachments/6490720e41e970ea16f64ac7/download/image.png)|[(FREE) TripppyLenny Horse Handhoof Pattern](free-tripppylenny-horse-handhoof-pattern)|![(FREE) TripppyLenny Horse Handhoof Pattern](https://trello.com/1/cards/64d584f602cef2a02ea68aea/attachments/64d584fb4fe87da40f501230/download/image.png)|
+|[YBL Suits 3 Finger Hand Hooves](ybl-suits-3-finger-hand-hooves)|![YBL Suits 3 Finger Hand Hooves](https://trello.com/1/cards/64ae372afe40000a3acc6be2/attachments/64ae372afe40000a3acc6cec/download/image.png)|[YBL Suits Cloven Hand Hooves](ybl-suits-cloven-hand-hooves)|![YBL Suits Cloven Hand Hooves](https://trello.com/1/cards/6490720e41e970ea16f64990/attachments/64ae375c0f910a08a2ed1cea/download/image.png)|
 
 <details>
   <summary>Hand Hooves (21 cards)</summary>
@@ -1825,12 +1811,10 @@ Only comes with a pattern for the hooves themselves, not the palm or wrist.
 
 ### Preview Grid - First Items
 
-|Item|Preview|
-|---|---|
-|[(FREE) @7V0B0Dy Leg Padding](free-7v0b0dy-leg-padding)|![(FREE) @7V0B0Dy Leg Padding](https://trello.com/1/cards/69b1768826e4a600890184b6/attachments/69b1768f0d8b08301ae923ba/download/image.png)|
-|[Skypro Donky Faun legs](skypro-donky-faun-legs)|![Skypro Donky Faun legs](https://trello.com/1/cards/65cf7bcda18ae97dada7c03a/attachments/65cf7bd1520582d3f66469f5/download/il_794xN.4657559769_na6k.jpg)|
-|[Mugiwara Medium Female Digi Bodysuit](mugiwara-medium-female-digi-bodysuit)|![Mugiwara Medium Female Digi Bodysuit](https://trello.com/1/cards/65cf7e29435e68b9e2129cde/attachments/65cf7e2cddaaac87a559dffa/download/il_794xN.2481164533_kyfl.jpg)|
-|[Mugiwara Small Male Digi Bodysuit](mugiwara-small-male-digi-bodysuit)|![Mugiwara Small Male Digi Bodysuit](https://trello.com/1/cards/65cf809141fd93316d4dc6c9/attachments/65cf809d6b083b2b0eaa90aa/download/il_794xN.1878125073_l10v.jpg)|
+|Item|Preview|Item|Preview|
+|---|---|---|---|
+|[(FREE) @7V0B0Dy Leg Padding](free-7v0b0dy-leg-padding)|![(FREE) @7V0B0Dy Leg Padding](https://trello.com/1/cards/69b1768826e4a600890184b6/attachments/69b1768f0d8b08301ae923ba/download/image.png)|[Skypro Donky Faun legs](skypro-donky-faun-legs)|![Skypro Donky Faun legs](https://trello.com/1/cards/65cf7bcda18ae97dada7c03a/attachments/65cf7bd1520582d3f66469f5/download/il_794xN.4657559769_na6k.jpg)|
+|[Mugiwara Medium Female Digi Bodysuit](mugiwara-medium-female-digi-bodysuit)|![Mugiwara Medium Female Digi Bodysuit](https://trello.com/1/cards/65cf7e29435e68b9e2129cde/attachments/65cf7e2cddaaac87a559dffa/download/il_794xN.2481164533_kyfl.jpg)|[Mugiwara Small Male Digi Bodysuit](mugiwara-small-male-digi-bodysuit)|![Mugiwara Small Male Digi Bodysuit](https://trello.com/1/cards/65cf809141fd93316d4dc6c9/attachments/65cf809d6b083b2b0eaa90aa/download/il_794xN.1878125073_l10v.jpg)|
 
 <details>
   <summary>Faun or Digitigrade legs & Bodysuits (28 cards)</summary>
@@ -2173,12 +2157,10 @@ V2/Slim: [https://www.etsy.com/ca/listing/1880698455/slim-digitigrade-legs-base-
 
 ### Preview Grid - First Items
 
-|Item|Preview|
-|---|---|
-|[(FREE) FoxFire Fantasy Feral Canine Slim Paws](free-foxfire-fantasy-feral-canine-slim-paws)|![(FREE) FoxFire Fantasy Feral Canine Slim Paws](https://trello.com/1/cards/64906d9f8be28d3a4fa5ca3d/attachments/64906da2244cd15f583a2740/download/image.png)|
-|[FoxFire Fantasy Fox Foot Pattern](foxfire-fantasy-fox-foot-pattern)|![FoxFire Fantasy Fox Foot Pattern](https://trello.com/1/cards/67f192ae516c06e02435a021/attachments/67f192f6f49656def7ed84c6/download/image.png)|
-|[Freakhound Sock Paw](freakhound-sock-paw)|![Freakhound Sock Paw](https://trello.com/1/cards/64906d06a75d60e90646b451/attachments/64906d0e17cc579de6974da9/download/image.png)|
-|[Matrices PlantiFootpaw](matrices-plantifootpaw)|![Matrices PlantiFootpaw](https://trello.com/1/cards/64906e8102ca18fec89b5700/attachments/64906e843fc0e5cbf79134b0/download/image.png)|
+|Item|Preview|Item|Preview|
+|---|---|---|---|
+|[(FREE) FoxFire Fantasy Feral Canine Slim Paws](free-foxfire-fantasy-feral-canine-slim-paws)|![(FREE) FoxFire Fantasy Feral Canine Slim Paws](https://trello.com/1/cards/64906d9f8be28d3a4fa5ca3d/attachments/64906da2244cd15f583a2740/download/image.png)|[FoxFire Fantasy Fox Foot Pattern](foxfire-fantasy-fox-foot-pattern)|![FoxFire Fantasy Fox Foot Pattern](https://trello.com/1/cards/67f192ae516c06e02435a021/attachments/67f192f6f49656def7ed84c6/download/image.png)|
+|[Freakhound Sock Paw](freakhound-sock-paw)|![Freakhound Sock Paw](https://trello.com/1/cards/64906d06a75d60e90646b451/attachments/64906d0e17cc579de6974da9/download/image.png)|[Matrices PlantiFootpaw](matrices-plantifootpaw)|![Matrices PlantiFootpaw](https://trello.com/1/cards/64906e8102ca18fec89b5700/attachments/64906e843fc0e5cbf79134b0/download/image.png)|
 
 <details>
   <summary>Canine & Generic Feet Paws (48 cards)</summary>
@@ -2731,12 +2713,10 @@ Slim Feet: [https://www.etsy.com/ca/listing/1880654333/slim-digitigrade-fursuit-
 
 ### Preview Grid - First Items
 
-|Item|Preview|
-|---|---|
-|[Apoxon Industries Fleece Hooves](apoxon-industries-fleece-hooves)|![Apoxon Industries Fleece Hooves](https://trello.com/1/cards/64907ade8794a1bb63276af9/attachments/64907aef3cc8ffe5f2492e8a/download/image.png)|
-|[Apoxon Industries Fleece Cloven Hooves](apoxon-industries-fleece-cloven-hooves)|![Apoxon Industries Fleece Cloven Hooves](https://trello.com/1/cards/64907aa4e5f8f004248744b4/attachments/64907aaca20f8b68a6a9ecbc/download/image.png)|
-|[FurSmoothie FOAM Cloven Hooves](fursmoothie-foam-cloven-hooves)|![FurSmoothie FOAM Cloven Hooves](https://trello.com/1/cards/64907cfed1d7b80122ab3f9c/attachments/64907d0567c8a1d890771648/download/image.png)|
-|[Ricochetxcrafts FOAM feet hooves](ricochetxcrafts-foam-feet-hooves)|![Ricochetxcrafts FOAM feet hooves](https://trello.com/1/cards/6525d8dc6ba89552bb190a5c/attachments/6904cca61c5de134a931aed3/download/image.png)|
+|Item|Preview|Item|Preview|
+|---|---|---|---|
+|[Apoxon Industries Fleece Hooves](apoxon-industries-fleece-hooves)|![Apoxon Industries Fleece Hooves](https://trello.com/1/cards/64907ade8794a1bb63276af9/attachments/64907aef3cc8ffe5f2492e8a/download/image.png)|[Apoxon Industries Fleece Cloven Hooves](apoxon-industries-fleece-cloven-hooves)|![Apoxon Industries Fleece Cloven Hooves](https://trello.com/1/cards/64907aa4e5f8f004248744b4/attachments/64907aaca20f8b68a6a9ecbc/download/image.png)|
+|[FurSmoothie FOAM Cloven Hooves](fursmoothie-foam-cloven-hooves)|![FurSmoothie FOAM Cloven Hooves](https://trello.com/1/cards/64907cfed1d7b80122ab3f9c/attachments/64907d0567c8a1d890771648/download/image.png)|[Ricochetxcrafts FOAM feet hooves](ricochetxcrafts-foam-feet-hooves)|![Ricochetxcrafts FOAM feet hooves](https://trello.com/1/cards/6525d8dc6ba89552bb190a5c/attachments/6904cca61c5de134a931aed3/download/image.png)|
 
 <details>
   <summary>Feet Hooves (12 cards)</summary>
@@ -2893,12 +2873,10 @@ https://www.etsy.com/ca/listing/1601282095/digigrade-feet-hoof-indoor-and-outdoo
 
 ### Preview Grid - First Items
 
-|Item|Preview|
-|---|---|
-|[Mugiwara Bird Sock Feet](mugiwara-bird-sock-feet)|![Mugiwara Bird Sock Feet](https://trello.com/1/cards/64908eb48f47dc197234631d/attachments/64908ebb9bda0c514d64bc22/download/image.png)|
-|[Mugiwara 3 Toe Digi Feet Paws](mugiwara-3-toe-digi-feet-paws)|![Mugiwara 3 Toe Digi Feet Paws](https://trello.com/1/cards/66b7a240c76acfed7809a6f9/attachments/66b7a24b3890a4c1ec3db490/download/il_794xN.5896720278_excm.webp)|
-|[Mugiwara 3 Toe Feet Paws](mugiwara-3-toe-feet-paws)|![Mugiwara 3 Toe Feet Paws](https://trello.com/1/cards/64908fc08120589aeb6f3412/attachments/64908fc60bf6c3c1b28c4676/download/image.png)|
-|[Mugiwara Sock Raptor Feet](mugiwara-sock-raptor-feet)|![Mugiwara Sock Raptor Feet](https://trello.com/1/cards/64908ff0eeec617e21dead72/attachments/64908ffc1f6e13203b51869a/download/image.png)|
+|Item|Preview|Item|Preview|
+|---|---|---|---|
+|[Mugiwara Bird Sock Feet](mugiwara-bird-sock-feet)|![Mugiwara Bird Sock Feet](https://trello.com/1/cards/64908eb48f47dc197234631d/attachments/64908ebb9bda0c514d64bc22/download/image.png)|[Mugiwara 3 Toe Digi Feet Paws](mugiwara-3-toe-digi-feet-paws)|![Mugiwara 3 Toe Digi Feet Paws](https://trello.com/1/cards/66b7a240c76acfed7809a6f9/attachments/66b7a24b3890a4c1ec3db490/download/il_794xN.5896720278_excm.webp)|
+|[Mugiwara 3 Toe Feet Paws](mugiwara-3-toe-feet-paws)|![Mugiwara 3 Toe Feet Paws](https://trello.com/1/cards/64908fc08120589aeb6f3412/attachments/64908fc60bf6c3c1b28c4676/download/image.png)|[Mugiwara Sock Raptor Feet](mugiwara-sock-raptor-feet)|![Mugiwara Sock Raptor Feet](https://trello.com/1/cards/64908ff0eeec617e21dead72/attachments/64908ffc1f6e13203b51869a/download/image.png)|
 
 <details>
   <summary>Other Species Feet Paws (12 cards)</summary>
@@ -3047,12 +3025,10 @@ Advanced pattern
 
 ### Preview Grid - First Items
 
-|Item|Preview|
-|---|---|
-|[Pseudocanid Bird Wings/Arms](pseudocanid-bird-wings-arms)|![Pseudocanid Bird Wings/Arms](https://trello.com/1/cards/6490763b01f8b32b93f200ff/attachments/64907647fecd387bfcbaeb17/download/image.png)|
-|[Oktavia's Creatures Fabric Feathers](oktavia-s-creatures-fabric-feathers)|![Oktavia's Creatures Fabric Feathers](https://trello.com/1/cards/64907e3e010c4bff1f451222/attachments/64907e46f0bc7ccae3ea7a78/download/image.png)|
-|[Mugiwara Tail Feathers](mugiwara-tail-feathers)|![Mugiwara Tail Feathers](https://trello.com/1/cards/64908b81733a50cfcb94d336/attachments/64908b86301f8f59fa16604d/download/image.png)|
-|[Mugiwara Feather Patterns](mugiwara-feather-patterns)|![Mugiwara Feather Patterns](https://trello.com/1/cards/64908382b08446a35ab34b13/attachments/6490838af8679ee8679d9046/download/image.png)|
+|Item|Preview|Item|Preview|
+|---|---|---|---|
+|[Pseudocanid Bird Wings/Arms](pseudocanid-bird-wings-arms)|![Pseudocanid Bird Wings/Arms](https://trello.com/1/cards/6490763b01f8b32b93f200ff/attachments/64907647fecd387bfcbaeb17/download/image.png)|[Oktavia's Creatures Fabric Feathers](oktavia-s-creatures-fabric-feathers)|![Oktavia's Creatures Fabric Feathers](https://trello.com/1/cards/64907e3e010c4bff1f451222/attachments/64907e46f0bc7ccae3ea7a78/download/image.png)|
+|[Mugiwara Tail Feathers](mugiwara-tail-feathers)|![Mugiwara Tail Feathers](https://trello.com/1/cards/64908b81733a50cfcb94d336/attachments/64908b86301f8f59fa16604d/download/image.png)|[Mugiwara Feather Patterns](mugiwara-feather-patterns)|![Mugiwara Feather Patterns](https://trello.com/1/cards/64908382b08446a35ab34b13/attachments/6490838af8679ee8679d9046/download/image.png)|
 
 <details>
   <summary>Wings/Feathers (27 cards)</summary>
@@ -3395,12 +3371,10 @@ Free 2: [https://ko-fi.com/s/da48cb08e8](https://ko-fi.com/s/da48cb08e8 "smartCa
 
 ### Preview Grid - First Items
 
-|Item|Preview|
-|---|---|
-|[(FREE) FoxFire Fantasy Canine Tail](free-foxfire-fantasy-canine-tail)|![(FREE) FoxFire Fantasy Canine Tail](https://trello.com/1/cards/64906bee50f52d844629de7b/attachments/64906bf0f5fa2fd52c4f537f/download/image.png)|
-|[Fur Smoothie 4 Tail Pattern Pack](fur-smoothie-4-tail-pattern-pack)|![Fur Smoothie 4 Tail Pattern Pack](https://trello.com/1/cards/64907cab0e6510ae020f3761/attachments/64907cb32281d2eda8e5d087/download/image.png)|
-|[Oktavia's Creatures Hyena Tail](oktavia-s-creatures-hyena-tail)|![Oktavia's Creatures Hyena Tail](https://trello.com/1/cards/64907e6943da4790b84f03f0/attachments/64907e7fa5189d50276b254b/download/image.png)|
-|[Neffertity Super Motion Canine Tail](neffertity-super-motion-canine-tail)|![Neffertity Super Motion Canine Tail](https://trello.com/1/cards/649080372438ca14ae6235b3/attachments/6490803f81f2f0986be83216/download/image.png)|
+|Item|Preview|Item|Preview|
+|---|---|---|---|
+|[(FREE) FoxFire Fantasy Canine Tail](free-foxfire-fantasy-canine-tail)|![(FREE) FoxFire Fantasy Canine Tail](https://trello.com/1/cards/64906bee50f52d844629de7b/attachments/64906bf0f5fa2fd52c4f537f/download/image.png)|[Fur Smoothie 4 Tail Pattern Pack](fur-smoothie-4-tail-pattern-pack)|![Fur Smoothie 4 Tail Pattern Pack](https://trello.com/1/cards/64907cab0e6510ae020f3761/attachments/64907cb32281d2eda8e5d087/download/image.png)|
+|[Oktavia's Creatures Hyena Tail](oktavia-s-creatures-hyena-tail)|![Oktavia's Creatures Hyena Tail](https://trello.com/1/cards/64907e6943da4790b84f03f0/attachments/64907e7fa5189d50276b254b/download/image.png)|[Neffertity Super Motion Canine Tail](neffertity-super-motion-canine-tail)|![Neffertity Super Motion Canine Tail](https://trello.com/1/cards/649080372438ca14ae6235b3/attachments/6490803f81f2f0986be83216/download/image.png)|
 
 <details>
   <summary>Canine/Hyena Tails (46 cards)</summary>
@@ -3865,12 +3839,10 @@ Video: [https://twitter.com/PinkuShikaArt/status/1363674475166900230?s=20](https
 
 ### Preview Grid - First Items
 
-|Item|Preview|
-|---|---|
-|[(FREE) Freakhound Curly Tail](free-freakhound-curly-tail)|![(FREE) Freakhound Curly Tail](https://trello.com/1/cards/649079277a34a7493de90c88/attachments/649079323fbf7140b8ca1b32/download/image.png)|
-|[Pseudocanid Curly Tail V1](pseudocanid-curly-tail-v1)|![Pseudocanid Curly Tail V1](https://trello.com/1/cards/649076fdd648d28ca0d874c6/attachments/649077053ba3307a773b7ebf/download/image.png)|
-|[Pseudocanid Curly Tail V2](pseudocanid-curly-tail-v2)|![Pseudocanid Curly Tail V2](https://trello.com/1/cards/6490772d8833a4a6419a9d38/attachments/64907731189f3e41db559466/download/image.png)|
-|[YBL Suits Perky Tail](ybl-suits-perky-tail)|![YBL Suits Perky Tail](https://trello.com/1/cards/64a88150fdab96fccbe85150/attachments/64a88192c152b0ea9e3e01b9/download/image.png)|
+|Item|Preview|Item|Preview|
+|---|---|---|---|
+|[(FREE) Freakhound Curly Tail](free-freakhound-curly-tail)|![(FREE) Freakhound Curly Tail](https://trello.com/1/cards/649079277a34a7493de90c88/attachments/649079323fbf7140b8ca1b32/download/image.png)|[Pseudocanid Curly Tail V1](pseudocanid-curly-tail-v1)|![Pseudocanid Curly Tail V1](https://trello.com/1/cards/649076fdd648d28ca0d874c6/attachments/649077053ba3307a773b7ebf/download/image.png)|
+|[Pseudocanid Curly Tail V2](pseudocanid-curly-tail-v2)|![Pseudocanid Curly Tail V2](https://trello.com/1/cards/6490772d8833a4a6419a9d38/attachments/64907731189f3e41db559466/download/image.png)|[YBL Suits Perky Tail](ybl-suits-perky-tail)|![YBL Suits Perky Tail](https://trello.com/1/cards/64a88150fdab96fccbe85150/attachments/64a88192c152b0ea9e3e01b9/download/image.png)|
 
 <details>
   <summary>Curly Tails (17 cards)</summary>
@@ -4060,12 +4032,10 @@ YaBoiLuke Suits
 
 ### Preview Grid - First Items
 
-|Item|Preview|
-|---|---|
-|[(FREE) FoxFire Fantasy Snow Leopard Tail](free-foxfire-fantasy-snow-leopard-tail)|![(FREE) FoxFire Fantasy Snow Leopard Tail](https://trello.com/1/cards/64906bb792232ff1bec18949/attachments/64906bc6c605cdc2d2e62ca4/download/image.png)|
-|[Neffertity Super Motion Feline Tail](neffertity-super-motion-feline-tail)|![Neffertity Super Motion Feline Tail](https://trello.com/1/cards/6490806d2699e47217f24710/attachments/6490807b4baf7e46043f453a/download/image.png)|
-|[Mugiwara Simple Cat Tail](mugiwara-simple-cat-tail)|![Mugiwara Simple Cat Tail](https://trello.com/1/cards/64908debd6d86123c6eabc0f/attachments/64908e01360e5fe8c93a43a1/download/image.png)|
-|[Mugiwara Lion Tail](mugiwara-lion-tail)|![Mugiwara Lion Tail](https://trello.com/1/cards/64908e190a9967b056b8ec52/attachments/6490921336f38b02024b3109/download/image.png)|
+|Item|Preview|Item|Preview|
+|---|---|---|---|
+|[(FREE) FoxFire Fantasy Snow Leopard Tail](free-foxfire-fantasy-snow-leopard-tail)|![(FREE) FoxFire Fantasy Snow Leopard Tail](https://trello.com/1/cards/64906bb792232ff1bec18949/attachments/64906bc6c605cdc2d2e62ca4/download/image.png)|[Neffertity Super Motion Feline Tail](neffertity-super-motion-feline-tail)|![Neffertity Super Motion Feline Tail](https://trello.com/1/cards/6490806d2699e47217f24710/attachments/6490807b4baf7e46043f453a/download/image.png)|
+|[Mugiwara Simple Cat Tail](mugiwara-simple-cat-tail)|![Mugiwara Simple Cat Tail](https://trello.com/1/cards/64908debd6d86123c6eabc0f/attachments/64908e01360e5fe8c93a43a1/download/image.png)|[Mugiwara Lion Tail](mugiwara-lion-tail)|![Mugiwara Lion Tail](https://trello.com/1/cards/64908e190a9967b056b8ec52/attachments/6490921336f38b02024b3109/download/image.png)|
 
 <details>
   <summary>Feline Tails (20 cards)</summary>
@@ -4282,12 +4252,10 @@ YaBoiLuke Suits
 
 ### Preview Grid - First Items
 
-|Item|Preview|
-|---|---|
-|[Mugiwara Bunny/Deer/Nub Tail](mugiwara-bunny-deer-nub-tail)|![Mugiwara Bunny/Deer/Nub Tail](https://trello.com/1/cards/64908bee79da31f7371fd47d/attachments/64908bf44d6b19e17cc44ef0/download/image.png)|
-|[Mugiwara Large Nub Tail](mugiwara-large-nub-tail)|![Mugiwara Large Nub Tail](https://trello.com/1/cards/66096947881fc94c2aa81241/attachments/66096963d021012cd0b574c4/download/il_1140xn.5561935133_jysh.jpg)|
-|[Skunky Designs Nub Tail](skunky-designs-nub-tail)|![Skunky Designs Nub Tail](https://trello.com/1/cards/6490f09ac59668cffe899495/attachments/6490f0aaf1be82b29bf43b35/download/image.png)|
-|[KoiFishyCostumes Dino Tail](koifishycostumes-dino-tail)|![KoiFishyCostumes Dino Tail](https://trello.com/1/cards/6490f2ae88d73edd06b047e5/attachments/6490f2b38d805bcd0732174b/download/image.png)|
+|Item|Preview|Item|Preview|
+|---|---|---|---|
+|[Mugiwara Bunny/Deer/Nub Tail](mugiwara-bunny-deer-nub-tail)|![Mugiwara Bunny/Deer/Nub Tail](https://trello.com/1/cards/64908bee79da31f7371fd47d/attachments/64908bf44d6b19e17cc44ef0/download/image.png)|[Mugiwara Large Nub Tail](mugiwara-large-nub-tail)|![Mugiwara Large Nub Tail](https://trello.com/1/cards/66096947881fc94c2aa81241/attachments/66096963d021012cd0b574c4/download/il_1140xn.5561935133_jysh.jpg)|
+|[Skunky Designs Nub Tail](skunky-designs-nub-tail)|![Skunky Designs Nub Tail](https://trello.com/1/cards/6490f09ac59668cffe899495/attachments/6490f0aaf1be82b29bf43b35/download/image.png)|[KoiFishyCostumes Dino Tail](koifishycostumes-dino-tail)|![KoiFishyCostumes Dino Tail](https://trello.com/1/cards/6490f2ae88d73edd06b047e5/attachments/6490f2b38d805bcd0732174b/download/image.png)|
 
 <details>
   <summary>Nub Tails (28 cards)</summary>
@@ -4574,12 +4542,10 @@ All 5 tails: [https://www.etsy.com/ca/listing/1539024111/fursuit-tail-sewing-pat
 
 ### Preview Grid - First Items
 
-|Item|Preview|
-|---|---|
-|[(FREE) FoxFireFantasy Skunk Tail](free-foxfirefantasy-skunk-tail)|![(FREE) FoxFireFantasy Skunk Tail](https://trello.com/1/cards/67a690a012ed4fbe5a63f1e6/attachments/67a690aed1b9e9e871802b6c/download/image.png)|
-|[(FREE) FoxFireFantasy Red Panda/Racoon/Lemur Tail](free-foxfirefantasy-red-panda-racoon-lemur-tail)|![(FREE) FoxFireFantasy Red Panda/Racoon/Lemur Tail](https://trello.com/1/cards/64906c1f8dfc8cb0c93e9c7b/attachments/64906c3df8cd053610381dea/download/image.png)|
-|[Pseudocanid Upright Shark Tail](pseudocanid-upright-shark-tail)|![Pseudocanid Upright Shark Tail](https://trello.com/1/cards/649076802671033bc088706d/attachments/6490768623c382d683b41832/download/image.png)|
-|[Pseudocanid Floppy Shark Tail](pseudocanid-floppy-shark-tail)|![Pseudocanid Floppy Shark Tail](https://trello.com/1/cards/649076bc60d0c462f5abf342/attachments/649076c6d911e684ad9fac86/download/image.png)|
+|Item|Preview|Item|Preview|
+|---|---|---|---|
+|[(FREE) FoxFireFantasy Skunk Tail](free-foxfirefantasy-skunk-tail)|![(FREE) FoxFireFantasy Skunk Tail](https://trello.com/1/cards/67a690a012ed4fbe5a63f1e6/attachments/67a690aed1b9e9e871802b6c/download/image.png)|[(FREE) FoxFireFantasy Red Panda/Racoon/Lemur Tail](free-foxfirefantasy-red-panda-racoon-lemur-tail)|![(FREE) FoxFireFantasy Red Panda/Racoon/Lemur Tail](https://trello.com/1/cards/64906c1f8dfc8cb0c93e9c7b/attachments/64906c3df8cd053610381dea/download/image.png)|
+|[Pseudocanid Upright Shark Tail](pseudocanid-upright-shark-tail)|![Pseudocanid Upright Shark Tail](https://trello.com/1/cards/649076802671033bc088706d/attachments/6490768623c382d683b41832/download/image.png)|[Pseudocanid Floppy Shark Tail](pseudocanid-floppy-shark-tail)|![Pseudocanid Floppy Shark Tail](https://trello.com/1/cards/649076bc60d0c462f5abf342/attachments/649076c6d911e684ad9fac86/download/image.png)|
 
 <details>
   <summary>Other Species Tails (47 cards)</summary>
@@ -5111,12 +5077,10 @@ Lizard: [https://www.etsy.com/ca/listing/1854978420/pdf-lizard-tail-pattern](htt
 
 ### Preview Grid - First Items
 
-|Item|Preview|
-|---|---|
-|[Curlworks Pickable Canine + Feline Nose (FREE)](curlworks-pickable-canine-feline-nose-free)|![Curlworks Pickable Canine + Feline Nose (FREE)](https://trello.com/1/cards/6490fb116a3546ee22cf5300/attachments/6929d10f5c0d89be3808b802/download/image.png)|
-|[(FREE) DoubleTroubleFursuit Ferret Nose](free-doubletroublefursuit-ferret-nose)|![(FREE) DoubleTroubleFursuit Ferret Nose](https://trello.com/1/cards/6490f5946b939a71c233fe9e/attachments/6490f5a31db18ae5c2ba5ee9/download/image.png)|
-|[Mugiwara Canine Noses](mugiwara-canine-noses)|![Mugiwara Canine Noses](https://trello.com/1/cards/64908462633893ef01cb6720/attachments/6490846dd4aff27e862a449a/download/image.png)|
-|[TwilightKnights Canine Nose](twilightknights-canine-nose)|![TwilightKnights Canine Nose](https://trello.com/1/cards/6491046be0d326308324027b/attachments/64910484465987b0d8110b47/download/image.png)|
+|Item|Preview|Item|Preview|
+|---|---|---|---|
+|[Curlworks Pickable Canine + Feline Nose (FREE)](curlworks-pickable-canine-feline-nose-free)|![Curlworks Pickable Canine + Feline Nose (FREE)](https://trello.com/1/cards/6490fb116a3546ee22cf5300/attachments/6929d10f5c0d89be3808b802/download/image.png)|[(FREE) DoubleTroubleFursuit Ferret Nose](free-doubletroublefursuit-ferret-nose)|![(FREE) DoubleTroubleFursuit Ferret Nose](https://trello.com/1/cards/6490f5946b939a71c233fe9e/attachments/6490f5a31db18ae5c2ba5ee9/download/image.png)|
+|[Mugiwara Canine Noses](mugiwara-canine-noses)|![Mugiwara Canine Noses](https://trello.com/1/cards/64908462633893ef01cb6720/attachments/6490846dd4aff27e862a449a/download/image.png)|[TwilightKnights Canine Nose](twilightknights-canine-nose)|![TwilightKnights Canine Nose](https://trello.com/1/cards/6491046be0d326308324027b/attachments/64910484465987b0d8110b47/download/image.png)|
 
 <details>
   <summary>Noses (9 cards)</summary>
@@ -5220,12 +5184,10 @@ Lizard: [https://www.etsy.com/ca/listing/1854978420/pdf-lizard-tail-pattern](htt
 
 ### Preview Grid - First Items
 
-|Item|Preview|
-|---|---|
-|[Mugiwara 7 Tongue Patterns](mugiwara-7-tongue-patterns)|![Mugiwara 7 Tongue Patterns](https://trello.com/1/cards/64908497843e6f7253636bd9/attachments/6490849ff70b74347cd3489a/download/image.png)|
-|[KoiFishyCostumes](koifishycostumes)|![KoiFishyCostumes](https://trello.com/1/cards/6490f287328d2d953829cb5c/attachments/6490f2946233deed1ef1337b/download/image.png)|
-|[HowlingDragonStudios 3 tongue lengths](howlingdragonstudios-3-tongue-lengths)|![HowlingDragonStudios 3 tongue lengths](https://trello.com/1/cards/6490f3ed5b84a0bac3245596/attachments/6490f404067a61edd9755968/download/image.png)|
-|[werewolfprince666 Teeth and Tongues](werewolfprince666-teeth-and-tongues)|![werewolfprince666 Teeth and Tongues](https://trello.com/1/cards/6490f862c0afa471ea0b2299/attachments/6490f87075493fe9476c9d37/download/image.png)|
+|Item|Preview|Item|Preview|
+|---|---|---|---|
+|[Mugiwara 7 Tongue Patterns](mugiwara-7-tongue-patterns)|![Mugiwara 7 Tongue Patterns](https://trello.com/1/cards/64908497843e6f7253636bd9/attachments/6490849ff70b74347cd3489a/download/image.png)|[KoiFishyCostumes](koifishycostumes)|![KoiFishyCostumes](https://trello.com/1/cards/6490f287328d2d953829cb5c/attachments/6490f2946233deed1ef1337b/download/image.png)|
+|[HowlingDragonStudios 3 tongue lengths](howlingdragonstudios-3-tongue-lengths)|![HowlingDragonStudios 3 tongue lengths](https://trello.com/1/cards/6490f3ed5b84a0bac3245596/attachments/6490f404067a61edd9755968/download/image.png)|[werewolfprince666 Teeth and Tongues](werewolfprince666-teeth-and-tongues)|![werewolfprince666 Teeth and Tongues](https://trello.com/1/cards/6490f862c0afa471ea0b2299/attachments/6490f87075493fe9476c9d37/download/image.png)|
 
 <details>
   <summary>Tongues (14 cards)</summary>
@@ -5396,12 +5358,10 @@ Snake: [https://www.etsy.com/ca/listing/1636965878/digital-fursuit-snake-tongue-
 
 ### Preview Grid - First Items
 
-|Item|Preview|
-|---|---|
-|[https://www.youtube.com/watch?v=8cX4VUjPaqQ](https-www-youtube-com-watch-v-8cx4vujpaqq)|![https://www.youtube.com/watch?v=8cX4VUjPaqQ](https://trello.com/1/cards/649086210e360a4a10e967a2/attachments/64aade911aa2f728350c8e45/download/image.png)|
-|[Ruben's Magic Lab Teeth w/Gums](ruben-s-magic-lab-teeth-w-gums)|![Ruben's Magic Lab Teeth w/Gums](https://trello.com/1/cards/6490f4fa56c18b74a26ecec0/attachments/6490f5127f44bf95ece9c8e1/download/image.png)|
-|[ATD Fursuits Mouth Ridges Tutorial](atd-fursuits-mouth-ridges-tutorial)|![ATD Fursuits Mouth Ridges Tutorial](https://trello.com/1/cards/687d085cba3eb5b77fc69e04/attachments/687d088512ff97255d4e7068/download/image.png)|
-|[Kodasuits 3 Jawset Patterns (Canine, Herbivore, Carnivore/Raptor)](kodasuits-3-jawset-patterns-canine-herbivore-carnivore-rapto)|![Kodasuits 3 Jawset Patterns (Canine, Herbivore, Carnivore/Raptor)](https://trello.com/1/cards/69021de408b172b8f27069ba/attachments/69021e0a5f14d18283940229/download/image.png)|
+|Item|Preview|Item|Preview|
+|---|---|---|---|
+|[https://www.youtube.com/watch?v=8cX4VUjPaqQ](https-www-youtube-com-watch-v-8cx4vujpaqq)|![https://www.youtube.com/watch?v=8cX4VUjPaqQ](https://trello.com/1/cards/649086210e360a4a10e967a2/attachments/64aade911aa2f728350c8e45/download/image.png)|[Ruben's Magic Lab Teeth w/Gums](ruben-s-magic-lab-teeth-w-gums)|![Ruben's Magic Lab Teeth w/Gums](https://trello.com/1/cards/6490f4fa56c18b74a26ecec0/attachments/6490f5127f44bf95ece9c8e1/download/image.png)|
+|[ATD Fursuits Mouth Ridges Tutorial](atd-fursuits-mouth-ridges-tutorial)|![ATD Fursuits Mouth Ridges Tutorial](https://trello.com/1/cards/687d085cba3eb5b77fc69e04/attachments/687d088512ff97255d4e7068/download/image.png)|[Kodasuits 3 Jawset Patterns (Canine, Herbivore, Carnivore/Raptor)](kodasuits-3-jawset-patterns-canine-herbivore-carnivore-rapto)|![Kodasuits 3 Jawset Patterns (Canine, Herbivore, Carnivore/Raptor)](https://trello.com/1/cards/69021de408b172b8f27069ba/attachments/69021e0a5f14d18283940229/download/image.png)|
 
 <details>
   <summary>Teeth and Gums (6 cards)</summary>
@@ -5482,12 +5442,10 @@ Carnivore/Raptor: [https://www.etsy.com/ca/listing/4318129646/plush-fursuit-jaws
 
 ### Preview Grid - First Items
 
-|Item|Preview|
-|---|---|
-|[Mugiwara Horns](mugiwara-horns)|![Mugiwara Horns](https://trello.com/1/cards/64908a29f97b452ca778927c/attachments/64908a3b933058a150389fbd/download/image.png)|
-|[KivovisSuits Plush Curled Horns](kivovissuits-plush-curled-horns)|![KivovisSuits Plush Curled Horns](https://trello.com/1/cards/6490fd01307b897b2451ceae/attachments/6490fd128f239955e8627b20/download/image.png)|
-|[RockyRainbowStudios Curved Plush Horn](rockyrainbowstudios-curved-plush-horn)|![RockyRainbowStudios Curved Plush Horn](https://trello.com/1/cards/6491077e288a54a70d26151e/attachments/64910789dfa786f9738f007a/download/image.png)|
-|[FishPishStudios Plush Unicorn Horn](fishpishstudios-plush-unicorn-horn)|![FishPishStudios Plush Unicorn Horn](https://trello.com/1/cards/6525dba07118c4ecc9d43f5e/attachments/6525dbafd681367cd5b30c5f/download/il_794xN.3605431738_tgm4.webp)|
+|Item|Preview|Item|Preview|
+|---|---|---|---|
+|[Mugiwara Horns](mugiwara-horns)|![Mugiwara Horns](https://trello.com/1/cards/64908a29f97b452ca778927c/attachments/64908a3b933058a150389fbd/download/image.png)|[KivovisSuits Plush Curled Horns](kivovissuits-plush-curled-horns)|![KivovisSuits Plush Curled Horns](https://trello.com/1/cards/6490fd01307b897b2451ceae/attachments/6490fd128f239955e8627b20/download/image.png)|
+|[RockyRainbowStudios Curved Plush Horn](rockyrainbowstudios-curved-plush-horn)|![RockyRainbowStudios Curved Plush Horn](https://trello.com/1/cards/6491077e288a54a70d26151e/attachments/64910789dfa786f9738f007a/download/image.png)|[FishPishStudios Plush Unicorn Horn](fishpishstudios-plush-unicorn-horn)|![FishPishStudios Plush Unicorn Horn](https://trello.com/1/cards/6525dba07118c4ecc9d43f5e/attachments/6525dbafd681367cd5b30c5f/download/il_794xN.3605431738_tgm4.webp)|
 
 <details>
   <summary>Horns (15 cards)</summary>
@@ -5881,12 +5839,10 @@ All 5:[https://www.etsy.com/ca/listing/1794760298/5-pdf-horns-pattern-set](https
 
 ### Preview Grid - First Items
 
-|Item|Preview|
-|---|---|
-|[CactusDogStudio Floppy Ear Pattern](cactusdogstudio-floppy-ear-pattern)|![CactusDogStudio Floppy Ear Pattern](https://trello.com/1/cards/66b7ab4785ca20f1ad1818a4/attachments/66b7ab5972a0d35ed53ed30d/download/il_794xN.6004780156_6qhq.webp)|
-|[TwilightKnights 7 Ear pack](twilightknights-7-ear-pack)|![TwilightKnights 7 Ear pack](https://trello.com/1/cards/64aadd4470ca7bde442e4aca/attachments/64aadd474263504c119193ea/download/image.png)|
-|[TwilightKnights 4 Ear pack](twilightknights-4-ear-pack)|![TwilightKnights 4 Ear pack](https://trello.com/1/cards/659a1451905bae17b87beb23/attachments/659a1463b5cd9268fe8199e4/download/il_794xN.5505538067_2gsg.jpg)|
-|[YBL 5 Ear Patterns](ybl-5-ear-patterns)|![YBL 5 Ear Patterns](https://trello.com/1/cards/64aae135cb522711604c8256/attachments/64aae1547f705aca87a2dc84/download/image.png)|
+|Item|Preview|Item|Preview|
+|---|---|---|---|
+|[CactusDogStudio Floppy Ear Pattern](cactusdogstudio-floppy-ear-pattern)|![CactusDogStudio Floppy Ear Pattern](https://trello.com/1/cards/66b7ab4785ca20f1ad1818a4/attachments/66b7ab5972a0d35ed53ed30d/download/il_794xN.6004780156_6qhq.webp)|[TwilightKnights 7 Ear pack](twilightknights-7-ear-pack)|![TwilightKnights 7 Ear pack](https://trello.com/1/cards/64aadd4470ca7bde442e4aca/attachments/64aadd474263504c119193ea/download/image.png)|
+|[TwilightKnights 4 Ear pack](twilightknights-4-ear-pack)|![TwilightKnights 4 Ear pack](https://trello.com/1/cards/659a1451905bae17b87beb23/attachments/659a1463b5cd9268fe8199e4/download/il_794xN.5505538067_2gsg.jpg)|[YBL 5 Ear Patterns](ybl-5-ear-patterns)|![YBL 5 Ear Patterns](https://trello.com/1/cards/64aae135cb522711604c8256/attachments/64aae1547f705aca87a2dc84/download/image.png)|
 
 <details>
   <summary>Ears (23 cards)</summary>
@@ -6258,12 +6214,10 @@ Jax/Taller Rabbit Ears: [https://www.etsy.com/ca/listing/1891732674/jax-the-amaz
 
 ### Preview Grid - First Items
 
-|Item|Preview|
-|---|---|
-|[Sheenitude Neck Pattern](sheenitude-neck-pattern)|![Sheenitude Neck Pattern](https://trello.com/1/cards/64aadfa808bcfa7c4f620b69/attachments/64aadfabcd3d3878906034bc/download/image.png)|
-|[YBL Neck Pattern](ybl-neck-pattern)|![YBL Neck Pattern](https://trello.com/1/cards/64aae16a389b5f7fe7945fa3/attachments/64aae18986834520620181a8/download/image.png)|
-|[Jaycostumes Fursuit Neck](jaycostumes-fursuit-neck)|![Jaycostumes Fursuit Neck](https://trello.com/1/cards/64aae093ca94f8ccb180787a/attachments/64aae093ca94f8ccb180795e/download/image.png)|
-|[Jaycostumes Neck & Ear Patterns](jaycostumes-neck-and-ear-patterns)|![Jaycostumes Neck & Ear Patterns](https://trello.com/1/cards/64aae06aeb9868f1930871f9/attachments/64aae0724c297f7b0caebd49/download/image.png)|
+|Item|Preview|Item|Preview|
+|---|---|---|---|
+|[Sheenitude Neck Pattern](sheenitude-neck-pattern)|![Sheenitude Neck Pattern](https://trello.com/1/cards/64aadfa808bcfa7c4f620b69/attachments/64aadfabcd3d3878906034bc/download/image.png)|[YBL Neck Pattern](ybl-neck-pattern)|![YBL Neck Pattern](https://trello.com/1/cards/64aae16a389b5f7fe7945fa3/attachments/64aae18986834520620181a8/download/image.png)|
+|[Jaycostumes Fursuit Neck](jaycostumes-fursuit-neck)|![Jaycostumes Fursuit Neck](https://trello.com/1/cards/64aae093ca94f8ccb180787a/attachments/64aae093ca94f8ccb180795e/download/image.png)|[Jaycostumes Neck & Ear Patterns](jaycostumes-neck-and-ear-patterns)|![Jaycostumes Neck & Ear Patterns](https://trello.com/1/cards/64aae06aeb9868f1930871f9/attachments/64aae0724c297f7b0caebd49/download/image.png)|
 
 <details>
   <summary>Necks & Dino Mask Hoods (17 cards)</summary>
@@ -6452,12 +6406,10 @@ chin pattern
 
 ### Preview Grid - First Items
 
-|Item|Preview|
-|---|---|
-|[(FREE) Kloofsuits Basic Balaclava](free-kloofsuits-basic-balaclava)|![(FREE) Kloofsuits Basic Balaclava](https://trello.com/1/cards/66c0d39a08361405caca478d/attachments/66c0d3d1fd3840dd3c8b51dc/download/balaclavaletter.webp)|
-|[TwilightKnights Head Lining Tutorial](twilightknights-head-lining-tutorial)|![TwilightKnights Head Lining Tutorial](https://trello.com/1/cards/64aadf069b3891195d89a3f8/attachments/64aadf26c0ad85941e2fd64f/download/image.png)|
-|[SoftpawsStudios Head & Neck Liner](softpawsstudios-head-and-neck-liner)|![SoftpawsStudios Head & Neck Liner](https://trello.com/1/cards/64aae1ea39224ac27b6332af/attachments/64aae1f7edb9b6a358e9cee2/download/image.png)|
-|[CharredFursuits Head Lining](charredfursuits-head-lining)|![CharredFursuits Head Lining](https://trello.com/1/cards/64aae254b17f23ef87684881/attachments/64aae27e9e9466b01e88ee4d/download/image.png)|
+|Item|Preview|Item|Preview|
+|---|---|---|---|
+|[(FREE) Kloofsuits Basic Balaclava](free-kloofsuits-basic-balaclava)|![(FREE) Kloofsuits Basic Balaclava](https://trello.com/1/cards/66c0d39a08361405caca478d/attachments/66c0d3d1fd3840dd3c8b51dc/download/balaclavaletter.webp)|[TwilightKnights Head Lining Tutorial](twilightknights-head-lining-tutorial)|![TwilightKnights Head Lining Tutorial](https://trello.com/1/cards/64aadf069b3891195d89a3f8/attachments/64aadf26c0ad85941e2fd64f/download/image.png)|
+|[SoftpawsStudios Head & Neck Liner](softpawsstudios-head-and-neck-liner)|![SoftpawsStudios Head & Neck Liner](https://trello.com/1/cards/64aae1ea39224ac27b6332af/attachments/64aae1f7edb9b6a358e9cee2/download/image.png)|[CharredFursuits Head Lining](charredfursuits-head-lining)|![CharredFursuits Head Lining](https://trello.com/1/cards/64aae254b17f23ef87684881/attachments/64aae27e9e9466b01e88ee4d/download/image.png)|
 
 <details>
   <summary>Head Liners (21 cards)</summary>
@@ -6687,12 +6639,10 @@ Made to work with this:
 
 ### Preview Grid - First Items
 
-|Item|Preview|
-|---|---|
-|[(FREE) Maim Back of Head Shell](free-maim-back-of-head-shell)|![(FREE) Maim Back of Head Shell](https://trello.com/1/cards/66b6396bf44192bf79ef4327/attachments/66b6399213b31f427adb0e17/download/image.png)|
-|[(Free) Freakhound Foam Sphere](free-freakhound-foam-sphere)|![(Free) Freakhound Foam Sphere](https://trello.com/1/cards/64ab037c5af040fa8d26f6ba/attachments/64ab03826e1589f804b8ba8d/download/image.png)|
-|[Corgileg Crafts Bucket Base](corgileg-crafts-bucket-base)|![Corgileg Crafts Bucket Base](https://trello.com/1/cards/64a8879bba26a9f1462e4c15/attachments/64a887be7363395f882ccba9/download/image.png)|
-|[YBL Bucket Head](ybl-bucket-head)|![YBL Bucket Head](https://trello.com/1/cards/64aae0f426b9caa4a410d4fe/attachments/64aae0fafb1b23970d83676e/download/image.png)|
+|Item|Preview|Item|Preview|
+|---|---|---|---|
+|[(FREE) Maim Back of Head Shell](free-maim-back-of-head-shell)|![(FREE) Maim Back of Head Shell](https://trello.com/1/cards/66b6396bf44192bf79ef4327/attachments/66b6399213b31f427adb0e17/download/image.png)|[(Free) Freakhound Foam Sphere](free-freakhound-foam-sphere)|![(Free) Freakhound Foam Sphere](https://trello.com/1/cards/64ab037c5af040fa8d26f6ba/attachments/64ab03826e1589f804b8ba8d/download/image.png)|
+|[Corgileg Crafts Bucket Base](corgileg-crafts-bucket-base)|![Corgileg Crafts Bucket Base](https://trello.com/1/cards/64a8879bba26a9f1462e4c15/attachments/64a887be7363395f882ccba9/download/image.png)|[YBL Bucket Head](ybl-bucket-head)|![YBL Bucket Head](https://trello.com/1/cards/64aae0f426b9caa4a410d4fe/attachments/64aae0fafb1b23970d83676e/download/image.png)|
 
 <details>
   <summary>Bucket Patterns (10 cards)</summary>
@@ -6809,12 +6759,10 @@ One review recommends 1/2 inch foam instead
 
 ### Preview Grid - First Items
 
-|Item|Preview|
-|---|---|
-|[(FREE) In-A-Jiffy!Creations Puppy Head Pattern V1 + V2](free-in-a-jiffy-creations-puppy-head-pattern-v1-v2)|![(FREE) In-A-Jiffy!Creations Puppy Head Pattern V1 + V2](https://trello.com/1/cards/65e7e50352ff687176705c8f/attachments/65e7e5d85667068a8d2ab240/download/image.png)|
-|[(FREE) The_Peppercat Raptor Head](free-the-peppercat-raptor-head)|![(FREE) The_Peppercat Raptor Head](https://trello.com/1/cards/6525cb4a562555a04bb684be/attachments/6525cb7d3934434dcff25729/download/EaU0RWrXsAIIe9b.jpg)|
-|[WinniesWhimsyWonders Mask Base](winnieswhimsywonders-mask-base)|![WinniesWhimsyWonders Mask Base](https://trello.com/1/cards/6aa865c57246adb030179dbf/attachments/6aa865ce8ed225cd21089bd3/download/image.png)|
-|[Matrices Free-Form Patterning a Head Base Tutorial](matrices-free-form-patterning-a-head-base-tutorial)|![Matrices Free-Form Patterning a Head Base Tutorial](https://trello.com/1/cards/64a8855a60bca320b52d0731/attachments/64a88566b311c2ae6a78c5da/download/image.png)|
+|Item|Preview|Item|Preview|
+|---|---|---|---|
+|[(FREE) In-A-Jiffy!Creations Puppy Head Pattern V1 + V2](free-in-a-jiffy-creations-puppy-head-pattern-v1-v2)|![(FREE) In-A-Jiffy!Creations Puppy Head Pattern V1 + V2](https://trello.com/1/cards/65e7e50352ff687176705c8f/attachments/65e7e5d85667068a8d2ab240/download/image.png)|[(FREE) The_Peppercat Raptor Head](free-the-peppercat-raptor-head)|![(FREE) The_Peppercat Raptor Head](https://trello.com/1/cards/6525cb4a562555a04bb684be/attachments/6525cb7d3934434dcff25729/download/EaU0RWrXsAIIe9b.jpg)|
+|[WinniesWhimsyWonders Mask Base](winnieswhimsywonders-mask-base)|![WinniesWhimsyWonders Mask Base](https://trello.com/1/cards/6aa865c57246adb030179dbf/attachments/6aa865ce8ed225cd21089bd3/download/image.png)|[Matrices Free-Form Patterning a Head Base Tutorial](matrices-free-form-patterning-a-head-base-tutorial)|![Matrices Free-Form Patterning a Head Base Tutorial](https://trello.com/1/cards/64a8855a60bca320b52d0731/attachments/64a88566b311c2ae6a78c5da/download/image.png)|
 
 <details>
   <summary>Head Patterns (31 cards)</summary>
@@ -7671,12 +7619,10 @@ Toony Cat: [https://www.etsy.com/ca/listing/4405149119/cat-toony-head-base-pdf-p
 
 ### Preview Grid - First Items
 
-|Item|Preview|
-|---|---|
-|[MoonDeityCrafts Hair Poof](moondeitycrafts-hair-poof)|![MoonDeityCrafts Hair Poof](https://trello.com/1/cards/6989daf6541b7322708bc126/attachments/6989db1ffde048017b2a5296/download/il_794xN.5482864090_il7f.webp)|
-|[SplitSharkStudios Mohawk Pattern](splitsharkstudios-mohawk-pattern)|![SplitSharkStudios Mohawk Pattern](https://trello.com/1/cards/6989e7fc636799791073da67/attachments/6989e81b4d025e918c1da87c/download/image.png)|
-|[MugiqwaraCosplay Mane Pattern](mugiqwaracosplay-mane-pattern)|![MugiqwaraCosplay Mane Pattern](https://trello.com/1/cards/6904d412934c3fc05ce7572a/attachments/6904d4500b87135a6a90a646/download/image.png)|
-|[werewolfprince666 Hair Tutorial](werewolfprince666-hair-tutorial)|![werewolfprince666 Hair Tutorial](https://trello.com/1/cards/6738fb23b88aa314cb38b9b2/attachments/6738fb63b445a5f61ddaae0a/download/image.png)|
+|Item|Preview|Item|Preview|
+|---|---|---|---|
+|[MoonDeityCrafts Hair Poof](moondeitycrafts-hair-poof)|![MoonDeityCrafts Hair Poof](https://trello.com/1/cards/6989daf6541b7322708bc126/attachments/6989db1ffde048017b2a5296/download/il_794xN.5482864090_il7f.webp)|[SplitSharkStudios Mohawk Pattern](splitsharkstudios-mohawk-pattern)|![SplitSharkStudios Mohawk Pattern](https://trello.com/1/cards/6989e7fc636799791073da67/attachments/6989e81b4d025e918c1da87c/download/image.png)|
+|[MugiqwaraCosplay Mane Pattern](mugiqwaracosplay-mane-pattern)|![MugiqwaraCosplay Mane Pattern](https://trello.com/1/cards/6904d412934c3fc05ce7572a/attachments/6904d4500b87135a6a90a646/download/image.png)|[werewolfprince666 Hair Tutorial](werewolfprince666-hair-tutorial)|![werewolfprince666 Hair Tutorial](https://trello.com/1/cards/6738fb23b88aa314cb38b9b2/attachments/6738fb63b445a5f61ddaae0a/download/image.png)|
 
 <details>
   <summary>Fursuit Hair (8 cards)</summary>
@@ -7767,12 +7713,10 @@ Advanced Pattern
 
 ### Preview Grid - First Items
 
-|Item|Preview|
-|---|---|
-|[Skunky Designs Embroidery File for Claws](skunky-designs-embroidery-file-for-claws)|![Skunky Designs Embroidery File for Claws](https://trello.com/1/cards/65dd0e07174fe0e6bb8229fe/attachments/65dd0e1c954b1d420c2d74e1/download/il_794xN.4165115917_6dcp.jpg)|
-|[FrostyFurs ITH 6 Claw Files](frostyfurs-ith-6-claw-files)|![FrostyFurs ITH 6 Claw Files](https://trello.com/1/cards/65dccfd5a7f7b5b7803c9b9a/attachments/65dccfd9f3fa4d4788bcea6e/download/il_794xN.5726049712_2zto.webp)|
-|[FrostyFurs 6 Tongue Files](frostyfurs-6-tongue-files)|![FrostyFurs 6 Tongue Files](https://trello.com/1/cards/65dd122c2add4bccfab22f6c/attachments/65dd122d2add4bccfab23114/download/il_794xN.5835664735_p04x.webp)|
-|[FrostiHadaSundae Hand Paw Files](frostihadasundae-hand-paw-files)|![FrostiHadaSundae Hand Paw Files](https://trello.com/1/cards/65dd12e0d6fd808aa150b195/attachments/65dd12e8ea14dd4ee352f667/download/il_794xN.5753267793_1klv.jpg)|
+|Item|Preview|Item|Preview|
+|---|---|---|---|
+|[Skunky Designs Embroidery File for Claws](skunky-designs-embroidery-file-for-claws)|![Skunky Designs Embroidery File for Claws](https://trello.com/1/cards/65dd0e07174fe0e6bb8229fe/attachments/65dd0e1c954b1d420c2d74e1/download/il_794xN.4165115917_6dcp.jpg)|[FrostyFurs ITH 6 Claw Files](frostyfurs-ith-6-claw-files)|![FrostyFurs ITH 6 Claw Files](https://trello.com/1/cards/65dccfd5a7f7b5b7803c9b9a/attachments/65dccfd9f3fa4d4788bcea6e/download/il_794xN.5726049712_2zto.webp)|
+|[FrostyFurs 6 Tongue Files](frostyfurs-6-tongue-files)|![FrostyFurs 6 Tongue Files](https://trello.com/1/cards/65dd122c2add4bccfab22f6c/attachments/65dd122d2add4bccfab23114/download/il_794xN.5835664735_p04x.webp)|[FrostiHadaSundae Hand Paw Files](frostihadasundae-hand-paw-files)|![FrostiHadaSundae Hand Paw Files](https://trello.com/1/cards/65dd12e0d6fd808aa150b195/attachments/65dd12e8ea14dd4ee352f667/download/il_794xN.5753267793_1klv.jpg)|
 
 <details>
   <summary>Embroidery Files (5 cards)</summary>
@@ -7834,12 +7778,10 @@ Advanced Pattern
 
 ### Preview Grid - First Items
 
-|Item|Preview|
-|---|---|
-|[Sonstafurs Claw and Cuticle Pattern](sonstafurs-claw-and-cuticle-pattern)|![Sonstafurs Claw and Cuticle Pattern](https://trello.com/1/cards/65cf894e373e8266ae1de07f/attachments/69021d8e77450cb176f8920e/download/image.png)|
-|[ArcaneSorcery Finger Escapes](arcanesorcery-finger-escapes)|![ArcaneSorcery Finger Escapes](https://trello.com/1/cards/649101f15baa5161ea75cbfa/attachments/649101fb9c7354a2f0e7fde3/download/image.png)|
-|[Sonstafurs Finger Escapes for Hooves and Paws](sonstafurs-finger-escapes-for-hooves-and-paws)|![Sonstafurs Finger Escapes for Hooves and Paws](https://trello.com/1/cards/69021a38635fffa30e4741f7/attachments/69021a722ca7bcd8a96dfbc8/download/image.png)|
-|[Nova Lynx Creations Hand Paw Spotted Bean Tutorial](nova-lynx-creations-hand-paw-spotted-bean-tutorial)|![Nova Lynx Creations Hand Paw Spotted Bean Tutorial](https://trello.com/1/cards/6a844476f3c6e30a50ee50c4/attachments/6a84449eca52099d72b1e8c5/download/image.png)|
+|Item|Preview|Item|Preview|
+|---|---|---|---|
+|[Sonstafurs Claw and Cuticle Pattern](sonstafurs-claw-and-cuticle-pattern)|![Sonstafurs Claw and Cuticle Pattern](https://trello.com/1/cards/65cf894e373e8266ae1de07f/attachments/69021d8e77450cb176f8920e/download/image.png)|[ArcaneSorcery Finger Escapes](arcanesorcery-finger-escapes)|![ArcaneSorcery Finger Escapes](https://trello.com/1/cards/649101f15baa5161ea75cbfa/attachments/649101fb9c7354a2f0e7fde3/download/image.png)|
+|[Sonstafurs Finger Escapes for Hooves and Paws](sonstafurs-finger-escapes-for-hooves-and-paws)|![Sonstafurs Finger Escapes for Hooves and Paws](https://trello.com/1/cards/69021a38635fffa30e4741f7/attachments/69021a722ca7bcd8a96dfbc8/download/image.png)|[Nova Lynx Creations Hand Paw Spotted Bean Tutorial](nova-lynx-creations-hand-paw-spotted-bean-tutorial)|![Nova Lynx Creations Hand Paw Spotted Bean Tutorial](https://trello.com/1/cards/6a844476f3c6e30a50ee50c4/attachments/6a84449eca52099d72b1e8c5/download/image.png)|
 
 <details>
   <summary>Helpful Extras for Fursuit Parts (35 cards)</summary>
@@ -8216,12 +8158,10 @@ Basic: [https://www.etsy.com/ca/listing/4435286052/diy-basic-fursuit-footpaw-san
 
 ### Preview Grid - First Items
 
-|Item|Preview|
-|---|---|
-|[Matrices Alternative to DTD & Bodysuit Tutorial](matrices-alternative-to-dtd-and-bodysuit-tutorial)|![Matrices Alternative to DTD & Bodysuit Tutorial](https://trello.com/1/cards/6544ff84e1c1e005a4443e61/attachments/6544ffc5b1d297288552d210/download/f986cc9771a2c68958e76e4b9ead7021616aabff.jpg)|
-|[Custom Dress Form Male and Female (Alternative to DTDs!)](custom-dress-form-male-and-female-alternative-to-dtds)|![Custom Dress Form Male and Female (Alternative to DTDs!)](https://trello.com/1/cards/6521c53aed0f0db68d3215c7/attachments/6521c5be0eabfbb8c5058438/download/dressformmain2_5.jpg)|
-|[Matrices Tidy Tipped Fur Seams Tutorial](matrices-tidy-tipped-fur-seams-tutorial)|![Matrices Tidy Tipped Fur Seams Tutorial](https://trello.com/1/cards/64a8860ed352b798303fbb1d/attachments/64a886359010eedfd9e60504/download/image.png)|
-|[Mantacrafts Fur Matching Service](mantacrafts-fur-matching-service)|![Mantacrafts Fur Matching Service](https://trello.com/1/cards/652ef6a73f46dbcb3a9741c8/attachments/652ef6d5f12008c9c29af245/download/9d5ab512-372f-4455-9c4e-9ae2f5908cef_teddy_orig.webp)|
+|Item|Preview|Item|Preview|
+|---|---|---|---|
+|[Matrices Alternative to DTD & Bodysuit Tutorial](matrices-alternative-to-dtd-and-bodysuit-tutorial)|![Matrices Alternative to DTD & Bodysuit Tutorial](https://trello.com/1/cards/6544ff84e1c1e005a4443e61/attachments/6544ffc5b1d297288552d210/download/f986cc9771a2c68958e76e4b9ead7021616aabff.jpg)|[Custom Dress Form Male and Female (Alternative to DTDs!)](custom-dress-form-male-and-female-alternative-to-dtds)|![Custom Dress Form Male and Female (Alternative to DTDs!)](https://trello.com/1/cards/6521c53aed0f0db68d3215c7/attachments/6521c5be0eabfbb8c5058438/download/dressformmain2_5.jpg)|
+|[Matrices Tidy Tipped Fur Seams Tutorial](matrices-tidy-tipped-fur-seams-tutorial)|![Matrices Tidy Tipped Fur Seams Tutorial](https://trello.com/1/cards/64a8860ed352b798303fbb1d/attachments/64a886359010eedfd9e60504/download/image.png)|[Mantacrafts Fur Matching Service](mantacrafts-fur-matching-service)|![Mantacrafts Fur Matching Service](https://trello.com/1/cards/652ef6a73f46dbcb3a9741c8/attachments/652ef6d5f12008c9c29af245/download/9d5ab512-372f-4455-9c4e-9ae2f5908cef_teddy_orig.webp)|
 
 <details>
   <summary>Helpful Extras (12 cards)</summary>
@@ -8392,12 +8332,10 @@ https://vt.tiktok.com/ZSFcEEWNU/
 
 ### Preview Grid - First Items
 
-|Item|Preview|
-|---|---|
-|[Kloofsuits Canine V1 Pattern](kloofsuits-canine-v1-pattern)|![Kloofsuits Canine V1 Pattern](https://trello.com/1/cards/64a88a23d384784b598cf301/attachments/64a88a3287ed6ee318f2704d/download/image.png)|
-|[Kloofsuits Canine V2 Pattern](kloofsuits-canine-v2-pattern)|![Kloofsuits Canine V2 Pattern](https://trello.com/1/cards/64a88a2bc3d93e19942b6543/attachments/64a88a4d27b5b30fe8b1e74e/download/image.png)|
-|[Kloofsuits Fox Base Pattern](kloofsuits-fox-base-pattern)|![Kloofsuits Fox Base Pattern](https://trello.com/1/cards/64a88a5f78a6ad6020f2395c/attachments/64a88a6b6783c2dcf33424e6/download/image.png)|
-|[Kloofsuits Deer Base Pattern](kloofsuits-deer-base-pattern)|![Kloofsuits Deer Base Pattern](https://trello.com/1/cards/64a88a7a6cc60dc7b3cf28ae/attachments/64a88a854f6860e8a9a8eb40/download/image.png)|
+|Item|Preview|Item|Preview|
+|---|---|---|---|
+|[Kloofsuits Canine V1 Pattern](kloofsuits-canine-v1-pattern)|![Kloofsuits Canine V1 Pattern](https://trello.com/1/cards/64a88a23d384784b598cf301/attachments/64a88a3287ed6ee318f2704d/download/image.png)|[Kloofsuits Canine V2 Pattern](kloofsuits-canine-v2-pattern)|![Kloofsuits Canine V2 Pattern](https://trello.com/1/cards/64a88a2bc3d93e19942b6543/attachments/64a88a4d27b5b30fe8b1e74e/download/image.png)|
+|[Kloofsuits Fox Base Pattern](kloofsuits-fox-base-pattern)|![Kloofsuits Fox Base Pattern](https://trello.com/1/cards/64a88a5f78a6ad6020f2395c/attachments/64a88a6b6783c2dcf33424e6/download/image.png)|[Kloofsuits Deer Base Pattern](kloofsuits-deer-base-pattern)|![Kloofsuits Deer Base Pattern](https://trello.com/1/cards/64a88a7a6cc60dc7b3cf28ae/attachments/64a88a854f6860e8a9a8eb40/download/image.png)|
 
 <details>
   <summary>Foam Head Patterns (6 cards)</summary>

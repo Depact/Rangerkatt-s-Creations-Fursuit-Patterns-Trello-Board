@@ -95,19 +95,26 @@ async function run(jsonFile, OUT) {
     const displayItems = items.slice(0, Math.min(4, items.length));
     if (displayItems.length === 0) return '';
     
-    const rows = displayItems.map(item => {
-      const itemAnchor = slug(one(item.name));
-      const firstItemImg = (item.attachments?.find(a => a?.mimeType?.startsWith('image/'))?.url) || '';
-      const imgCount = (item.attachments?.filter(a => a?.mimeType?.startsWith('image/')).length || 0);
+    // Build rows with 2 items per row (4 columns: Name | Preview | Name | Preview)
+    const rows = [];
+    for (let i = 0; i < displayItems.length; i += 2) {
+      const item1 = displayItems[i];
+      const item2 = displayItems[i + 1];
       
-      const imageMd = firstItemImg 
-        ? `![${one(item.name)}](${firstItemImg})`
-        : '*No image*';
+      const makeCell = (item) => {
+        if (!item) return '||';
+        const itemAnchor = slug(one(item.name));
+        const firstItemImg = (item.attachments?.find(a => a?.mimeType?.startsWith('image/'))?.url) || '';
+        const imageMd = firstItemImg 
+          ? `![${one(item.name)}](${firstItemImg})`
+          : '*No image*';
+        return `|[${one(item.name)}](${itemAnchor})|${imageMd}`;
+      };
       
-      return `|[${one(item.name)}](${itemAnchor})|${imageMd}|`;
-    });
+      rows.push(`${makeCell(item1)}${makeCell(item2)}|`);
+    }
     
-    const header = '|Item|Preview|\n|---|---|';
+    const header = '|Item|Preview|Item|Preview|\n|---|---|---|---|';
     return [header, ...rows].join('\n');
   };
 
