@@ -137,7 +137,12 @@ async function run(jsonFile, OUT) {
         try { ext = path.extname(new URL(att.url).pathname) || '.png'; } catch {}
         if (ext.length > 6) ext = '.png';
         const file = `image-${String(n).padStart(2, '0')}${ext}`;
-        jobs.push(pull(att.url, path.join(absDir, file)));
+        jobs.push(pull(att.url, path.join(absDir, file))
+          .then(() => stats.ok++)
+          .catch(e => {
+            console.error(`  ✗ Failed: ${att.url} — ${e.message}`);
+            stats.fail++;
+          }));
         lines.push(`![${alt(c.name)}](<${imgRelDir}/${file}>)`, '');
       }
       lines.push('---', '');
@@ -174,7 +179,7 @@ async function run(jsonFile, OUT) {
   const stats = { ok: 0, skip: 0, fail: 0 };
   if (jobs.length) {
     console.log(`\n↓ Fetching ${jobs.length} images → ${outDir}/attachments/`);
-    await Promise.all(jobs);
+    await Promise.allSettled(jobs);
     console.log(`  ✓ ${stats.ok} downloaded  ·  ${stats.skip} cached  ·  ${stats.fail} failed`);
   }
 }
