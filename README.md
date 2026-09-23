@@ -682,7 +682,9 @@ This repo goal is to make Rangerkatt's Creations easy to access, as my laptop st
 ---
 
 <a id="faun-or-digitigrade-legs-and-bodysuits"></a>
-## Faun or Digitigrade legs & Bodysuits
+<details>
+<summary>Faun or Digitigrade legs & Bodysuits</summary>
+
 
 [↑ Contents](#contents)
 
@@ -1017,7 +1019,12 @@ V2/Slim: [https://www.etsy.com/ca/listing/1880698455/slim-digitigrade-legs-base-
 ---
 
 <a id="hand-hooves"></a>
-## Hand Hooves
+
+</details>
+
+<details>
+<summary>Hand Hooves</summary>
+
 
 [↑ Contents](#contents)
 
@@ -1239,7 +1246,12 @@ Only comes with a pattern for the hooves themselves, not the palm or wrist.
 ---
 
 <a id="other-species-tails"></a>
-## Other Species Tails
+
+</details>
+
+<details>
+<summary>Other Species Tails</summary>
+
 
 [↑ Contents](#contents)
 
@@ -1763,7 +1775,12 @@ Lizard: [https://www.etsy.com/ca/listing/1854978420/pdf-lizard-tail-pattern](htt
 ---
 
 <a id="head-patterns"></a>
-## Head Patterns
+
+</details>
+
+<details>
+<summary>Head Patterns</summary>
+
 
 [↑ Contents](#contents)
 
@@ -2612,7 +2629,12 @@ Toony Cat: [https://www.etsy.com/ca/listing/4405149119/cat-toony-head-base-pdf-p
 ---
 
 <a id="helpful-extras-for-fursuit-parts"></a>
-## Helpful Extras for Fursuit Parts
+
+</details>
+
+<details>
+<summary>Helpful Extras for Fursuit Parts</summary>
+
 
 [↑ Contents](#contents)
 
@@ -2981,7 +3003,12 @@ Basic: [https://www.etsy.com/ca/listing/4435286052/diy-basic-fursuit-footpaw-san
 ---
 
 <a id="feline-paws"></a>
-## Feline Paws
+
+</details>
+
+<details>
+<summary>Feline Paws</summary>
+
 
 [↑ Contents](#contents)
 
@@ -3055,7 +3082,12 @@ YaBoiLuke
 ---
 
 <a id="teeth-and-gums"></a>
-## Teeth and Gums
+
+</details>
+
+<details>
+<summary>Teeth and Gums</summary>
+
 
 [↑ Contents](#contents)
 
@@ -3128,7 +3160,12 @@ Carnivore/Raptor: [https://www.etsy.com/ca/listing/4318129646/plush-fursuit-jaws
 ---
 
 <a id="generic-or-puffy-paws"></a>
-## Generic or Puffy Paws
+
+</details>
+
+<details>
+<summary>Generic or Puffy Paws</summary>
+
 
 [↑ Contents](#contents)
 
@@ -3780,7 +3817,12 @@ ONLY A PATTERN FOR THE BEANS
 ---
 
 <a id="helpful-extras"></a>
-## Helpful Extras
+
+</details>
+
+<details>
+<summary>Helpful Extras</summary>
+
 
 [↑ Contents](#contents)
 
@@ -3943,7 +3985,12 @@ https://vt.tiktok.com/ZSFcEEWNU/
 ---
 
 <a id="5-finger-paw-patterns"></a>
-## 5 Finger Paw Patterns
+
+</details>
+
+<details>
+<summary>5 Finger Paw Patterns</summary>
+
 
 [↑ Contents](#contents)
 
@@ -4207,7 +4254,12 @@ PAID video tutorial:
 ---
 
 <a id="ears"></a>
-## Ears
+
+</details>
+
+<details>
+<summary>Ears</summary>
+
 
 [↑ Contents](#contents)
 
@@ -4571,7 +4623,12 @@ Jax/Taller Rabbit Ears: [https://www.etsy.com/ca/listing/1891732674/jax-the-amaz
 ---
 
 <a id="fursuit-hair"></a>
-## Fursuit Hair
+
+</details>
+
+<details>
+<summary>Fursuit Hair</summary>
+
 
 [↑ Contents](#contents)
 
@@ -4654,7 +4711,12 @@ Advanced Pattern
 ---
 
 <a id="canine-and-generic-feet-paws"></a>
-## Canine & Generic Feet Paws
+
+</details>
+
+<details>
+<summary>Canine & Generic Feet Paws</summary>
+
 
 [↑ Contents](#contents)
 
@@ -5199,7 +5261,12 @@ Slim Feet: [https://www.etsy.com/ca/listing/1880654333/slim-digitigrade-fursuit-
 ---
 
 <a id="canine-hyena-tails"></a>
-## Canine/Hyena Tails
+
+</details>
+
+<details>
+<summary>Canine/Hyena Tails</summary>
+
 
 [↑ Contents](#contents)
 
@@ -5656,7 +5723,12 @@ Video: [https://twitter.com/PinkuShikaArt/status/1363674475166900230?s=20](https
 ---
 
 <a id="necks-and-dino-mask-hoods"></a>
-## Necks & Dino Mask Hoods
+
+</details>
+
+<details>
+<summary>Necks & Dino Mask Hoods</summary>
+
 
 [↑ Contents](#contents)
 
@@ -5837,7 +5909,12 @@ chin pattern
 ---
 
 <a id="wings-feathers"></a>
-## Wings/Feathers
+
+</details>
+
+<details>
+<summary>Wings/Feathers</summary>
+
 
 [↑ Contents](#contents)
 
@@ -6172,7 +6249,12 @@ Free 2: [https://ko-fi.com/s/da48cb08e8](https://ko-fi.com/s/da48cb08e8 "smartCa
 ---
 
 <a id="feline-tails"></a>
-## Feline Tails
+
+</details>
+
+<details>
+<summary>Feline Tails</summary>
+
 
 [↑ Contents](#contents)
 
@@ -6381,7 +6463,12 @@ Free 2: [https://ko-fi.com/s/da48cb08e8](https://ko-fi.com/s/da48cb08e8 "smartCa
 ---
 
 <a id="nub-tails"></a>
-## Nub Tails
+
+</details>
+
+<details>
+<summary>Nub Tails</summary>
+
 
 [↑ Contents](#contents)
 
@@ -6660,7 +6747,12 @@ All 5 tails: [https://www.etsy.com/ca/listing/1539024111/fursuit-tail-sewing-pat
 ---
 
 <a id="tongues"></a>
-## Tongues
+
+</details>
+
+<details>
+<summary>Tongues</summary>
+
 
 [↑ Contents](#contents)
 
@@ -6823,7 +6915,12 @@ Snake: [https://www.etsy.com/ca/listing/1636965878/digital-fursuit-snake-tongue-
 ---
 
 <a id="other-species-hand-paws"></a>
-## Other Species Hand Paws
+
+</details>
+
+<details>
+<summary>Other Species Hand Paws</summary>
+
 
 [↑ Contents](#contents)
 
@@ -7125,7 +7222,12 @@ uses mochi minky, interfacing and applique
 ---
 
 <a id="other-species-feet-paws"></a>
-## Other Species Feet Paws
+
+</details>
+
+<details>
+<summary>Other Species Feet Paws</summary>
+
 
 [↑ Contents](#contents)
 
@@ -7266,7 +7368,12 @@ Advanced pattern
 ---
 
 <a id="head-liners"></a>
-## Head Liners
+
+</details>
+
+<details>
+<summary>Head Liners</summary>
+
 
 [↑ Contents](#contents)
 
@@ -7488,7 +7595,12 @@ Made to work with this:
 ---
 
 <a id="horns"></a>
-## Horns
+
+</details>
+
+<details>
+<summary>Horns</summary>
+
 
 [↑ Contents](#contents)
 
@@ -7874,7 +7986,12 @@ All 5:[https://www.etsy.com/ca/listing/1794760298/5-pdf-horns-pattern-set](https
 ---
 
 <a id="noses"></a>
-## Noses
+
+</details>
+
+<details>
+<summary>Noses</summary>
+
 
 [↑ Contents](#contents)
 
@@ -7970,7 +8087,12 @@ All 5:[https://www.etsy.com/ca/listing/1794760298/5-pdf-horns-pattern-set](https
 ---
 
 <a id="feet-hooves"></a>
-## Feet Hooves
+
+</details>
+
+<details>
+<summary>Feet Hooves</summary>
+
 
 [↑ Contents](#contents)
 
@@ -8119,7 +8241,12 @@ https://www.etsy.com/ca/listing/1601282095/digigrade-feet-hoof-indoor-and-outdoo
 ---
 
 <a id="feral-canine-paws"></a>
-## Feral Canine Paws
+
+</details>
+
+<details>
+<summary>Feral Canine Paws</summary>
+
 
 [↑ Contents](#contents)
 
@@ -8226,7 +8353,12 @@ Intermediate to advanced pattern!
 ---
 
 <a id="mitten-paws"></a>
-## Mitten Paws
+
+</details>
+
+<details>
+<summary>Mitten Paws</summary>
+
 
 [↑ Contents](#contents)
 
@@ -8334,7 +8466,12 @@ Comes with 3 sizes
 ---
 
 <a id="list-6490f8"></a>
-## List-6490f8
+
+</details>
+
+<details>
+<summary>List-6490f8</summary>
+
 
 [↑ Contents](#contents)
 
@@ -8516,7 +8653,12 @@ YaBoiLuke Suits
 ---
 
 <a id="list-64aae0"></a>
-## List-64aae0
+
+</details>
+
+<details>
+<summary>List-64aae0</summary>
+
 
 [↑ Contents](#contents)
 
@@ -8625,7 +8767,12 @@ One review recommends 1/2 inch foam instead
 ---
 
 <a id="list-65dd11"></a>
-## List-65dd11
+
+</details>
+
+<details>
+<summary>List-65dd11</summary>
+
 
 [↑ Contents](#contents)
 
@@ -8679,7 +8826,12 @@ One review recommends 1/2 inch foam instead
 ---
 
 <a id="list-64a883"></a>
-## List-64a883
+
+</details>
+
+<details>
+<summary>List-64a883</summary>
+
 
 [↑ Contents](#contents)
 
@@ -8736,3 +8888,6 @@ One review recommends 1/2 inch foam instead
 ![Kloofsuits Big Cat Pattern](<attachments/List-64a883/Kloofsuits Big Cat Pattern/image-01.png>)
 
 ---
+
+
+</details>
