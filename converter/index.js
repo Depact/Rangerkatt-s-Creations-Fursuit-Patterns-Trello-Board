@@ -18,18 +18,28 @@ async function run(jsonFile, OUT) {
   const concurrency = Number(program.opts().concurrency);
   const board = await fs.readJson(jsonFile);
 
-  /* --- lists (recovered from actions if the export has no `lists`) --- */
+  /* --- lists (prefer board.lists, fallback to actions if export has no `lists`) --- */
   const lists = new Map(), order = [];
-  const seeList = l => {
-    if (l?.id && l?.name && !lists.has(l.id)) {
-      lists.set(l.id, { id: l.id, name: l.name });
-      order.push(l.id);
+  if (board.lists && board.lists.length > 0) {
+    for (const l of board.lists) {
+      if (l?.id && l?.name) {
+        lists.set(l.id, { id: l.id, name: l.name });
+        order.push(l.id);
+      }
     }
-  };
-  for (const a of board.actions ?? [])
-    [a?.data?.list, a?.data?.listBefore, a?.data?.listAfter].forEach(seeList);
-  for (const c of board.cards ?? [])
-    if (!lists.has(c.idList)) seeList({ id: c.idList, name: `List-${c.idList.slice(0, 6)}` });
+  } else {
+    // Recover lists from actions if the export has no `lists`
+    const seeList = l => {
+      if (l?.id && l?.name && !lists.has(l.id)) {
+        lists.set(l.id, { id: l.id, name: l.name });
+        order.push(l.id);
+      }
+    };
+    for (const a of board.actions ?? [])
+      [a?.data?.list, a?.data?.listBefore, a?.data?.listAfter].forEach(seeList);
+    for (const c of board.cards ?? [])
+      if (!lists.has(c.idList)) seeList({ id: c.idList, name: `List-${c.idList.slice(0, 6)}` });
+  }
 
   /* --- group & sort --- */
   const grouped = new Map();
@@ -78,10 +88,10 @@ async function run(jsonFile, OUT) {
     }
   });
 
-  /* --- build TOC + body in one pass --- */
-  const toc  = ['## Contents', ''];
+  /* --- build body in one pass --- */
   const body = [];
   const jobs = [];
+  const preview = [];
   let li = 0, cards = 0, refs = 0;
 
   for (const listId of order) {
@@ -91,12 +101,19 @@ async function run(jsonFile, OUT) {
     if (list.name === 'Label Codes:') continue;
     li++;
 
+    // Collect preview data for grid (first image per list)
+    const firstCard = items[0];
+    const firstImgUrl = (firstCard?.attachments?.find(a => a?.mimeType?.startsWith('image/'))?.url) || '';
+    preview.push({ name: list.name, count: items.length, firstImgUrl });
+
     const listAnchor = slug(list.name);
-    toc.push(`- **[${list.name}](#${listAnchor})** — ${items.length} cards`);
     body.push(
+      `<details>`,
+      `  <summary>${list.name} (${items.length} cards)</summary>`,
+      '',
       `<a id="${listAnchor}"></a>`,
+      '',
       `## ${list.name}`, '',
-      '[↑ Contents](#contents)', '',
       '---', '',
     );
 
@@ -111,8 +128,6 @@ async function run(jsonFile, OUT) {
       const imgRelDir  = relDir.split('/').join('/');
       const absDir     = path.join(OUT, relDir);
       const tags       = (c.labels ?? []).map(l => l.name).filter(Boolean).map(tag);
-
-      toc.push(`  - [${one(c.name)}](#${cardAnchor})`);
 
       body.push(`<a id="${cardAnchor}"></a>`);
       body.push(tags.length ? `### ${one(c.name)} ${tags.join(' ')}` : `### ${one(c.name)}`, '');
@@ -135,17 +150,23 @@ async function run(jsonFile, OUT) {
     }
   }
 
-  /* --- header --- */
+  /* --- header + preview grid --- */
+  const grid = preview.length ? ['## Quick Navigate', '', '<div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:12px;margin-top:16px;">', ...preview.map(p =>
+    `<div style="border:1px solid #ddd;border-radius:8px;padding:12px;"><strong><a href="#${slug(p.name)}">${p.name}</a></strong><br>${p.count} cards${p.firstImgUrl ? `<br><img src="${p.firstImgUrl}" style="max-width:100%;border-radius:4px;margin-top:8px;" loading="lazy">` : ''}</div>`
+  ), '</div>', ''] : [];
+
   const header = [
     `# Rangerkatt's Creations Fursuit Patterns (Trello Board)`, '',
     `**Original Board Source board:** <${board.url}>`,
     'This repo goal is to make Rangerkatt\'s Creations easy to access, as my laptop struggle to open original page.', '',
+    ...grid,
+    '',
   ];
 
   /* --- write note --- */
   await fs.ensureDir(OUT);
   const noteFile = path.join(OUT, `${sanitize(board.name)}.md`);
-  await fs.writeFile(noteFile, [...header, ...toc, '', '---', '', ...body].join('\n'));
+  await fs.writeFile(noteFile, [...header, ...body].join('\n'));
   console.log(`✓ ${noteFile}  (${li} lists · ${cards} cards · ${refs} image refs)`);
 
   /* --- wait for downloads --- */

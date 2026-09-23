@@ -3,690 +3,1792 @@
 **Original Board Source board:** <https://trello.com/b/wluGcGeI/fursuit-patterns>
 This repo goal is to make Rangerkatt's Creations easy to access, as my laptop struggle to open original page.
 
-## Contents
+## Quick Navigate
 
-- **[Faun or Digitigrade legs & Bodysuits](#faun-or-digitigrade-legs-and-bodysuits)** — 28 cards
-  - [(FREE) @7V0B0Dy Leg Padding](#free-7v0b0dy-leg-padding)
-  - [Skypro Donky Faun legs](#skypro-donky-faun-legs)
-  - [Mugiwara Medium Female Digi Bodysuit](#mugiwara-medium-female-digi-bodysuit)
-  - [Mugiwara Small Male Digi Bodysuit](#mugiwara-small-male-digi-bodysuit)
-  - [Mugiwara Small Male Planti Bodysuit](#mugiwara-small-male-planti-bodysuit)
-  - [Mugiwara Protogen Body Armor](#mugiwara-protogen-body-armor)
-  - [Mugiwara Digi Leg Pattern + Lining](#mugiwara-digi-leg-pattern-lining)
-  - [Mugiwara Big Foam Body w/Shell Template](#mugiwara-big-foam-body-w-shell-template)
-  - [ricochetxcrafts Hollow Foam Pant Leg Pattern](#ricochetxcrafts-hollow-foam-pant-leg-pattern)
-  - [ricochetxcrafts Dragon Digi Legs](#ricochetxcrafts-dragon-digi-legs)
-  - [North Cat Creations Fursuit Padding Pattern](#north-cat-creations-fursuit-padding-pattern)
-  - [ZabaCostumes Slim Digi Leg Pattern](#zabacostumes-slim-digi-leg-pattern)
-  - [Saberwolfstudio Hollow Digi Leg Pattern](#saberwolfstudio-hollow-digi-leg-pattern)
-  - [FarOutFursuits Digi Leg Fursuit Pattern](#faroutfursuits-digi-leg-fursuit-pattern)
-  - [PremiumFauntent Leg Pad Template](#premiumfauntent-leg-pad-template)
-  - [Geknome Digigrade Leg Padding](#geknome-digigrade-leg-padding)
-  - [Mayingfantasy Digi Bodysuit Padding](#mayingfantasy-digi-bodysuit-padding)
-  - [MunchMunchStudio Digi Thigh Pattern](#munchmunchstudio-digi-thigh-pattern)
-  - [Thistlecrux Digi Knee Pattern](#thistlecrux-digi-knee-pattern)
-  - [ricochetxcrafts Bird Digi Legs](#ricochetxcrafts-bird-digi-legs)
-  - [ricochetxcrafts Slim Toony Legs](#ricochetxcrafts-slim-toony-legs)
-  - [ricochetxcrafts Large Toony Digi Legs w/toe options](#ricochetxcrafts-large-toony-digi-legs-w-toe-options)
-  - [ricochetxcrafts Large Body Suit](#ricochetxcrafts-large-body-suit)
-  - [EtherealFursuits Thigh Padding](#etherealfursuits-thigh-padding)
-  - [WingLeafWorkshop Thigh Base 2 Versions](#wingleafworkshop-thigh-base-2-versions)
-  - [WingLeafWorkshop Foam Digi Legs](#wingleafworkshop-foam-digi-legs)
-  - [Teacuplion Women's Bodysuit](#teacuplion-women-s-bodysuit)
-  - [TechnoCheese Slim Open LEg Digi Padding](#technocheese-slim-open-leg-digi-padding)
-- **[Hand Hooves](#hand-hooves)** — 21 cards
-  - [(FREE) Freakhound Equine Hand Hooves](#free-freakhound-equine-hand-hooves)
-  - [(FREE) TripppyLenny Horse Handhoof Pattern](#free-tripppylenny-horse-handhoof-pattern)
-  - [YBL Suits 3 Finger Hand Hooves](#ybl-suits-3-finger-hand-hooves)
-  - [YBL Suits Cloven Hand Hooves](#ybl-suits-cloven-hand-hooves)
-  - [Pseudocanid Cloven Hand Hooves](#pseudocanid-cloven-hand-hooves)
-  - [Mugiwara Deer Hooves](#mugiwara-deer-hooves)
-  - [ObleStudios Puffy Hoves](#oblestudios-puffy-hoves)
-  - [HowlingDragonStudios Cloven Hooves Pattern](#howlingdragonstudios-cloven-hooves-pattern)
-  - [SkyehighStudios Hand Hooves](#skyehighstudios-hand-hooves)
-  - [FloofUnlimited Hand Hoof Pattern](#floofunlimited-hand-hoof-pattern)
-  - [Bongo Laserworks Split Hoof Pattern](#bongo-laserworks-split-hoof-pattern)
-  - [DeerTailCreations Horse Hooves](#deertailcreations-horse-hooves)
-  - [Geknome Hand Hoof Pattern](#geknome-hand-hoof-pattern)
-  - [KoiFishyCostumes Hand Hoof Pattern + Thumb](#koifishycostumes-hand-hoof-pattern-thumb)
-  - [FrostiHadaSundae Hand Hooves](#frostihadasundae-hand-hooves)
-  - [LobitoWorks Cloven Hand Hooves](#lobitoworks-cloven-hand-hooves)
-  - [Sonstafur 3 Hoof Pattern](#sonstafur-3-hoof-pattern)
-  - [Sonstafurs Horse Hoof Pattern](#sonstafurs-horse-hoof-pattern)
-  - [Flower Fur Studio Hoof Pattern](#flower-fur-studio-hoof-pattern)
-  - [MysticMalamute Toony 3 Finger Hooves](#mysticmalamute-toony-3-finger-hooves)
-  - [TechnoCheese Hand Hooves w/Finger Escape](#technocheese-hand-hooves-w-finger-escape)
-- **[Other Species Tails](#other-species-tails)** — 47 cards
-  - [(FREE) FoxFireFantasy Skunk Tail](#free-foxfirefantasy-skunk-tail)
-  - [(FREE) FoxFireFantasy Red Panda/Racoon/Lemur Tail](#free-foxfirefantasy-red-panda-racoon-lemur-tail)
-  - [Pseudocanid Upright Shark Tail](#pseudocanid-upright-shark-tail)
-  - [Pseudocanid Floppy Shark Tail](#pseudocanid-floppy-shark-tail)
-  - [Mugiwara Rat/Opossum Tail](#mugiwara-rat-opossum-tail)
-  - [Mugiwara Sergal/Long Tail](#mugiwara-sergal-long-tail)
-  - [Mugiwara Giant THICC Tail](#mugiwara-giant-thicc-tail)
-  - [Mugiwara Demon/Tufted Tail](#mugiwara-demon-tufted-tail)
-  - [Mugiwara Simple Shark Tail](#mugiwara-simple-shark-tail)
-  - [Mugiwara Dragon/Long Tail](#mugiwara-dragon-long-tail)
-  - [Mugiwara Bone Tail](#mugiwara-bone-tail)
-  - [Nyxia Creations Fursuit Tail](#nyxia-creations-fursuit-tail)
-  - [Nyxia Creations Fursuit Tail](#nyxia-creations-fursuit-tail)
-  - [Matrices Movable/Prehensile Tail Tutorial](#matrices-movable-prehensile-tail-tutorial)
-  - [DireCreatures Sergal Tail](#direcreatures-sergal-tail)
-  - [HowlingDragonStudios Raptor Tail](#howlingdragonstudios-raptor-tail)
-  - [BeepsCreatures Shrimp Tail](#beepscreatures-shrimp-tail)
-  - [Spiltgrapesoda Red Panda Tail](#spiltgrapesoda-red-panda-tail)
-  - [Saberwolfstudio Floor Dragger](#saberwolfstudio-floor-dragger)
-  - [TheRaptorsShop Synth Tail](#theraptorsshop-synth-tail)
-  - [Ricochetxcrafts Hollow FOAM Dragon Tail](#ricochetxcrafts-hollow-foam-dragon-tail)
-  - [Geknome Dragon Tail Pattern](#geknome-dragon-tail-pattern)
-  - [PinkusCraftyCottage Cow/Bovine Tail](#pinkuscraftycottage-cow-bovine-tail)
-  - [PinkusCraftyCottage Sheep/Lamb/Bunny Tail](#pinkuscraftycottage-sheep-lamb-bunny-tail)
-  - [PinkusCraftyCottage Raccoon](#pinkuscraftycottage-raccoon)
-  - [PinkusCraftyCottage Dino Tail](#pinkuscraftycottage-dino-tail)
-  - [PinkusCraftyCottage Stego Tail](#pinkuscraftycottage-stego-tail)
-  - [KoiFishyCostumes Mini Shark Tail](#koifishycostumes-mini-shark-tail)
-  - [Geknome Unicorn/Equine Tail](#geknome-unicorn-equine-tail)
-  - [KittenCafeStudios Eevee Tail Pattern](#kittencafestudios-eevee-tail-pattern)
-  - [KnittinKittenFashion Shark Tail](#knittinkittenfashion-shark-tail)
-  - [KnittinKittenFashion Raptor Tail](#knittinkittenfashion-raptor-tail)
-  - [ChilliCosplay EVA Dragon Tail](#chillicosplay-eva-dragon-tail)
-  - [werewolfprince666 Dragon Tail](#werewolfprince666-dragon-tail)
-  - [SweetCiderCreation Opossum/Rodent Tail](#sweetcidercreation-opossum-rodent-tail)
-  - [MunchMunchStudio Floor Dragger Tail](#munchmunchstudio-floor-dragger-tail)
-  - [SpiltGrapeSoda Rodent Tails (3 versions)](#spiltgrapesoda-rodent-tails-3-versions)
-  - [ricochetxcrafts Dragon Tail](#ricochetxcrafts-dragon-tail)
-  - [SweetCiderCreation Large Floor Dragger](#sweetcidercreation-large-floor-dragger)
-  - [HowlingDragonStudios Spiked Tail Pattern](#howlingdragonstudios-spiked-tail-pattern)
-  - [GoldenReliic Orca Tail Pattern](#goldenreliic-orca-tail-pattern)
-  - [PuzzlePatchworks Protogen Tail](#puzzlepatchworks-protogen-tail)
-  - [Siwencosplaypatterns 6 EVA Tail Patterns](#siwencosplaypatterns-6-eva-tail-patterns)
-  - [BetweenSpace&Sea Seal Hand and Tail Pattern](#betweenspaceandsea-seal-hand-and-tail-pattern)
-  - [KanixStudios Large Racoon Tail](#kanixstudios-large-racoon-tail)
-  - [NearValkyrie 4 Foam Tails](#nearvalkyrie-4-foam-tails)
-  - [SaberWolfStudio Monster Mouth Tail](#saberwolfstudio-monster-mouth-tail)
-- **[Head Patterns](#head-patterns)** — 31 cards
-  - [(FREE) In-A-Jiffy!Creations Puppy Head Pattern V1 + V2](#free-in-a-jiffy-creations-puppy-head-pattern-v1-v2)
-  - [(FREE) The_Peppercat Raptor Head](#free-the-peppercat-raptor-head)
-  - [WinniesWhimsyWonders Mask Base](#winnieswhimsywonders-mask-base)
-  - [Matrices Free-Form Patterning a Head Base Tutorial](#matrices-free-form-patterning-a-head-base-tutorial)
-  - [KloofSuits 6 Canine, Feline, Cervine Head Patterns](#kloofsuits-6-canine-feline-cervine-head-patterns)
-  - [Corgilegs 2 Canine & Feline Patterns](#corgilegs-2-canine-and-feline-patterns)
-  - [Mantacraft 3 Kemono Bases](#mantacraft-3-kemono-bases)
-  - [Mantacraft 6 Species Bases](#mantacraft-6-species-bases)
-  - [Missrars Creatures 6 Kemono/Toony Bases](#missrars-creatures-6-kemono-toony-bases)
-  - [ChiliCosplay 11 Toony Head Bases](#chilicosplay-11-toony-head-bases)
-  - [Mugiwara 8 EVA Head & Skull Bases](#mugiwara-8-eva-head-and-skull-bases)
-  - [Mugiwara 16 Foam Patterns](#mugiwara-16-foam-patterns)
-  - [Judifur Horse/Dragon Foam Head Pattern + Feline](#judifur-horse-dragon-foam-head-pattern-feline)
-  - [Ricochetxcrafts Fox Base](#ricochetxcrafts-fox-base)
-  - [SkyehighStudios 3 Head Bases](#skyehighstudios-3-head-bases)
-  - [BasilBites Kemono and Eeveelution Head Base](#basilbites-kemono-and-eeveelution-head-base)
-  - [DoubleTroubleFursuit Kemono + Canine Head Bases](#doubletroublefursuit-kemono-canine-head-bases)
-  - [LuvlyDesertTreasures Canine and Big Cat Pattern](#luvlydeserttreasures-canine-and-big-cat-pattern)
-  - [NekoSona Head Base Pattern](#nekosona-head-base-pattern)
-  - [TheRaptorsShop Dragon Head Pattern 2 Versions](#theraptorsshop-dragon-head-pattern-2-versions)
-  - [TheRaptorsShop Snake Head Pattern](#theraptorsshop-snake-head-pattern)
-  - [TheRaptorsShop Synth Head Pattern](#theraptorsshop-synth-head-pattern)
-  - [(FREE) Nathahniel Kemogao Base (READ DESCRIPTION)](#free-nathahniel-kemogao-base-read-description)
-  - [OllyFur Kemono Head Base](#ollyfur-kemono-head-base)
-  - [TheMaterialAlchemist K9 + Feline Head Pattern](#thematerialalchemist-k9-feline-head-pattern)
-  - [MysticMalamute Canine Headbase](#mysticmalamute-canine-headbase)
-  - [Kazplay Head Patterns](#kazplay-head-patterns)
-  - [The Manic Macaw 4 Fursuit Head bases](#the-manic-macaw-4-fursuit-head-bases)
-  - [Monochrome Agent Retro Toony Head](#monochrome-agent-retro-toony-head)
-  - [WingLeafWorkshop EVA Head](#wingleafworkshop-eva-head)
-  - [WingLeafWorkshop 4 Foam Head Bases](#wingleafworkshop-4-foam-head-bases)
-- **[Helpful Extras for Fursuit Parts](#helpful-extras-for-fursuit-parts)** — 35 cards
-  - [Sonstafurs Claw and Cuticle Pattern](#sonstafurs-claw-and-cuticle-pattern)
-  - [ArcaneSorcery Finger Escapes](#arcanesorcery-finger-escapes)
-  - [Sonstafurs Finger Escapes for Hooves and Paws](#sonstafurs-finger-escapes-for-hooves-and-paws)
-  - [Nova Lynx Creations Hand Paw Spotted Bean Tutorial](#nova-lynx-creations-hand-paw-spotted-bean-tutorial)
-  - [Nova Lynx Creations Velcro Eyelid Tutorial](#nova-lynx-creations-velcro-eyelid-tutorial)
-  - [FrostiHadaSundae Eyelids](#frostihadasundae-eyelids)
-  - [LittleFangs Velcro Eyelid Tutorial](#littlefangs-velcro-eyelid-tutorial)
-  - [KittenCafeStudios 3 Eyelids](#kittencafestudios-3-eyelids)
-  - [WingLeafWorkshop Magnetic Eyelids](#wingleafworkshop-magnetic-eyelids)
-  - [CharredFursuits Zippered Tail Cap Pattern](#charredfursuits-zippered-tail-cap-pattern)
-  - [Mayingfantasy Tail Cut Off Templates](#mayingfantasy-tail-cut-off-templates)
-  - [TwilightKnights Deluxe Tail Tutorial](#twilightknights-deluxe-tail-tutorial)
-  - [TwilightKnights Removable Zipper Tail](#twilightknights-removable-zipper-tail)
-  - [werewolfprince666 Tail Cap Tutorial](#werewolfprince666-tail-cap-tutorial)
-  - [TwilightKnights Lined Armsleeve Tutorial](#twilightknights-lined-armsleeve-tutorial)
-  - [Matrices Retractable Claws](#matrices-retractable-claws)
-  - [TwilightKnights Zipper Tutorial](#twilightknights-zipper-tutorial)
-  - [Matrices Deluxe Zipper Tutorial](#matrices-deluxe-zipper-tutorial)
-  - [Matrices Prototyping with a Scale Model](#matrices-prototyping-with-a-scale-model)
-  - [(FREE) Rangerkatt Cuff Tutorial](#free-rangerkatt-cuff-tutorial)
-  - [SpiltGrapeSoda Deluxe Cuff Tutorial](#spiltgrapesoda-deluxe-cuff-tutorial)
-  - [Head Base Tutorial (Pictures and Description)](#head-base-tutorial-pictures-and-description)
-  - [LostWax Foam Turtle Shell](#lostwax-foam-turtle-shell)
-  - [TwoTailsEnterprises Foot Paw Zipper Tutorial](#twotailsenterprises-foot-paw-zipper-tutorial)
-  - [Pseudocanid Fursuit Bandaid Prop](#pseudocanid-fursuit-bandaid-prop)
-  - [Sonstafurs Armsleeve Tutorial NO Pattern](#sonstafurs-armsleeve-tutorial-no-pattern)
-  - [KittenCafeStudios Fursuit Pocket](#kittencafestudios-fursuit-pocket)
-  - [TwilightKnights Velcro Eyes Tutorial](#twilightknights-velcro-eyes-tutorial)
-  - [TwilightKnights Fursuit Headbag](#twilightknights-fursuit-headbag)
-  - [werewolfprince666 Hidden Belt Loop Tutorial](#werewolfprince666-hidden-belt-loop-tutorial)
-  - [werewolfprince666 Fursuit Head Resizing Tutorial](#werewolfprince666-fursuit-head-resizing-tutorial)
-  - [LittleFangs 2D Eye Templates + Tutorial](#littlefangs-2d-eye-templates-tutorial)
-  - [Twistedmaw Hybrid Feetpaw Tutoral](#twistedmaw-hybrid-feetpaw-tutoral)
-  - [KittenCafeStudio Footpaw Sandals (2 ver.)](#kittencafestudio-footpaw-sandals-2-ver)
-  - [KittenCafeStudios Head Bag Pattern](#kittencafestudios-head-bag-pattern)
-- **[Feline Paws](#feline-paws)** — 5 cards
-  - [(FREE) FoxFire Fantasy Feral Feline Paws](#free-foxfire-fantasy-feral-feline-paws)
-  - [YBL Suits Puffy Feline Paws](#ybl-suits-puffy-feline-paws)
-  - [FloofUnlimited Feline Puffy Paws](#floofunlimited-feline-puffy-paws)
-  - [Pseudocanid Chunky Cat Paws](#pseudocanid-chunky-cat-paws)
-  - [Oktavia's Creatures Feral 2 Pattern Pack (Canine & Feline)](#oktavia-s-creatures-feral-2-pattern-pack-canine-and-feline)
-- **[Teeth and Gums](#teeth-and-gums)** — 6 cards
-  - [https://www.youtube.com/watch?v=8cX4VUjPaqQ](#https-www-youtube-com-watch-v-8cx4vujpaqq)
-  - [Ruben's Magic Lab Teeth w/Gums](#ruben-s-magic-lab-teeth-w-gums)
-  - [ATD Fursuits Mouth Ridges Tutorial](#atd-fursuits-mouth-ridges-tutorial)
-  - [Kodasuits 3 Jawset Patterns (Canine, Herbivore, Carnivore/Raptor)](#kodasuits-3-jawset-patterns-canine-herbivore-carnivore-rapto)
-  - [RudeBirdStudios Teeth/Maw Pattern](#rudebirdstudios-teeth-maw-pattern)
-  - [KittenCafeStudios Teeth](#kittencafestudios-teeth)
-- **[Generic or Puffy Paws](#generic-or-puffy-paws)** — 54 cards
-  - [(FREE) Matrices 5 Finger Paw](#free-matrices-5-finger-paw)
-  - [(FREE) Curlworks Puffy Paw](#free-curlworks-puffy-paw)
-  - [(FREE) RunnerRabbit Paws](#free-runnerrabbit-paws)
-  - [(FREE) Freakhound Canine Paw](#free-freakhound-canine-paw)
-  - [(FREE) Kloofsuits Simple Paws](#free-kloofsuits-simple-paws)
-  - [(FREE) In-A-Jiffy!Creations 3 Paw Patterns](#free-in-a-jiffy-creations-3-paw-patterns)
-  - [Kloofsuits 4 Finger paws](#kloofsuits-4-finger-paws)
-  - [Kloofsuits Puffy Paw](#kloofsuits-puffy-paw)
-  - [YBL Suits Puffy Paw](#ybl-suits-puffy-paw)
-  - [MakeAFur Puffy Paw](#makeafur-puffy-paw)
-  - [Mugiwara Simple 4 Finger Paw](#mugiwara-simple-4-finger-paw)
-  - [Mugiwara Puffy Paw (Older Pattern)](#mugiwara-puffy-paw-older-pattern)
-  - [Mugiwara Puffy Paw (Newer version)](#mugiwara-puffy-paw-newer-version)
-  - [Pseudocanid Puffy Paw](#pseudocanid-puffy-paw)
-  - [Pseudocanid Simple/Retro Paw](#pseudocanid-simple-retro-paw)
-  - [Pseudocanid Chunky Paw](#pseudocanid-chunky-paw)
-  - [LobitoWorks 4 Finger Paws](#lobitoworks-4-finger-paws)
-  - [FurSmoothie 2 Paw Pattern Pack](#fursmoothie-2-paw-pattern-pack)
-  - [Oktavia's Creatures 4 Finger Mochi Paws](#oktavia-s-creatures-4-finger-mochi-paws)
-  - [Oktavia's Creatures Feral 2 Pattern Pack (Canine & Feline)](#oktavia-s-creatures-feral-2-pattern-pack-canine-and-feline)
-  - [WittleStudios Puffy Paws](#wittlestudios-puffy-paws)
-  - [BiteMeFursuits Puffy Paws](#bitemefursuits-puffy-paws)
-  - [TheCasualFriday 4 Fingers w/Optional Dew Claw](#thecasualfriday-4-fingers-w-optional-dew-claw)
-  - [FrostiHadaSundae Chunky Paws](#frostihadasundae-chunky-paws)
-  - [WolfskinStudio JUST the puffy PAWPADS](#wolfskinstudio-just-the-puffy-pawpads)
-  - [Skullzbonezfursuitz Puffy Paws](#skullzbonezfursuitz-puffy-paws)
-  - [GooBakery Simple Paw](#goobakery-simple-paw)
-  - [TwilightKnights 2 Paws Paw](#twilightknights-2-paws-paw)
-  - [SparklePawsStudios Puffy Paws](#sparklepawsstudios-puffy-paws)
-  - [OllyFur Hand Paws](#ollyfur-hand-paws)
-  - [Klovesbunnies Art Puffy Paws Pattern](#klovesbunnies-art-puffy-paws-pattern)
-  - [Blue Fleece Slim Paws](#blue-fleece-slim-paws)
-  - [Sonstafurs Puffy Paws](#sonstafurs-puffy-paws)
-  - [FlowerFurStudio Paw Pattern](#flowerfurstudio-paw-pattern)
-  - [SkyehighStudios Feral Handpaws](#skyehighstudios-feral-handpaws)
-  - [SkyehighStudios Puffy Paws](#skyehighstudios-puffy-paws)
-  - [Finch Factory Fursuits HandPaws](#finch-factory-fursuits-handpaws)
-  - [Geknome Toony Paws](#geknome-toony-paws)
-  - [SpiltGrapeSoda 4 Finger Thumb Puffy Paw](#spiltgrapesoda-4-finger-thumb-puffy-paw)
-  - [CactusDogStudio Paw Pattern + Finger Escapes](#cactusdogstudio-paw-pattern-finger-escapes)
-  - [KiaFursuits Mochi Paw Pattern](#kiafursuits-mochi-paw-pattern)
-  - [WingLeafWorkshop "Cute" Handpaws](#wingleafworkshop-cute-handpaws)
-  - [BlackMarbleFursuits Puffy Paws](#blackmarblefursuits-puffy-paws)
-  - [KittenCafeStudios Puffy Paws](#kittencafestudios-puffy-paws)
-  - [MistyRivers Creations Puffy Paws](#mistyrivers-creations-puffy-paws)
-  - [Wild Fox Works Puffy Paw Pattern](#wild-fox-works-puffy-paw-pattern)
-  - [KaiyuWolfArt Puffy Paws](#kaiyuwolfart-puffy-paws)
-  - [DoubleTroubleFursuit Hand Paws](#doubletroublefursuit-hand-paws)
-  - [CervidaeDecay Fursuit Paw w/opt.Dewclaw](#cervidaedecay-fursuit-paw-w-opt-dewclaw)
-  - [CraftyCritterCabin Hand Paw Pattern](#craftycrittercabin-hand-paw-pattern)
-  - [Tinnatu Paws Semi-Slim Paw Pattern](#tinnatu-paws-semi-slim-paw-pattern)
-  - [KittenCafeStudios Toony Feral Paws](#kittencafestudios-toony-feral-paws)
-  - [KittenCafeStudios Anthro Paws](#kittencafestudios-anthro-paws)
-  - [MysticMalamute 4 Finger Paw](#mysticmalamute-4-finger-paw)
-- **[Helpful Extras](#helpful-extras)** — 12 cards
-  - [Matrices Alternative to DTD & Bodysuit Tutorial](#matrices-alternative-to-dtd-and-bodysuit-tutorial)
-  - [Custom Dress Form Male and Female (Alternative to DTDs!)](#custom-dress-form-male-and-female-alternative-to-dtds)
-  - [Matrices Tidy Tipped Fur Seams Tutorial](#matrices-tidy-tipped-fur-seams-tutorial)
-  - [Mantacrafts Fur Matching Service](#mantacrafts-fur-matching-service)
-  - [CollieClippings Colour Matching Service](#collieclippings-colour-matching-service)
-  - [Gatorwave Colour Picker Demo](#gatorwave-colour-picker-demo)
-  - [Skunky Designs Fur Shaving Tutorial](#skunky-designs-fur-shaving-tutorial)
-  - [CholyKnight's Sewing Practice Guide](#cholyknight-s-sewing-practice-guide)
-  - [Moving Jaw Guidebook](#moving-jaw-guidebook)
-  - [Changling Cat's Fursona Ita Bag Covers](#changling-cat-s-fursona-ita-bag-covers)
-  - [WingLeafWorkshop Plush Canine Pattern](#wingleafworkshop-plush-canine-pattern)
-  - [TeacupLion's Fursuit Making Guide](#teacuplion-s-fursuit-making-guide)
-- **[5 Finger Paw Patterns](#5-finger-paw-patterns)** — 23 cards
-  - [(FREE) Freakhound 5 Finger Paws](#free-freakhound-5-finger-paws)
-  - [(FREE) Mango_Savepoint Slim 5 Finger Paw](#free-mango-savepoint-slim-5-finger-paw)
-  - [Matrices 5 Finger Paw](#matrices-5-finger-paw)
-  - [Kloofsuit 5 Finger Paw](#kloofsuit-5-finger-paw)
-  - [YBL Suits 5 Finger Paw](#ybl-suits-5-finger-paw)
-  - [Mugiwara Simple 5 Finger Paw](#mugiwara-simple-5-finger-paw)
-  - [Mugiwara Puffy 5 Finger Paw](#mugiwara-puffy-5-finger-paw)
-  - [Missrars Creatures Puffy 5 Finger Paw](#missrars-creatures-puffy-5-finger-paw)
-  - [Missrars Creatures 5 Finger Applique Paw Pattern](#missrars-creatures-5-finger-applique-paw-pattern)
-  - [Oktavias Creature's 5 Finger Paw Pattern](#oktavias-creature-s-5-finger-paw-pattern)
-  - [Skunky Designs Slim 5 Finger Paw](#skunky-designs-slim-5-finger-paw)
-  - [WolfskinStudios 5 Finger Paws](#wolfskinstudios-5-finger-paws)
-  - [WolfskinStudios Monster 5 Finger Handpaw](#wolfskinstudios-monster-5-finger-handpaw)
-  - [GoatyGoods 5 Fingered Handpaws](#goatygoods-5-fingered-handpaws)
-  - [Tes 5 Finger Paw Pattern](#tes-5-finger-paw-pattern)
-  - [Sonstafurs 5 Finger Paws](#sonstafurs-5-finger-paws)
-  - [WingLeafWorkshop 5 Finger Paws](#wingleafworkshop-5-finger-paws)
-  - [WingLeafWorkshop 4 or 5 Fingered Puffy Paws](#wingleafworkshop-4-or-5-fingered-puffy-paws)
-  - [WingLeafWorkshop 4 or 5 Fingered Fluffy Paws](#wingleafworkshop-4-or-5-fingered-fluffy-paws)
-  - [TwilightKnights 5 Fingered Puffy Paw](#twilightknights-5-fingered-puffy-paw)
-  - [Thistlecrux 5 Finger Paws](#thistlecrux-5-finger-paws)
-  - [MysticMalamute 5 Finger Puffy Paw](#mysticmalamute-5-finger-puffy-paw)
-  - [MysticMalamute Flat 5 Finger Paw](#mysticmalamute-flat-5-finger-paw)
-- **[Ears](#ears)** — 23 cards
-  - [CactusDogStudio Floppy Ear Pattern](#cactusdogstudio-floppy-ear-pattern)
-  - [TwilightKnights 7 Ear pack](#twilightknights-7-ear-pack)
-  - [TwilightKnights 4 Ear pack](#twilightknights-4-ear-pack)
-  - [YBL 5 Ear Patterns](#ybl-5-ear-patterns)
-  - [Jaycostumes 7 Ear Patterns](#jaycostumes-7-ear-patterns)
-  - [TinnatuPaws 7 Ear Patterns](#tinnatupaws-7-ear-patterns)
-  - [Mugiwara Fennec Fox & Canine Headband Ears](#mugiwara-fennec-fox-and-canine-headband-ears)
-  - [Mugiwara Feline Headband Ears](#mugiwara-feline-headband-ears)
-  - [Mugiwara Bunny Headband Ears](#mugiwara-bunny-headband-ears)
-  - [BlackMarbleFursuits Lop Rabbit Ears](#blackmarblefursuits-lop-rabbit-ears)
-  - [DireCreatures 5 Species Ear Pack](#direcreatures-5-species-ear-pack)
-  - [TeacupLion Canine Ears](#teacuplion-canine-ears)
-  - [TeacupLion Pom Ears](#teacuplion-pom-ears)
-  - [TeacupLion Feline Ears](#teacuplion-feline-ears)
-  - [TeacupLion Floppy Ears](#teacuplion-floppy-ears)
-  - [MossyFox Bat Ears](#mossyfox-bat-ears)
-  - [MossyFox Fawn Ear Pattern](#mossyfox-fawn-ear-pattern)
-  - [TwilightKnights Ear Headbands](#twilightknights-ear-headbands)
-  - [HighValleyCreations Rabbit Ears](#highvalleycreations-rabbit-ears)
-  - [TrinesTreasury 6 Ear Patterns](#trinestreasury-6-ear-patterns)
-  - [MoonDeityCrafts Cat Ear Template](#moondeitycrafts-cat-ear-template)
-  - [SplitSharkSuits 5 Ear Styles](#splitsharksuits-5-ear-styles)
-  - [TheMishfitToy 15 Ear Patterns](#themishfittoy-15-ear-patterns)
-- **[Fursuit Hair](#fursuit-hair)** — 8 cards
-  - [MoonDeityCrafts Hair Poof](#moondeitycrafts-hair-poof)
-  - [SplitSharkStudios Mohawk Pattern](#splitsharkstudios-mohawk-pattern)
-  - [MugiqwaraCosplay Mane Pattern](#mugiqwaracosplay-mane-pattern)
-  - [werewolfprince666 Hair Tutorial](#werewolfprince666-hair-tutorial)
-  - [KittenCafeStudios Neck Donut Poof](#kittencafestudios-neck-donut-poof)
-  - [TeacupLion 4 Cheek Fluffs](#teacuplion-4-cheek-fluffs)
-  - [TeacupLion Head Fluff](#teacuplion-head-fluff)
-  - [TeacupLion Deluxe Emo Hair](#teacuplion-deluxe-emo-hair)
-- **[Canine & Generic Feet Paws](#canine-and-generic-feet-paws)** — 48 cards
-  - [(FREE) FoxFire Fantasy Feral Canine Slim Paws](#free-foxfire-fantasy-feral-canine-slim-paws)
-  - [FoxFire Fantasy Fox Foot Pattern](#foxfire-fantasy-fox-foot-pattern)
-  - [Freakhound Sock Paw](#freakhound-sock-paw)
-  - [Matrices PlantiFootpaw](#matrices-plantifootpaw)
-  - [YBL Suits Puffy Footpaw](#ybl-suits-puffy-footpaw)
-  - [SpiltGrapeSoda Digi Feetpaws V1](#spiltgrapesoda-digi-feetpaws-v1)
-  - [SpiltGrapeSoda Digi V2 Indoor + Outdoor](#spiltgrapesoda-digi-v2-indoor-outdoor)
-  - [SpiltGrapeSoda Planti V1](#spiltgrapesoda-planti-v1)
-  - [SpiltGrapeSoda Planti V2](#spiltgrapesoda-planti-v2)
-  - [SpiltGrapeSoda Slim Feet Paw](#spiltgrapesoda-slim-feet-paw)
-  - [Pseudocanid Slim Planti Feet/Sockpaw](#pseudocanid-slim-planti-feet-sockpaw)
-  - [Pseudocanid Stompy Sock/Feetpaws](#pseudocanid-stompy-sock-feetpaws)
-  - [Apoxon Industries Slim Fleece Sockpaw](#apoxon-industries-slim-fleece-sockpaw)
-  - [FurSmoothie Footpaw Pattern](#fursmoothie-footpaw-pattern)
-  - [FurSmoothie Mochi Indoor Sockpaws](#fursmoothie-mochi-indoor-sockpaws)
-  - [KemoCube Slim Mochi Sockpaw](#kemocube-slim-mochi-sockpaw)
-  - [Neffertity Digi Paws](#neffertity-digi-paws)
-  - [Mugiwara Stompy Sock Paws](#mugiwara-stompy-sock-paws)
-  - [Mugiwara V2 Stompy Sock Paws](#mugiwara-v2-stompy-sock-paws)
-  - [Mugiwara Sock Paws](#mugiwara-sock-paws)
-  - [TwilightKnights Digi Sockpaws](#twilightknights-digi-sockpaws)
-  - [TwilightKnights Foam Feetpaws](#twilightknights-foam-feetpaws)
-  - [SaberWolfStudio Digi Foam Feet Pattern](#saberwolfstudio-digi-foam-feet-pattern)
-  - [LobitoWorks Footpaw STRAPS](#lobitoworks-footpaw-straps)
-  - [LobitoWorks Footpaw LINER](#lobitoworks-footpaw-liner)
-  - [Missrars Creatures Foundation Foot Liner (10 sizes)](#missrars-creatures-foundation-foot-liner-10-sizes)
-  - [Matrices Tutorial Liners and Soles for Stuffed Feetpaws](#matrices-tutorial-liners-and-soles-for-stuffed-feetpaws)
-  - [Ricochetxcrafts Digi Toes](#ricochetxcrafts-digi-toes)
-  - [OllyFur Digi Feet Paw Pattern](#ollyfur-digi-feet-paw-pattern)
-  - [Tes Feetpaws](#tes-feetpaws)
-  - [OktaviasCreatures Indoor Feetpaws](#oktaviascreatures-indoor-feetpaws)
-  - [Mugiwara Stompy Feet Paws](#mugiwara-stompy-feet-paws)
-  - [Mugiwara Digi Feetpaws](#mugiwara-digi-feetpaws)
-  - [TrinesTreasures Foam Feet Paws](#trinestreasures-foam-feet-paws)
-  - [Mugiwara Foam Feetpaws](#mugiwara-foam-feetpaws)
-  - [Mugiwara 4 Toed Digi Foam Feet](#mugiwara-4-toed-digi-foam-feet)
-  - [PlexiCosplay Paw Shoe Cover](#plexicosplay-paw-shoe-cover)
-  - [RedSewsShop Digi Feetpaws](#redsewsshop-digi-feetpaws)
-  - [Charred Fursuits Foot Paw](#charred-fursuits-foot-paw)
-  - [Thistlecrux Digi Feet Paw](#thistlecrux-digi-feet-paw)
-  - [RitaFoxFursuits UltraSlim Paws](#ritafoxfursuits-ultraslim-paws)
-  - [TeacupLion Feet Paws](#teacuplion-feet-paws)
-  - [Flower Fur Studio Feet Paws](#flower-fur-studio-feet-paws)
-  - [EtherealFursuits Digi Feetpaws](#etherealfursuits-digi-feetpaws)
-  - [Geknome Slim Plantigrade Feet Paws](#geknome-slim-plantigrade-feet-paws)
-  - [NicosFurryFriends V1 Slim Foot Paw](#nicosfurryfriends-v1-slim-foot-paw)
-  - [NicosFurryFriends V2 Slim Footpaw](#nicosfurryfriends-v2-slim-footpaw)
-  - [WingLeafWorkshop 2 Foam Feet](#wingleafworkshop-2-foam-feet)
-- **[Canine/Hyena Tails](#canine-hyena-tails)** — 46 cards
-  - [(FREE) FoxFire Fantasy Canine Tail](#free-foxfire-fantasy-canine-tail)
-  - [Fur Smoothie 4 Tail Pattern Pack](#fur-smoothie-4-tail-pattern-pack)
-  - [Oktavia's Creatures Hyena Tail](#oktavia-s-creatures-hyena-tail)
-  - [Neffertity Super Motion Canine Tail](#neffertity-super-motion-canine-tail)
-  - [Spiltgrapesoda Large Canine Tail](#spiltgrapesoda-large-canine-tail)
-  - [Spiltgrapesoda Fox Tail](#spiltgrapesoda-fox-tail)
-  - [YBL Suits Canine Tail](#ybl-suits-canine-tail)
-  - [Mugiwara Canine Tail](#mugiwara-canine-tail)
-  - [Skunky Designs Large Nub Tail](#skunky-designs-large-nub-tail)
-  - [KoiFishyCostumes Mini Canine Tail](#koifishycostumes-mini-canine-tail)
-  - [HowlingDragonStudios Canine Tail](#howlingdragonstudios-canine-tail)
-  - [werewolfprince666 Wolf Tail](#werewolfprince666-wolf-tail)
-  - [werewolfprince666 Waggy Tail](#werewolfprince666-waggy-tail)
-  - [werewolfprince666 Fox Tail](#werewolfprince666-fox-tail)
-  - [werewolfprince666 Hyena Tail](#werewolfprince666-hyena-tail)
-  - [PawsAndMaws Bluey Tail](#pawsandmaws-bluey-tail)
-  - [wormyfur Hyena Tail](#wormyfur-hyena-tail)
-  - [PinkusCraftyCottage Relaxed Dog Tail](#pinkuscraftycottage-relaxed-dog-tail)
-  - [PinkusCraftyCottage Fox Tail](#pinkuscraftycottage-fox-tail)
-  - [PinkusCraftyCottage Wolf Tail](#pinkuscraftycottage-wolf-tail)
-  - [PinkusCraftyCottage Wagging Tail](#pinkuscraftycottage-wagging-tail)
-  - [Saberwolfstudio Canine Tail](#saberwolfstudio-canine-tail)
-  - [FarOutFursuits Short Waggy Tail](#faroutfursuits-short-waggy-tail)
-  - [MikomiKawaii Canine Tail](#mikomikawaii-canine-tail)
-  - [SweetCiderCreation Large Canine Tail Pattern](#sweetcidercreation-large-canine-tail-pattern)
-  - [FigFur Canine Tail Pattern](#figfur-canine-tail-pattern)
-  - [Missrars Creatures Kitsune Fox Tail](#missrars-creatures-kitsune-fox-tail)
-  - [Geknome Canine Tail](#geknome-canine-tail)
-  - [RedSewsShop Wolf Tail](#redsewsshop-wolf-tail)
-  - [HighValleyCreation Canine Tail](#highvalleycreation-canine-tail)
-  - [PunkyIggy Canine/Shepard Tail](#punkyiggy-canine-shepard-tail)
-  - [KodaSuits Canine Tail](#kodasuits-canine-tail)
-  - [werewolfprince666 Striped Hyena Tail](#werewolfprince666-striped-hyena-tail)
-  - [TeacupLion XL Wolf + Cat Tail](#teacuplion-xl-wolf-cat-tail)
-  - [TeacupLion Canine Tail](#teacuplion-canine-tail)
-  - [KittenCafeStudios Fox/Wolf Tail](#kittencafestudios-fox-wolf-tail)
-  - [Sonstafurs Medium Nub Tail](#sonstafurs-medium-nub-tail)
-  - [werewolfprince666 XL Canine Tail](#werewolfprince666-xl-canine-tail)
-  - [MistyRivers Creations](#mistyrivers-creations)
-  - [SweetCiderCreation Hyena Tail](#sweetcidercreation-hyena-tail)
-  - [Geknome Waggy Tail](#geknome-waggy-tail)
-  - [PuzzlePatchworks Dog/Wolf Tail](#puzzlepatchworks-dog-wolf-tail)
-  - [PuzzlePatchworks Big Wolf Tail](#puzzlepatchworks-big-wolf-tail)
-  - [KanixStudios Canine Tail](#kanixstudios-canine-tail)
-  - [Yugoro Articulated Canine Tail](#yugoro-articulated-canine-tail)
-  - [WingLeafWorkshop Foam Canine Tail](#wingleafworkshop-foam-canine-tail)
-- **[Necks & Dino Mask Hoods](#necks-and-dino-mask-hoods)** — 17 cards
-  - [Sheenitude Neck Pattern](#sheenitude-neck-pattern)
-  - [YBL Neck Pattern](#ybl-neck-pattern)
-  - [Jaycostumes Fursuit Neck](#jaycostumes-fursuit-neck)
-  - [Jaycostumes Neck & Ear Patterns](#jaycostumes-neck-and-ear-patterns)
-  - [SpiltGrapeSoda Raptor Mask Hood/Neck Pattern](#spiltgrapesoda-raptor-mask-hood-neck-pattern)
-  - [Hiero Crafts Creations DVC Skull Hood](#hiero-crafts-creations-dvc-skull-hood)
-  - [Geknome Neck Pattern V1 + V2](#geknome-neck-pattern-v1-v2)
-  - [FurgetfulFaeFursuits Neck Pattern](#furgetfulfaefursuits-neck-pattern)
-  - [TwinklesArtStudio Dino Mask Hood](#twinklesartstudio-dino-mask-hood)
-  - [FormidableFriends Dino Mask Hood](#formidablefriends-dino-mask-hood)
-  - [TwilightKnights Lined Fursuit Hood](#twilightknights-lined-fursuit-hood)
-  - [Mayingfatasy Dino Hood](#mayingfatasy-dino-hood)
-  - [Geknome Dino Mask Hood + Ear Pattern](#geknome-dino-mask-hood-ear-pattern)
-  - [SplitSharkStudios Dino Hood](#splitsharkstudios-dino-hood)
-  - [North Cat Creations Fursuit Neck Pattern](#north-cat-creations-fursuit-neck-pattern)
-  - [TeacupLion Neck Pattern](#teacuplion-neck-pattern)
-  - [TeacupLion Neck & Head Back](#teacuplion-neck-and-head-back)
-- **[Wings/Feathers](#wings-feathers)** — 27 cards
-  - [Pseudocanid Bird Wings/Arms](#pseudocanid-bird-wings-arms)
-  - [Oktavia's Creatures Fabric Feathers](#oktavia-s-creatures-fabric-feathers)
-  - [Mugiwara Tail Feathers](#mugiwara-tail-feathers)
-  - [Mugiwara Feather Patterns](#mugiwara-feather-patterns)
-  - [Mugiwara Bird Arm Wings](#mugiwara-bird-arm-wings)
-  - [Mugiwara Angel Dragon Wings](#mugiwara-angel-dragon-wings)
-  - [Mugiwara Bat/Dragon Wing V1](#mugiwara-bat-dragon-wing-v1)
-  - [Mugiwara Bat/Dragon Wing V2](#mugiwara-bat-dragon-wing-v2)
-  - [Mugiwara Bird Tail](#mugiwara-bird-tail)
-  - [Mugiwara Mini Arm Wings (3 Lengths)](#mugiwara-mini-arm-wings-3-lengths)
-  - [North Cat Creations Wings](#north-cat-creations-wings)
-  - [North Cat Creations Feathered Tail](#north-cat-creations-feathered-tail)
-  - [TwilightKnights Large Fursuit Wings](#twilightknights-large-fursuit-wings)
-  - [PinkusCraftyCottage Bird Tail](#pinkuscraftycottage-bird-tail)
-  - [BasilMintCreation Bird Wings](#basilmintcreation-bird-wings)
-  - [Kazplay DIY Wing Harness](#kazplay-diy-wing-harness)
-  - [ricochetxcrafts Bird Wings](#ricochetxcrafts-bird-wings)
-  - [ricochetxcrafts Bird tail](#ricochetxcrafts-bird-tail)
-  - [FaeTrinkets Tail Template](#faetrinkets-tail-template)
-  - [MossyFox Bat Wing Pattern](#mossyfox-bat-wing-pattern)
-  - [KittenCafeStudios 5 Styles Small Fursuit Wings](#kittencafestudios-5-styles-small-fursuit-wings)
-  - [TheCasualFriday Wing Hands](#thecasualfriday-wing-hands)
-  - [ricochetxcrafts Toony Bird Tail](#ricochetxcrafts-toony-bird-tail)
-  - [ricochetxcrafts Mini Wings + Harness](#ricochetxcrafts-mini-wings-harness)
-  - [ricochetxcrafts Fantasy/Lugia Wings](#ricochetxcrafts-fantasy-lugia-wings)
-  - [ChevalHoof Wing Pattern](#chevalhoof-wing-pattern)
-  - [NearValkyrie Butterfly Wings](#nearvalkyrie-butterfly-wings)
-- **[Feline Tails](#feline-tails)** — 20 cards
-  - [(FREE) FoxFire Fantasy Snow Leopard Tail](#free-foxfire-fantasy-snow-leopard-tail)
-  - [Neffertity Super Motion Feline Tail](#neffertity-super-motion-feline-tail)
-  - [Mugiwara Simple Cat Tail](#mugiwara-simple-cat-tail)
-  - [Mugiwara Lion Tail](#mugiwara-lion-tail)
-  - [Mugiwara Tiger Tail](#mugiwara-tiger-tail)
-  - [Skunky Designs Cat Tail](#skunky-designs-cat-tail)
-  - [Saberwolfstudio Feline Tail](#saberwolfstudio-feline-tail)
-  - [SpiltGrapeSoda Large Feline Tail](#spiltgrapesoda-large-feline-tail)
-  - [PinkusCraftyCottage Cheetah Pattern](#pinkuscraftycottage-cheetah-pattern)
-  - [PinkusCraftyCottage 3 Tiger Patterns](#pinkuscraftycottage-3-tiger-patterns)
-  - [KoiFishyCostumes Cat Tail](#koifishycostumes-cat-tail)
-  - [KnittinKittenFashion Cat Tail](#knittinkittenfashion-cat-tail)
-  - [KiaFursuits 2 Sizes Feline Tail](#kiafursuits-2-sizes-feline-tail)
-  - [HowlingDragonStudios Big Cat Tail](#howlingdragonstudios-big-cat-tail)
-  - [Geknome Floor Dragger Feline Tail](#geknome-floor-dragger-feline-tail)
-  - [Sonstafurs Cat Tail](#sonstafurs-cat-tail)
-  - [Sonstafurs Lion Tail](#sonstafurs-lion-tail)
-  - [HighValleyCreations Cat Tail](#highvalleycreations-cat-tail)
-  - [SweetCiderCreation Large Feline Tail](#sweetcidercreation-large-feline-tail)
-  - [KanixStudios Feline Tail](#kanixstudios-feline-tail)
-- **[Nub Tails](#nub-tails)** — 28 cards
-  - [Mugiwara Bunny/Deer/Nub Tail](#mugiwara-bunny-deer-nub-tail)
-  - [Mugiwara Large Nub Tail](#mugiwara-large-nub-tail)
-  - [Skunky Designs Nub Tail](#skunky-designs-nub-tail)
-  - [KoiFishyCostumes Dino Tail](#koifishycostumes-dino-tail)
-  - [KoiFishyCostumes Nub Tail V1](#koifishycostumes-nub-tail-v1)
-  - [KoiFishyCostumes Nub Tail V2](#koifishycostumes-nub-tail-v2)
-  - [FurgetfulFaeFursuits Deer/Nub Tail](#furgetfulfaefursuits-deer-nub-tail)
-  - [Locomotion Fursuits Nub Tail](#locomotion-fursuits-nub-tail)
-  - [werewolfprince666 Nub Tail](#werewolfprince666-nub-tail)
-  - [StuffedTailsFurs Nub Tail](#stuffedtailsfurs-nub-tail)
-  - [Geknome Nub Tail](#geknome-nub-tail)
-  - [FormidableFriends Nub Tail](#formidablefriends-nub-tail)
-  - [SpiltGrapeSoda Nub Tail](#spiltgrapesoda-nub-tail)
-  - [Geknome V2 Nub Tail](#geknome-v2-nub-tail)
-  - [BeepsCreatures Nub Tail](#beepscreatures-nub-tail)
-  - [PinkusCraftyCottage Nub tail](#pinkuscraftycottage-nub-tail)
-  - [PinkusCraftyCottage Deer Tail](#pinkuscraftycottage-deer-tail)
-  - [FigFur Nub Tail](#figfur-nub-tail)
-  - [HowlingDragonStudios Nub Tail](#howlingdragonstudios-nub-tail)
-  - [Sonstafurs Nub Tail](#sonstafurs-nub-tail)
-  - [HighValleyCreation "Bear" Tail](#highvalleycreation-bear-tail)
-  - [HighValleyCreation "Bunny" Tail](#highvalleycreation-bunny-tail)
-  - [KittenCafeStudios Nub Tail](#kittencafestudios-nub-tail)
-  - [KiaFursuits Nub Tail](#kiafursuits-nub-tail)
-  - [ChevalHoof Nub Tail](#chevalhoof-nub-tail)
-  - [KittenCafeStudios Deer Tail](#kittencafestudios-deer-tail)
-  - [PuzzlePatchworks Deer Pattern](#puzzlepatchworks-deer-pattern)
-  - [DoubleTroubleFursuit Nub Tail](#doubletroublefursuit-nub-tail)
-- **[Tongues](#tongues)** — 14 cards
-  - [Mugiwara 7 Tongue Patterns](#mugiwara-7-tongue-patterns)
-  - [KoiFishyCostumes](#koifishycostumes)
-  - [HowlingDragonStudios 3 tongue lengths](#howlingdragonstudios-3-tongue-lengths)
-  - [werewolfprince666 Teeth and Tongues](#werewolfprince666-teeth-and-tongues)
-  - [Matrices Sewn Teeth Tutorial](#matrices-sewn-teeth-tutorial)
-  - [Matrices Tongue Tutorial](#matrices-tongue-tutorial)
-  - [Mayingfantasy 5 Tongue Patterns](#mayingfantasy-5-tongue-patterns)
-  - [FrostyFurs 6 Tongue Shapes](#frostyfurs-6-tongue-shapes)
-  - [FurryBunBun Flexible Tongue Pattern](#furrybunbun-flexible-tongue-pattern)
-  - [BlackMarbleFursuits 3 Tongues](#blackmarblefursuits-3-tongues)
-  - [KittenCafeStudios Tongue Pattern](#kittencafestudios-tongue-pattern)
-  - [CactusDogStudio Velcro Bird Tongue (3 sizes)](#cactusdogstudio-velcro-bird-tongue-3-sizes)
-  - [MoonDeityCrafts Tongue Templates (Snake + Normal)](#moondeitycrafts-tongue-templates-snake-normal)
-  - [Kodasuits Forked Tongue](#kodasuits-forked-tongue)
-- **[Other Species Hand Paws](#other-species-hand-paws)** — 25 cards
-  - [Oktavia's Creatures Dragon/Sergal Paws](#oktavia-s-creatures-dragon-sergal-paws)
-  - [SoulEnterprise Bird/Reptile Hands](#soulenterprise-bird-reptile-hands)
-  - [Neffertity Hand Paws](#neffertity-hand-paws)
-  - [Webbed Paws Tutorial](#webbed-paws-tutorial)
-  - [MakeAFur 3 Finger Monster Paws](#makeafur-3-finger-monster-paws)
-  - [MakeAFur 4 Finger Monster Paws](#makeafur-4-finger-monster-paws)
-  - [Mugiwara Wickerbeast Paws](#mugiwara-wickerbeast-paws)
-  - [Mugiwara Monster Paw](#mugiwara-monster-paw)
-  - [Mugiwara 3 Finger Paw](#mugiwara-3-finger-paw)
-  - [TheCasualFriday Toony Paws](#thecasualfriday-toony-paws)
-  - [StuffedTailsFursuits Wickerbeast Paws](#stuffedtailsfursuits-wickerbeast-paws)
-  - [TLAASuitsnMore Toony Raptor Hand](#tlaasuitsnmore-toony-raptor-hand)
-  - [softplushdigital Big Claw Paws](#softplushdigital-big-claw-paws)
-  - [TheRaptorsShop Synth Paws 4 or 5 fingers](#theraptorsshop-synth-paws-4-or-5-fingers)
-  - [AkelaTakaWolf Slim 4 Finger Paw](#akelatakawolf-slim-4-finger-paw)
-  - [FatUnicornCosplay Finger Claws/Armor (or single files)](#fatunicorncosplay-finger-claws-armor-or-single-files)
-  - [OpossumCafe Opossum Handpaw Pattern](#opossumcafe-opossum-handpaw-pattern)
-  - [HaxCreative 5 Finger Webbed Paws](#haxcreative-5-finger-webbed-paws)
-  - [NocturnalStudioss Spider/Bug Paws](#nocturnalstudioss-spider-bug-paws)
-  - [TwilightKnights Wickerbeast Handpaws](#twilightknights-wickerbeast-handpaws)
-  - [Sonstafurs Bird/Reptile/Dinosaur paws](#sonstafurs-bird-reptile-dinosaur-paws)
-  - [RudeBirdStudios Mochi Bird/Dragon/Reptile Hand Paw Patter](#rudebirdstudios-mochi-bird-dragon-reptile-hand-paw-patter)
-  - [WolfskinStudios Bear Paw Pattern](#wolfskinstudios-bear-paw-pattern)
-  - [Finch Factory Bird Hands](#finch-factory-bird-hands)
-  - [BetweenSpace&Sea Seal Hand and Tail Pattern](#betweenspaceandsea-seal-hand-and-tail-pattern)
-- **[Other Species Feet Paws](#other-species-feet-paws)** — 12 cards
-  - [Mugiwara Bird Sock Feet](#mugiwara-bird-sock-feet)
-  - [Mugiwara 3 Toe Digi Feet Paws](#mugiwara-3-toe-digi-feet-paws)
-  - [Mugiwara 3 Toe Feet Paws](#mugiwara-3-toe-feet-paws)
-  - [Mugiwara Sock Raptor Feet](#mugiwara-sock-raptor-feet)
-  - [Ricochetxcrafts FOAM Feet Claws](#ricochetxcrafts-foam-feet-claws)
-  - [Mugiwara Foam 3 Toed Feetpaws](#mugiwara-foam-3-toed-feetpaws)
-  - [Mugiwara Sergal Foam Feet](#mugiwara-sergal-foam-feet)
-  - [RedSewsShop Bird Feet](#redsewsshop-bird-feet)
-  - [TheRaptorShop Synth Feet paws](#theraptorshop-synth-feet-paws)
-  - [OpossumCafe Indoor Opossum/Rodent Feetpaws](#opossumcafe-indoor-opossum-rodent-feetpaws)
-  - [RudeBirdStudios Bird/Dragon/Dino Feet](#rudebirdstudios-bird-dragon-dino-feet)
-  - [RudeBirdStudios 3 Toed Paw Pattern](#rudebirdstudios-3-toed-paw-pattern)
-- **[Head Liners](#head-liners)** — 21 cards
-  - [(FREE) Kloofsuits Basic Balaclava](#free-kloofsuits-basic-balaclava)
-  - [TwilightKnights Head Lining Tutorial](#twilightknights-head-lining-tutorial)
-  - [SoftpawsStudios Head & Neck Liner](#softpawsstudios-head-and-neck-liner)
-  - [CharredFursuits Head Lining](#charredfursuits-head-lining)
-  - [Oktavia's Creatures Balaclava Pattern](#oktavia-s-creatures-balaclava-pattern)
-  - [MissrarsCreatures Hood Pattern](#missrarscreatures-hood-pattern)
-  - [Geknome Head Base Lining](#geknome-head-base-lining)
-  - [KieferCat Balaclava with Optional Zipper](#kiefercat-balaclava-with-optional-zipper)
-  - [Drachen_katze Fursuit Head Liner with Zipper](#drachen-katze-fursuit-head-liner-with-zipper)
-  - [SoftPawsStudios Head Liner & Balaclava](#softpawsstudios-head-liner-and-balaclava)
-  - [Skunky Designs Head Liner](#skunky-designs-head-liner)
-  - [ObleStudios Head Lining Pattern](#oblestudios-head-lining-pattern)
-  - [werewolfprincess666 Head Liner Pattern + Tutorial](#werewolfprincess666-head-liner-pattern-tutorial)
-  - [PlaidPawsbyMaus Neck Pattern](#plaidpawsbymaus-neck-pattern)
-  - [HighValleyCreation Head Liner](#highvalleycreation-head-liner)
-  - [GoldenReliic Head and Neck Liner](#goldenreliic-head-and-neck-liner)
-  - [werewolfprince666 Expanding Foam Head Base Pattern](#werewolfprince666-expanding-foam-head-base-pattern)
-  - [werewolfprince666 Head Liner Tutorial](#werewolfprince666-head-liner-tutorial)
-  - [BloodngOOld Fursuit Neck + Hood](#bloodngoold-fursuit-neck-hood)
-  - [OtterHalfCostumes Lined Neck w/Zipper](#otterhalfcostumes-lined-neck-w-zipper)
-  - [OtterHalfCostumes Adjustable Head Base Liner](#otterhalfcostumes-adjustable-head-base-liner)
-- **[Horns](#horns)** — 15 cards
-  - [Mugiwara Horns](#mugiwara-horns)
-  - [KivovisSuits Plush Curled Horns](#kivovissuits-plush-curled-horns)
-  - [RockyRainbowStudios Curved Plush Horn](#rockyrainbowstudios-curved-plush-horn)
-  - [FishPishStudios Plush Unicorn Horn](#fishpishstudios-plush-unicorn-horn)
-  - [LostWax 12 EVA Horns](#lostwax-12-eva-horns)
-  - [KamuiCosplay Horn Multipack V1 (5 styles, or sold individually)](#kamuicosplay-horn-multipack-v1-5-styles-or-sold-individually)
-  - [KamuiCosplay Horn Multipack V2 (7 styles, or sold individually)](#kamuicosplay-horn-multipack-v2-7-styles-or-sold-individually)
-  - [Sayakat Cosplay 7 Foam Oni Horns](#sayakat-cosplay-7-foam-oni-horns)
-  - [TrinesTreasury Ram's Horn Pack (5 in pack or singles)](#trinestreasury-ram-s-horn-pack-5-in-pack-or-singles)
-  - [TrinesTreasury Single Horns + Antler Sold Seperately](#trinestreasury-single-horns-antler-sold-seperately)
-  - [FatUnicornCosplay Horn Multipacks & Singles (12 Patterns Total)](#fatunicorncosplay-horn-multipacks-and-singles-12-patterns-to)
-  - [KittenCafeStudios 3 Plush Horns and Antlers](#kittencafestudios-3-plush-horns-and-antlers)
-  - [ATD Fursuits Pleated Horn TUTORIAL](#atd-fursuits-pleated-horn-tutorial)
-  - [ChilliCosplay 14 Horn Patterns](#chillicosplay-14-horn-patterns)
-  - [Siwencosplaypatterns 5 Horn Patterns](#siwencosplaypatterns-5-horn-patterns)
-- **[Noses](#noses)** — 9 cards
-  - [Curlworks Pickable Canine + Feline Nose (FREE)](#curlworks-pickable-canine-feline-nose-free)
-  - [(FREE) DoubleTroubleFursuit Ferret Nose](#free-doubletroublefursuit-ferret-nose)
-  - [Mugiwara Canine Noses](#mugiwara-canine-noses)
-  - [TwilightKnights Canine Nose](#twilightknights-canine-nose)
-  - [FrostiHadaSundae Pickable Nose Pattern](#frostihadasundae-pickable-nose-pattern)
-  - [TeacupLion Cat and Dog Nose](#teacuplion-cat-and-dog-nose)
-  - [KittenCafeStudios Fursuit Nose](#kittencafestudios-fursuit-nose)
-  - [FrostiHadaSundae Bat Nose Pattern](#frostihadasundae-bat-nose-pattern)
-  - [KaiyuWolfArt Pickabable Nose Pattern](#kaiyuwolfart-pickabable-nose-pattern)
-- **[Feet Hooves](#feet-hooves)** — 12 cards
-  - [Apoxon Industries Fleece Hooves](#apoxon-industries-fleece-hooves)
-  - [Apoxon Industries Fleece Cloven Hooves](#apoxon-industries-fleece-cloven-hooves)
-  - [FurSmoothie FOAM Cloven Hooves](#fursmoothie-foam-cloven-hooves)
-  - [Ricochetxcrafts FOAM feet hooves](#ricochetxcrafts-foam-feet-hooves)
-  - [Mugiwara Cloven Sock Hooves](#mugiwara-cloven-sock-hooves)
-  - [SkyehighStudios Feet Hooves](#skyehighstudios-feet-hooves)
-  - [Spiltgrapesoda Planti Hoof Pattern](#spiltgrapesoda-planti-hoof-pattern)
-  - [Spiltgrapesoda Digi Hoof Pattern](#spiltgrapesoda-digi-hoof-pattern)
-  - [PremiumFauntent EVA Hoof Template](#premiumfauntent-eva-hoof-template)
-  - [Mugiwara Digi Horse Hoof](#mugiwara-digi-horse-hoof)
-  - [Mugiwara Digi Cloven Hoof](#mugiwara-digi-cloven-hoof)
-  - [Sonstafurs Horse Feethooves](#sonstafurs-horse-feethooves)
-- **[Feral Canine Paws](#feral-canine-paws)** — 8 cards
-  - [(FREE) Foxfire Fantasy Feral Canine](#free-foxfire-fantasy-feral-canine)
-  - [(FREE) Foxfire Fantasy "Fox" Slim Canine](#free-foxfire-fantasy-fox-slim-canine)
-  - [Freakhound Feral Paw](#freakhound-feral-paw)
-  - [Mugiwara Simple Feral Paw](#mugiwara-simple-feral-paw)
-  - [Missrars Creatures Feral Canine](#missrars-creatures-feral-canine)
-  - [WolfskinStudios Feral Puffy Paw](#wolfskinstudios-feral-puffy-paw)
-  - [SkyehighStudios Feral Paws](#skyehighstudios-feral-paws)
-  - [SpiltGrape Feral Paws](#spiltgrape-feral-paws)
-- **[Mitten Paws](#mitten-paws)** — 9 cards
-  - [SpiltGrapeSoda V2 Mittens](#spiltgrapesoda-v2-mittens)
-  - [SpiltGrapeSoda V1 Mittens](#spiltgrapesoda-v1-mittens)
-  - [WittleStudios Mittens](#wittlestudios-mittens)
-  - [The Manic Macaw Mitten Paws](#the-manic-macaw-mitten-paws)
-  - [Breezy Akita Mitten Paws w/thumb V1](#breezy-akita-mitten-paws-w-thumb-v1)
-  - [Breezy Akita Mitten Paws w/Thumb V2](#breezy-akita-mitten-paws-w-thumb-v2)
-  - [BirchDoesWorks Mitten Paws](#birchdoesworks-mitten-paws)
-  - [Geknome Mitten Paws](#geknome-mitten-paws)
-  - [Sonstafurs Mitten Paws](#sonstafurs-mitten-paws)
-- **[List-6490f8](#list-6490f8)** — 17 cards
-  - [(FREE) Freakhound Curly Tail](#free-freakhound-curly-tail)
-  - [Pseudocanid Curly Tail V1](#pseudocanid-curly-tail-v1)
-  - [Pseudocanid Curly Tail V2](#pseudocanid-curly-tail-v2)
-  - [YBL Suits Perky Tail](#ybl-suits-perky-tail)
-  - [YBL Suits Husky Tail](#ybl-suits-husky-tail)
-  - [Mugiwara Curl Tail](#mugiwara-curl-tail)
-  - [North Cat Creations Curly Tail](#north-cat-creations-curly-tail)
-  - [FennecFemme Long Curly Tail](#fennecfemme-long-curly-tail)
-  - [DireCreatures Curly Tail](#direcreatures-curly-tail)
-  - [GoatyGoods Husky Curly Tail](#goatygoods-husky-curly-tail)
-  - [FurryTimeCreations Long Curly Tail](#furrytimecreations-long-curly-tail)
-  - [PinkusCraftyCottage Tight Curl Tail](#pinkuscraftycottage-tight-curl-tail)
-  - [Missrars Creatures Husky Tail](#missrars-creatures-husky-tail)
-  - [KiaFursuits 2 Sizes Canine Tail](#kiafursuits-2-sizes-canine-tail)
-  - [SpiltGrapeSoda Standard Curly Tail Pattern](#spiltgrapesoda-standard-curly-tail-pattern)
-  - [SpiltGrapeSoda Upright Curly Tail Pattern](#spiltgrapesoda-upright-curly-tail-pattern)
-  - [SpiltGrapeSoda Relaxed Curly Tail Pattern](#spiltgrapesoda-relaxed-curly-tail-pattern)
-- **[List-64aae0](#list-64aae0)** — 10 cards
-  - [(FREE) Maim Back of Head Shell](#free-maim-back-of-head-shell)
-  - [(Free) Freakhound Foam Sphere](#free-freakhound-foam-sphere)
-  - [Corgileg Crafts Bucket Base](#corgileg-crafts-bucket-base)
-  - [YBL Bucket Head](#ybl-bucket-head)
-  - [MissrarsCreatures Foam Base](#missrarscreatures-foam-base)
-  - [SoulEnterprise Bucket Pattern](#soulenterprise-bucket-pattern)
-  - [SkyehighStudios Bucket Head Base](#skyehighstudios-bucket-head-base)
-  - [DoubleTroubleFursuit Head Dome](#doubletroublefursuit-head-dome)
-  - [FatUnicornCosplay Basic Helmet](#fatunicorncosplay-basic-helmet)
-  - [Geknome Bucket Head](#geknome-bucket-head)
-- **[List-65dd11](#list-65dd11)** — 5 cards
-  - [Skunky Designs Embroidery File for Claws](#skunky-designs-embroidery-file-for-claws)
-  - [FrostyFurs ITH 6 Claw Files](#frostyfurs-ith-6-claw-files)
-  - [FrostyFurs 6 Tongue Files](#frostyfurs-6-tongue-files)
-  - [FrostiHadaSundae Hand Paw Files](#frostihadasundae-hand-paw-files)
-  - [FrostiHadaSundae Foot Paw Files](#frostihadasundae-foot-paw-files)
-- **[List-64a883](#list-64a883)** — 6 cards
-  - [Kloofsuits Canine V1 Pattern](#kloofsuits-canine-v1-pattern)
-  - [Kloofsuits Canine V2 Pattern](#kloofsuits-canine-v2-pattern)
-  - [Kloofsuits Fox Base Pattern](#kloofsuits-fox-base-pattern)
-  - [Kloofsuits Deer Base Pattern](#kloofsuits-deer-base-pattern)
-  - [Kloofsuits Domestic Cat Pattern](#kloofsuits-domestic-cat-pattern)
-  - [Kloofsuits Big Cat Pattern](#kloofsuits-big-cat-pattern)
+<div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:12px;margin-top:16px;">
+<div style="border:1px solid #ddd;border-radius:8px;padding:12px;"><strong><a href="#generic-or-puffy-paws">Generic or Puffy Paws</a></strong><br>54 cards<br><img src="https://trello.com/1/cards/649064bceb3b3d7a3d8a4404/attachments/649064c3b1d221f657be9125/download/image.png" style="max-width:100%;border-radius:4px;margin-top:8px;" loading="lazy"></div>
+<div style="border:1px solid #ddd;border-radius:8px;padding:12px;"><strong><a href="#5-finger-paw-patterns">5 Finger Paw Patterns</a></strong><br>23 cards<br><img src="https://trello.com/1/cards/649077834fe37091f5a35a9e/attachments/64907792de38c2824b52cfd4/download/image.png" style="max-width:100%;border-radius:4px;margin-top:8px;" loading="lazy"></div>
+<div style="border:1px solid #ddd;border-radius:8px;padding:12px;"><strong><a href="#mitten-paws">Mitten Paws</a></strong><br>9 cards<br><img src="https://trello.com/1/cards/66b7a56fe8bd93b6d5cd2eab/attachments/66b7a57c01419c77a3024967/download/il_794xN.6083633497_nz3p.webp" style="max-width:100%;border-radius:4px;margin-top:8px;" loading="lazy"></div>
+<div style="border:1px solid #ddd;border-radius:8px;padding:12px;"><strong><a href="#feral-canine-paws">Feral Canine Paws</a></strong><br>8 cards<br><img src="https://trello.com/1/cards/64906446ee262c8e4b96125e/attachments/6490645a91353deac4c12b08/download/image.png" style="max-width:100%;border-radius:4px;margin-top:8px;" loading="lazy"></div>
+<div style="border:1px solid #ddd;border-radius:8px;padding:12px;"><strong><a href="#feline-paws">Feline Paws</a></strong><br>5 cards<br><img src="https://trello.com/1/cards/64906d5d9a98cfb3f32aa372/attachments/64906d6033085dd6a9751e87/download/image.png" style="max-width:100%;border-radius:4px;margin-top:8px;" loading="lazy"></div>
+<div style="border:1px solid #ddd;border-radius:8px;padding:12px;"><strong><a href="#other-species-hand-paws">Other Species Hand Paws</a></strong><br>25 cards<br><img src="https://trello.com/1/cards/64907f44218f2dff9c99fe83/attachments/64907f4d9cbfc73f0fc39911/download/image.png" style="max-width:100%;border-radius:4px;margin-top:8px;" loading="lazy"></div>
+<div style="border:1px solid #ddd;border-radius:8px;padding:12px;"><strong><a href="#hand-hooves">Hand Hooves</a></strong><br>21 cards<br><img src="https://trello.com/1/cards/6490720e41e970ea16f6498b/attachments/6490720e41e970ea16f64ac7/download/image.png" style="max-width:100%;border-radius:4px;margin-top:8px;" loading="lazy"></div>
+<div style="border:1px solid #ddd;border-radius:8px;padding:12px;"><strong><a href="#faun-or-digitigrade-legs-and-bodysuits">Faun or Digitigrade legs & Bodysuits</a></strong><br>28 cards<br><img src="https://trello.com/1/cards/69b1768826e4a600890184b6/attachments/69b1768f0d8b08301ae923ba/download/image.png" style="max-width:100%;border-radius:4px;margin-top:8px;" loading="lazy"></div>
+<div style="border:1px solid #ddd;border-radius:8px;padding:12px;"><strong><a href="#canine-and-generic-feet-paws">Canine & Generic Feet Paws</a></strong><br>48 cards<br><img src="https://trello.com/1/cards/64906d9f8be28d3a4fa5ca3d/attachments/64906da2244cd15f583a2740/download/image.png" style="max-width:100%;border-radius:4px;margin-top:8px;" loading="lazy"></div>
+<div style="border:1px solid #ddd;border-radius:8px;padding:12px;"><strong><a href="#feet-hooves">Feet Hooves</a></strong><br>12 cards<br><img src="https://trello.com/1/cards/64907ade8794a1bb63276af9/attachments/64907aef3cc8ffe5f2492e8a/download/image.png" style="max-width:100%;border-radius:4px;margin-top:8px;" loading="lazy"></div>
+<div style="border:1px solid #ddd;border-radius:8px;padding:12px;"><strong><a href="#other-species-feet-paws">Other Species Feet Paws</a></strong><br>12 cards<br><img src="https://trello.com/1/cards/64908eb48f47dc197234631d/attachments/64908ebb9bda0c514d64bc22/download/image.png" style="max-width:100%;border-radius:4px;margin-top:8px;" loading="lazy"></div>
+<div style="border:1px solid #ddd;border-radius:8px;padding:12px;"><strong><a href="#wings-feathers">Wings/Feathers</a></strong><br>27 cards<br><img src="https://trello.com/1/cards/6490763b01f8b32b93f200ff/attachments/64907647fecd387bfcbaeb17/download/image.png" style="max-width:100%;border-radius:4px;margin-top:8px;" loading="lazy"></div>
+<div style="border:1px solid #ddd;border-radius:8px;padding:12px;"><strong><a href="#canine-hyena-tails">Canine/Hyena Tails</a></strong><br>46 cards<br><img src="https://trello.com/1/cards/64906bee50f52d844629de7b/attachments/64906bf0f5fa2fd52c4f537f/download/image.png" style="max-width:100%;border-radius:4px;margin-top:8px;" loading="lazy"></div>
+<div style="border:1px solid #ddd;border-radius:8px;padding:12px;"><strong><a href="#curly-tails">Curly Tails</a></strong><br>17 cards<br><img src="https://trello.com/1/cards/649079277a34a7493de90c88/attachments/649079323fbf7140b8ca1b32/download/image.png" style="max-width:100%;border-radius:4px;margin-top:8px;" loading="lazy"></div>
+<div style="border:1px solid #ddd;border-radius:8px;padding:12px;"><strong><a href="#feline-tails">Feline Tails</a></strong><br>20 cards<br><img src="https://trello.com/1/cards/64906bb792232ff1bec18949/attachments/64906bc6c605cdc2d2e62ca4/download/image.png" style="max-width:100%;border-radius:4px;margin-top:8px;" loading="lazy"></div>
+<div style="border:1px solid #ddd;border-radius:8px;padding:12px;"><strong><a href="#nub-tails">Nub Tails</a></strong><br>28 cards<br><img src="https://trello.com/1/cards/64908bee79da31f7371fd47d/attachments/64908bf44d6b19e17cc44ef0/download/image.png" style="max-width:100%;border-radius:4px;margin-top:8px;" loading="lazy"></div>
+<div style="border:1px solid #ddd;border-radius:8px;padding:12px;"><strong><a href="#other-species-tails">Other Species Tails</a></strong><br>47 cards<br><img src="https://trello.com/1/cards/67a690a012ed4fbe5a63f1e6/attachments/67a690aed1b9e9e871802b6c/download/image.png" style="max-width:100%;border-radius:4px;margin-top:8px;" loading="lazy"></div>
+<div style="border:1px solid #ddd;border-radius:8px;padding:12px;"><strong><a href="#noses">Noses</a></strong><br>9 cards<br><img src="https://trello.com/1/cards/6490fb116a3546ee22cf5300/attachments/6929d10f5c0d89be3808b802/download/image.png" style="max-width:100%;border-radius:4px;margin-top:8px;" loading="lazy"></div>
+<div style="border:1px solid #ddd;border-radius:8px;padding:12px;"><strong><a href="#tongues">Tongues</a></strong><br>14 cards<br><img src="https://trello.com/1/cards/64908497843e6f7253636bd9/attachments/6490849ff70b74347cd3489a/download/image.png" style="max-width:100%;border-radius:4px;margin-top:8px;" loading="lazy"></div>
+<div style="border:1px solid #ddd;border-radius:8px;padding:12px;"><strong><a href="#teeth-and-gums">Teeth and Gums</a></strong><br>6 cards<br><img src="https://trello.com/1/cards/649086210e360a4a10e967a2/attachments/64aade911aa2f728350c8e45/download/image.png" style="max-width:100%;border-radius:4px;margin-top:8px;" loading="lazy"></div>
+<div style="border:1px solid #ddd;border-radius:8px;padding:12px;"><strong><a href="#horns">Horns</a></strong><br>15 cards<br><img src="https://trello.com/1/cards/64908a29f97b452ca778927c/attachments/64908a3b933058a150389fbd/download/image.png" style="max-width:100%;border-radius:4px;margin-top:8px;" loading="lazy"></div>
+<div style="border:1px solid #ddd;border-radius:8px;padding:12px;"><strong><a href="#ears">Ears</a></strong><br>23 cards<br><img src="https://trello.com/1/cards/66b7ab4785ca20f1ad1818a4/attachments/66b7ab5972a0d35ed53ed30d/download/il_794xN.6004780156_6qhq.webp" style="max-width:100%;border-radius:4px;margin-top:8px;" loading="lazy"></div>
+<div style="border:1px solid #ddd;border-radius:8px;padding:12px;"><strong><a href="#necks-and-dino-mask-hoods">Necks & Dino Mask Hoods</a></strong><br>17 cards<br><img src="https://trello.com/1/cards/64aadfa808bcfa7c4f620b69/attachments/64aadfabcd3d3878906034bc/download/image.png" style="max-width:100%;border-radius:4px;margin-top:8px;" loading="lazy"></div>
+<div style="border:1px solid #ddd;border-radius:8px;padding:12px;"><strong><a href="#head-liners">Head Liners</a></strong><br>21 cards<br><img src="https://trello.com/1/cards/66c0d39a08361405caca478d/attachments/66c0d3d1fd3840dd3c8b51dc/download/balaclavaletter.webp" style="max-width:100%;border-radius:4px;margin-top:8px;" loading="lazy"></div>
+<div style="border:1px solid #ddd;border-radius:8px;padding:12px;"><strong><a href="#bucket-patterns">Bucket Patterns</a></strong><br>10 cards<br><img src="https://trello.com/1/cards/66b6396bf44192bf79ef4327/attachments/66b6399213b31f427adb0e17/download/image.png" style="max-width:100%;border-radius:4px;margin-top:8px;" loading="lazy"></div>
+<div style="border:1px solid #ddd;border-radius:8px;padding:12px;"><strong><a href="#head-patterns">Head Patterns</a></strong><br>31 cards<br><img src="https://trello.com/1/cards/65e7e50352ff687176705c8f/attachments/65e7e5d85667068a8d2ab240/download/image.png" style="max-width:100%;border-radius:4px;margin-top:8px;" loading="lazy"></div>
+<div style="border:1px solid #ddd;border-radius:8px;padding:12px;"><strong><a href="#fursuit-hair">Fursuit Hair</a></strong><br>8 cards<br><img src="https://trello.com/1/cards/6989daf6541b7322708bc126/attachments/6989db1ffde048017b2a5296/download/il_794xN.5482864090_il7f.webp" style="max-width:100%;border-radius:4px;margin-top:8px;" loading="lazy"></div>
+<div style="border:1px solid #ddd;border-radius:8px;padding:12px;"><strong><a href="#embroidery-files">Embroidery Files</a></strong><br>5 cards<br><img src="https://trello.com/1/cards/65dd0e07174fe0e6bb8229fe/attachments/65dd0e1c954b1d420c2d74e1/download/il_794xN.4165115917_6dcp.jpg" style="max-width:100%;border-radius:4px;margin-top:8px;" loading="lazy"></div>
+<div style="border:1px solid #ddd;border-radius:8px;padding:12px;"><strong><a href="#helpful-extras-for-fursuit-parts">Helpful Extras for Fursuit Parts</a></strong><br>35 cards<br><img src="https://trello.com/1/cards/65cf894e373e8266ae1de07f/attachments/69021d8e77450cb176f8920e/download/image.png" style="max-width:100%;border-radius:4px;margin-top:8px;" loading="lazy"></div>
+<div style="border:1px solid #ddd;border-radius:8px;padding:12px;"><strong><a href="#helpful-extras">Helpful Extras</a></strong><br>12 cards<br><img src="https://trello.com/1/cards/6544ff84e1c1e005a4443e61/attachments/6544ffc5b1d297288552d210/download/f986cc9771a2c68958e76e4b9ead7021616aabff.jpg" style="max-width:100%;border-radius:4px;margin-top:8px;" loading="lazy"></div>
+<div style="border:1px solid #ddd;border-radius:8px;padding:12px;"><strong><a href="#foam-head-patterns">Foam Head Patterns</a></strong><br>6 cards<br><img src="https://trello.com/1/cards/64a88a23d384784b598cf301/attachments/64a88a3287ed6ee318f2704d/download/image.png" style="max-width:100%;border-radius:4px;margin-top:8px;" loading="lazy"></div>
+</div>
+
+
+<details>
+  <summary>Generic or Puffy Paws (54 cards)</summary>
+
+<a id="generic-or-puffy-paws"></a>
+
+## Generic or Puffy Paws
 
 ---
 
-<a id="faun-or-digitigrade-legs-and-bodysuits"></a>
+<a id="free-matrices-5-finger-paw"></a>
+### (FREE) Matrices 5 Finger Paw #free #any-hand-paws #any-5-finger-hand-paw #any-species
+
+[https://pupdates.matrices.net/post/178186200444/simple-handpaw-pattern-and-tutorial-want-a-set-of](https://pupdates.matrices.net/post/178186200444/simple-handpaw-pattern-and-tutorial-want-a-set-of "smartCard-inline")
+
+![FREE Matrices 5 Finger Paw](<attachments/Generic or Puffy Paws/(FREE) Matrices 5 Finger Paw/image-01.png>)
+
+---
+
+<a id="free-curlworks-puffy-paw"></a>
+### (FREE) Curlworks Puffy Paw #free #any-hand-paws #video-tutorials #any-species
+
+[https://static1.squarespace.com/static/673a8ea23f6775765bc30b75/t/674d1a6b9a090574e21562b0/1733106285608/Curlworks_Paw_Pattern_shrunk.pdf](https://static1.squarespace.com/static/673a8ea23f6775765bc30b75/t/674d1a6b9a090574e21562b0/1733106285608/Curlworks_Paw_Pattern_shrunk.pdf)
+
+Tutorials, but not by the creator of the pattern:
+
+[https://www.youtube.com/watch?v=vKRIz51txvM](https://www.youtube.com/watch?v=vKRIz51txvM "smartCard-inline") [https://twitter.com/Heckgeck/status/1087794668207779840](https://twitter.com/Heckgeck/status/1087794668207779840)
+
+I will say I have used this pattern and I adore it. If you need something for a cute character this definitely works!
+
+Make sure to lengthen the wrist to where you need it though! I remember it being a bit short.
+
+![FREE Curlworks Puffy Paw](<attachments/Generic or Puffy Paws/(FREE) Curlworks Puffy Paw/image-01.png>)
+
+![FREE Curlworks Puffy Paw](<attachments/Generic or Puffy Paws/(FREE) Curlworks Puffy Paw/image-02.png>)
+
+---
+
+<a id="free-runnerrabbit-paws"></a>
+### (FREE) RunnerRabbit Paws #free #any-hand-paws #canine #video-tutorials
+
+[https://runnerrabbit.gumroad.com/l/XHegGV](https://runnerrabbit.gumroad.com/l/XHegGV "smartCard-inline")
+https://youtu.be/IaUabcSliNI?si=2lsUPTfClWRFDg2q
+
+![FREE RunnerRabbit Paws](<attachments/Generic or Puffy Paws/(FREE) RunnerRabbit Paws/image-01.png>)
+
+![FREE RunnerRabbit Paws](<attachments/Generic or Puffy Paws/(FREE) RunnerRabbit Paws/image-02.png>)
+
+---
+
+<a id="free-freakhound-canine-paw"></a>
+### (FREE) Freakhound Canine Paw #free #any-hand-paws #canine
+
+[http://freakhoundstudios.com/free-paws-canine](http://freakhoundstudios.com/free-paws-canine "smartCard-inline")
+
+![FREE Freakhound Canine Paw](<attachments/Generic or Puffy Paws/(FREE) Freakhound Canine Paw/image-01.png>)
+
+![FREE Freakhound Canine Paw](<attachments/Generic or Puffy Paws/(FREE) Freakhound Canine Paw/image-02.png>)
+
+![FREE Freakhound Canine Paw](<attachments/Generic or Puffy Paws/(FREE) Freakhound Canine Paw/image-03.png>)
+
+---
+
+<a id="free-kloofsuits-simple-paws"></a>
+### (FREE) Kloofsuits Simple Paws #free #any-hand-paws #any-species
+
+LETTER SIZED PAPER: [https://www.kloofsuits.co.uk/_files/ugd/132978_8648cd14306144868bd78a6cb93f3411.pdf](https://www.kloofsuits.co.uk/_files/ugd/132978_8648cd14306144868bd78a6cb93f3411.pdf)
+
+A4 SIZED PAPER:
+
+[https://www.kloofsuits.co.uk/_files/ugd/132978_d4515ebe1ea141c0a74a70c32013d23c.pdf](https://www.kloofsuits.co.uk/_files/ugd/132978_d4515ebe1ea141c0a74a70c32013d23c.pdf)
+
+![FREE Kloofsuits Simple Paws](<attachments/Generic or Puffy Paws/(FREE) Kloofsuits Simple Paws/image-01.png>)
+
+---
+
+<a id="free-in-a-jiffy-creations-3-paw-patterns"></a>
+### (FREE) In-A-Jiffy!Creations 3 Paw Patterns #any-species #any-hand-paws #free
+
+Print on average 8.5” x 11” printer paper
+
+Measure twice, cut once!
+
+Feel free to send them a tip!
+
+[https://ko-fi.com/inajiffycreations](https://ko-fi.com/inajiffycreations "smartCard-inline")
+
+![FREE In-A-JiffyCreations 3 Paw Patterns](<attachments/Generic or Puffy Paws/(FREE) In-A-Jiffy!Creations 3 Paw Patterns/image-01.jpg>)
+
+![FREE In-A-JiffyCreations 3 Paw Patterns](<attachments/Generic or Puffy Paws/(FREE) In-A-Jiffy!Creations 3 Paw Patterns/image-02.jpg>)
+
+![FREE In-A-JiffyCreations 3 Paw Patterns](<attachments/Generic or Puffy Paws/(FREE) In-A-Jiffy!Creations 3 Paw Patterns/image-03.png>)
+
+![FREE In-A-JiffyCreations 3 Paw Patterns](<attachments/Generic or Puffy Paws/(FREE) In-A-Jiffy!Creations 3 Paw Patterns/image-04.png>)
+
+![FREE In-A-JiffyCreations 3 Paw Patterns](<attachments/Generic or Puffy Paws/(FREE) In-A-Jiffy!Creations 3 Paw Patterns/image-05.png>)
+
+---
+
+<a id="kloofsuits-4-finger-paws"></a>
+### Kloofsuits 4 Finger paws #cheap #any-hand-paws #canine #video-tutorials
+
+[https://www.etsy.com/ca/listing/1219853167/pdf-template-fursuit-4-finger-paws](https://www.etsy.com/ca/listing/1219853167/pdf-template-fursuit-4-finger-paws "smartCard-inline")
+
+[https://youtu.be/08YFGH2FP2E](https://youtu.be/08YFGH2FP2E "smartCard-inline")
+
+![Kloofsuits 4 Finger paws](<attachments/Generic or Puffy Paws/Kloofsuits 4 Finger paws/image-01.png>)
+
+---
+
+<a id="kloofsuits-puffy-paw"></a>
+### Kloofsuits Puffy Paw #cheap #any-hand-paws #canine #video-tutorials
+
+[https://www.etsy.com/ca/listing/675833989/pdf-template-fursuit-puffy-paws-digital](https://www.etsy.com/ca/listing/675833989/pdf-template-fursuit-puffy-paws-digital "smartCard-inline")
+
+[https://youtu.be/08YFGH2FP2E](https://youtu.be/08YFGH2FP2E "smartCard-inline")
+
+![Kloofsuits Puffy Paw](<attachments/Generic or Puffy Paws/Kloofsuits Puffy Paw/image-01.png>)
+
+![Kloofsuits Puffy Paw](<attachments/Generic or Puffy Paws/Kloofsuits Puffy Paw/image-02.png>)
+
+![Kloofsuits Puffy Paw](<attachments/Generic or Puffy Paws/Kloofsuits Puffy Paw/image-03.png>)
+
+---
+
+<a id="ybl-suits-puffy-paw"></a>
+### YBL Suits Puffy Paw #moderately #canine #any-hand-paws
+
+YaBoiLuke Suits
+
+[https://www.yblsuits.com/shop/p/pawpattern](https://www.yblsuits.com/shop/p/pawpattern "smartCard-inline")
+
+[https://www.etsy.com/ca/listing/838490379/puffy-fursuit-paw-pattern-pdf-download](https://www.etsy.com/ca/listing/838490379/puffy-fursuit-paw-pattern-pdf-download "smartCard-inline")
+
+![YBL Suits Puffy Paw](<attachments/Generic or Puffy Paws/YBL Suits Puffy Paw/image-01.png>)
+
+![YBL Suits Puffy Paw](<attachments/Generic or Puffy Paws/YBL Suits Puffy Paw/image-02.png>)
+
+![YBL Suits Puffy Paw](<attachments/Generic or Puffy Paws/YBL Suits Puffy Paw/image-03.png>)
+
+---
+
+<a id="makeafur-puffy-paw"></a>
+### MakeAFur Puffy Paw #moderately #canine #any-hand-paws #video-tutorials
+
+[https://ko-fi.com/s/a597d258f0](https://ko-fi.com/s/a597d258f0)
+
+Video Tutorial:
+
+[https://www.youtube.com/watch?v=zga1uRRyfcU&t=1s](https://www.youtube.com/watch?v=zga1uRRyfcU&t=1s "smartCard-inline")
+
+![MakeAFur Puffy Paw](<attachments/Generic or Puffy Paws/MakeAFur Puffy Paw/image-01.png>)
+
+---
+
+<a id="mugiwara-simple-4-finger-paw"></a>
+### Mugiwara Simple 4 Finger Paw #cheap #any-hand-paws #video-tutorials #any-species
+
+[https://mugiwara-cosplay.sellfy.store/p/digital-toony-hand-paw-pattern-for-fursuits-pdf-download/](https://mugiwara-cosplay.sellfy.store/p/digital-toony-hand-paw-pattern-for-fursuits-pdf-download/ "smartCard-inline")
+
+[https://www.etsy.com/ca/listing/648404984/digital-toony-hand-paw-pattern-for](https://www.etsy.com/ca/listing/648404984/digital-toony-hand-paw-pattern-for "smartCard-inline")
+
+[https://www.youtube.com/watch?v=x6yYytDshjw](https://www.youtube.com/watch?v=x6yYytDshjw "smartCard-inline")
+
+![Mugiwara Simple 4 Finger Paw](<attachments/Generic or Puffy Paws/Mugiwara Simple 4 Finger Paw/image-01.png>)
+
+---
+
+<a id="mugiwara-puffy-paw-older-pattern"></a>
+### Mugiwara Puffy Paw (Older Pattern) #cheap #any-hand-paws #video-tutorials #any-species
+
+[https://mugiwara-cosplay.sellfy.store/p/digital-puffy-hand-paw-pattern-for-fursuits-old-version-pdf-download/](https://mugiwara-cosplay.sellfy.store/p/digital-puffy-hand-paw-pattern-for-fursuits-old-version-pdf-download/ "smartCard-inline")
+
+[https://www.etsy.com/ca/listing/648407144/digital-puffy-hand-paw-pattern-for](https://www.etsy.com/ca/listing/648407144/digital-puffy-hand-paw-pattern-for)
+
+Considers this the newer version: [https://trello.com/c/VU0o8iRw/41-mugiwara-4-finger-puffy-paw](https://trello.com/c/VU0o8iRw/41-mugiwara-4-finger-puffy-paw "smartCard-inline")
+
+![Mugiwara Puffy Paw Older Pattern](<attachments/Generic or Puffy Paws/Mugiwara Puffy Paw (Older Pattern)/image-01.png>)
+
+---
+
+<a id="mugiwara-puffy-paw-newer-version"></a>
+### Mugiwara Puffy Paw (Newer version) #moderately #any-hand-paws #video-tutorials #any-species
+
+[https://mugiwara-cosplay.sellfy.store/p/digital-puffy-hand-paw-pattern-for-fursuits-new-version-pdf-download/](https://mugiwara-cosplay.sellfy.store/p/digital-puffy-hand-paw-pattern-for-fursuits-new-version-pdf-download/ "smartCard-inline")
+
+[https://www.etsy.com/ca/listing/1473765373/digital-puffy-hand-paw-pattern-for](https://www.etsy.com/ca/listing/1473765373/digital-puffy-hand-paw-pattern-for "smartCard-inline")
+
+[https://youtu.be/Rx7P0vwmads](https://youtu.be/Rx7P0vwmads "smartCard-inline")
+
+![Mugiwara Puffy Paw Newer version](<attachments/Generic or Puffy Paws/Mugiwara Puffy Paw (Newer version)/image-01.png>)
+
+---
+
+<a id="pseudocanid-puffy-paw"></a>
+### Pseudocanid Puffy Paw #cheap #any-hand-paws #any-species #video-tutorials
+
+[https://www.etsy.com/ca/listing/810041788/easy-toony-puffy-hand-paw-basicsimple](https://www.etsy.com/ca/listing/810041788/easy-toony-puffy-hand-paw-basicsimple "smartCard-inline")
+
+[https://www.youtube.com/watch?v=8_LYxW--TJA](https://www.youtube.com/watch?v=8_LYxW--TJA "smartCard-inline")
+
+![Pseudocanid Puffy Paw](<attachments/Generic or Puffy Paws/Pseudocanid Puffy Paw/image-01.png>)
+
+![Pseudocanid Puffy Paw](<attachments/Generic or Puffy Paws/Pseudocanid Puffy Paw/image-02.png>)
+
+![Pseudocanid Puffy Paw](<attachments/Generic or Puffy Paws/Pseudocanid Puffy Paw/image-03.png>)
+
+---
+
+<a id="pseudocanid-simple-retro-paw"></a>
+### Pseudocanid Simple/Retro Paw #cheap #any-hand-paws #any-species #video-tutorials
+
+[https://www.etsy.com/ca/listing/1130157008/easy-retro-hand-paw-basicsimple-pattern](https://www.etsy.com/ca/listing/1130157008/easy-retro-hand-paw-basicsimple-pattern "smartCard-inline")
+
+[https://www.youtube.com/watch?v=8_LYxW--TJA](https://www.youtube.com/watch?v=8_LYxW--TJA "smartCard-inline")
+
+![Pseudocanid Simple/Retro Paw](<attachments/Generic or Puffy Paws/Pseudocanid SimpleRetro Paw/image-01.png>)
+
+![Pseudocanid Simple/Retro Paw](<attachments/Generic or Puffy Paws/Pseudocanid SimpleRetro Paw/image-02.png>)
+
+---
+
+<a id="pseudocanid-chunky-paw"></a>
+### Pseudocanid Chunky Paw #moderately #canine #any-hand-paws #video-tutorials
+
+[https://www.etsy.com/ca/listing/1244865015/chunky-canine-hand-paw-pattern-digital](https://www.etsy.com/ca/listing/1244865015/chunky-canine-hand-paw-pattern-digital "smartCard-inline")
+
+[https://www.youtube.com/watch?v=gE4kOu7aZOo](https://www.youtube.com/watch?v=gE4kOu7aZOo "smartCard-inline")
+
+![Pseudocanid Chunky Paw](<attachments/Generic or Puffy Paws/Pseudocanid Chunky Paw/image-01.png>)
+
+![Pseudocanid Chunky Paw](<attachments/Generic or Puffy Paws/Pseudocanid Chunky Paw/image-02.png>)
+
+![Pseudocanid Chunky Paw](<attachments/Generic or Puffy Paws/Pseudocanid Chunky Paw/image-03.png>)
+
+---
+
+<a id="lobitoworks-4-finger-paws"></a>
+### LobitoWorks 4 Finger Paws #cheap #any-hand-paws #any-species
+
+https://ko-fi.com/s/e39d42b69b
+
+[https://www.etsy.com/ca/listing/1041661151/fursuit-handpaws-pattern-tutorial](https://www.etsy.com/ca/listing/1041661151/fursuit-handpaws-pattern-tutorial)
+
+![LobitoWorks 4 Finger Paws](<attachments/Generic or Puffy Paws/LobitoWorks 4 Finger Paws/image-01.png>)
+
+---
+
+<a id="fursmoothie-2-paw-pattern-pack"></a>
+### FurSmoothie 2 Paw Pattern Pack #cheap #any-hand-paws #canine #multipack #any-species
+
+[https://www.etsy.com/ca/listing/1031307278/fursuit-puffy-paw-patterns-2-pack](https://www.etsy.com/ca/listing/1031307278/fursuit-puffy-paw-patterns-2-pack "smartCard-inline")
+
+![FurSmoothie 2 Paw Pattern Pack](<attachments/Generic or Puffy Paws/FurSmoothie 2 Paw Pattern Pack/image-01.png>)
+
+![FurSmoothie 2 Paw Pattern Pack](<attachments/Generic or Puffy Paws/FurSmoothie 2 Paw Pattern Pack/image-02.png>)
+
+---
+
+<a id="oktavia-s-creatures-4-finger-mochi-paws"></a>
+### Oktavia's Creatures 4 Finger Mochi Paws #moderately #other-species #any-hand-paws #any-species
+
+[https://www.etsy.com/ca/listing/1187692027/puffy-4-fingered-mochi-paw-digital](https://www.etsy.com/ca/listing/1187692027/puffy-4-fingered-mochi-paw-digital "smartCard-inline")
+
+![Oktavia's Creatures 4 Finger Mochi Paws](<attachments/Generic or Puffy Paws/Oktavia's Creatures 4 Finger Mochi Paws/image-01.png>)
+
+![Oktavia's Creatures 4 Finger Mochi Paws](<attachments/Generic or Puffy Paws/Oktavia's Creatures 4 Finger Mochi Paws/image-02.png>)
+
+![Oktavia's Creatures 4 Finger Mochi Paws](<attachments/Generic or Puffy Paws/Oktavia's Creatures 4 Finger Mochi Paws/image-03.png>)
+
+---
+
+<a id="oktavia-s-creatures-feral-2-pattern-pack-canine-and-feline"></a>
+### Oktavia's Creatures Feral 2 Pattern Pack (Canine & Feline) #moderately #any-hand-paws #canine #feline #multipack
+
+[https://www.etsy.com/ca/listing/1233102353/canine-and-feline-feral-hand-paws](https://www.etsy.com/ca/listing/1233102353/canine-and-feline-feral-hand-paws "smartCard-inline")
+
+![Oktavia's Creatures Feral 2 Pattern Pack Canine & Feline](<attachments/Generic or Puffy Paws/Oktavia's Creatures Feral 2 Pattern Pack (Canine & Feline)/image-01.png>)
+
+![Oktavia's Creatures Feral 2 Pattern Pack Canine & Feline](<attachments/Generic or Puffy Paws/Oktavia's Creatures Feral 2 Pattern Pack (Canine & Feline)/image-02.png>)
+
+![Oktavia's Creatures Feral 2 Pattern Pack Canine & Feline](<attachments/Generic or Puffy Paws/Oktavia's Creatures Feral 2 Pattern Pack (Canine & Feline)/image-03.png>)
+
+---
+
+<a id="wittlestudios-puffy-paws"></a>
+### WittleStudios Puffy Paws #cheap #any-hand-paws #canine
+
+[https://ko-fi.com/s/7c88621b51](https://ko-fi.com/s/7c88621b51 "smartCard-inline")
+
+[https://www.etsy.com/ca/listing/1234215254/wittles-puffy-paws-pattern](https://www.etsy.com/ca/listing/1234215254/wittles-puffy-paws-pattern "smartCard-inline")
+
+![WittleStudios Puffy Paws](<attachments/Generic or Puffy Paws/WittleStudios Puffy Paws/image-01.png>)
+
+![WittleStudios Puffy Paws](<attachments/Generic or Puffy Paws/WittleStudios Puffy Paws/image-02.png>)
+
+---
+
+<a id="bitemefursuits-puffy-paws"></a>
+### BiteMeFursuits Puffy Paws #moderately #any-hand-paws #canine
+
+[https://www.etsy.com/listing/1246513554/pdf-pattern-download-puffy-fursuit](https://www.etsy.com/listing/1246513554/pdf-pattern-download-puffy-fursuit)
+
+![BiteMeFursuits Puffy Paws](<attachments/Generic or Puffy Paws/BiteMeFursuits Puffy Paws/image-01.png>)
+
+![BiteMeFursuits Puffy Paws](<attachments/Generic or Puffy Paws/BiteMeFursuits Puffy Paws/image-02.png>)
+
+![BiteMeFursuits Puffy Paws](<attachments/Generic or Puffy Paws/BiteMeFursuits Puffy Paws/image-03.png>)
+
+---
+
+<a id="thecasualfriday-4-fingers-w-optional-dew-claw"></a>
+### TheCasualFriday 4 Fingers w/Optional Dew Claw #moderately #other-species #any-hand-paws #canine
+
+[https://www.etsy.com/ca/listing/1333743568/feral-canine-4-finger-paw-pattern](https://www.etsy.com/ca/listing/1333743568/feral-canine-4-finger-paw-pattern)
+
+![TheCasualFriday 4 Fingers w/Optional Dew Claw](<attachments/Generic or Puffy Paws/TheCasualFriday 4 Fingers wOptional Dew Claw/image-01.png>)
+
+![TheCasualFriday 4 Fingers w/Optional Dew Claw](<attachments/Generic or Puffy Paws/TheCasualFriday 4 Fingers wOptional Dew Claw/image-02.png>)
+
+![TheCasualFriday 4 Fingers w/Optional Dew Claw](<attachments/Generic or Puffy Paws/TheCasualFriday 4 Fingers wOptional Dew Claw/image-03.png>)
+
+---
+
+<a id="frostihadasundae-chunky-paws"></a>
+### FrostiHadaSundae Chunky Paws #cheap #any-hand-paws #any-species
+
+[https://www.etsy.com/ca/listing/1413888156/chunky-poofy-paws-hand-paw-pdf-pattern](https://www.etsy.com/ca/listing/1413888156/chunky-poofy-paws-hand-paw-pdf-pattern "smartCard-inline")
+
+![FrostiHadaSundae Chunky Paws](<attachments/Generic or Puffy Paws/FrostiHadaSundae Chunky Paws/image-01.png>)
+
+![FrostiHadaSundae Chunky Paws](<attachments/Generic or Puffy Paws/FrostiHadaSundae Chunky Paws/image-02.png>)
+
+![FrostiHadaSundae Chunky Paws](<attachments/Generic or Puffy Paws/FrostiHadaSundae Chunky Paws/image-03.png>)
+
+---
+
+<a id="wolfskinstudio-just-the-puffy-pawpads"></a>
+### WolfskinStudio JUST the puffy PAWPADS #cheap #other-species #any-hand-paws #any-5-finger-hand-paw #video-tutorials #any-species
+
+ONLY A PATTERN FOR THE BEANS
+
+[https://www.etsy.com/ca/listing/1272444057/puffy-pawpads-pattern](https://www.etsy.com/ca/listing/1272444057/puffy-pawpads-pattern "smartCard-inline")
+
+[https://youtu.be/EeC6L_0E8eo](https://youtu.be/EeC6L_0E8eo "smartCard-inline")
+
+![WolfskinStudio JUST the puffy PAWPADS](<attachments/Generic or Puffy Paws/WolfskinStudio JUST the puffy PAWPADS/image-01.png>)
+
+---
+
+<a id="skullzbonezfursuitz-puffy-paws"></a>
+### Skullzbonezfursuitz Puffy Paws #cheap #any-hand-paws #any-species
+
+[https://www.etsy.com/ca/listing/961080886/big-puffy-paws-pattern-not-the-paws-the](https://www.etsy.com/ca/listing/961080886/big-puffy-paws-pattern-not-the-paws-the "smartCard-inline")
+
+![Skullzbonezfursuitz Puffy Paws](<attachments/Generic or Puffy Paws/Skullzbonezfursuitz Puffy Paws/image-01.png>)
+
+![Skullzbonezfursuitz Puffy Paws](<attachments/Generic or Puffy Paws/Skullzbonezfursuitz Puffy Paws/image-02.png>)
+
+---
+
+<a id="goobakery-simple-paw"></a>
+### GooBakery Simple Paw #cheap #any-hand-paws #any-species
+
+[https://www.etsy.com/ca/listing/1260416086/simple-fursuit-paw-pattern-very-beginner](https://www.etsy.com/ca/listing/1260416086/simple-fursuit-paw-pattern-very-beginner)
+
+![GooBakery Simple Paw](<attachments/Generic or Puffy Paws/GooBakery Simple Paw/image-01.png>)
+
+![GooBakery Simple Paw](<attachments/Generic or Puffy Paws/GooBakery Simple Paw/image-02.png>)
+
+---
+
+<a id="twilightknights-2-paws-paw"></a>
+### TwilightKnights 2 Paws Paw #moderately #any-hand-paws #multipack #any-species
+
+“long” and “short” finger versions
+
+[https://www.etsy.com/ca/listing/1328303647/puffy-paw-pattern-pdf-download-2-styles](https://www.etsy.com/ca/listing/1328303647/puffy-paw-pattern-pdf-download-2-styles "smartCard-inline")
+
+![TwilightKnights 2 Paws Paw](<attachments/Generic or Puffy Paws/TwilightKnights 2 Paws Paw/image-01.png>)
+
+![TwilightKnights 2 Paws Paw](<attachments/Generic or Puffy Paws/TwilightKnights 2 Paws Paw/image-02.png>)
+
+![TwilightKnights 2 Paws Paw](<attachments/Generic or Puffy Paws/TwilightKnights 2 Paws Paw/image-03.png>)
+
+---
+
+<a id="sparklepawsstudios-puffy-paws"></a>
+### SparklePawsStudios Puffy Paws #any-hand-paws #cheap #any-species
+
+[https://www.etsy.com/ca/listing/1515314940/thumb-y-puffy-paws-pattern-read](https://www.etsy.com/ca/listing/1515314940/thumb-y-puffy-paws-pattern-read "smartCard-inline")
+
+![SparklePawsStudios Puffy Paws](<attachments/Generic or Puffy Paws/SparklePawsStudios Puffy Paws/image-01.png>)
+
+![SparklePawsStudios Puffy Paws](<attachments/Generic or Puffy Paws/SparklePawsStudios Puffy Paws/image-02.png>)
+
+---
+
+<a id="ollyfur-hand-paws"></a>
+### OllyFur Hand Paws #cheap #any-species #any-hand-paws #video-tutorials
+
+[https://www.etsy.com/ca/listing/1557915679/digital-download-fursuit-hand-paws](https://www.etsy.com/ca/listing/1557915679/digital-download-fursuit-hand-paws "smartCard-inline")
+
+[https://www.youtube.com/watch?v=IvNNBzqgbFk](https://www.youtube.com/watch?v=IvNNBzqgbFk "smartCard-inline")
+
+![OllyFur Hand Paws](<attachments/Generic or Puffy Paws/OllyFur Hand Paws/image-01.webp>)
+
+![OllyFur Hand Paws](<attachments/Generic or Puffy Paws/OllyFur Hand Paws/image-02.webp>)
+
+---
+
+<a id="klovesbunnies-art-puffy-paws-pattern"></a>
+### Klovesbunnies Art Puffy Paws Pattern #cheap #any-species #any-hand-paws
+
+[https://klovesbunniesart.weebly.com/store/p753/Puffy_Paw_Pattern_%28Printable%29.html](https://klovesbunniesart.weebly.com/store/p753/Puffy_Paw_Pattern_%28Printable%29.html "smartCard-inline")
+
+[https://klovesbunnies.gumroad.com/l/puffypawpattern](https://klovesbunnies.gumroad.com/l/puffypawpattern "smartCard-inline")
+
+![Klovesbunnies Art Puffy Paws Pattern](<attachments/Generic or Puffy Paws/Klovesbunnies Art Puffy Paws Pattern/image-01.jpg>)
+
+---
+
+<a id="blue-fleece-slim-paws"></a>
+### Blue Fleece Slim Paws #moderately #any-hand-paws #any-species
+
+[https://hullablue.gumroad.com/l/zNLdE](https://hullablue.gumroad.com/l/zNLdE "smartCard-inline")
+
+![Blue Fleece Slim Paws](<attachments/Generic or Puffy Paws/Blue Fleece Slim Paws/image-01.png>)
+
+![Blue Fleece Slim Paws](<attachments/Generic or Puffy Paws/Blue Fleece Slim Paws/image-02.png>)
+
+---
+
+<a id="sonstafurs-puffy-paws"></a>
+### Sonstafurs Puffy Paws #any-hand-paws #any-species #cheap
+
+[https://www.etsy.com/ca/listing/1590606620/pdf-pattern-download-fursuit-4-finger](https://www.etsy.com/ca/listing/1590606620/pdf-pattern-download-fursuit-4-finger "smartCard-inline")
+
+![Sonstafurs Puffy Paws](<attachments/Generic or Puffy Paws/Sonstafurs Puffy Paws/image-01.jpg>)
+
+![Sonstafurs Puffy Paws](<attachments/Generic or Puffy Paws/Sonstafurs Puffy Paws/image-02.png>)
+
+---
+
+<a id="flowerfurstudio-paw-pattern"></a>
+### FlowerFurStudio Paw Pattern #any-species #any-hand-paws #moderately
+
+[https://www.flowerfurstudio.com/p/fursuit-paws-pattern/](https://www.flowerfurstudio.com/p/fursuit-paws-pattern/ "smartCard-inline")
+
+![FlowerFurStudio Paw Pattern](<attachments/Generic or Puffy Paws/FlowerFurStudio Paw Pattern/image-01.png>)
+
+---
+
+<a id="skyehighstudios-feral-handpaws"></a>
+### SkyehighStudios Feral Handpaws #moderately #any-hand-paws #any-species #video-tutorials
+
+[https://www.skyehighstudios.com/store/p/feral-fursuit-handpaw-pattern-new](https://www.skyehighstudios.com/store/p/feral-fursuit-handpaw-pattern-new "smartCard-inline")
+
+[https://www.youtube.com/watch?v=MXiYc9-fLNM](https://www.youtube.com/watch?v=MXiYc9-fLNM "smartCard-inline")
+
+![SkyehighStudios Feral Handpaws](<attachments/Generic or Puffy Paws/SkyehighStudios Feral Handpaws/image-01.png>)
+
+---
+
+<a id="skyehighstudios-puffy-paws"></a>
+### SkyehighStudios Puffy Paws #moderately #any-hand-paws #any-species #video-tutorials
+
+[https://www.skyehighstudios.com/store/p/toony-fursuit-handpaw-pattern](https://www.skyehighstudios.com/store/p/toony-fursuit-handpaw-pattern "smartCard-inline")
+
+[https://www.youtube.com/watch?v=MXiYc9-fLNM](https://www.youtube.com/watch?v=MXiYc9-fLNM "smartCard-inline")
+
+![SkyehighStudios Puffy Paws](<attachments/Generic or Puffy Paws/SkyehighStudios Puffy Paws/image-01.png>)
+
+---
+
+<a id="finch-factory-fursuits-handpaws"></a>
+### Finch Factory Fursuits HandPaws #any-hand-paws #any-species #moderately
+
+[https://www.patreon.com/FinchFactoryFursuits/shop/hand-paw-pattern-138263](https://www.patreon.com/FinchFactoryFursuits/shop/hand-paw-pattern-138263 "smartCard-inline")
+
+![Finch Factory Fursuits HandPaws](<attachments/Generic or Puffy Paws/Finch Factory Fursuits HandPaws/image-01.webp>)
+
+---
+
+<a id="geknome-toony-paws"></a>
+### Geknome Toony Paws #moderately #any-species #any-hand-paws
+
+[https://www.etsy.com/listing/1764915487/toony-fursuit-handpaw-pattern-tutorial](https://www.etsy.com/listing/1764915487/toony-fursuit-handpaw-pattern-tutorial "smartCard-inline")
+
+![Geknome Toony Paws](<attachments/Generic or Puffy Paws/Geknome Toony Paws/image-01.jpg>)
+
+---
+
+<a id="spiltgrapesoda-4-finger-thumb-puffy-paw"></a>
+### SpiltGrapeSoda 4 Finger Thumb Puffy Paw #video-tutorials #any-species #any-hand-paws #moderately
+
+[https://shop.spiltgrapesoda.com/spiltgrapesoda/p/four-finger-thumb-style-puffy-hand-paw-pattern-pdf-download](https://shop.spiltgrapesoda.com/spiltgrapesoda/p/four-finger-thumb-style-puffy-hand-paw-pattern-pdf-download "smartCard-inline")
+
+[https://www.etsy.com/ca/listing/1697012233/four-finger-thumb-style-puffy-hand-paw](https://www.etsy.com/ca/listing/1697012233/four-finger-thumb-style-puffy-hand-paw "smartCard-inline")
+
+[https://youtu.be/1wJcU5uHQ_U](https://youtu.be/1wJcU5uHQ_U "smartCard-inline")
+
+![SpiltGrapeSoda 4 Finger Thumb Puffy Paw](<attachments/Generic or Puffy Paws/SpiltGrapeSoda 4 Finger Thumb Puffy Paw/image-01.webp>)
+
+---
+
+<a id="cactusdogstudio-paw-pattern-finger-escapes"></a>
+### CactusDogStudio Paw Pattern + Finger Escapes #any-hand-paws #any-species #cheap
+
+[https://www.etsy.com/ca/listing/1833617029/fursuit-paw-pattern-with-optional-finger](https://www.etsy.com/ca/listing/1833617029/fursuit-paw-pattern-with-optional-finger "smartCard-inline")
+
+![CactusDogStudio Paw Pattern + Finger Escapes](<attachments/Generic or Puffy Paws/CactusDogStudio Paw Pattern + Finger Escapes/image-01.webp>)
+
+![CactusDogStudio Paw Pattern + Finger Escapes](<attachments/Generic or Puffy Paws/CactusDogStudio Paw Pattern + Finger Escapes/image-02.jpg>)
+
+![CactusDogStudio Paw Pattern + Finger Escapes](<attachments/Generic or Puffy Paws/CactusDogStudio Paw Pattern + Finger Escapes/image-03.webp>)
+
+---
+
+<a id="kiafursuits-mochi-paw-pattern"></a>
+### KiaFursuits Mochi Paw Pattern #moderately #any-hand-paws #any-species
+
+[https://www.etsy.com/ca/listing/1691750001/fursuit-mochi-paw-pattern-digital](https://www.etsy.com/ca/listing/1691750001/fursuit-mochi-paw-pattern-digital)
+
+![KiaFursuits Mochi Paw Pattern](<attachments/Generic or Puffy Paws/KiaFursuits Mochi Paw Pattern/image-01.webp>)
+
+![KiaFursuits Mochi Paw Pattern](<attachments/Generic or Puffy Paws/KiaFursuits Mochi Paw Pattern/image-02.jpg>)
+
+---
+
+<a id="wingleafworkshop-cute-handpaws"></a>
+### WingLeafWorkshop "Cute" Handpaws #any-hand-paws #any-species #cheap
+
+[https://www.etsy.com/ca/listing/1740507742/cute-handpaws-pdf-pattern-detailed](https://www.etsy.com/ca/listing/1740507742/cute-handpaws-pdf-pattern-detailed "smartCard-inline")
+
+![WingLeafWorkshop "Cute" Handpaws](<attachments/Generic or Puffy Paws/WingLeafWorkshop Cute Handpaws/image-01.jpg>)
+
+---
+
+<a id="blackmarblefursuits-puffy-paws"></a>
+### BlackMarbleFursuits Puffy Paws #cheap #any-species #any-hand-paws
+
+[https://www.etsy.com/ca/listing/1695795015/fursuit-paws-pattern-template-pdf-and](https://www.etsy.com/ca/listing/1695795015/fursuit-paws-pattern-template-pdf-and)
+
+![BlackMarbleFursuits Puffy Paws](<attachments/Generic or Puffy Paws/BlackMarbleFursuits Puffy Paws/image-01.jpg>)
+
+![BlackMarbleFursuits Puffy Paws](<attachments/Generic or Puffy Paws/BlackMarbleFursuits Puffy Paws/image-02.jpg>)
+
+---
+
+<a id="kittencafestudios-puffy-paws"></a>
+### KittenCafeStudios Puffy Paws #moderately #any-hand-paws #any-species
+
+[https://www.etsy.com/ca/listing/1710265485/diy-fursuit-puffy-paw-pattern-tutorial](https://www.etsy.com/ca/listing/1710265485/diy-fursuit-puffy-paw-pattern-tutorial "smartCard-inline")
+
+![KittenCafeStudios Puffy Paws](<attachments/Generic or Puffy Paws/KittenCafeStudios Puffy Paws/image-01.webp>)
+
+---
+
+<a id="mistyrivers-creations-puffy-paws"></a>
+### MistyRivers Creations Puffy Paws #any-species #any-hand-paws #moderately
+
+[https://ko-fi.com/s/e3666e830d](https://ko-fi.com/s/e3666e830d "smartCard-inline")
+
+[https://www.etsy.com/ca/listing/1801514439/fursuit-puffy-paw-pattern-pdf-template](https://www.etsy.com/ca/listing/1801514439/fursuit-puffy-paw-pattern-pdf-template "smartCard-inline")
+
+![MistyRivers Creations Puffy Paws](<attachments/Generic or Puffy Paws/MistyRivers Creations Puffy Paws/image-01.webp>)
+
+---
+
+<a id="wild-fox-works-puffy-paw-pattern"></a>
+### Wild Fox Works Puffy Paw Pattern #any-hand-paws #cheap #canine
+
+[https://ko-fi.com/s/4ec72accb0](https://ko-fi.com/s/4ec72accb0 "smartCard-inline")
+
+![Wild Fox Works Puffy Paw Pattern](<attachments/Generic or Puffy Paws/Wild Fox Works Puffy Paw Pattern/image-01.png>)
+
+---
+
+<a id="kaiyuwolfart-puffy-paws"></a>
+### KaiyuWolfArt Puffy Paws #cheap #any-hand-paws #canine
+
+[https://www.etsy.com/ca/listing/1851846605/fursuit-puffy-paw-pattern-pdf-download](https://www.etsy.com/ca/listing/1851846605/fursuit-puffy-paw-pattern-pdf-download "smartCard-inline")
+
+![KaiyuWolfArt Puffy Paws](<attachments/Generic or Puffy Paws/KaiyuWolfArt Puffy Paws/image-01.webp>)
+
+---
+
+<a id="doubletroublefursuit-hand-paws"></a>
+### DoubleTroubleFursuit Hand Paws #moderately #any-hand-paws #any-species
+
+[https://www.etsy.com/ca/listing/4297575358/diy-fursuit-handpaw-sewing-pattern](https://www.etsy.com/ca/listing/4297575358/diy-fursuit-handpaw-sewing-pattern "smartCard-inline")
+
+[https://www.youtube.com/watch?v=ZAPq8yU_afw](https://www.youtube.com/watch?v=ZAPq8yU_afw "smartCard-inline")
+
+![DoubleTroubleFursuit Hand Paws](<attachments/Generic or Puffy Paws/DoubleTroubleFursuit Hand Paws/image-01.png>)
+
+---
+
+<a id="cervidaedecay-fursuit-paw-w-opt-dewclaw"></a>
+### CervidaeDecay Fursuit Paw w/opt.Dewclaw #any-hand-paws #moderately #any-species
+
+[https://www.etsy.com/ca/listing/1792320414/fursuit-puffy-paws-digital](https://www.etsy.com/ca/listing/1792320414/fursuit-puffy-paws-digital "smartCard-inline")
+
+![CervidaeDecay Fursuit Paw w/opt.Dewclaw](<attachments/Generic or Puffy Paws/CervidaeDecay Fursuit Paw wopt.Dewclaw/image-01.png>)
+
+---
+
+<a id="craftycrittercabin-hand-paw-pattern"></a>
+### CraftyCritterCabin Hand Paw Pattern #any-species #any-hand-paws #moderately #canine
+
+[https://www.etsy.com/ca/listing/1807977957/ppbm-hand-paw-pattern-advanced-pdf-file](https://www.etsy.com/ca/listing/1807977957/ppbm-hand-paw-pattern-advanced-pdf-file "smartCard-inline")
+
+![CraftyCritterCabin Hand Paw Pattern](<attachments/Generic or Puffy Paws/CraftyCritterCabin Hand Paw Pattern/image-01.png>)
+
+---
+
+<a id="tinnatu-paws-semi-slim-paw-pattern"></a>
+### Tinnatu Paws Semi-Slim Paw Pattern #moderately #any-hand-paws #any-species
+
+[https://www.etsy.com/ca/listing/1839098535/semi-slim-fursuit-paw-pattern-pdf](https://www.etsy.com/ca/listing/1839098535/semi-slim-fursuit-paw-pattern-pdf "smartCard-inline")
+
+![Tinnatu Paws Semi-Slim Paw Pattern](<attachments/Generic or Puffy Paws/Tinnatu Paws Semi-Slim Paw Pattern/image-01.webp>)
+
+---
+
+<a id="kittencafestudios-toony-feral-paws"></a>
+### KittenCafeStudios Toony Feral Paws #moderately #any-species #any-hand-paws #canine
+
+[https://www.etsy.com/ca/listing/4435288482/diy-toony-feral-style-fursuit-puffy-paw](https://www.etsy.com/ca/listing/4435288482/diy-toony-feral-style-fursuit-puffy-paw "smartCard-inline")
+
+![KittenCafeStudios Toony Feral Paws](<attachments/Generic or Puffy Paws/KittenCafeStudios Toony Feral Paws/image-01.webp>)
+
+---
+
+<a id="kittencafestudios-anthro-paws"></a>
+### KittenCafeStudios Anthro Paws #moderately #any-hand-paws #any-species
+
+[https://www.etsy.com/ca/listing/4435285119/diy-toony-anthro-style-fursuit-puffy-paw](https://www.etsy.com/ca/listing/4435285119/diy-toony-anthro-style-fursuit-puffy-paw "smartCard-inline")
+
+![KittenCafeStudios Anthro Paws](<attachments/Generic or Puffy Paws/KittenCafeStudios Anthro Paws/image-01.webp>)
+
+---
+
+<a id="mysticmalamute-4-finger-paw"></a>
+### MysticMalamute 4 Finger Paw #cheap #any-species #any-hand-paws
+
+[https://ko-fi.com/s/65da62c8e1](https://ko-fi.com/s/65da62c8e1 "smartCard-inline")
+
+[https://www.etsy.com/ca/listing/4438645584/toony-fursuit-handpaw-pattern-tutorial](https://www.etsy.com/ca/listing/4438645584/toony-fursuit-handpaw-pattern-tutorial "smartCard-inline")
+
+![MysticMalamute 4 Finger Paw](<attachments/Generic or Puffy Paws/MysticMalamute 4 Finger Paw/image-01.png>)
+
+---
+
 <details>
-<summary>Faun or Digitigrade legs & Bodysuits</summary>
+  <summary>5 Finger Paw Patterns (23 cards)</summary>
 
+<a id="5-finger-paw-patterns"></a>
 
-[↑ Contents](#contents)
+## 5 Finger Paw Patterns
+
+---
+
+<a id="free-freakhound-5-finger-paws"></a>
+### (FREE) Freakhound 5 Finger Paws #free #canine #any-hand-paws #any-5-finger-hand-paw
+
+[http://freakhoundstudios.com/freepaws2](http://freakhoundstudios.com/freepaws2 "smartCard-inline")
+
+![FREE Freakhound 5 Finger Paws](<attachments/5 Finger Paw Patterns/(FREE) Freakhound 5 Finger Paws/image-01.png>)
+
+---
+
+<a id="free-mango-savepoint-slim-5-finger-paw"></a>
+### (FREE) Mango_Savepoint Slim 5 Finger Paw #free #any-species #any-hand-paws #any-5-finger-hand-paw #expensive #video-tutorials
+
+COMPLEX PATTERN
+
+Feel free to add a donation:
+
+[https://ko-fi.com/s/c4afcdee05](https://ko-fi.com/s/c4afcdee05 "smartCard-inline")
+
+PAID video tutorial:
+
+[https://ko-fi.com/s/618663d2f7](https://ko-fi.com/s/618663d2f7 "smartCard-inline")
+
+![FREE Mango_Savepoint Slim 5 Finger Paw](<attachments/5 Finger Paw Patterns/(FREE) Mango_Savepoint Slim 5 Finger Paw/image-01.png>)
+
+---
+
+<a id="matrices-5-finger-paw"></a>
+### Matrices 5 Finger Paw #moderately #any-hand-paws #any-5-finger-hand-paw #any-species
+
+[https://www.etsy.com/ca/listing/1169809787/pattern-and-tutorial-shaped-5-digit](https://www.etsy.com/ca/listing/1169809787/pattern-and-tutorial-shaped-5-digit "smartCard-inline")
+
+![Matrices 5 Finger Paw](<attachments/5 Finger Paw Patterns/Matrices 5 Finger Paw/image-01.png>)
+
+![Matrices 5 Finger Paw](<attachments/5 Finger Paw Patterns/Matrices 5 Finger Paw/image-02.png>)
+
+---
+
+<a id="kloofsuit-5-finger-paw"></a>
+### Kloofsuit 5 Finger Paw #cheap #any-hand-paws #any-5-finger-hand-paw #any-species
+
+[https://www.etsy.com/ca/listing/865332997/pdf-template-fursuit-5-finger-paws](https://www.etsy.com/ca/listing/865332997/pdf-template-fursuit-5-finger-paws "smartCard-inline")
+
+![Kloofsuit 5 Finger Paw](<attachments/5 Finger Paw Patterns/Kloofsuit 5 Finger Paw/image-01.png>)
+
+---
+
+<a id="ybl-suits-5-finger-paw"></a>
+### YBL Suits 5 Finger Paw #moderately #any-hand-paws #other-species #any-5-finger-hand-paw
+
+[https://www.etsy.com/ca/listing/1191100266/5-finger-fursuit-paw-pattern-pdf](https://www.etsy.com/ca/listing/1191100266/5-finger-fursuit-paw-pattern-pdf "smartCard-inline")
+
+![YBL Suits 5 Finger Paw](<attachments/5 Finger Paw Patterns/YBL Suits 5 Finger Paw/image-01.png>)
+
+![YBL Suits 5 Finger Paw](<attachments/5 Finger Paw Patterns/YBL Suits 5 Finger Paw/image-02.png>)
+
+---
+
+<a id="mugiwara-simple-5-finger-paw"></a>
+### Mugiwara Simple 5 Finger Paw #cheap #any-hand-paws #video-tutorials #any-5-finger-hand-paw #any-species
+
+[https://mugiwara-cosplay.sellfy.store/p/digital-5-fingered-hand-paw-pattern-for-fursuits-pdf-download/](https://mugiwara-cosplay.sellfy.store/p/digital-5-fingered-hand-paw-pattern-for-fursuits-pdf-download/ "smartCard-inline")
+
+[https://www.etsy.com/ca/listing/678617743/digital-5-fingered-hand-paw-pattern-for](https://www.etsy.com/ca/listing/678617743/digital-5-fingered-hand-paw-pattern-for "smartCard-inline")
+
+[https://www.youtube.com/watch?v=x6yYytDshjw](https://www.youtube.com/watch?v=x6yYytDshjw "smartCard-inline")
+
+![Mugiwara Simple 5 Finger Paw](<attachments/5 Finger Paw Patterns/Mugiwara Simple 5 Finger Paw/image-01.png>)
+
+---
+
+<a id="mugiwara-puffy-5-finger-paw"></a>
+### Mugiwara Puffy 5 Finger Paw #moderately #any-hand-paws #video-tutorials #any-5-finger-hand-paw #any-species
+
+[https://mugiwara-cosplay.sellfy.store/p/digital-5-fingered-puffy-hand-paw-pattern-for-fursuits-pdf-download/](https://mugiwara-cosplay.sellfy.store/p/digital-5-fingered-puffy-hand-paw-pattern-for-fursuits-pdf-download/ "smartCard-inline")
+
+[https://www.etsy.com/ca/listing/675605358/digital-5-fingered-puffy-hand-paw](https://www.etsy.com/ca/listing/675605358/digital-5-fingered-puffy-hand-paw "smartCard-inline")
+
+[https://www.youtube.com/watch?v=1E0HYdLHGkA](https://www.youtube.com/watch?v=1E0HYdLHGkA "smartCard-inline")
+
+![Mugiwara Puffy 5 Finger Paw](<attachments/5 Finger Paw Patterns/Mugiwara Puffy 5 Finger Paw/image-01.png>)
+
+---
+
+<a id="missrars-creatures-puffy-5-finger-paw"></a>
+### Missrars Creatures Puffy 5 Finger Paw #moderately #any-hand-paws #any-5-finger-hand-paw #any-species
+
+[https://www.etsy.com/ca/listing/946084039/pdf-pattern-5-finger-puffy-fursuit-paws](https://www.etsy.com/ca/listing/946084039/pdf-pattern-5-finger-puffy-fursuit-paws "smartCard-inline")
+
+![Missrars Creatures Puffy 5 Finger Paw](<attachments/5 Finger Paw Patterns/Missrars Creatures Puffy 5 Finger Paw/image-01.png>)
+
+![Missrars Creatures Puffy 5 Finger Paw](<attachments/5 Finger Paw Patterns/Missrars Creatures Puffy 5 Finger Paw/image-02.png>)
+
+![Missrars Creatures Puffy 5 Finger Paw](<attachments/5 Finger Paw Patterns/Missrars Creatures Puffy 5 Finger Paw/image-03.png>)
+
+---
+
+<a id="missrars-creatures-5-finger-applique-paw-pattern"></a>
+### Missrars Creatures 5 Finger Applique Paw Pattern #moderately #any-hand-paws #any-5-finger-hand-paw #video-tutorials #any-species
+
+[https://www.etsy.com/ca/listing/1108433401/pdf-pattern-simple-applique-fursuit-paws](https://www.etsy.com/ca/listing/1108433401/pdf-pattern-simple-applique-fursuit-paws "smartCard-inline")
+
+![Missrars Creatures 5 Finger Applique Paw Pattern](<attachments/5 Finger Paw Patterns/Missrars Creatures 5 Finger Applique Paw Pattern/image-01.png>)
+
+![Missrars Creatures 5 Finger Applique Paw Pattern](<attachments/5 Finger Paw Patterns/Missrars Creatures 5 Finger Applique Paw Pattern/image-02.png>)
+
+![Missrars Creatures 5 Finger Applique Paw Pattern](<attachments/5 Finger Paw Patterns/Missrars Creatures 5 Finger Applique Paw Pattern/image-03.png>)
+
+---
+
+<a id="oktavias-creature-s-5-finger-paw-pattern"></a>
+### Oktavias Creature's 5 Finger Paw Pattern #moderately #any-hand-paws #any-5-finger-hand-paw #any-species
+
+[https://www.etsy.com/ca/listing/1128260097/puffy-5-fingered-paw-digital-pattern-pdf](https://www.etsy.com/ca/listing/1128260097/puffy-5-fingered-paw-digital-pattern-pdf "smartCard-inline")
+
+![Oktavias Creature's 5 Finger Paw Pattern](<attachments/5 Finger Paw Patterns/Oktavias Creature's 5 Finger Paw Pattern/image-01.png>)
+
+![Oktavias Creature's 5 Finger Paw Pattern](<attachments/5 Finger Paw Patterns/Oktavias Creature's 5 Finger Paw Pattern/image-02.png>)
+
+---
+
+<a id="skunky-designs-slim-5-finger-paw"></a>
+### Skunky Designs Slim 5 Finger Paw #cheap #any-hand-paws #any-5-finger-hand-paw #any-species
+
+[https://www.skunkydesigns.com/collections/patterns-and-tutorials/products/pattern-slim-style-puffy-5-finger-hand-paws-high-detail-instructions-with-two-lining-options-digital-download](https://www.skunkydesigns.com/collections/patterns-and-tutorials/products/pattern-slim-style-puffy-5-finger-hand-paws-high-detail-instructions-with-two-lining-options-digital-download)
+
+![Skunky Designs Slim 5 Finger Paw](<attachments/5 Finger Paw Patterns/Skunky Designs Slim 5 Finger Paw/image-01.png>)
+
+![Skunky Designs Slim 5 Finger Paw](<attachments/5 Finger Paw Patterns/Skunky Designs Slim 5 Finger Paw/image-02.png>)
+
+![Skunky Designs Slim 5 Finger Paw](<attachments/5 Finger Paw Patterns/Skunky Designs Slim 5 Finger Paw/image-03.png>)
+
+---
+
+<a id="wolfskinstudios-5-finger-paws"></a>
+### WolfskinStudios 5 Finger Paws #cheap #any-hand-paws #any-5-finger-hand-paw #any-species
+
+[https://www.etsy.com/ca/listing/1141342263/fursuit-5-finger-hand-paws-pattern](https://www.etsy.com/ca/listing/1141342263/fursuit-5-finger-hand-paws-pattern "smartCard-inline")
+
+(may need to resize pattern)
+
+![WolfskinStudios 5 Finger Paws](<attachments/5 Finger Paw Patterns/WolfskinStudios 5 Finger Paws/image-01.png>)
+
+![WolfskinStudios 5 Finger Paws](<attachments/5 Finger Paw Patterns/WolfskinStudios 5 Finger Paws/image-02.png>)
+
+---
+
+<a id="wolfskinstudios-monster-5-finger-handpaw"></a>
+### WolfskinStudios Monster 5 Finger Handpaw #moderately #any-hand-paws #canine #any-5-finger-hand-paw #other-species
+
+[https://www.etsy.com/ca/listing/1523012015/monster-5-finger-handpaw-pattern-pdf](https://www.etsy.com/ca/listing/1523012015/monster-5-finger-handpaw-pattern-pdf "smartCard-inline")
+
+![WolfskinStudios Monster 5 Finger Handpaw](<attachments/5 Finger Paw Patterns/WolfskinStudios Monster 5 Finger Handpaw/image-01.png>)
+
+![WolfskinStudios Monster 5 Finger Handpaw](<attachments/5 Finger Paw Patterns/WolfskinStudios Monster 5 Finger Handpaw/image-02.png>)
+
+![WolfskinStudios Monster 5 Finger Handpaw](<attachments/5 Finger Paw Patterns/WolfskinStudios Monster 5 Finger Handpaw/image-03.png>)
+
+---
+
+<a id="goatygoods-5-fingered-handpaws"></a>
+### GoatyGoods 5 Fingered Handpaws #moderately #canine #any-hand-paws #any-5-finger-hand-paw #any-species
+
+[https://payhip.com/b/Afm8Q](https://payhip.com/b/Afm8Q)
+
+![GoatyGoods 5 Fingered Handpaws](<attachments/5 Finger Paw Patterns/GoatyGoods 5 Fingered Handpaws/image-01.png>)
+
+![GoatyGoods 5 Fingered Handpaws](<attachments/5 Finger Paw Patterns/GoatyGoods 5 Fingered Handpaws/image-02.png>)
+
+---
+
+<a id="tes-5-finger-paw-pattern"></a>
+### Tes 5 Finger Paw Pattern #any-species #cheap #any-5-finger-hand-paw #any-hand-paws
+
+[https://musingwolfdog.gumroad.com/l/handpawpattern](https://musingwolfdog.gumroad.com/l/handpawpattern "smartCard-inline")
+
+![Tes 5 Finger Paw Pattern](<attachments/5 Finger Paw Patterns/Tes 5 Finger Paw Pattern/image-01.webp>)
+
+---
+
+<a id="sonstafurs-5-finger-paws"></a>
+### Sonstafurs 5 Finger Paws #any-hand-paws #any-5-finger-hand-paw #moderately #any-species
+
+[https://www.etsy.com/ca/listing/1627207516/pdf-pattern-download-fursuit-5-finger](https://www.etsy.com/ca/listing/1627207516/pdf-pattern-download-fursuit-5-finger "smartCard-inline")
+
+![Sonstafurs 5 Finger Paws](<attachments/5 Finger Paw Patterns/Sonstafurs 5 Finger Paws/image-01.png>)
+
+---
+
+<a id="wingleafworkshop-5-finger-paws"></a>
+### WingLeafWorkshop 5 Finger Paws #cheap #any-hand-paws #any-5-finger-hand-paw #any-species
+
+[https://www.etsy.com/ca/listing/1742391267/5-fingered-paws-fluffy-handpaws-pdf](https://www.etsy.com/ca/listing/1742391267/5-fingered-paws-fluffy-handpaws-pdf "smartCard-inline")
+
+![WingLeafWorkshop 5 Finger Paws](<attachments/5 Finger Paw Patterns/WingLeafWorkshop 5 Finger Paws/image-01.jpg>)
+
+---
+
+<a id="wingleafworkshop-4-or-5-fingered-puffy-paws"></a>
+### WingLeafWorkshop 4 or 5 Fingered Puffy Paws #any-species #any-5-finger-hand-paw #any-hand-paws #cheap
+
+[https://www.etsy.com/ca/listing/1736845565/fluffy-handpaws-pdf-pattern-detailed](https://www.etsy.com/ca/listing/1736845565/fluffy-handpaws-pdf-pattern-detailed "smartCard-inline")
+
+![WingLeafWorkshop 4 or 5 Fingered Puffy Paws](<attachments/5 Finger Paw Patterns/WingLeafWorkshop 4 or 5 Fingered Puffy Paws/image-01.webp>)
+
+---
+
+<a id="wingleafworkshop-4-or-5-fingered-fluffy-paws"></a>
+### WingLeafWorkshop 4 or 5 Fingered Fluffy Paws #any-species #any-5-finger-hand-paw #any-hand-paws #cheap
+
+[https://www.etsy.com/ca/listing/1767545587/puffy-handpaws-pdf-pattern-detailed](https://www.etsy.com/ca/listing/1767545587/puffy-handpaws-pdf-pattern-detailed "smartCard-inline")
+
+![WingLeafWorkshop 4 or 5 Fingered Fluffy Paws](<attachments/5 Finger Paw Patterns/WingLeafWorkshop 4 or 5 Fingered Fluffy Paws/image-01.webp>)
+
+---
+
+<a id="twilightknights-5-fingered-puffy-paw"></a>
+### TwilightKnights 5 Fingered Puffy Paw #moderately #any-5-finger-hand-paw #any-hand-paws #any-species
+
+[https://www.etsy.com/ca/listing/1786193215/5-fingered-puffy-paw-pattern-pdf](https://www.etsy.com/ca/listing/1786193215/5-fingered-puffy-paw-pattern-pdf "smartCard-inline")
+
+![TwilightKnights 5 Fingered Puffy Paw](<attachments/5 Finger Paw Patterns/TwilightKnights 5 Fingered Puffy Paw/image-01.webp>)
+
+---
+
+<a id="thistlecrux-5-finger-paws"></a>
+### Thistlecrux 5 Finger Paws #canine #any-hand-paws #any-5-finger-hand-paw #moderately
+
+[https://www.etsy.com/ca/listing/1809480607/5-finger-fursuit-paw-pattern-with](https://www.etsy.com/ca/listing/1809480607/5-finger-fursuit-paw-pattern-with "smartCard-inline")
+
+![Thistlecrux 5 Finger Paws](<attachments/5 Finger Paw Patterns/Thistlecrux 5 Finger Paws/image-01.png>)
+
+---
+
+<a id="mysticmalamute-5-finger-puffy-paw"></a>
+### MysticMalamute 5 Finger Puffy Paw #any-5-finger-hand-paw #any-hand-paws #any-species #cheap
+
+[https://ko-fi.com/s/9d6d867008](https://ko-fi.com/s/9d6d867008 "smartCard-inline")
+
+[https://www.etsy.com/ca/listing/4406866046/five-finger-puffy-fursuit-paw-pattern](https://www.etsy.com/ca/listing/4406866046/five-finger-puffy-fursuit-paw-pattern "smartCard-inline")
+
+![MysticMalamute 5 Finger Puffy Paw](<attachments/5 Finger Paw Patterns/MysticMalamute 5 Finger Puffy Paw/image-01.png>)
+
+---
+
+<a id="mysticmalamute-flat-5-finger-paw"></a>
+### MysticMalamute Flat 5 Finger Paw #cheap #any-species #any-hand-paws #any-5-finger-hand-paw
+
+[https://www.etsy.com/ca/listing/4364032852/simple-5-finger-paw-pattern-for-fursuits](https://www.etsy.com/ca/listing/4364032852/simple-5-finger-paw-pattern-for-fursuits "smartCard-inline")
+
+[https://ko-fi.com/s/5ee8a96583](https://ko-fi.com/s/5ee8a96583 "smartCard-inline")
+
+![MysticMalamute Flat 5 Finger Paw](<attachments/5 Finger Paw Patterns/MysticMalamute Flat 5 Finger Paw/image-01.png>)
+
+![MysticMalamute Flat 5 Finger Paw](<attachments/5 Finger Paw Patterns/MysticMalamute Flat 5 Finger Paw/image-02.png>)
+
+---
+
+<details>
+  <summary>Mitten Paws (9 cards)</summary>
+
+<a id="mitten-paws"></a>
+
+## Mitten Paws
+
+---
+
+<a id="spiltgrapesoda-v2-mittens"></a>
+### SpiltGrapeSoda V2 Mittens #moderately #any-hand-paws #any-species #video-tutorials
+
+[https://shop.spiltgrapesoda.com/spiltgrapesoda/p/mitten-paw-20-pattern-pdf-download](https://shop.spiltgrapesoda.com/spiltgrapesoda/p/mitten-paw-20-pattern-pdf-download "smartCard-inline")
+
+[https://www.etsy.com/ca/listing/1727674540/mitten-paw-20-pattern-pdf-download](https://www.etsy.com/ca/listing/1727674540/mitten-paw-20-pattern-pdf-download)
+
+[https://www.youtube.com/watch?v=08YZHaN-yIE](https://www.youtube.com/watch?v=08YZHaN-yIE "smartCard-inline")
+
+![SpiltGrapeSoda V2 Mittens](<attachments/Mitten Paws/SpiltGrapeSoda V2 Mittens/image-01.webp>)
+
+---
+
+<a id="spiltgrapesoda-v1-mittens"></a>
+### SpiltGrapeSoda V1 Mittens #moderately #any-hand-paws #any-species
+
+[https://shop.spiltgrapesoda.com/spiltgrapesoda/p/mitten-paw-pattern-pdf-download](https://shop.spiltgrapesoda.com/spiltgrapesoda/p/mitten-paw-pattern-pdf-download "smartCard-inline")
+
+[https://www.etsy.com/ca/listing/1122876913/mitten-paw-pattern-pdf-download](https://www.etsy.com/ca/listing/1122876913/mitten-paw-pattern-pdf-download)
+
+![SpiltGrapeSoda V1 Mittens](<attachments/Mitten Paws/SpiltGrapeSoda V1 Mittens/image-01.png>)
+
+---
+
+<a id="wittlestudios-mittens"></a>
+### WittleStudios Mittens #cheap #any-hand-paws #any-species
+
+[https://wittlestudios.gumroad.com/l/bappypaws?layout=profile](https://wittlestudios.gumroad.com/l/bappypaws?layout=profile "smartCard-inline")
+
+[https://www.etsy.com/ca/listing/1293862166/wittles-chibi-paws-pattern](https://www.etsy.com/ca/listing/1293862166/wittles-chibi-paws-pattern)
+
+![WittleStudios Mittens](<attachments/Mitten Paws/WittleStudios Mittens/image-01.png>)
+
+![WittleStudios Mittens](<attachments/Mitten Paws/WittleStudios Mittens/image-02.png>)
+
+![WittleStudios Mittens](<attachments/Mitten Paws/WittleStudios Mittens/image-03.png>)
+
+---
+
+<a id="the-manic-macaw-mitten-paws"></a>
+### The Manic Macaw Mitten Paws #cheap #any-hand-paws #any-species
+
+[https://www.etsy.com/ca/listing/759494264/fursuit-hand-paw-glove-pattern](https://www.etsy.com/ca/listing/759494264/fursuit-hand-paw-glove-pattern "smartCard-inline")
+
+![The Manic Macaw Mitten Paws](<attachments/Mitten Paws/The Manic Macaw Mitten Paws/image-01.png>)
+
+---
+
+<a id="breezy-akita-mitten-paws-w-thumb-v1"></a>
+### Breezy Akita Mitten Paws w/thumb V1 #cheap #any-hand-paws #any-species
+
+[https://breezyakita.com/product/mochi-mitten-paw-pattern/](https://breezyakita.com/product/mochi-mitten-paw-pattern/ "smartCard-inline")
+
+[https://www.etsy.com/listing/1261256646/mochi-mitten-paw-pattern-pattern-only](https://www.etsy.com/listing/1261256646/mochi-mitten-paw-pattern-pattern-only "smartCard-inline")
+
+![Breezy Akita Mitten Paws w/thumb V1](<attachments/Mitten Paws/Breezy Akita Mitten Paws wthumb V1/image-01.png>)
+
+---
+
+<a id="breezy-akita-mitten-paws-w-thumb-v2"></a>
+### Breezy Akita Mitten Paws w/Thumb V2 #cheap #any-hand-paws #any-species
+
+Comes with 3 sizes
+
+[https://www.etsy.com/ca/listing/1646700798/mochi-mitten-paw-20-pattern-and](https://www.etsy.com/ca/listing/1646700798/mochi-mitten-paw-20-pattern-and "smartCard-inline")
+
+![Breezy Akita Mitten Paws w/Thumb V2](<attachments/Mitten Paws/Breezy Akita Mitten Paws wThumb V2/image-01.webp>)
+
+![Breezy Akita Mitten Paws w/Thumb V2](<attachments/Mitten Paws/Breezy Akita Mitten Paws wThumb V2/image-02.jpg>)
+
+---
+
+<a id="birchdoesworks-mitten-paws"></a>
+### BirchDoesWorks Mitten Paws #moderately #any-hand-paws #any-species
+
+[https://www.etsy.com/ca/listing/1584566293/pdf-pattern-download-fursuit-mitten-paws](https://www.etsy.com/ca/listing/1584566293/pdf-pattern-download-fursuit-mitten-paws "smartCard-inline")
+
+![BirchDoesWorks Mitten Paws](<attachments/Mitten Paws/BirchDoesWorks Mitten Paws/image-01.webp>)
+
+![BirchDoesWorks Mitten Paws](<attachments/Mitten Paws/BirchDoesWorks Mitten Paws/image-02.webp>)
+
+---
+
+<a id="geknome-mitten-paws"></a>
+### Geknome Mitten Paws #moderately #any-hand-paws #any-species
+
+[https://www.etsy.com/ca/listing/1734034998/fursuit-mitten-handpaw-pattern-tutorial](https://www.etsy.com/ca/listing/1734034998/fursuit-mitten-handpaw-pattern-tutorial "smartCard-inline")
+
+![Geknome Mitten Paws](<attachments/Mitten Paws/Geknome Mitten Paws/image-01.jpg>)
+
+---
+
+<a id="sonstafurs-mitten-paws"></a>
+### Sonstafurs Mitten Paws #any-species #any-hand-paws #cheap
+
+[https://www.etsy.com/ca/listing/1829858159/fursuit-mitten-paws-pattern-furry-paws](https://www.etsy.com/ca/listing/1829858159/fursuit-mitten-paws-pattern-furry-paws "smartCard-inline")
+
+![Sonstafurs Mitten Paws](<attachments/Mitten Paws/Sonstafurs Mitten Paws/image-01.png>)
+
+---
+
+<details>
+  <summary>Feral Canine Paws (8 cards)</summary>
+
+<a id="feral-canine-paws"></a>
+
+## Feral Canine Paws
+
+---
+
+<a id="free-foxfire-fantasy-feral-canine"></a>
+### (FREE) Foxfire Fantasy Feral Canine #free #any-hand-paws #any-5-finger-hand-paw #canine
+
+[https://ko-fi.com/s/1138814bd6](https://ko-fi.com/s/1138814bd6 "smartCard-inline")
+
+Feel free to leave a tip!
+
+Just the pattern, NO INSTRUCTIONS:
+
+[https://ko-fi.com/s/b11eb3e09b](https://ko-fi.com/s/b11eb3e09b "smartCard-inline")
+
+![FREE Foxfire Fantasy Feral Canine](<attachments/Feral Canine Paws/(FREE) Foxfire Fantasy Feral Canine/image-01.png>)
+
+![FREE Foxfire Fantasy Feral Canine](<attachments/Feral Canine Paws/(FREE) Foxfire Fantasy Feral Canine/image-02.png>)
+
+![FREE Foxfire Fantasy Feral Canine](<attachments/Feral Canine Paws/(FREE) Foxfire Fantasy Feral Canine/image-03.png>)
+
+---
+
+<a id="free-foxfire-fantasy-fox-slim-canine"></a>
+### (FREE) Foxfire Fantasy "Fox" Slim Canine #any-hand-paws #canine #any-5-finger-hand-paw #moderately #free #video-tutorials
+
+[https://foxfirefantasy.com/shop/fox-hand-pattern](https://foxfirefantasy.com/shop/fox-hand-pattern "smartCard-inline")
+
+Assembly video:
+
+[https://ko-fi.com/s/72f0863028](https://ko-fi.com/s/72f0863028 "smartCard-inline")
+
+Intermediate to advanced pattern!
+
+![FREE Foxfire Fantasy "Fox" Slim Canine](<attachments/Feral Canine Paws/(FREE) Foxfire Fantasy Fox Slim Canine/image-01.jpg>)
+
+---
+
+<a id="freakhound-feral-paw"></a>
+### Freakhound Feral Paw #cheap #any-hand-paws #canine
+
+[https://yellowfr3ak.gumroad.com/l/LoSul](https://yellowfr3ak.gumroad.com/l/LoSul "smartCard-inline")
+
+![Freakhound Feral Paw](<attachments/Feral Canine Paws/Freakhound Feral Paw/image-01.png>)
+
+---
+
+<a id="mugiwara-simple-feral-paw"></a>
+### Mugiwara Simple Feral Paw #cheap #any-hand-paws #canine #video-tutorials #any-species
+
+[https://mugiwara-cosplay.sellfy.store/p/digital-feral-hand-paw-pattern-for-fursuits-pdf-download/](https://mugiwara-cosplay.sellfy.store/p/digital-feral-hand-paw-pattern-for-fursuits-pdf-download/ "smartCard-inline")
+
+[https://www.etsy.com/ca/listing/691221653/digital-feral-hand-paw-pattern-for](https://www.etsy.com/ca/listing/691221653/digital-feral-hand-paw-pattern-for "smartCard-inline")
+
+[https://www.youtube.com/watch?v=x6yYytDshjw](https://www.youtube.com/watch?v=x6yYytDshjw "smartCard-inline")
+
+![Mugiwara Simple Feral Paw](<attachments/Feral Canine Paws/Mugiwara Simple Feral Paw/image-01.png>)
+
+---
+
+<a id="missrars-creatures-feral-canine"></a>
+### Missrars Creatures Feral Canine #moderately #canine #any-hand-paws
+
+[https://www.etsy.com/ca/listing/930893122/pdf-pattern-4-finger-feral-puffy-fursuit](https://www.etsy.com/ca/listing/930893122/pdf-pattern-4-finger-feral-puffy-fursuit "smartCard-inline")
+
+![Missrars Creatures Feral Canine](<attachments/Feral Canine Paws/Missrars Creatures Feral Canine/image-01.png>)
+
+![Missrars Creatures Feral Canine](<attachments/Feral Canine Paws/Missrars Creatures Feral Canine/image-02.png>)
+
+---
+
+<a id="wolfskinstudios-feral-puffy-paw"></a>
+### WolfskinStudios Feral Puffy Paw #moderately #any-hand-paws #canine
+
+[https://www.etsy.com/ca/listing/1272450471/wolfskinstudios-feral-paw-pattern](https://www.etsy.com/ca/listing/1272450471/wolfskinstudios-feral-paw-pattern)
+
+![WolfskinStudios Feral Puffy Paw](<attachments/Feral Canine Paws/WolfskinStudios Feral Puffy Paw/image-01.png>)
+
+---
+
+<a id="skyehighstudios-feral-paws"></a>
+### SkyehighStudios Feral Paws #video-tutorials #cheap #canine #any-hand-paws #any-species
+
+[https://www.skyehighstudios.com/store/p/hmz8gnsjxn4mk8zygoocxdrznl4co5](https://www.skyehighstudios.com/store/p/hmz8gnsjxn4mk8zygoocxdrznl4co5 "smartCard-inline")
+
+[https://www.youtube.com/watch?v=MXiYc9-fLNM](https://www.youtube.com/watch?v=MXiYc9-fLNM "smartCard-inline")
+
+![SkyehighStudios Feral Paws](<attachments/Feral Canine Paws/SkyehighStudios Feral Paws/image-01.png>)
+
+---
+
+<a id="spiltgrape-feral-paws"></a>
+### SpiltGrape Feral Paws #moderately #video-tutorials #any-hand-paws
+
+[https://www.etsy.com/ca/listing/1709621644/feral-style-puffy-hand-paw-pattern-with](https://www.etsy.com/ca/listing/1709621644/feral-style-puffy-hand-paw-pattern-with "smartCard-inline")
+
+[https://shop.spiltgrapesoda.com/spiltgrapesoda/p/feral-style-puffy-hand-paw-pattern-with-optional-dewclaw-pdf-download-1](https://shop.spiltgrapesoda.com/spiltgrapesoda/p/feral-style-puffy-hand-paw-pattern-with-optional-dewclaw-pdf-download-1 "smartCard-inline")
+
+[https://www.youtube.com/watch?v=OEm1-GqDgPs](https://www.youtube.com/watch?v=OEm1-GqDgPs "smartCard-inline")
+
+![SpiltGrape Feral Paws](<attachments/Feral Canine Paws/SpiltGrape Feral Paws/image-01.webp>)
+
+---
+
+<details>
+  <summary>Feline Paws (5 cards)</summary>
+
+<a id="feline-paws"></a>
+
+## Feline Paws
+
+---
+
+<a id="free-foxfire-fantasy-feral-feline-paws"></a>
+### (FREE) FoxFire Fantasy Feral Feline Paws #any-hand-paws #feline #free
+
+[https://ko-fi.com/s/90ce0269e6](https://ko-fi.com/s/90ce0269e6 "smartCard-inline")
+
+Feel free to leave a tip!
+
+Just the pattern, NO INSTRUCTIONS:
+
+[https://ko-fi.com/s/58d201e4f0](https://ko-fi.com/s/58d201e4f0 "smartCard-inline")
+
+![FREE FoxFire Fantasy Feral Feline Paws](<attachments/Feline Paws/(FREE) FoxFire Fantasy Feral Feline Paws/image-01.png>)
+
+---
+
+<a id="ybl-suits-puffy-feline-paws"></a>
+### YBL Suits Puffy Feline Paws #moderately #any-hand-paws #feline
+
+YaBoiLuke
+
+[https://www.yblsuits.com/shop/p/felinepaw](https://www.yblsuits.com/shop/p/felinepaw "smartCard-inline")
+
+[https://www.etsy.com/ca/listing/898555502/feline-puffy-paw-pattern-pdf-download](https://www.etsy.com/ca/listing/898555502/feline-puffy-paw-pattern-pdf-download?click_key=80881f39a6f9a3d8156f427559c02a94cddb151f%3A898555502&click_sum=c3a0177d&ref=shop_home_active_12&crt=1)
+
+![YBL Suits Puffy Feline Paws](<attachments/Feline Paws/YBL Suits Puffy Feline Paws/image-01.png>)
+
+![YBL Suits Puffy Feline Paws](<attachments/Feline Paws/YBL Suits Puffy Feline Paws/image-02.png>)
+
+---
+
+<a id="floofunlimited-feline-puffy-paws"></a>
+### FloofUnlimited Feline Puffy Paws #any-hand-paws #feline #expensive
+
+[https://www.etsy.com/ca/listing/4336636635/diy-fursuit-feline-puffy-paws-pdf](https://www.etsy.com/ca/listing/4336636635/diy-fursuit-feline-puffy-paws-pdf "smartCard-inline")
+
+![FloofUnlimited Feline Puffy Paws](<attachments/Feline Paws/FloofUnlimited Feline Puffy Paws/image-01.png>)
+
+---
+
+<a id="pseudocanid-chunky-cat-paws"></a>
+### Pseudocanid Chunky Cat Paws #moderately #any-hand-paws #feline #video-tutorials
+
+[https://www.etsy.com/ca/listing/1240295951/chunky-feline-hand-paw-pattern-digital](https://www.etsy.com/ca/listing/1240295951/chunky-feline-hand-paw-pattern-digital "smartCard-inline")
+
+[https://www.youtube.com/watch?v=gE4kOu7aZOo](https://www.youtube.com/watch?v=gE4kOu7aZOo "smartCard-inline")
+
+![Pseudocanid Chunky Cat Paws](<attachments/Feline Paws/Pseudocanid Chunky Cat Paws/image-01.png>)
+
+![Pseudocanid Chunky Cat Paws](<attachments/Feline Paws/Pseudocanid Chunky Cat Paws/image-02.png>)
+
+![Pseudocanid Chunky Cat Paws](<attachments/Feline Paws/Pseudocanid Chunky Cat Paws/image-03.png>)
+
+---
+
+<a id="oktavia-s-creatures-feral-2-pattern-pack-canine-and-feline"></a>
+### Oktavia's Creatures Feral 2 Pattern Pack (Canine & Feline) #moderately #any-hand-paws #feline #canine #multipack
+
+[https://www.etsy.com/ca/listing/1233102353/canine-and-feline-feral-hand-paws](https://www.etsy.com/ca/listing/1233102353/canine-and-feline-feral-hand-paws "smartCard-inline")
+
+![Oktavia's Creatures Feral 2 Pattern Pack Canine & Feline](<attachments/Feline Paws/Oktavia's Creatures Feral 2 Pattern Pack (Canine & Feline)/image-01.png>)
+
+![Oktavia's Creatures Feral 2 Pattern Pack Canine & Feline](<attachments/Feline Paws/Oktavia's Creatures Feral 2 Pattern Pack (Canine & Feline)/image-02.png>)
+
+![Oktavia's Creatures Feral 2 Pattern Pack Canine & Feline](<attachments/Feline Paws/Oktavia's Creatures Feral 2 Pattern Pack (Canine & Feline)/image-03.png>)
+
+---
+
+<details>
+  <summary>Other Species Hand Paws (25 cards)</summary>
+
+<a id="other-species-hand-paws"></a>
+
+## Other Species Hand Paws
+
+---
+
+<a id="oktavia-s-creatures-dragon-sergal-paws"></a>
+### Oktavia's Creatures Dragon/Sergal Paws #moderately #other-species #any-hand-paws
+
+[https://www.etsy.com/ca/listing/958977582/puffy-sergaldragon-hand-paw-digital](https://www.etsy.com/ca/listing/958977582/puffy-sergaldragon-hand-paw-digital "smartCard-inline")
+
+![Oktavia's Creatures Dragon/Sergal Paws](<attachments/Other Species Hand Paws/Oktavia's Creatures DragonSergal Paws/image-01.png>)
+
+![Oktavia's Creatures Dragon/Sergal Paws](<attachments/Other Species Hand Paws/Oktavia's Creatures DragonSergal Paws/image-02.png>)
+
+---
+
+<a id="soulenterprise-bird-reptile-hands"></a>
+### SoulEnterprise Bird/Reptile Hands #cheap #other-species #feathers-birds #any-hand-paws
+
+[https://www.etsy.com/ca/listing/913081410/puffy-birdreptile-handpaw-pdf-download](https://www.etsy.com/ca/listing/913081410/puffy-birdreptile-handpaw-pdf-download "smartCard-inline")
+
+![SoulEnterprise Bird/Reptile Hands](<attachments/Other Species Hand Paws/SoulEnterprise BirdReptile Hands/image-01.png>)
+
+![SoulEnterprise Bird/Reptile Hands](<attachments/Other Species Hand Paws/SoulEnterprise BirdReptile Hands/image-02.png>)
+
+![SoulEnterprise Bird/Reptile Hands](<attachments/Other Species Hand Paws/SoulEnterprise BirdReptile Hands/image-03.png>)
+
+---
+
+<a id="neffertity-hand-paws"></a>
+### Neffertity Hand Paws #moderately #other-species #any-hand-paws #feline #any-5-finger-hand-paw #video-tutorials
+
+[https://www.artbyneffertity.com/store/realistichandpattern](https://www.artbyneffertity.com/store/realistichandpattern "smartCard-inline")
+
+[https://www.youtube.com/watch?v=ANUsob4Girs](https://www.youtube.com/watch?v=ANUsob4Girs "smartCard-inline")
+
+![Neffertity Hand Paws](<attachments/Other Species Hand Paws/Neffertity Hand Paws/image-01.png>)
+
+![Neffertity Hand Paws](<attachments/Other Species Hand Paws/Neffertity Hand Paws/image-02.png>)
+
+![Neffertity Hand Paws](<attachments/Other Species Hand Paws/Neffertity Hand Paws/image-03.png>)
+
+---
+
+<a id="webbed-paws-tutorial"></a>
+### Webbed Paws Tutorial #cheap #other-species #any-hand-paws #any-5-finger-hand-paw #tutorial-no-pattern-incl
+
+[https://www.etsy.com/ca/listing/889213715/premium-tutorial-webbed-fingers-for](https://www.etsy.com/ca/listing/889213715/premium-tutorial-webbed-fingers-for "smartCard-inline")
+
+![Webbed Paws Tutorial](<attachments/Other Species Hand Paws/Webbed Paws Tutorial/image-01.png>)
+
+---
+
+<a id="makeafur-3-finger-monster-paws"></a>
+### MakeAFur 3 Finger Monster Paws #cheap #other-species #any-hand-paws
+
+[https://ko-fi.com/s/7e12e071b1](https://ko-fi.com/s/7e12e071b1 "smartCard-inline")
+
+![MakeAFur 3 Finger Monster Paws](<attachments/Other Species Hand Paws/MakeAFur 3 Finger Monster Paws/image-01.png>)
+
+---
+
+<a id="makeafur-4-finger-monster-paws"></a>
+### MakeAFur 4 Finger Monster Paws #cheap #other-species #any-hand-paws
+
+[https://ko-fi.com/s/d454932d81](https://ko-fi.com/s/d454932d81 "smartCard-inline")
+
+![MakeAFur 4 Finger Monster Paws](<attachments/Other Species Hand Paws/MakeAFur 4 Finger Monster Paws/image-01.png>)
+
+---
+
+<a id="mugiwara-wickerbeast-paws"></a>
+### Mugiwara Wickerbeast Paws #moderately #other-species #any-hand-paws #video-tutorials
+
+[https://mugiwara-cosplay.sellfy.store/p/digital-wickerbeast-hand-paw-pattern-for-fursuits-pdf-download/](https://mugiwara-cosplay.sellfy.store/p/digital-wickerbeast-hand-paw-pattern-for-fursuits-pdf-download/ "smartCard-inline")
+
+[https://www.etsy.com/ca/listing/1055064799/digital-wickerbeast-hand-paw-pattern-for](https://www.etsy.com/ca/listing/1055064799/digital-wickerbeast-hand-paw-pattern-for "smartCard-inline")
+
+[https://www.youtube.com/watch?v=943q25buo1A](https://www.youtube.com/watch?v=943q25buo1A "smartCard-inline")
+
+![Mugiwara Wickerbeast Paws](<attachments/Other Species Hand Paws/Mugiwara Wickerbeast Paws/image-01.png>)
+
+---
+
+<a id="mugiwara-monster-paw"></a>
+### Mugiwara Monster Paw #moderately #other-species #any-hand-paws #video-tutorials
+
+[https://mugiwara-cosplay.sellfy.store/p/digital-monster-hand-paw-pattern-for-fursuits-pdf-download/](https://mugiwara-cosplay.sellfy.store/p/digital-monster-hand-paw-pattern-for-fursuits-pdf-download/ "smartCard-inline")
+
+[https://www.etsy.com/ca/listing/648408440/digital-monster-hand-paw-pattern-for](https://www.etsy.com/ca/listing/648408440/digital-monster-hand-paw-pattern-for "smartCard-inline")
+
+[https://www.youtube.com/watch?v=943q25buo1A](https://www.youtube.com/watch?v=943q25buo1A "smartCard-inline")
+
+![Mugiwara Monster Paw](<attachments/Other Species Hand Paws/Mugiwara Monster Paw/image-01.png>)
+
+---
+
+<a id="mugiwara-3-finger-paw"></a>
+### Mugiwara 3 Finger Paw #moderately #other-species #any-hand-paws #video-tutorials
+
+Could be good for a toony bird with the right materials, adding feathers, etc as seen in example below.
+
+[https://mugiwara-cosplay.sellfy.store/p/digital-3-fingered-puffy-hand-paw-pattern-for-fursuits-claw-pattern-included-pdf-download/](https://mugiwara-cosplay.sellfy.store/p/digital-3-fingered-puffy-hand-paw-pattern-for-fursuits-claw-pattern-included-pdf-download/ "smartCard-inline")
+
+[https://www.etsy.com/ca/listing/745939638/digital-3-fingered-puffy-hand-paw](https://www.etsy.com/ca/listing/745939638/digital-3-fingered-puffy-hand-paw "smartCard-inline")
+
+[https://www.youtube.com/watch?v=s7DXexmcpFs](https://www.youtube.com/watch?v=s7DXexmcpFs "smartCard-inline")
+
+![Mugiwara 3 Finger Paw](<attachments/Other Species Hand Paws/Mugiwara 3 Finger Paw/image-01.png>)
+
+![Mugiwara 3 Finger Paw](<attachments/Other Species Hand Paws/Mugiwara 3 Finger Paw/image-02.png>)
+
+---
+
+<a id="thecasualfriday-toony-paws"></a>
+### TheCasualFriday Toony Paws #moderately #other-species #any-hand-paws
+
+[https://www.etsy.com/ca/listing/1282933686/toony-fursuit-paw-pattern](https://www.etsy.com/ca/listing/1282933686/toony-fursuit-paw-pattern "smartCard-inline")
+
+![TheCasualFriday Toony Paws](<attachments/Other Species Hand Paws/TheCasualFriday Toony Paws/image-01.png>)
+
+---
+
+<a id="stuffedtailsfursuits-wickerbeast-paws"></a>
+### StuffedTailsFursuits Wickerbeast Paws #moderately #other-species #any-hand-paws
+
+[https://www.etsy.com/ca/listing/1194328737/wicker-beast-handpaws-digital-pattern](https://www.etsy.com/ca/listing/1194328737/wicker-beast-handpaws-digital-pattern)
+
+![StuffedTailsFursuits Wickerbeast Paws](<attachments/Other Species Hand Paws/StuffedTailsFursuits Wickerbeast Paws/image-01.png>)
+
+---
+
+<a id="tlaasuitsnmore-toony-raptor-hand"></a>
+### TLAASuitsnMore Toony Raptor Hand #cheap #other-species #any-hand-paws #feathers-birds
+
+[https://www.etsy.com/ca/listing/1234612751/raptor-hand-fursuit-pattern](https://www.etsy.com/ca/listing/1234612751/raptor-hand-fursuit-pattern "smartCard-inline")
+
+![TLAASuitsnMore Toony Raptor Hand](<attachments/Other Species Hand Paws/TLAASuitsnMore Toony Raptor Hand/image-01.png>)
+
+![TLAASuitsnMore Toony Raptor Hand](<attachments/Other Species Hand Paws/TLAASuitsnMore Toony Raptor Hand/image-02.png>)
+
+---
+
+<a id="softplushdigital-big-claw-paws"></a>
+### softplushdigital Big Claw Paws #moderately #any-hand-paws #other-species
+
+[https://www.etsy.com/ca/listing/1555165623/monster-claw-puffy-paws-pdf-download](https://www.etsy.com/ca/listing/1555165623/monster-claw-puffy-paws-pdf-download "smartCard-inline")
+
+![softplushdigital Big Claw Paws](<attachments/Other Species Hand Paws/softplushdigital Big Claw Paws/image-01.jpg>)
+
+![softplushdigital Big Claw Paws](<attachments/Other Species Hand Paws/softplushdigital Big Claw Paws/image-02.webp>)
+
+---
+
+<a id="theraptorsshop-synth-paws-4-or-5-fingers"></a>
+### TheRaptorsShop Synth Paws 4 or 5 fingers #expensive #any-hand-paws #video-tutorials #other-species #moderately
+
+3 fingered:
+
+[https://www.etsy.com/ca/listing/1097560407/synth-paw-pattern-and-in-depth-guide](https://www.etsy.com/ca/listing/1097560407/synth-paw-pattern-and-in-depth-guide "smartCard-inline")
+
+[https://www.youtube.com/watch?v=zoVrOzsH730](https://www.youtube.com/watch?v=zoVrOzsH730 "smartCard-inline")
+
+5 fingered:
+
+[https://www.etsy.com/ca/listing/1686355389/5-finger-synth-paw-pattern-and-guide](https://www.etsy.com/ca/listing/1686355389/5-finger-synth-paw-pattern-and-guide "smartCard-inline")
+
+![TheRaptorsShop Synth Paws 4 or 5 fingers](<attachments/Other Species Hand Paws/TheRaptorsShop Synth Paws 4 or 5 fingers/image-01.jpg>)
+
+![TheRaptorsShop Synth Paws 4 or 5 fingers](<attachments/Other Species Hand Paws/TheRaptorsShop Synth Paws 4 or 5 fingers/image-02.jpg>)
+
+![TheRaptorsShop Synth Paws 4 or 5 fingers](<attachments/Other Species Hand Paws/TheRaptorsShop Synth Paws 4 or 5 fingers/image-03.jpg>)
+
+---
+
+<a id="akelatakawolf-slim-4-finger-paw"></a>
+### AkelaTakaWolf Slim 4 Finger Paw #expensive #any-hand-paws #other-species #canine
+
+https://www.etsy.com/ca/listing/1794618327/diy-toony-slim-four-fingered-fox-paw-pdf
+
+![AkelaTakaWolf Slim 4 Finger Paw](<attachments/Other Species Hand Paws/AkelaTakaWolf Slim 4 Finger Paw/image-01.jpg>)
+
+![AkelaTakaWolf Slim 4 Finger Paw](<attachments/Other Species Hand Paws/AkelaTakaWolf Slim 4 Finger Paw/image-02.webp>)
+
+![AkelaTakaWolf Slim 4 Finger Paw](<attachments/Other Species Hand Paws/AkelaTakaWolf Slim 4 Finger Paw/image-03.webp>)
+
+---
+
+<a id="fatunicorncosplay-finger-claws-armor-or-single-files"></a>
+### FatUnicornCosplay Finger Claws/Armor (or single files) #cheap #any-hand-paws #other-species #multipack #any-5-finger-hand-paw #foam-only
+
+Multipack:
+
+[https://www.etsy.com/ca/listing/914357230/diy-foam-claws-pattern-finger-armor](https://www.etsy.com/ca/listing/914357230/diy-foam-claws-pattern-finger-armor "smartCard-inline")
+
+Just Claws:
+
+[https://www.etsy.com/ca/listing/883161917/diy-foam-claws-pattern-finger-armor](https://www.etsy.com/ca/listing/883161917/diy-foam-claws-pattern-finger-armor "smartCard-inline")
+
+Just Armor:
+
+[https://www.etsy.com/ca/listing/883165915/diy-segmented-finger-armor-cosplay-armor](https://www.etsy.com/ca/listing/883165915/diy-segmented-finger-armor-cosplay-armor)
+
+![FatUnicornCosplay Finger Claws/Armor or single files](<attachments/Other Species Hand Paws/FatUnicornCosplay Finger ClawsArmor (or single files)/image-01.webp>)
+
+![FatUnicornCosplay Finger Claws/Armor or single files](<attachments/Other Species Hand Paws/FatUnicornCosplay Finger ClawsArmor (or single files)/image-02.webp>)
+
+![FatUnicornCosplay Finger Claws/Armor or single files](<attachments/Other Species Hand Paws/FatUnicornCosplay Finger ClawsArmor (or single files)/image-03.webp>)
+
+![FatUnicornCosplay Finger Claws/Armor or single files](<attachments/Other Species Hand Paws/FatUnicornCosplay Finger ClawsArmor (or single files)/image-04.webp>)
+
+---
+
+<a id="opossumcafe-opossum-handpaw-pattern"></a>
+### OpossumCafe Opossum Handpaw Pattern #other-species #cheap #any-hand-paws
+
+[https://www.etsy.com/ca/listing/1566473402/opossum-handpaw-pattern-and-instructions](https://www.etsy.com/ca/listing/1566473402/opossum-handpaw-pattern-and-instructions "smartCard-inline")
+
+![OpossumCafe Opossum Handpaw Pattern](<attachments/Other Species Hand Paws/OpossumCafe Opossum Handpaw Pattern/image-01.jpg>)
+
+---
+
+<a id="haxcreative-5-finger-webbed-paws"></a>
+### HaxCreative 5 Finger Webbed Paws #any-hand-paws #other-species #any-5-finger-hand-paw #moderately
+
+[https://www.etsy.com/ca/listing/1284713377/5-finger-webbed-handpaw-pattern](https://www.etsy.com/ca/listing/1284713377/5-finger-webbed-handpaw-pattern "smartCard-inline")
+
+see reviews, may have few instructions on how to build
+
+![HaxCreative 5 Finger Webbed Paws](<attachments/Other Species Hand Paws/HaxCreative 5 Finger Webbed Paws/image-01.jpg>)
+
+---
+
+<a id="nocturnalstudioss-spider-bug-paws"></a>
+### NocturnalStudioss Spider/Bug Paws #other-species #moderately #any-hand-paws
+
+[https://www.etsy.com/ca/listing/1761900025/spiderbug-fursuit-hand-paw-pattern-png](https://www.etsy.com/ca/listing/1761900025/spiderbug-fursuit-hand-paw-pattern-png "smartCard-inline")
+
+![NocturnalStudioss Spider/Bug Paws](<attachments/Other Species Hand Paws/NocturnalStudioss SpiderBug Paws/image-01.jpg>)
+
+---
+
+<a id="twilightknights-wickerbeast-handpaws"></a>
+### TwilightKnights Wickerbeast Handpaws #other-species #moderately #any-hand-paws
+
+[https://www.etsy.com/ca/listing/1684090611/wickerbeast-handpaws-pattern-tutorial](https://www.etsy.com/ca/listing/1684090611/wickerbeast-handpaws-pattern-tutorial)
+
+![TwilightKnights Wickerbeast Handpaws](<attachments/Other Species Hand Paws/TwilightKnights Wickerbeast Handpaws/image-01.webp>)
+
+---
+
+<a id="sonstafurs-bird-reptile-dinosaur-paws"></a>
+### Sonstafurs Bird/Reptile/Dinosaur paws #moderately #feathers-birds #other-species #any-hand-paws
+
+[https://www.etsy.com/ca/listing/1881944335/bird-reptile-dinosaur-raptor-paw-pattern](https://www.etsy.com/ca/listing/1881944335/bird-reptile-dinosaur-raptor-paw-pattern "smartCard-inline")
+
+![Sonstafurs Bird/Reptile/Dinosaur paws](<attachments/Other Species Hand Paws/Sonstafurs BirdReptileDinosaur paws/image-01.png>)
+
+![Sonstafurs Bird/Reptile/Dinosaur paws](<attachments/Other Species Hand Paws/Sonstafurs BirdReptileDinosaur paws/image-02.png>)
+
+---
+
+<a id="rudebirdstudios-mochi-bird-dragon-reptile-hand-paw-patter"></a>
+### RudeBirdStudios Mochi Bird/Dragon/Reptile Hand Paw Patter #any-hand-paws #other-species #feathers-birds #moderately
+
+[https://www.etsy.com/ca/listing/4377349259/mochi-birddragonreptile-hand-paw-pattern](https://www.etsy.com/ca/listing/4377349259/mochi-birddragonreptile-hand-paw-pattern "smartCard-inline")
+
+uses mochi minky, interfacing and applique
+
+![RudeBirdStudios Mochi Bird/Dragon/Reptile Hand Paw Patter](<attachments/Other Species Hand Paws/RudeBirdStudios Mochi BirdDragonReptile Hand Paw Patter/image-01.png>)
+
+---
+
+<a id="wolfskinstudios-bear-paw-pattern"></a>
+### WolfskinStudios Bear Paw Pattern #moderately #other-species #any-hand-paws
+
+[https://www.etsy.com/ca/listing/1828340647/bear-handpaw-pattern-pdf](https://www.etsy.com/ca/listing/1828340647/bear-handpaw-pattern-pdf "smartCard-inline")
+
+![WolfskinStudios Bear Paw Pattern](<attachments/Other Species Hand Paws/WolfskinStudios Bear Paw Pattern/image-01.png>)
+
+---
+
+<a id="finch-factory-bird-hands"></a>
+### Finch Factory Bird Hands #moderately #feathers-birds #any-hand-paws
+
+[https://www.patreon.com/FinchFactoryFursuits/shop/bird-hand-paw-pattern-advanced-read-1399017](https://www.patreon.com/FinchFactoryFursuits/shop/bird-hand-paw-pattern-advanced-read-1399017 "smartCard-inline")
+
+![Finch Factory Bird Hands](<attachments/Other Species Hand Paws/Finch Factory Bird Hands/image-01.png>)
+
+---
+
+<a id="betweenspaceandsea-seal-hand-and-tail-pattern"></a>
+### BetweenSpace&Sea Seal Hand and Tail Pattern #cheap #other-species #any-tails #any-hand-paws #multipack
+
+[https://www.etsy.com/ca/listing/4452569232/fursuit-seal-pattern-tail-and-paws](https://www.etsy.com/ca/listing/4452569232/fursuit-seal-pattern-tail-and-paws "smartCard-inline")
+
+![BetweenSpace&Sea Seal Hand and Tail Pattern](<attachments/Other Species Hand Paws/BetweenSpace&Sea Seal Hand and Tail Pattern/image-01.webp>)
+
+---
+
+<details>
+  <summary>Hand Hooves (21 cards)</summary>
+
+<a id="hand-hooves"></a>
+
+## Hand Hooves
+
+---
+
+<a id="free-freakhound-equine-hand-hooves"></a>
+### (FREE) Freakhound Equine Hand Hooves #free #equine-cervine #any-hand-paws
+
+[http://freakhoundstudios.com/hoofpaws](http://freakhoundstudios.com/hoofpaws "smartCard-inline")
+
+![FREE Freakhound Equine Hand Hooves](<attachments/Hand Hooves/(FREE) Freakhound Equine Hand Hooves/image-01.png>)
+
+---
+
+<a id="free-tripppylenny-horse-handhoof-pattern"></a>
+### (FREE) TripppyLenny Horse Handhoof Pattern #free #any-hand-paws #equine-cervine
+
+No examples I can find
+
+[https://www.deviantart.com/tripppylenny/art/F2U-Free-fursuit-hoof-pattern-used-to-be-P2U-873511664](https://www.deviantart.com/tripppylenny/art/F2U-Free-fursuit-hoof-pattern-used-to-be-P2U-873511664 "smartCard-inline")
+
+![FREE TripppyLenny Horse Handhoof Pattern](<attachments/Hand Hooves/(FREE) TripppyLenny Horse Handhoof Pattern/image-01.png>)
+
+---
+
+<a id="ybl-suits-3-finger-hand-hooves"></a>
+### YBL Suits 3 Finger Hand Hooves #moderately #any-hand-paws #equine-cervine
+
+[https://www.etsy.com/ca/listing/1041510199/puffy-cloven-hoof-fursuit-pattern-pdf](https://www.etsy.com/ca/listing/1041510199/puffy-cloven-hoof-fursuit-pattern-pdf "smartCard-inline")
+
+![YBL Suits 3 Finger Hand Hooves](<attachments/Hand Hooves/YBL Suits 3 Finger Hand Hooves/image-01.png>)
+
+---
+
+<a id="ybl-suits-cloven-hand-hooves"></a>
+### YBL Suits Cloven Hand Hooves #moderately #any-hand-paws #equine-cervine
+
+[https://www.etsy.com/ca/listing/1506967072/3-finger-hoof-fursuit-pattern-pdf](https://www.etsy.com/ca/listing/1506967072/3-finger-hoof-fursuit-pattern-pdf "smartCard-inline")
+
+![YBL Suits Cloven Hand Hooves](<attachments/Hand Hooves/YBL Suits Cloven Hand Hooves/image-01.png>)
+
+---
+
+<a id="pseudocanid-cloven-hand-hooves"></a>
+### Pseudocanid Cloven Hand Hooves #moderately #any-hand-paws #equine-cervine #video-tutorials
+
+[https://www.etsy.com/ca/listing/1039832633/toony-hand-hoof-pattern-digital](https://www.etsy.com/ca/listing/1039832633/toony-hand-hoof-pattern-digital "smartCard-inline")
+
+[https://www.youtube.com/watch?v=xd1_AX_8-uk](https://www.youtube.com/watch?v=xd1_AX_8-uk "smartCard-inline")
+
+![Pseudocanid Cloven Hand Hooves](<attachments/Hand Hooves/Pseudocanid Cloven Hand Hooves/image-01.png>)
+
+---
+
+<a id="mugiwara-deer-hooves"></a>
+### Mugiwara Deer Hooves #moderately #any-hand-paws #equine-cervine #video-tutorials
+
+[https://mugiwara-cosplay.sellfy.store/p/digital-deer-hand-paw-pattern-for-fursuits-pdf-download/](https://mugiwara-cosplay.sellfy.store/p/digital-deer-hand-paw-pattern-for-fursuits-pdf-download/ "smartCard-inline")
+
+[https://www.etsy.com/ca/listing/665870713/digital-deer-hand-paw-pattern-for](https://www.etsy.com/ca/listing/665870713/digital-deer-hand-paw-pattern-for "smartCard-inline")
+
+[https://www.youtube.com/watch?v=q6EMUEXRCTg](https://www.youtube.com/watch?v=q6EMUEXRCTg "smartCard-inline")
+
+![Mugiwara Deer Hooves](<attachments/Hand Hooves/Mugiwara Deer Hooves/image-01.png>)
+
+---
+
+<a id="oblestudios-puffy-hoves"></a>
+### ObleStudios Puffy Hoves #moderately #equine-cervine #any-hand-paws
+
+[https://www.etsy.com/ca/listing/836126730/puffy-hand-hoof-fursuit-pattern-cloven](https://www.etsy.com/ca/listing/836126730/puffy-hand-hoof-fursuit-pattern-cloven "smartCard-inline")
+
+Video tutorial to follow along:
+
+[https://youtu.be/wYzIj4bC9QA](https://youtu.be/wYzIj4bC9QA "smartCard-inline")
+
+![ObleStudios Puffy Hoves](<attachments/Hand Hooves/ObleStudios Puffy Hoves/image-01.png>)
+
+![ObleStudios Puffy Hoves](<attachments/Hand Hooves/ObleStudios Puffy Hoves/image-02.png>)
+
+---
+
+<a id="howlingdragonstudios-cloven-hooves-pattern"></a>
+### HowlingDragonStudios Cloven Hooves Pattern #moderately #equine-cervine #any-hand-paws
+
+[https://www.etsy.com/ca/listing/1501353991/hoof-hands-pattern-digital-download](https://www.etsy.com/ca/listing/1501353991/hoof-hands-pattern-digital-download "smartCard-inline")
+
+![HowlingDragonStudios Cloven Hooves Pattern](<attachments/Hand Hooves/HowlingDragonStudios Cloven Hooves Pattern/image-01.png>)
+
+---
+
+<a id="skyehighstudios-hand-hooves"></a>
+### SkyehighStudios Hand Hooves #equine-cervine #any-feet #cheap
+
+[https://www.skyehighstudios.com/store/p/fursuit-hand-hooves-pattern](https://www.skyehighstudios.com/store/p/fursuit-hand-hooves-pattern)
+
+[https://www.youtube.com/watch?v=dX8AY5O8_Z4](https://www.youtube.com/watch?v=dX8AY5O8_Z4 "smartCard-inline")
+
+![SkyehighStudios Hand Hooves](<attachments/Hand Hooves/SkyehighStudios Hand Hooves/image-01.png>)
+
+---
+
+<a id="floofunlimited-hand-hoof-pattern"></a>
+### FloofUnlimited Hand Hoof Pattern #equine-cervine #any-hand-paws #expensive
+
+[https://www.etsy.com/listing/1663276490/diy-fursuit-puffy-hooves-pdf-pattern-by](https://www.etsy.com/listing/1663276490/diy-fursuit-puffy-hooves-pdf-pattern-by "smartCard-inline")
+
+![FloofUnlimited Hand Hoof Pattern](<attachments/Hand Hooves/FloofUnlimited Hand Hoof Pattern/image-01.webp>)
+
+---
+
+<a id="bongo-laserworks-split-hoof-pattern"></a>
+### Bongo Laserworks Split Hoof Pattern #cheap #any-hand-paws #equine-cervine
+
+Only comes with a pattern for the hooves themselves, not the palm or wrist.
+
+[https://ko-fi.com/s/654c7a09f8](https://ko-fi.com/s/654c7a09f8 "smartCard-inline")
+
+![Bongo Laserworks Split Hoof Pattern](<attachments/Hand Hooves/Bongo Laserworks Split Hoof Pattern/image-01.png>)
+
+---
+
+<a id="deertailcreations-horse-hooves"></a>
+### DeerTailCreations Horse Hooves #equine-cervine #moderately #any-hand-paws
+
+[https://www.etsy.com/ca/listing/1542491758/fursuit-horse-hand-hoover-pattern](https://www.etsy.com/ca/listing/1542491758/fursuit-horse-hand-hoover-pattern "smartCard-inline")
+
+![DeerTailCreations Horse Hooves](<attachments/Hand Hooves/DeerTailCreations Horse Hooves/image-01.png>)
+
+![DeerTailCreations Horse Hooves](<attachments/Hand Hooves/DeerTailCreations Horse Hooves/image-02.png>)
+
+![DeerTailCreations Horse Hooves](<attachments/Hand Hooves/DeerTailCreations Horse Hooves/image-03.png>)
+
+---
+
+<a id="geknome-hand-hoof-pattern"></a>
+### Geknome Hand Hoof Pattern #cheap #any-hand-paws #equine-cervine
+
+[https://www.etsy.com/ca/listing/1579862277/fursuit-hoof-pattern-pdf-download](https://www.etsy.com/ca/listing/1579862277/fursuit-hoof-pattern-pdf-download "smartCard-inline")
+
+![Geknome Hand Hoof Pattern](<attachments/Hand Hooves/Geknome Hand Hoof Pattern/image-01.webp>)
+
+![Geknome Hand Hoof Pattern](<attachments/Hand Hooves/Geknome Hand Hoof Pattern/image-02.webp>)
+
+---
+
+<a id="koifishycostumes-hand-hoof-pattern-thumb"></a>
+### KoiFishyCostumes Hand Hoof Pattern + Thumb #cheap #equine-cervine #any-hand-paws
+
+[https://www.etsy.com/ca/listing/1646079752/hand-hoof-pattern-thumb-digital-pattern](https://www.etsy.com/ca/listing/1646079752/hand-hoof-pattern-thumb-digital-pattern "smartCard-inline")
+
+![KoiFishyCostumes Hand Hoof Pattern + Thumb](<attachments/Hand Hooves/KoiFishyCostumes Hand Hoof Pattern + Thumb/image-01.jpg>)
+
+---
+
+<a id="frostihadasundae-hand-hooves"></a>
+### FrostiHadaSundae Hand Hooves #cheap #equine-cervine #any-hand-paws
+
+[https://www.etsy.com/ca/listing/1791631021/handhoofpatternbyfhs](https://www.etsy.com/ca/listing/1791631021/handhoofpatternbyfhs "smartCard-inline")
+
+![FrostiHadaSundae Hand Hooves](<attachments/Hand Hooves/FrostiHadaSundae Hand Hooves/image-01.webp>)
+
+---
+
+<a id="lobitoworks-cloven-hand-hooves"></a>
+### LobitoWorks Cloven Hand Hooves #cheap #any-hand-paws #equine-cervine
+
+[https://www.etsy.com/ca/listing/1673680362/fursuit-hoof-hands-pattern-tutorial](https://www.etsy.com/ca/listing/1673680362/fursuit-hoof-hands-pattern-tutorial "smartCard-inline")
+
+![LobitoWorks Cloven Hand Hooves](<attachments/Hand Hooves/LobitoWorks Cloven Hand Hooves/image-01.webp>)
+
+---
+
+<a id="sonstafur-3-hoof-pattern"></a>
+### Sonstafur 3 Hoof Pattern #other-species #moderately #equine-cervine
+
+[https://www.etsy.com/ca/listing/1807862115/fursuit-hoof-paws-pattern-3-finger-furry](https://www.etsy.com/ca/listing/1807862115/fursuit-hoof-paws-pattern-3-finger-furry)
+
+![Sonstafur 3 Hoof Pattern](<attachments/Hand Hooves/Sonstafur 3 Hoof Pattern/image-01.png>)
+
+![Sonstafur 3 Hoof Pattern](<attachments/Hand Hooves/Sonstafur 3 Hoof Pattern/image-02.png>)
+
+---
+
+<a id="sonstafurs-horse-hoof-pattern"></a>
+### Sonstafurs Horse Hoof Pattern #moderately #equine-cervine #other-species
+
+[https://www.etsy.com/ca/listing/4361591512/fursuit-hoof-paws-pattern-equine-horse](https://www.etsy.com/ca/listing/4361591512/fursuit-hoof-paws-pattern-equine-horse)
+
+![Sonstafurs Horse Hoof Pattern](<attachments/Hand Hooves/Sonstafurs Horse Hoof Pattern/image-01.png>)
+
+---
+
+<a id="flower-fur-studio-hoof-pattern"></a>
+### Flower Fur Studio Hoof Pattern #moderately #equine-cervine
+
+[https://www.flowerfurstudio.com/p/fursuit-hoof-pattern/](https://www.flowerfurstudio.com/p/fursuit-hoof-pattern/ "smartCard-inline")
+
+![Flower Fur Studio Hoof Pattern](<attachments/Hand Hooves/Flower Fur Studio Hoof Pattern/image-01.png>)
+
+---
+
+<a id="mysticmalamute-toony-3-finger-hooves"></a>
+### MysticMalamute Toony 3 Finger Hooves #cheap #equine-cervine
+
+[https://ko-fi.com/s/6666558470](https://ko-fi.com/s/6666558470 "smartCard-inline")
+
+![MysticMalamute Toony 3 Finger Hooves](<attachments/Hand Hooves/MysticMalamute Toony 3 Finger Hooves/image-01.png>)
+
+---
+
+<a id="technocheese-hand-hooves-w-finger-escape"></a>
+### TechnoCheese Hand Hooves w/Finger Escape #expensive #equine-cervine
+
+[https://www.etsy.com/ca/listing/4569154922/fursuit-hand-hooves-with-finger-escapes](https://www.etsy.com/ca/listing/4569154922/fursuit-hand-hooves-with-finger-escapes "smartCard-inline")
+
+![TechnoCheese Hand Hooves w/Finger Escape](<attachments/Hand Hooves/TechnoCheese Hand Hooves wFinger Escape/image-01.png>)
+
+---
+
+<details>
+  <summary>Faun or Digitigrade legs & Bodysuits (28 cards)</summary>
+
+<a id="faun-or-digitigrade-legs-and-bodysuits"></a>
+
+## Faun or Digitigrade legs & Bodysuits
 
 ---
 
@@ -1018,242 +2120,2325 @@ V2/Slim: [https://www.etsy.com/ca/listing/1880698455/slim-digitigrade-legs-base-
 
 ---
 
-<a id="hand-hooves"></a>
+<details>
+  <summary>Canine & Generic Feet Paws (48 cards)</summary>
 
-</details>
+<a id="canine-and-generic-feet-paws"></a>
+
+## Canine & Generic Feet Paws
+
+---
+
+<a id="free-foxfire-fantasy-feral-canine-slim-paws"></a>
+### (FREE) FoxFire Fantasy Feral Canine Slim Paws #any-feet #canine #free
+
+[https://ko-fi.com/s/e6a0e4a710](https://ko-fi.com/s/e6a0e4a710 "smartCard-inline")
+
+Feel free to leave a tip!
+
+Just the pattern NO INSTRUCTIONS:
+
+[https://ko-fi.com/s/e6c5ebc0cb](https://ko-fi.com/s/e6c5ebc0cb "smartCard-inline")
+
+![FREE FoxFire Fantasy Feral Canine Slim Paws](<attachments/Canine & Generic Feet Paws/(FREE) FoxFire Fantasy Feral Canine Slim Paws/image-01.png>)
+
+![FREE FoxFire Fantasy Feral Canine Slim Paws](<attachments/Canine & Generic Feet Paws/(FREE) FoxFire Fantasy Feral Canine Slim Paws/image-02.png>)
+
+![FREE FoxFire Fantasy Feral Canine Slim Paws](<attachments/Canine & Generic Feet Paws/(FREE) FoxFire Fantasy Feral Canine Slim Paws/image-03.png>)
+
+---
+
+<a id="foxfire-fantasy-fox-foot-pattern"></a>
+### FoxFire Fantasy Fox Foot Pattern #canine #expensive #any-feet
+
+[https://ko-fi.com/s/620b6f6f93](https://ko-fi.com/s/620b6f6f93 "smartCard-inline")
+
+![FoxFire Fantasy Fox Foot Pattern](<attachments/Canine & Generic Feet Paws/FoxFire Fantasy Fox Foot Pattern/image-01.png>)
+
+---
+
+<a id="freakhound-sock-paw"></a>
+### Freakhound Sock Paw #cheap #any-feet #canine #feline #any-species #sockpaw
+
+[https://yellowfr3ak.gumroad.com/l/gOXUw](https://yellowfr3ak.gumroad.com/l/gOXUw "smartCard-inline")
+
+![Freakhound Sock Paw](<attachments/Canine & Generic Feet Paws/Freakhound Sock Paw/image-01.png>)
+
+---
+
+<a id="matrices-plantifootpaw"></a>
+### Matrices PlantiFootpaw #moderately #any-feet #canine #feline #any-species #sockpaw
+
+[https://matrices.gumroad.com/l/footpaws?layout=profile](https://matrices.gumroad.com/l/footpaws?layout=profile "smartCard-inline")
+
+[https://www.etsy.com/ca/listing/639864906/pattern-and-tutorial-fursuit-plantigrade](https://www.etsy.com/ca/listing/639864906/pattern-and-tutorial-fursuit-plantigrade "smartCard-inline")
+
+![Matrices PlantiFootpaw](<attachments/Canine & Generic Feet Paws/Matrices PlantiFootpaw/image-01.png>)
+
+---
+
+<a id="ybl-suits-puffy-footpaw"></a>
+### YBL Suits Puffy Footpaw #moderately #any-feet #canine #feline #any-species
+
+YaBoiLuke Suits
+
+[https://www.yblsuits.com/shop/p/toony-footpaw-fursuit-pattern-pdf-download](https://www.yblsuits.com/shop/p/toony-footpaw-fursuit-pattern-pdf-download "smartCard-inline")
+
+[https://www.etsy.com/ca/listing/1103588238/toony-footpaw-fursuit-pattern-pdf](https://www.etsy.com/ca/listing/1103588238/toony-footpaw-fursuit-pattern-pdf "smartCard-inline")
+
+![YBL Suits Puffy Footpaw](<attachments/Canine & Generic Feet Paws/YBL Suits Puffy Footpaw/image-01.png>)
+
+![YBL Suits Puffy Footpaw](<attachments/Canine & Generic Feet Paws/YBL Suits Puffy Footpaw/image-02.png>)
+
+---
+
+<a id="spiltgrapesoda-digi-feetpaws-v1"></a>
+### SpiltGrapeSoda Digi Feetpaws V1 #expensive #any-feet #canine #feline #any-species
+
+[https://shop.spiltgrapesoda.com/spiltgrapesoda/p/digigrade-fursuit-feetpaw-indoor-and-outdoor-pattern-pdf-download](https://shop.spiltgrapesoda.com/spiltgrapesoda/p/digigrade-fursuit-feetpaw-indoor-and-outdoor-pattern-pdf-download "smartCard-inline")
+
+[https://www.etsy.com/ca/listing/971364183/digigrade-fursuit-feetpaw-pattern-pdf](https://www.etsy.com/ca/listing/971364183/digigrade-fursuit-feetpaw-pattern-pdf "smartCard-inline")
+
+![SpiltGrapeSoda Digi Feetpaws V1](<attachments/Canine & Generic Feet Paws/SpiltGrapeSoda Digi Feetpaws V1/image-01.png>)
+
+![SpiltGrapeSoda Digi Feetpaws V1](<attachments/Canine & Generic Feet Paws/SpiltGrapeSoda Digi Feetpaws V1/image-02.png>)
+
+---
+
+<a id="spiltgrapesoda-digi-v2-indoor-outdoor"></a>
+### SpiltGrapeSoda Digi V2 Indoor + Outdoor #expensive #any-feet #canine #feline #any-species
+
+[https://shop.spiltgrapesoda.com/spiltgrapesoda/p/digigrade-20-fursuit-feetpaw-indoor-and-outdoor-pattern-pdf-download](https://shop.spiltgrapesoda.com/spiltgrapesoda/p/digigrade-20-fursuit-feetpaw-indoor-and-outdoor-pattern-pdf-download "smartCard-inline")
+
+[https://www.etsy.com/ca/listing/1669833867/digigrade-20-fursuit-feetpaw-indoor-and](https://www.etsy.com/ca/listing/1669833867/digigrade-20-fursuit-feetpaw-indoor-and "smartCard-inline")
+
+![SpiltGrapeSoda Digi V2 Indoor + Outdoor](<attachments/Canine & Generic Feet Paws/SpiltGrapeSoda Digi V2 Indoor + Outdoor/image-01.jpg>)
+
+![SpiltGrapeSoda Digi V2 Indoor + Outdoor](<attachments/Canine & Generic Feet Paws/SpiltGrapeSoda Digi V2 Indoor + Outdoor/image-02.jpg>)
+
+![SpiltGrapeSoda Digi V2 Indoor + Outdoor](<attachments/Canine & Generic Feet Paws/SpiltGrapeSoda Digi V2 Indoor + Outdoor/image-03.jpg>)
+
+---
+
+<a id="spiltgrapesoda-planti-v1"></a>
+### SpiltGrapeSoda Planti V1 #moderately #any-feet #canine #feline #any-species
+
+[https://shop.spiltgrapesoda.com/spiltgrapesoda/p/plantigrade-20-fursuit-feetpaw-indoor-and-outdoor-pattern-pdf-download](https://shop.spiltgrapesoda.com/spiltgrapesoda/p/plantigrade-20-fursuit-feetpaw-indoor-and-outdoor-pattern-pdf-download "smartCard-inline")
+
+[https://www.etsy.com/ca/listing/1059368688/plantigrade-fursuit-feetpaw-pattern-pdf](https://www.etsy.com/ca/listing/1059368688/plantigrade-fursuit-feetpaw-pattern-pdf "smartCard-inline")
+
+![SpiltGrapeSoda Planti V1](<attachments/Canine & Generic Feet Paws/SpiltGrapeSoda Planti V1/image-01.png>)
+
+![SpiltGrapeSoda Planti V1](<attachments/Canine & Generic Feet Paws/SpiltGrapeSoda Planti V1/image-02.png>)
+
+---
+
+<a id="spiltgrapesoda-planti-v2"></a>
+### SpiltGrapeSoda Planti V2 #moderately #any-feet #canine #feline #any-species
+
+[https://www.etsy.com/ca/listing/1059368688/plantigrade-fursuit-feetpaw-pattern-pdf](https://www.etsy.com/ca/listing/1059368688/plantigrade-fursuit-feetpaw-pattern-pdf "smartCard-inline")
+
+![SpiltGrapeSoda Planti V2](<attachments/Canine & Generic Feet Paws/SpiltGrapeSoda Planti V2/image-01.webp>)
+
+![SpiltGrapeSoda Planti V2](<attachments/Canine & Generic Feet Paws/SpiltGrapeSoda Planti V2/image-02.jpg>)
+
+---
+
+<a id="spiltgrapesoda-slim-feet-paw"></a>
+### SpiltGrapeSoda Slim Feet Paw #moderately #any-feet #canine #feline #any-species
+
+[https://www.etsy.com/ca/listing/1549700617/slim-fursuit-feetpaw-pattern-pdf](https://www.etsy.com/ca/listing/1549700617/slim-fursuit-feetpaw-pattern-pdf "smartCard-inline")
+
+![SpiltGrapeSoda Slim Feet Paw](<attachments/Canine & Generic Feet Paws/SpiltGrapeSoda Slim Feet Paw/image-01.png>)
+
+![SpiltGrapeSoda Slim Feet Paw](<attachments/Canine & Generic Feet Paws/SpiltGrapeSoda Slim Feet Paw/image-02.png>)
+
+---
+
+<a id="pseudocanid-slim-planti-feet-sockpaw"></a>
+### Pseudocanid Slim Planti Feet/Sockpaw #moderately #canine #feline #any-feet #any-species
+
+[https://www.etsy.com/ca/listing/1139118218/slim-sockpawfeetpaw-pattern-digital](https://www.etsy.com/ca/listing/1139118218/slim-sockpawfeetpaw-pattern-digital "smartCard-inline")
+
+![Pseudocanid Slim Planti Feet/Sockpaw](<attachments/Canine & Generic Feet Paws/Pseudocanid Slim Planti FeetSockpaw/image-01.png>)
+
+![Pseudocanid Slim Planti Feet/Sockpaw](<attachments/Canine & Generic Feet Paws/Pseudocanid Slim Planti FeetSockpaw/image-02.png>)
+
+![Pseudocanid Slim Planti Feet/Sockpaw](<attachments/Canine & Generic Feet Paws/Pseudocanid Slim Planti FeetSockpaw/image-03.png>)
+
+---
+
+<a id="pseudocanid-stompy-sock-feetpaws"></a>
+### Pseudocanid Stompy Sock/Feetpaws #moderately #any-feet #canine #feline #any-species #sockpaw #video-tutorials
+
+[https://www.etsy.com/ca/listing/1031343657/stompy-sockpawfeetpaw-pattern-digital](https://www.etsy.com/ca/listing/1031343657/stompy-sockpawfeetpaw-pattern-digital "smartCard-inline")
+
+[https://www.youtube.com/watch?v=uwKIbc0KVLM](https://www.youtube.com/watch?v=uwKIbc0KVLM "smartCard-inline")
+
+![Pseudocanid Stompy Sock/Feetpaws](<attachments/Canine & Generic Feet Paws/Pseudocanid Stompy SockFeetpaws/image-01.png>)
+
+![Pseudocanid Stompy Sock/Feetpaws](<attachments/Canine & Generic Feet Paws/Pseudocanid Stompy SockFeetpaws/image-02.png>)
+
+![Pseudocanid Stompy Sock/Feetpaws](<attachments/Canine & Generic Feet Paws/Pseudocanid Stompy SockFeetpaws/image-03.png>)
+
+---
+
+<a id="apoxon-industries-slim-fleece-sockpaw"></a>
+### Apoxon Industries Slim Fleece Sockpaw #moderately #any-feet #canine #feline #any-species #sockpaw
+
+[https://www.etsy.com/ca/listing/1001219718/fleece-sockpaw-pattern-and-tutorial](https://www.etsy.com/ca/listing/1001219718/fleece-sockpaw-pattern-and-tutorial "smartCard-inline")
+
+![Apoxon Industries Slim Fleece Sockpaw](<attachments/Canine & Generic Feet Paws/Apoxon Industries Slim Fleece Sockpaw/image-01.png>)
+
+---
+
+<a id="fursmoothie-footpaw-pattern"></a>
+### FurSmoothie Footpaw Pattern #cheap #other-species #any-feet #canine #feline #video-tutorials
+
+[https://www.etsy.com/ca/listing/967425681/footpaw-base-pattern](https://www.etsy.com/ca/listing/967425681/footpaw-base-pattern "smartCard-inline")
+
+[https://www.youtube.com/playlist?list=PLLY8iOf8Yzs1VfpfktaPsLZrz-Lcq8iN2](https://www.youtube.com/playlist?list=PLLY8iOf8Yzs1VfpfktaPsLZrz-Lcq8iN2 "smartCard-inline")
+
+![FurSmoothie Footpaw Pattern](<attachments/Canine & Generic Feet Paws/FurSmoothie Footpaw Pattern/image-01.webp>)
+
+![FurSmoothie Footpaw Pattern](<attachments/Canine & Generic Feet Paws/FurSmoothie Footpaw Pattern/image-02.webp>)
+
+---
+
+<a id="fursmoothie-mochi-indoor-sockpaws"></a>
+### FurSmoothie Mochi Indoor Sockpaws #cheap #other-species #any-feet #canine #feline #sockpaw
+
+[https://www.etsy.com/ca/listing/1133033536/mochi-indoor-sockpaws](https://www.etsy.com/ca/listing/1133033536/mochi-indoor-sockpaws "smartCard-inline")
+
+![FurSmoothie Mochi Indoor Sockpaws](<attachments/Canine & Generic Feet Paws/FurSmoothie Mochi Indoor Sockpaws/image-01.png>)
+
+![FurSmoothie Mochi Indoor Sockpaws](<attachments/Canine & Generic Feet Paws/FurSmoothie Mochi Indoor Sockpaws/image-02.png>)
+
+---
+
+<a id="kemocube-slim-mochi-sockpaw"></a>
+### KemoCube Slim Mochi Sockpaw #moderately #other-species #any-feet #canine #feline #sockpaw
+
+[https://www.etsy.com/ca/listing/852343056/kemocubes-fursuit-slim-sock-paws-pattern](https://www.etsy.com/ca/listing/852343056/kemocubes-fursuit-slim-sock-paws-pattern "smartCard-inline")
+
+![KemoCube Slim Mochi Sockpaw](<attachments/Canine & Generic Feet Paws/KemoCube Slim Mochi Sockpaw/image-01.png>)
+
+![KemoCube Slim Mochi Sockpaw](<attachments/Canine & Generic Feet Paws/KemoCube Slim Mochi Sockpaw/image-02.png>)
+
+---
+
+<a id="neffertity-digi-paws"></a>
+### Neffertity Digi Paws #moderately #other-species #any-feet #canine #feline #video-tutorials
+
+[https://www.artbyneffertity.com/store/pattern-digifeet](https://www.artbyneffertity.com/store/pattern-digifeet "smartCard-inline")
+
+[https://www.youtube.com/watch?v=N9V1Z4zKZSc](https://www.youtube.com/watch?v=N9V1Z4zKZSc "smartCard-inline")
+
+![Neffertity Digi Paws](<attachments/Canine & Generic Feet Paws/Neffertity Digi Paws/image-01.png>)
+
+![Neffertity Digi Paws](<attachments/Canine & Generic Feet Paws/Neffertity Digi Paws/image-02.png>)
+
+![Neffertity Digi Paws](<attachments/Canine & Generic Feet Paws/Neffertity Digi Paws/image-03.png>)
+
+---
+
+<a id="mugiwara-stompy-sock-paws"></a>
+### Mugiwara Stompy Sock Paws #moderately #any-feet #other-species #canine #feline #video-tutorials #sockpaw
+
+[https://mugiwara-cosplay.sellfy.store/p/digital-stompy-sock-paws-pattern-for-fursuits-pdf-download/](https://mugiwara-cosplay.sellfy.store/p/digital-stompy-sock-paws-pattern-for-fursuits-pdf-download/ "smartCard-inline")
+
+[https://www.etsy.com/ca/listing/646657292/digital-stompy-sock-paws-pattern-for](https://www.etsy.com/ca/listing/646657292/digital-stompy-sock-paws-pattern-for "smartCard-inline")
+
+[https://www.youtube.com/watch?v=5h5b1grqWFk](https://www.youtube.com/watch?v=5h5b1grqWFk "smartCard-inline")
+
+![Mugiwara Stompy Sock Paws](<attachments/Canine & Generic Feet Paws/Mugiwara Stompy Sock Paws/image-01.png>)
+
+---
+
+<a id="mugiwara-v2-stompy-sock-paws"></a>
+### Mugiwara V2 Stompy Sock Paws #moderately #any-feet #other-species #canine #feline #video-tutorials #sockpaw
+
+[https://mugiwara-cosplay.sellfy.store/p/digital-stompy-sock-paws-pattern-for-fursuits-pdf-download/](https://mugiwara-cosplay.sellfy.store/p/digital-stompy-sock-paws-pattern-for-fursuits-pdf-download/ "smartCard-inline")
+
+[https://www.etsy.com/ca/listing/646657292/digital-stompy-sock-paws-pattern-for](https://www.etsy.com/ca/listing/646657292/digital-stompy-sock-paws-pattern-for "smartCard-inline")
+
+[https://www.youtube.com/watch?v=5h5b1grqWFk](https://www.youtube.com/watch?v=5h5b1grqWFk "smartCard-inline")
+
+![Mugiwara V2 Stompy Sock Paws](<attachments/Canine & Generic Feet Paws/Mugiwara V2 Stompy Sock Paws/image-01.webp>)
+
+---
+
+<a id="mugiwara-sock-paws"></a>
+### Mugiwara Sock Paws #moderately #any-feet #other-species #canine #feline #video-tutorials #sockpaw
+
+[https://mugiwara-cosplay.sellfy.store/p/digital-sock-paws-pattern-for-fursuits-pdf-download/](https://mugiwara-cosplay.sellfy.store/p/digital-sock-paws-pattern-for-fursuits-pdf-download/ "smartCard-inline")
+
+[https://www.etsy.com/ca/listing/673087531/digital-sock-paws-pattern-for-fursuits](https://www.etsy.com/ca/listing/673087531/digital-sock-paws-pattern-for-fursuits "smartCard-inline")
+
+[https://www.youtube.com/watch?v=5h5b1grqWFk](https://www.youtube.com/watch?v=5h5b1grqWFk "smartCard-inline")
+
+![Mugiwara Sock Paws](<attachments/Canine & Generic Feet Paws/Mugiwara Sock Paws/image-01.png>)
+
+---
+
+<a id="twilightknights-digi-sockpaws"></a>
+### TwilightKnights Digi Sockpaws #moderately #any-species #any-feet #canine #feline #multipack #sockpaw
+
+[https://www.etsy.com/ca/listing/1669107831/digitgrade-sockpaw-tutorial-pattern-pdf](https://www.etsy.com/ca/listing/1669107831/digitgrade-sockpaw-tutorial-pattern-pdf "smartCard-inline")
+
+comes with 2 toe styles
+
+![TwilightKnights Digi Sockpaws](<attachments/Canine & Generic Feet Paws/TwilightKnights Digi Sockpaws/image-01.jpg>)
+
+---
+
+<a id="twilightknights-foam-feetpaws"></a>
+### TwilightKnights Foam Feetpaws #any-feet #other-species #feline #canine #foam-only #moderately
+
+NO FUR PATTERN, just inner liner and foam patterns
+
+[https://www.etsy.com/ca/listing/1509221547/foam-feetpaw-tutorial-pattern-pdf](https://www.etsy.com/ca/listing/1509221547/foam-feetpaw-tutorial-pattern-pdf "smartCard-inline")
+
+![TwilightKnights Foam Feetpaws](<attachments/Canine & Generic Feet Paws/TwilightKnights Foam Feetpaws/image-01.png>)
+
+---
+
+<a id="saberwolfstudio-digi-foam-feet-pattern"></a>
+### SaberWolfStudio Digi Foam Feet Pattern #moderately #other-species #any-feet #feline #canine #foam-only
+
+[https://www.etsy.com/ca/listing/1348480068/digi-feet-base-pattern](https://www.etsy.com/ca/listing/1348480068/digi-feet-base-pattern "smartCard-inline")
+
+![SaberWolfStudio Digi Foam Feet Pattern](<attachments/Canine & Generic Feet Paws/SaberWolfStudio Digi Foam Feet Pattern/image-01.png>)
+
+---
+
+<a id="lobitoworks-footpaw-straps"></a>
+### LobitoWorks Footpaw STRAPS #cheap #other-species #any-feet #foam-only
+
+[https://www.etsy.com/ca/listing/1198683632/one-size-fits-most-fursuit-feet-straps](https://www.etsy.com/ca/listing/1198683632/one-size-fits-most-fursuit-feet-straps "smartCard-inline")
+
+![LobitoWorks Footpaw STRAPS](<attachments/Canine & Generic Feet Paws/LobitoWorks Footpaw STRAPS/image-01.png>)
+
+---
+
+<a id="lobitoworks-footpaw-liner"></a>
+### LobitoWorks Footpaw LINER #cheap #other-species #any-feet
+
+[https://www.etsy.com/ca/listing/889677544/fursuit-paw-liner-pattern-tutorial](https://www.etsy.com/ca/listing/889677544/fursuit-paw-liner-pattern-tutorial "smartCard-inline")
+
+![LobitoWorks Footpaw LINER](<attachments/Canine & Generic Feet Paws/LobitoWorks Footpaw LINER/image-01.png>)
+
+---
+
+<a id="missrars-creatures-foundation-foot-liner-10-sizes"></a>
+### Missrars Creatures Foundation Foot Liner (10 sizes) #moderately #other-species #any-feet
+
+[https://www.etsy.com/ca/listing/1107961401/pdf-pattern-foundation-foot-liner-for](https://www.etsy.com/ca/listing/1107961401/pdf-pattern-foundation-foot-liner-for "smartCard-inline")
+
+![Missrars Creatures Foundation Foot Liner 10 sizes](<attachments/Canine & Generic Feet Paws/Missrars Creatures Foundation Foot Liner (10 sizes)/image-01.png>)
+
+---
+
+<a id="matrices-tutorial-liners-and-soles-for-stuffed-feetpaws"></a>
+### Matrices Tutorial Liners and Soles for Stuffed Feetpaws #video-tutorials #cheap #any-feet #tutorial-no-pattern-incl
+
+[https://matrices.gumroad.com/l/liners](https://matrices.gumroad.com/l/liners "smartCard-inline")
+
+[https://www.etsy.com/ca/listing/653709457/premium-tutorial-creating-liners-and](https://www.etsy.com/ca/listing/653709457/premium-tutorial-creating-liners-and "smartCard-inline")
+
+![Matrices Tutorial Liners and Soles for Stuffed Feetpaws](<attachments/Canine & Generic Feet Paws/Matrices Tutorial Liners and Soles for Stuffed Feetpaws/image-01.png>)
+
+---
+
+<a id="ricochetxcrafts-digi-toes"></a>
+### Ricochetxcrafts Digi Toes #foam-only #any-species #any-feet #cheap
+
+[https://www.etsy.com/ca/listing/1591350139/digi-toes-pattern](https://www.etsy.com/ca/listing/1591350139/digi-toes-pattern "smartCard-inline")
+
+![Ricochetxcrafts Digi Toes](<attachments/Canine & Generic Feet Paws/Ricochetxcrafts Digi Toes/image-01.png>)
+
+---
+
+<a id="ollyfur-digi-feet-paw-pattern"></a>
+### OllyFur Digi Feet Paw Pattern #video-tutorials #cheap #any-species #any-feet
+
+[https://www.etsy.com/ca/listing/1637982449/digital-download-fursuit-digitigrade](https://www.etsy.com/ca/listing/1637982449/digital-download-fursuit-digitigrade "smartCard-inline")
+
+[https://www.youtube.com/watch?v=JI0ZZYt3fKk](https://www.youtube.com/watch?v=JI0ZZYt3fKk "smartCard-inline")
+
+![OllyFur Digi Feet Paw Pattern](<attachments/Canine & Generic Feet Paws/OllyFur Digi Feet Paw Pattern/image-01.png>)
+
+---
+
+<a id="tes-feetpaws"></a>
+### Tes Feetpaws #any-feet #any-species #cheap
+
+[https://musingwolfdog.gumroad.com/l/feetpawpattern](https://musingwolfdog.gumroad.com/l/feetpawpattern "smartCard-inline")
+
+![Tes Feetpaws](<attachments/Canine & Generic Feet Paws/Tes Feetpaws/image-01.png>)
+
+---
+
+<a id="oktaviascreatures-indoor-feetpaws"></a>
+### OktaviasCreatures Indoor Feetpaws #moderately #any-feet #any-species
+
+[https://www.etsy.com/ca/listing/1612971861/indoor-fursuit-feet-paws-pattern-digital](https://www.etsy.com/ca/listing/1612971861/indoor-fursuit-feet-paws-pattern-digital)
+
+![OktaviasCreatures Indoor Feetpaws](<attachments/Canine & Generic Feet Paws/OktaviasCreatures Indoor Feetpaws/image-01.jpg>)
+
+---
+
+<a id="mugiwara-stompy-feet-paws"></a>
+### Mugiwara Stompy Feet Paws #any-feet #video-tutorials #foam-only #expensive #canine #feline
+
+[https://mugiwara-cosplay.sellfy.store/p/digital-stompy-fursuit-feet-paws-pattern-for-fursuits-pdf-download/](https://mugiwara-cosplay.sellfy.store/p/digital-stompy-fursuit-feet-paws-pattern-for-fursuits-pdf-download/ "smartCard-inline")
+
+[https://www.etsy.com/ca/listing/1551549366/digital-stompy-fursuit-feet-paws-pattern?click_key=bf1cedd895fd9634d4b79f777dbd43658791e087%3A1551549366&click_sum=e38e13a2&ref=shop_home_active_8&pro=1](https://www.etsy.com/ca/listing/1551549366/digital-stompy-fursuit-feet-paws-pattern?click_key=bf1cedd895fd9634d4b79f777dbd43658791e087%3A1551549366&click_sum=e38e13a2&ref=shop_home_active_8&pro=1 "smartCard-inline") [https://www.youtube.com/watch?v=0wFsKW_v77Q](https://www.youtube.com/watch?v=0wFsKW_v77Q "smartCard-inline")
+
+![Mugiwara Stompy Feet Paws](<attachments/Canine & Generic Feet Paws/Mugiwara Stompy Feet Paws/image-01.jpg>)
+
+---
+
+<a id="mugiwara-digi-feetpaws"></a>
+### Mugiwara Digi Feetpaws #any-feet #video-tutorials #foam-only #expensive #canine #feline
+
+[https://mugiwara-cosplay.sellfy.store/p/digital-digitigrade-fursuit-feet-paws-pattern-for-fursuits-pdf-download/](https://mugiwara-cosplay.sellfy.store/p/digital-digitigrade-fursuit-feet-paws-pattern-for-fursuits-pdf-download/ "smartCard-inline")
+
+[https://www.etsy.com/ca/listing/1615225917/digital-digitigrade-fursuit-feet-paws](https://www.etsy.com/ca/listing/1615225917/digital-digitigrade-fursuit-feet-paws "smartCard-inline")
+
+[https://youtu.be/ydUnEkX9o7Q](https://youtu.be/ydUnEkX9o7Q "smartCard-inline")
+
+![Mugiwara Digi Feetpaws](<attachments/Canine & Generic Feet Paws/Mugiwara Digi Feetpaws/image-01.jpg>)
+
+---
+
+<a id="trinestreasures-foam-feet-paws"></a>
+### TrinesTreasures Foam Feet Paws #foam-only #cheap #any-feet #any-species
+
+[https://www.etsy.com/ca/listing/1651131817/paw-foot-pattern-for-eva-foam-a4-and-us](https://www.etsy.com/ca/listing/1651131817/paw-foot-pattern-for-eva-foam-a4-and-us "smartCard-inline")
+
+![TrinesTreasures Foam Feet Paws](<attachments/Canine & Generic Feet Paws/TrinesTreasures Foam Feet Paws/image-01.jpg>)
+
+---
+
+<a id="mugiwara-foam-feetpaws"></a>
+### Mugiwara Foam Feetpaws #any-species #any-feet #cheap #video-tutorials #foam-only
+
+[https://mugiwara-cosplay.sellfy.store/p/digital-foam-feet-base-template-for-fursuits-pdf-download/](https://mugiwara-cosplay.sellfy.store/p/digital-foam-feet-base-template-for-fursuits-pdf-download/ "smartCard-inline")
+
+[https://www.etsy.com/ca/listing/1075347854/digital-foam-feet-base-template-for](https://www.etsy.com/ca/listing/1075347854/digital-foam-feet-base-template-for "smartCard-inline")
+
+[https://www.youtube.com/watch?v=SGfuphAGgi8](https://www.youtube.com/watch?v=SGfuphAGgi8 "smartCard-inline")
+
+![Mugiwara Foam Feetpaws](<attachments/Canine & Generic Feet Paws/Mugiwara Foam Feetpaws/image-01.jpg>)
+
+---
+
+<a id="mugiwara-4-toed-digi-foam-feet"></a>
+### Mugiwara 4 Toed Digi Foam Feet #any-species #any-feet #cheap #video-tutorials #foam-only
+
+[https://www.etsy.com/ca/listing/1162833866/digital-4-toed-digitigrade-foam-feet](https://www.etsy.com/ca/listing/1162833866/digital-4-toed-digitigrade-foam-feet "smartCard-inline")
+
+[https://youtu.be/jPWX4di-Lhk](https://youtu.be/jPWX4di-Lhk "smartCard-inline")
+
+![Mugiwara 4 Toed Digi Foam Feet](<attachments/Canine & Generic Feet Paws/Mugiwara 4 Toed Digi Foam Feet/image-01.jpg>)
+
+---
+
+<a id="plexicosplay-paw-shoe-cover"></a>
+### PlexiCosplay Paw Shoe Cover #any-species #any-feet #cheap
+
+[https://www.etsy.com/ca/listing/1752574811/paw-shoe-cover-pattern-eva-foam-cosplay](https://www.etsy.com/ca/listing/1752574811/paw-shoe-cover-pattern-eva-foam-cosplay)
+
+![PlexiCosplay Paw Shoe Cover](<attachments/Canine & Generic Feet Paws/PlexiCosplay Paw Shoe Cover/image-01.webp>)
+
+---
+
+<a id="redsewsshop-digi-feetpaws"></a>
+### RedSewsShop Digi Feetpaws #moderately #any-feet #any-species
+
+[https://www.etsy.com/ca/listing/1782946115/digital-download-slim-digitigrade](https://www.etsy.com/ca/listing/1782946115/digital-download-slim-digitigrade "smartCard-inline")
+
+![RedSewsShop Digi Feetpaws](<attachments/Canine & Generic Feet Paws/RedSewsShop Digi Feetpaws/image-01.png>)
+
+---
+
+<a id="charred-fursuits-foot-paw"></a>
+### Charred Fursuits Foot Paw #any-species #moderately #any-feet
+
+Comes in 3 sizes
+
+[https://charredfursuits.com/product/charred-fursuits-slim-foot-paw-pattern-and-tutorial](https://charredfursuits.com/product/charred-fursuits-slim-foot-paw-pattern-and-tutorial "smartCard-inline")
+
+[https://www.etsy.com/ca/listing/1519885189/fursuit-foot-paw-pattern-and-tutorial](https://www.etsy.com/ca/listing/1519885189/fursuit-foot-paw-pattern-and-tutorial "smartCard-inline")
+
+![Charred Fursuits Foot Paw](<attachments/Canine & Generic Feet Paws/Charred Fursuits Foot Paw/image-01.webp>)
+
+---
+
+<a id="thistlecrux-digi-feet-paw"></a>
+### Thistlecrux Digi Feet Paw #any-species #moderately #any-feet
+
+[https://www.etsy.com/ca/listing/1903779709/pattern-full-digi-fursuit-feet](https://www.etsy.com/ca/listing/1903779709/pattern-full-digi-fursuit-feet "smartCard-inline")
+
+![Thistlecrux Digi Feet Paw](<attachments/Canine & Generic Feet Paws/Thistlecrux Digi Feet Paw/image-01.png>)
+
+---
+
+<a id="ritafoxfursuits-ultraslim-paws"></a>
+### RitaFoxFursuits UltraSlim Paws #cheap #any-species #sockpaw #any-feet
+
+[https://www.etsy.com/ca/listing/1833830702/ultra-slim-fursuit-sock-paw-pattern-and](https://www.etsy.com/ca/listing/1833830702/ultra-slim-fursuit-sock-paw-pattern-and "smartCard-inline")
+
+![RitaFoxFursuits UltraSlim Paws](<attachments/Canine & Generic Feet Paws/RitaFoxFursuits UltraSlim Paws/image-01.png>)
+
+---
+
+<a id="teacuplion-feet-paws"></a>
+### TeacupLion Feet Paws #any-feet #sockpaw #any-species #expensive
+
+[https://www.etsy.com/ca/listing/4322183595/fursuit-sewing-pattern-slim-digigrade](https://www.etsy.com/ca/listing/4322183595/fursuit-sewing-pattern-slim-digigrade "smartCard-inline")
+
+Includes material list
+
+![TeacupLion Feet Paws](<attachments/Canine & Generic Feet Paws/TeacupLion Feet Paws/image-01.png>)
+
+---
+
+<a id="flower-fur-studio-feet-paws"></a>
+### Flower Fur Studio Feet Paws #any-species #any-feet #moderately
+
+[https://www.flowerfurstudio.com/p/fursuit-feet-paws-pattern/](https://www.flowerfurstudio.com/p/fursuit-feet-paws-pattern/ "smartCard-inline")
+
+![Flower Fur Studio Feet Paws](<attachments/Canine & Generic Feet Paws/Flower Fur Studio Feet Paws/image-01.png>)
+
+---
+
+<a id="etherealfursuits-digi-feetpaws"></a>
+### EtherealFursuits Digi Feetpaws #any-species #foam-only #any-feet
+
+[https://www.etsy.com/ca/listing/4448434913/digigrade-feetpaw-foam-base-pattern](https://www.etsy.com/ca/listing/4448434913/digigrade-feetpaw-foam-base-pattern "smartCard-inline")
+
+Made to match this thigh padding:
+
+[https://www.etsy.com/ca/listing/4438634426/digigrade-leg-foam-padding-pattern](https://www.etsy.com/ca/listing/4438634426/digigrade-leg-foam-padding-pattern "smartCard-inline")
+
+![EtherealFursuits Digi Feetpaws](<attachments/Canine & Generic Feet Paws/EtherealFursuits Digi Feetpaws/image-01.webp>)
+
+---
+
+<a id="geknome-slim-plantigrade-feet-paws"></a>
+### Geknome Slim Plantigrade Feet Paws #any-feet #any-species #expensive
+
+[https://www.etsy.com/ca/listing/1867168737/slim-plantigrade-fursuit-feetpaw-pattern](https://www.etsy.com/ca/listing/1867168737/slim-plantigrade-fursuit-feetpaw-pattern "smartCard-inline")
+
+![Geknome Slim Plantigrade Feet Paws](<attachments/Canine & Generic Feet Paws/Geknome Slim Plantigrade Feet Paws/image-01.webp>)
+
+---
+
+<a id="nicosfurryfriends-v1-slim-foot-paw"></a>
+### NicosFurryFriends V1 Slim Foot Paw #any-feet #any-species #foam-only #cheap
+
+[https://www.etsy.com/ca/listing/1904794173/old-version-slim-footpaw-pattern-with](https://www.etsy.com/ca/listing/1904794173/old-version-slim-footpaw-pattern-with "smartCard-inline")
+
+![NicosFurryFriends V1 Slim Foot Paw](<attachments/Canine & Generic Feet Paws/NicosFurryFriends V1 Slim Foot Paw/image-01.webp>)
+
+---
+
+<a id="nicosfurryfriends-v2-slim-footpaw"></a>
+### NicosFurryFriends V2 Slim Footpaw #foam-only #any-species #any-feet #cheap
+
+[https://www.etsy.com/ca/listing/4353842344/20-new-and-improved-revised-slim-footpaw](https://www.etsy.com/ca/listing/4353842344/20-new-and-improved-revised-slim-footpaw "smartCard-inline")
+
+![NicosFurryFriends V2 Slim Footpaw](<attachments/Canine & Generic Feet Paws/NicosFurryFriends V2 Slim Footpaw/image-01.webp>)
+
+---
+
+<a id="wingleafworkshop-2-foam-feet"></a>
+### WingLeafWorkshop 2 Foam Feet #foam-only #any-species #any-feet #canine #feline #other-species #moderately
+
+Digi Feet: [https://www.etsy.com/ca/listing/1824468276/digitigrade-fursuit-feetpaws-base-pdf](https://www.etsy.com/ca/listing/1824468276/digitigrade-fursuit-feetpaws-base-pdf "smartCard-inline")
+
+Slim Feet: [https://www.etsy.com/ca/listing/1880654333/slim-digitigrade-fursuit-feetpaws-base](https://www.etsy.com/ca/listing/1880654333/slim-digitigrade-fursuit-feetpaws-base "smartCard-inline")
+
+![WingLeafWorkshop 2 Foam Feet](<attachments/Canine & Generic Feet Paws/WingLeafWorkshop 2 Foam Feet/image-01.png>)
+
+![WingLeafWorkshop 2 Foam Feet](<attachments/Canine & Generic Feet Paws/WingLeafWorkshop 2 Foam Feet/image-02.png>)
+
+---
 
 <details>
-<summary>Hand Hooves</summary>
+  <summary>Feet Hooves (12 cards)</summary>
 
+<a id="feet-hooves"></a>
 
-[↑ Contents](#contents)
-
----
-
-<a id="free-freakhound-equine-hand-hooves"></a>
-### (FREE) Freakhound Equine Hand Hooves #free #equine-cervine #any-hand-paws
-
-[http://freakhoundstudios.com/hoofpaws](http://freakhoundstudios.com/hoofpaws "smartCard-inline")
-
-![FREE Freakhound Equine Hand Hooves](<attachments/Hand Hooves/(FREE) Freakhound Equine Hand Hooves/image-01.png>)
+## Feet Hooves
 
 ---
 
-<a id="free-tripppylenny-horse-handhoof-pattern"></a>
-### (FREE) TripppyLenny Horse Handhoof Pattern #free #any-hand-paws #equine-cervine
+<a id="apoxon-industries-fleece-hooves"></a>
+### Apoxon Industries Fleece Hooves #moderately #equine-cervine #any-feet
 
-No examples I can find
+[https://www.etsy.com/ca/listing/1105034719/fleece-sockhoof-pattern-and-tutorial](https://www.etsy.com/ca/listing/1105034719/fleece-sockhoof-pattern-and-tutorial "smartCard-inline")
 
-[https://www.deviantart.com/tripppylenny/art/F2U-Free-fursuit-hoof-pattern-used-to-be-P2U-873511664](https://www.deviantart.com/tripppylenny/art/F2U-Free-fursuit-hoof-pattern-used-to-be-P2U-873511664 "smartCard-inline")
+![Apoxon Industries Fleece Hooves](<attachments/Feet Hooves/Apoxon Industries Fleece Hooves/image-01.png>)
 
-![FREE TripppyLenny Horse Handhoof Pattern](<attachments/Hand Hooves/(FREE) TripppyLenny Horse Handhoof Pattern/image-01.png>)
-
----
-
-<a id="ybl-suits-3-finger-hand-hooves"></a>
-### YBL Suits 3 Finger Hand Hooves #moderately #any-hand-paws #equine-cervine
-
-[https://www.etsy.com/ca/listing/1041510199/puffy-cloven-hoof-fursuit-pattern-pdf](https://www.etsy.com/ca/listing/1041510199/puffy-cloven-hoof-fursuit-pattern-pdf "smartCard-inline")
-
-![YBL Suits 3 Finger Hand Hooves](<attachments/Hand Hooves/YBL Suits 3 Finger Hand Hooves/image-01.png>)
+![Apoxon Industries Fleece Hooves](<attachments/Feet Hooves/Apoxon Industries Fleece Hooves/image-02.png>)
 
 ---
 
-<a id="ybl-suits-cloven-hand-hooves"></a>
-### YBL Suits Cloven Hand Hooves #moderately #any-hand-paws #equine-cervine
+<a id="apoxon-industries-fleece-cloven-hooves"></a>
+### Apoxon Industries Fleece Cloven Hooves #moderately #any-feet #equine-cervine
 
-[https://www.etsy.com/ca/listing/1506967072/3-finger-hoof-fursuit-pattern-pdf](https://www.etsy.com/ca/listing/1506967072/3-finger-hoof-fursuit-pattern-pdf "smartCard-inline")
+[https://www.etsy.com/ca/listing/1351604095/fleece-cloven-sockhoof-pattern-and](https://www.etsy.com/ca/listing/1351604095/fleece-cloven-sockhoof-pattern-and)
 
-![YBL Suits Cloven Hand Hooves](<attachments/Hand Hooves/YBL Suits Cloven Hand Hooves/image-01.png>)
-
----
-
-<a id="pseudocanid-cloven-hand-hooves"></a>
-### Pseudocanid Cloven Hand Hooves #moderately #any-hand-paws #equine-cervine #video-tutorials
-
-[https://www.etsy.com/ca/listing/1039832633/toony-hand-hoof-pattern-digital](https://www.etsy.com/ca/listing/1039832633/toony-hand-hoof-pattern-digital "smartCard-inline")
-
-[https://www.youtube.com/watch?v=xd1_AX_8-uk](https://www.youtube.com/watch?v=xd1_AX_8-uk "smartCard-inline")
-
-![Pseudocanid Cloven Hand Hooves](<attachments/Hand Hooves/Pseudocanid Cloven Hand Hooves/image-01.png>)
+![Apoxon Industries Fleece Cloven Hooves](<attachments/Feet Hooves/Apoxon Industries Fleece Cloven Hooves/image-01.png>)
 
 ---
 
-<a id="mugiwara-deer-hooves"></a>
-### Mugiwara Deer Hooves #moderately #any-hand-paws #equine-cervine #video-tutorials
+<a id="fursmoothie-foam-cloven-hooves"></a>
+### FurSmoothie FOAM Cloven Hooves #cheap #equine-cervine #any-feet #foam-only
 
-[https://mugiwara-cosplay.sellfy.store/p/digital-deer-hand-paw-pattern-for-fursuits-pdf-download/](https://mugiwara-cosplay.sellfy.store/p/digital-deer-hand-paw-pattern-for-fursuits-pdf-download/ "smartCard-inline")
+Includes liner but NOT fur pattern!
 
-[https://www.etsy.com/ca/listing/665870713/digital-deer-hand-paw-pattern-for](https://www.etsy.com/ca/listing/665870713/digital-deer-hand-paw-pattern-for "smartCard-inline")
+[https://www.etsy.com/ca/listing/995477740/feet-hooves-foam-base-pattern](https://www.etsy.com/ca/listing/995477740/feet-hooves-foam-base-pattern "smartCard-inline")
 
-[https://www.youtube.com/watch?v=q6EMUEXRCTg](https://www.youtube.com/watch?v=q6EMUEXRCTg "smartCard-inline")
+![FurSmoothie FOAM Cloven Hooves](<attachments/Feet Hooves/FurSmoothie FOAM Cloven Hooves/image-01.png>)
 
-![Mugiwara Deer Hooves](<attachments/Hand Hooves/Mugiwara Deer Hooves/image-01.png>)
+![FurSmoothie FOAM Cloven Hooves](<attachments/Feet Hooves/FurSmoothie FOAM Cloven Hooves/image-02.png>)
 
----
-
-<a id="oblestudios-puffy-hoves"></a>
-### ObleStudios Puffy Hoves #moderately #equine-cervine #any-hand-paws
-
-[https://www.etsy.com/ca/listing/836126730/puffy-hand-hoof-fursuit-pattern-cloven](https://www.etsy.com/ca/listing/836126730/puffy-hand-hoof-fursuit-pattern-cloven "smartCard-inline")
-
-Video tutorial to follow along:
-
-[https://youtu.be/wYzIj4bC9QA](https://youtu.be/wYzIj4bC9QA "smartCard-inline")
-
-![ObleStudios Puffy Hoves](<attachments/Hand Hooves/ObleStudios Puffy Hoves/image-01.png>)
-
-![ObleStudios Puffy Hoves](<attachments/Hand Hooves/ObleStudios Puffy Hoves/image-02.png>)
+![FurSmoothie FOAM Cloven Hooves](<attachments/Feet Hooves/FurSmoothie FOAM Cloven Hooves/image-03.png>)
 
 ---
 
-<a id="howlingdragonstudios-cloven-hooves-pattern"></a>
-### HowlingDragonStudios Cloven Hooves Pattern #moderately #equine-cervine #any-hand-paws
+<a id="ricochetxcrafts-foam-feet-hooves"></a>
+### Ricochetxcrafts FOAM feet hooves #any-feet #equine-cervine #cheap #foam-only
 
-[https://www.etsy.com/ca/listing/1501353991/hoof-hands-pattern-digital-download](https://www.etsy.com/ca/listing/1501353991/hoof-hands-pattern-digital-download "smartCard-inline")
+[https://www.etsy.com/ca/listing/1292590535/hollow-foam-foot-hoof-pattern](https://www.etsy.com/ca/listing/1292590535/hollow-foam-foot-hoof-pattern "smartCard-inline")
 
-![HowlingDragonStudios Cloven Hooves Pattern](<attachments/Hand Hooves/HowlingDragonStudios Cloven Hooves Pattern/image-01.png>)
+![Ricochetxcrafts FOAM feet hooves](<attachments/Feet Hooves/Ricochetxcrafts FOAM feet hooves/image-01.png>)
 
 ---
 
-<a id="skyehighstudios-hand-hooves"></a>
-### SkyehighStudios Hand Hooves #equine-cervine #any-feet #cheap
+<a id="mugiwara-cloven-sock-hooves"></a>
+### Mugiwara Cloven Sock Hooves #moderately #any-feet #equine-cervine #video-tutorials
 
-[https://www.skyehighstudios.com/store/p/fursuit-hand-hooves-pattern](https://www.skyehighstudios.com/store/p/fursuit-hand-hooves-pattern)
+[https://mugiwara-cosplay.sellfy.store/p/digital-sock-paw-hooves-pattern-for-fursuits-pdf-download/](https://mugiwara-cosplay.sellfy.store/p/digital-sock-paw-hooves-pattern-for-fursuits-pdf-download/ "smartCard-inline")
+
+[https://www.etsy.com/ca/listing/673302481/digital-sock-paw-hooves-pattern-for](https://www.etsy.com/ca/listing/673302481/digital-sock-paw-hooves-pattern-for "smartCard-inline")
+
+[https://www.youtube.com/watch?v=XumxclUeB_U](https://www.youtube.com/watch?v=XumxclUeB_U "smartCard-inline")
+
+![Mugiwara Cloven Sock Hooves](<attachments/Feet Hooves/Mugiwara Cloven Sock Hooves/image-01.png>)
+
+---
+
+<a id="skyehighstudios-feet-hooves"></a>
+### SkyehighStudios Feet Hooves #cheap #equine-cervine #any-feet #video-tutorials
+
+[https://www.skyehighstudios.com/store/p/fursuit-digitigrade-hoof-foot-pattern](https://www.skyehighstudios.com/store/p/fursuit-digitigrade-hoof-foot-pattern)
 
 [https://www.youtube.com/watch?v=dX8AY5O8_Z4](https://www.youtube.com/watch?v=dX8AY5O8_Z4 "smartCard-inline")
 
-![SkyehighStudios Hand Hooves](<attachments/Hand Hooves/SkyehighStudios Hand Hooves/image-01.png>)
+![SkyehighStudios Feet Hooves](<attachments/Feet Hooves/SkyehighStudios Feet Hooves/image-01.png>)
 
 ---
 
-<a id="floofunlimited-hand-hoof-pattern"></a>
-### FloofUnlimited Hand Hoof Pattern #equine-cervine #any-hand-paws #expensive
+<a id="spiltgrapesoda-planti-hoof-pattern"></a>
+### Spiltgrapesoda Planti Hoof Pattern #equine-cervine #any-feet #expensive
 
-[https://www.etsy.com/listing/1663276490/diy-fursuit-puffy-hooves-pdf-pattern-by](https://www.etsy.com/listing/1663276490/diy-fursuit-puffy-hooves-pdf-pattern-by "smartCard-inline")
+https://shop.spiltgrapesoda.com/spiltgrapesoda/p/plantigrade-feet-hoof-indoor-and-outdoor-pattern-pdf-download
 
-![FloofUnlimited Hand Hoof Pattern](<attachments/Hand Hooves/FloofUnlimited Hand Hoof Pattern/image-01.webp>)
+![Spiltgrapesoda Planti Hoof Pattern](<attachments/Feet Hooves/Spiltgrapesoda Planti Hoof Pattern/image-01.jpg>)
 
----
-
-<a id="bongo-laserworks-split-hoof-pattern"></a>
-### Bongo Laserworks Split Hoof Pattern #cheap #any-hand-paws #equine-cervine
-
-Only comes with a pattern for the hooves themselves, not the palm or wrist.
-
-[https://ko-fi.com/s/654c7a09f8](https://ko-fi.com/s/654c7a09f8 "smartCard-inline")
-
-![Bongo Laserworks Split Hoof Pattern](<attachments/Hand Hooves/Bongo Laserworks Split Hoof Pattern/image-01.png>)
+![Spiltgrapesoda Planti Hoof Pattern](<attachments/Feet Hooves/Spiltgrapesoda Planti Hoof Pattern/image-02.jpg>)
 
 ---
 
-<a id="deertailcreations-horse-hooves"></a>
-### DeerTailCreations Horse Hooves #equine-cervine #moderately #any-hand-paws
+<a id="spiltgrapesoda-digi-hoof-pattern"></a>
+### Spiltgrapesoda Digi Hoof Pattern #moderately #equine-cervine #any-feet
 
-[https://www.etsy.com/ca/listing/1542491758/fursuit-horse-hand-hoover-pattern](https://www.etsy.com/ca/listing/1542491758/fursuit-horse-hand-hoover-pattern "smartCard-inline")
+https://shop.spiltgrapesoda.com/spiltgrapesoda/p/digigrade-feet-hoof-indoor-and-outdoor-pattern-pdf-download
 
-![DeerTailCreations Horse Hooves](<attachments/Hand Hooves/DeerTailCreations Horse Hooves/image-01.png>)
+https://www.etsy.com/ca/listing/1601282095/digigrade-feet-hoof-indoor-and-outdoor
 
-![DeerTailCreations Horse Hooves](<attachments/Hand Hooves/DeerTailCreations Horse Hooves/image-02.png>)
+![Spiltgrapesoda Digi Hoof Pattern](<attachments/Feet Hooves/Spiltgrapesoda Digi Hoof Pattern/image-01.jpg>)
 
-![DeerTailCreations Horse Hooves](<attachments/Hand Hooves/DeerTailCreations Horse Hooves/image-03.png>)
-
----
-
-<a id="geknome-hand-hoof-pattern"></a>
-### Geknome Hand Hoof Pattern #cheap #any-hand-paws #equine-cervine
-
-[https://www.etsy.com/ca/listing/1579862277/fursuit-hoof-pattern-pdf-download](https://www.etsy.com/ca/listing/1579862277/fursuit-hoof-pattern-pdf-download "smartCard-inline")
-
-![Geknome Hand Hoof Pattern](<attachments/Hand Hooves/Geknome Hand Hoof Pattern/image-01.webp>)
-
-![Geknome Hand Hoof Pattern](<attachments/Hand Hooves/Geknome Hand Hoof Pattern/image-02.webp>)
+![Spiltgrapesoda Digi Hoof Pattern](<attachments/Feet Hooves/Spiltgrapesoda Digi Hoof Pattern/image-02.jpg>)
 
 ---
 
-<a id="koifishycostumes-hand-hoof-pattern-thumb"></a>
-### KoiFishyCostumes Hand Hoof Pattern + Thumb #cheap #equine-cervine #any-hand-paws
+<a id="premiumfauntent-eva-hoof-template"></a>
+### PremiumFauntent EVA Hoof Template #equine-cervine #cheap #video-tutorials #any-bodysuit
 
-[https://www.etsy.com/ca/listing/1646079752/hand-hoof-pattern-thumb-digital-pattern](https://www.etsy.com/ca/listing/1646079752/hand-hoof-pattern-thumb-digital-pattern "smartCard-inline")
+[https://www.premiumfauntent.com/shop/p/faun-hoof-template](https://www.premiumfauntent.com/shop/p/faun-hoof-template "smartCard-inline")
 
-![KoiFishyCostumes Hand Hoof Pattern + Thumb](<attachments/Hand Hooves/KoiFishyCostumes Hand Hoof Pattern + Thumb/image-01.jpg>)
+[https://www.etsy.com/ca/listing/1292024782/faun-hoof-digital-template](https://www.etsy.com/ca/listing/1292024782/faun-hoof-digital-template "smartCard-inline")
 
----
+[https://www.youtube.com/watch?v=YLQfrOfEcjk&t=1832s&ab_channel=PremiumFauntent](https://www.youtube.com/watch?v=YLQfrOfEcjk&t=1832s&ab_channel=PremiumFauntent "smartCard-inline")
 
-<a id="frostihadasundae-hand-hooves"></a>
-### FrostiHadaSundae Hand Hooves #cheap #equine-cervine #any-hand-paws
-
-[https://www.etsy.com/ca/listing/1791631021/handhoofpatternbyfhs](https://www.etsy.com/ca/listing/1791631021/handhoofpatternbyfhs "smartCard-inline")
-
-![FrostiHadaSundae Hand Hooves](<attachments/Hand Hooves/FrostiHadaSundae Hand Hooves/image-01.webp>)
+![PremiumFauntent EVA Hoof Template](<attachments/Feet Hooves/PremiumFauntent EVA Hoof Template/image-01.webp>)
 
 ---
 
-<a id="lobitoworks-cloven-hand-hooves"></a>
-### LobitoWorks Cloven Hand Hooves #cheap #any-hand-paws #equine-cervine
+<a id="mugiwara-digi-horse-hoof"></a>
+### Mugiwara Digi Horse Hoof #expensive #video-tutorials #equine-cervine #any-feet
 
-[https://www.etsy.com/ca/listing/1673680362/fursuit-hoof-hands-pattern-tutorial](https://www.etsy.com/ca/listing/1673680362/fursuit-hoof-hands-pattern-tutorial "smartCard-inline")
+[https://mugiwara-cosplay.sellfy.store/p/digital-digitigrade-fursuit-feet-hooves-pattern-for-fursuits-pdf-download-vqyoqe/](https://mugiwara-cosplay.sellfy.store/p/digital-digitigrade-fursuit-feet-hooves-pattern-for-fursuits-pdf-download-vqyoqe/ "smartCard-inline")
 
-![LobitoWorks Cloven Hand Hooves](<attachments/Hand Hooves/LobitoWorks Cloven Hand Hooves/image-01.webp>)
+[https://www.etsy.com/ca/listing/1704656811/digital-digitigrade-fursuit-horse-feet](https://www.etsy.com/ca/listing/1704656811/digital-digitigrade-fursuit-horse-feet "smartCard-inline")
 
----
+[https://www.youtube.com/watch?v=3l7uRu1sMDM](https://www.youtube.com/watch?v=3l7uRu1sMDM "smartCard-inline")
 
-<a id="sonstafur-3-hoof-pattern"></a>
-### Sonstafur 3 Hoof Pattern #other-species #moderately #equine-cervine
-
-[https://www.etsy.com/ca/listing/1807862115/fursuit-hoof-paws-pattern-3-finger-furry](https://www.etsy.com/ca/listing/1807862115/fursuit-hoof-paws-pattern-3-finger-furry)
-
-![Sonstafur 3 Hoof Pattern](<attachments/Hand Hooves/Sonstafur 3 Hoof Pattern/image-01.png>)
-
-![Sonstafur 3 Hoof Pattern](<attachments/Hand Hooves/Sonstafur 3 Hoof Pattern/image-02.png>)
+![Mugiwara Digi Horse Hoof](<attachments/Feet Hooves/Mugiwara Digi Horse Hoof/image-01.jpg>)
 
 ---
 
-<a id="sonstafurs-horse-hoof-pattern"></a>
-### Sonstafurs Horse Hoof Pattern #moderately #equine-cervine #other-species
+<a id="mugiwara-digi-cloven-hoof"></a>
+### Mugiwara Digi Cloven Hoof #any-feet #equine-cervine #video-tutorials #expensive
 
-[https://www.etsy.com/ca/listing/4361591512/fursuit-hoof-paws-pattern-equine-horse](https://www.etsy.com/ca/listing/4361591512/fursuit-hoof-paws-pattern-equine-horse)
+[https://mugiwara-cosplay.sellfy.store/p/digital-digitigrade-fursuit-feet-paws-pattern-for-fursuits-pdf-download-iu54mt/](https://mugiwara-cosplay.sellfy.store/p/digital-digitigrade-fursuit-feet-paws-pattern-for-fursuits-pdf-download-iu54mt/ "smartCard-inline")
 
-![Sonstafurs Horse Hoof Pattern](<attachments/Hand Hooves/Sonstafurs Horse Hoof Pattern/image-01.png>)
+[https://www.etsy.com/ca/listing/1687300530/digital-digitigrade-fursuit-feet-hooves](https://www.etsy.com/ca/listing/1687300530/digital-digitigrade-fursuit-feet-hooves "smartCard-inline")
 
----
+[https://www.youtube.com/watch?v=vYUKbWiZtvc](https://www.youtube.com/watch?v=vYUKbWiZtvc "smartCard-inline")
 
-<a id="flower-fur-studio-hoof-pattern"></a>
-### Flower Fur Studio Hoof Pattern #moderately #equine-cervine
+![Mugiwara Digi Cloven Hoof](<attachments/Feet Hooves/Mugiwara Digi Cloven Hoof/image-01.webp>)
 
-[https://www.flowerfurstudio.com/p/fursuit-hoof-pattern/](https://www.flowerfurstudio.com/p/fursuit-hoof-pattern/ "smartCard-inline")
-
-![Flower Fur Studio Hoof Pattern](<attachments/Hand Hooves/Flower Fur Studio Hoof Pattern/image-01.png>)
+![Mugiwara Digi Cloven Hoof](<attachments/Feet Hooves/Mugiwara Digi Cloven Hoof/image-02.jpg>)
 
 ---
 
-<a id="mysticmalamute-toony-3-finger-hooves"></a>
-### MysticMalamute Toony 3 Finger Hooves #cheap #equine-cervine
+<a id="sonstafurs-horse-feethooves"></a>
+### Sonstafurs Horse Feethooves #expensive #equine-cervine #any-feet
 
-[https://ko-fi.com/s/6666558470](https://ko-fi.com/s/6666558470 "smartCard-inline")
+[https://www.etsy.com/ca/listing/4362448512/fursuit-hoof-feet-pattern-equine-horse](https://www.etsy.com/ca/listing/4362448512/fursuit-hoof-feet-pattern-equine-horse "smartCard-inline")
 
-![MysticMalamute Toony 3 Finger Hooves](<attachments/Hand Hooves/MysticMalamute Toony 3 Finger Hooves/image-01.png>)
+![Sonstafurs Horse Feethooves](<attachments/Feet Hooves/Sonstafurs Horse Feethooves/image-01.png>)
+
+---
+
+<details>
+  <summary>Other Species Feet Paws (12 cards)</summary>
+
+<a id="other-species-feet-paws"></a>
+
+## Other Species Feet Paws
 
 ---
 
-<a id="technocheese-hand-hooves-w-finger-escape"></a>
-### TechnoCheese Hand Hooves w/Finger Escape #expensive #equine-cervine
+<a id="mugiwara-bird-sock-feet"></a>
+### Mugiwara Bird Sock Feet #moderately #any-feet #feathers-birds #video-tutorials #sockpaw
 
-[https://www.etsy.com/ca/listing/4569154922/fursuit-hand-hooves-with-finger-escapes](https://www.etsy.com/ca/listing/4569154922/fursuit-hand-hooves-with-finger-escapes "smartCard-inline")
+[https://mugiwara-cosplay.sellfy.store/p/digital-bird-sock-paws-pattern-for-fursuits-pdf-download/](https://mugiwara-cosplay.sellfy.store/p/digital-bird-sock-paws-pattern-for-fursuits-pdf-download/ "smartCard-inline")
 
-![TechnoCheese Hand Hooves w/Finger Escape](<attachments/Hand Hooves/TechnoCheese Hand Hooves wFinger Escape/image-01.png>)
+[https://www.etsy.com/ca/listing/737480401/digital-bird-sock-paws-pattern-for](https://www.etsy.com/ca/listing/737480401/digital-bird-sock-paws-pattern-for "smartCard-inline")
+
+[https://www.youtube.com/watch?v=HXwdORWOeYY](https://www.youtube.com/watch?v=HXwdORWOeYY "smartCard-inline")
+
+![Mugiwara Bird Sock Feet](<attachments/Other Species Feet Paws/Mugiwara Bird Sock Feet/image-01.png>)
 
 ---
+
+<a id="mugiwara-3-toe-digi-feet-paws"></a>
+### Mugiwara 3 Toe Digi Feet Paws #other-species #any-feet #video-tutorials #expensive
+
+[https://mugiwara-cosplay.sellfy.store/embed/checkout/product/ksknxr/](https://mugiwara-cosplay.sellfy.store/embed/checkout/product/ksknxr/ "smartCard-inline")
+
+[https://www.etsy.com/ca/listing/1709123705/digital-digitigrade-fursuit-feet-paws](https://www.etsy.com/ca/listing/1709123705/digital-digitigrade-fursuit-feet-paws "smartCard-inline")
+
+[https://youtu.be/6uiMm-y6gig](https://youtu.be/6uiMm-y6gig "smartCard-inline")
+
+![Mugiwara 3 Toe Digi Feet Paws](<attachments/Other Species Feet Paws/Mugiwara 3 Toe Digi Feet Paws/image-01.webp>)
+
+---
+
+<a id="mugiwara-3-toe-feet-paws"></a>
+### Mugiwara 3 Toe Feet Paws #moderately #other-species #any-feet #video-tutorials
+
+[https://mugiwara-cosplay.sellfy.store/p/digital-3-toed-stompy-sock-paws-pattern-for-fursuits-pdf-download/](https://mugiwara-cosplay.sellfy.store/p/digital-3-toed-stompy-sock-paws-pattern-for-fursuits-pdf-download/ "smartCard-inline")
+
+[https://www.etsy.com/ca/listing/698075476/digital-3-toed-stompy-sock-paws-pattern](https://www.etsy.com/ca/listing/698075476/digital-3-toed-stompy-sock-paws-pattern "smartCard-inline")
+
+[https://youtu.be/5h5b1grqWFk](https://youtu.be/5h5b1grqWFk "smartCard-inline")
+
+![Mugiwara 3 Toe Feet Paws](<attachments/Other Species Feet Paws/Mugiwara 3 Toe Feet Paws/image-01.png>)
+
+---
+
+<a id="mugiwara-sock-raptor-feet"></a>
+### Mugiwara Sock Raptor Feet #moderately #other-species #any-feet #video-tutorials
+
+[https://mugiwara-cosplay.sellfy.store/p/digital-raptor-sock-paw-hooves-pattern-for-fursuits-pdf-download/](https://mugiwara-cosplay.sellfy.store/p/digital-raptor-sock-paw-hooves-pattern-for-fursuits-pdf-download/ "smartCard-inline")
+
+[https://www.etsy.com/ca/listing/1270394326/digital-raptor-sock-paw-hooves-pattern](https://www.etsy.com/ca/listing/1270394326/digital-raptor-sock-paw-hooves-pattern "smartCard-inline")
+
+[https://youtu.be/i0C4HIhh6GU](https://youtu.be/i0C4HIhh6GU "smartCard-inline")
+
+![Mugiwara Sock Raptor Feet](<attachments/Other Species Feet Paws/Mugiwara Sock Raptor Feet/image-01.png>)
+
+---
+
+<a id="ricochetxcrafts-foam-feet-claws"></a>
+### Ricochetxcrafts FOAM Feet Claws #cheap #other-species #any-feet #feathers-birds #video-tutorials #foam-only
+
+[https://www.etsy.com/ca/listing/1278048687/hollow-foam-foot-claw-pattern](https://www.etsy.com/ca/listing/1278048687/hollow-foam-foot-claw-pattern "smartCard-inline")
+
+![Ricochetxcrafts FOAM Feet Claws](<attachments/Other Species Feet Paws/Ricochetxcrafts FOAM Feet Claws/image-01.png>)
+
+---
+
+<a id="mugiwara-foam-3-toed-feetpaws"></a>
+### Mugiwara Foam 3 Toed Feetpaws #any-species #any-feet #cheap #video-tutorials #foam-only
+
+[https://mugiwara-cosplay.sellfy.store/p/digital-3-toed-foam-feet-base-template-for-fursuits-pdf-download/](https://mugiwara-cosplay.sellfy.store/p/digital-3-toed-foam-feet-base-template-for-fursuits-pdf-download/ "smartCard-inline")
+
+[https://www.etsy.com/ca/listing/1048398960/digital-3-toed-foam-feet-base-template](https://www.etsy.com/ca/listing/1048398960/digital-3-toed-foam-feet-base-template?click_key=ba18a4b51250c2d1aa46cc86ea980e48d0c15475%3A1048398960&click_sum=733908d3&ref=shop_home_active_6&pro=1)
+
+[https://www.youtube.com/watch?v=7yn-Nv4XGwc](https://www.youtube.com/watch?v=7yn-Nv4XGwc "smartCard-inline")
+
+![Mugiwara Foam 3 Toed Feetpaws](<attachments/Other Species Feet Paws/Mugiwara Foam 3 Toed Feetpaws/image-01.jpg>)
+
+---
+
+<a id="mugiwara-sergal-foam-feet"></a>
+### Mugiwara Sergal Foam Feet #any-species #any-feet #cheap #video-tutorials #foam-only
+
+[https://mugiwara-cosplay.sellfy.store/p/digital-sergal-foam-feet-base-template-for-fursuits-pdf-download/](https://mugiwara-cosplay.sellfy.store/p/digital-sergal-foam-feet-base-template-for-fursuits-pdf-download/ "smartCard-inline") [https://www.etsy.com/ca/listing/853728565/digital-sergal-foam-feet-base-template](https://www.etsy.com/ca/listing/853728565/digital-sergal-foam-feet-base-template "smartCard-inline")
+
+[https://www.youtube.com/watch?v=hW-HpWSyYCs](https://www.youtube.com/watch?v=hW-HpWSyYCs "smartCard-inline")
+
+![Mugiwara Sergal Foam Feet](<attachments/Other Species Feet Paws/Mugiwara Sergal Foam Feet/image-01.jpg>)
+
+---
+
+<a id="redsewsshop-bird-feet"></a>
+### RedSewsShop Bird Feet #any-feet #moderately #feathers-birds
+
+[https://www.etsy.com/ca/listing/1755596765/digital-download-bird-feet-pattern](https://www.etsy.com/ca/listing/1755596765/digital-download-bird-feet-pattern "smartCard-inline")
+
+![RedSewsShop Bird Feet](<attachments/Other Species Feet Paws/RedSewsShop Bird Feet/image-01.webp>)
+
+---
+
+<a id="theraptorshop-synth-feet-paws"></a>
+### TheRaptorShop Synth Feet paws #expensive #other-species #any-feet
+
+[https://www.etsy.com/ca/listing/1856652346/synth-feetpaw-shoe-pattern-and-build](https://www.etsy.com/ca/listing/1856652346/synth-feetpaw-shoe-pattern-and-build)
+
+![TheRaptorShop Synth Feet paws](<attachments/Other Species Feet Paws/TheRaptorShop Synth Feet paws/image-01.webp>)
+
+---
+
+<a id="opossumcafe-indoor-opossum-rodent-feetpaws"></a>
+### OpossumCafe Indoor Opossum/Rodent Feetpaws #any-feet #expensive #other-species
+
+Advanced pattern
+
+[https://www.etsy.com/ca/listing/4366078795/opossum-fursuit-indoor-feetpaws-pattern](https://www.etsy.com/ca/listing/4366078795/opossum-fursuit-indoor-feetpaws-pattern "smartCard-inline")
+
+![OpossumCafe Indoor Opossum/Rodent Feetpaws](<attachments/Other Species Feet Paws/OpossumCafe Indoor OpossumRodent Feetpaws/image-01.png>)
+
+---
+
+<a id="rudebirdstudios-bird-dragon-dino-feet"></a>
+### RudeBirdStudios Bird/Dragon/Dino Feet #foam-only #moderately #feathers-birds #other-species #any-feet
+
+[https://www.etsy.com/ca/listing/4400859287/birddragon-hollow-foam-foot-paw-pattern](https://www.etsy.com/ca/listing/4400859287/birddragon-hollow-foam-foot-paw-pattern "smartCard-inline")
+
+![RudeBirdStudios Bird/Dragon/Dino Feet](<attachments/Other Species Feet Paws/RudeBirdStudios BirdDragonDino Feet/image-01.webp>)
+
+![RudeBirdStudios Bird/Dragon/Dino Feet](<attachments/Other Species Feet Paws/RudeBirdStudios BirdDragonDino Feet/image-02.webp>)
+
+---
+
+<a id="rudebirdstudios-3-toed-paw-pattern"></a>
+### RudeBirdStudios 3 Toed Paw Pattern #any-feet #feathers-birds #other-species #moderately #foam-only
+
+[https://www.etsy.com/ca/listing/4413156853/dragondinosaur-3-toed-paw-pattern-pdf](https://www.etsy.com/ca/listing/4413156853/dragondinosaur-3-toed-paw-pattern-pdf "smartCard-inline")
+
+![RudeBirdStudios 3 Toed Paw Pattern](<attachments/Other Species Feet Paws/RudeBirdStudios 3 Toed Paw Pattern/image-01.webp>)
+
+---
+
+<details>
+  <summary>Wings/Feathers (27 cards)</summary>
+
+<a id="wings-feathers"></a>
+
+## Wings/Feathers
+
+---
+
+<a id="pseudocanid-bird-wings-arms"></a>
+### Pseudocanid Bird Wings/Arms #moderately #feathers-birds #any-hand-paws #video-tutorials
+
+[https://www.etsy.com/ca/listing/1111695171/bird-wingswing-arm-pattern-digital?click_key=ff6aaac1aaf6adbbd82e40d7d591b9b46f824722%3A1111695171&click_sum=cae0db58&ref=shop_home_active_3&crt=1](https://www.etsy.com/ca/listing/1111695171/bird-wingswing-arm-pattern-digital?click_key=ff6aaac1aaf6adbbd82e40d7d591b9b46f824722%3A1111695171&click_sum=cae0db58&ref=shop_home_active_3&crt=1 "smartCard-inline")
+
+[https://youtu.be/TiUGvxzBjyc](https://youtu.be/TiUGvxzBjyc "smartCard-inline")
+
+![Pseudocanid Bird Wings/Arms](<attachments/WingsFeathers/Pseudocanid Bird WingsArms/image-01.png>)
+
+![Pseudocanid Bird Wings/Arms](<attachments/WingsFeathers/Pseudocanid Bird WingsArms/image-02.png>)
+
+![Pseudocanid Bird Wings/Arms](<attachments/WingsFeathers/Pseudocanid Bird WingsArms/image-03.png>)
+
+---
+
+<a id="oktavia-s-creatures-fabric-feathers"></a>
+### Oktavia's Creatures Fabric Feathers #cheap #feathers-birds #other-species #fursuit-heads
+
+[https://www.etsy.com/ca/listing/1453760737/fabric-feathers-for-fursuits-cosplay](https://www.etsy.com/ca/listing/1453760737/fabric-feathers-for-fursuits-cosplay "smartCard-inline")
+
+![Oktavia's Creatures Fabric Feathers](<attachments/WingsFeathers/Oktavia's Creatures Fabric Feathers/image-01.png>)
+
+![Oktavia's Creatures Fabric Feathers](<attachments/WingsFeathers/Oktavia's Creatures Fabric Feathers/image-02.png>)
+
+---
+
+<a id="mugiwara-tail-feathers"></a>
+### Mugiwara Tail Feathers #cheap #feathers-birds #other-species #any-tails #video-tutorials
+
+[https://mugiwara-cosplay.sellfy.store/p/digital-tail-feathers-pattern-for-fursuits-pdf-download/](https://mugiwara-cosplay.sellfy.store/p/digital-tail-feathers-pattern-for-fursuits-pdf-download/ "smartCard-inline")
+
+[https://www.etsy.com/ca/listing/671851805/digital-tail-feathers-pattern-for](https://www.etsy.com/ca/listing/671851805/digital-tail-feathers-pattern-for "smartCard-inline")
+
+[https://www.youtube.com/watch?v=gOsm-CHuOrQ](https://www.youtube.com/watch?v=gOsm-CHuOrQ "smartCard-inline")
+
+![Mugiwara Tail Feathers](<attachments/WingsFeathers/Mugiwara Tail Feathers/image-01.png>)
+
+---
+
+<a id="mugiwara-feather-patterns"></a>
+### Mugiwara Feather Patterns #cheap #feathers-birds #video-tutorials #other-species
+
+[https://mugiwara-cosplay.sellfy.store/p/digital-fabric-feather-patterns-for-fursuits-and-cosplay-pdf-download/](https://mugiwara-cosplay.sellfy.store/p/digital-fabric-feather-patterns-for-fursuits-and-cosplay-pdf-download/ "smartCard-inline")
+
+[https://www.etsy.com/ca/listing/723805416/digital-fabric-feather-patterns-for](https://www.etsy.com/ca/listing/723805416/digital-fabric-feather-patterns-for "smartCard-inline")
+
+[https://www.youtube.com/watch?v=hq9Zk2EIYnI](https://www.youtube.com/watch?v=hq9Zk2EIYnI "smartCard-inline")
+
+![Mugiwara Feather Patterns](<attachments/WingsFeathers/Mugiwara Feather Patterns/image-01.png>)
+
+---
+
+<a id="mugiwara-bird-arm-wings"></a>
+### Mugiwara Bird Arm Wings #cheap #feathers-birds #any-hand-paws #video-tutorials
+
+[https://mugiwara-cosplay.sellfy.store/p/digital-bird-wings-pattern-for-partial-fursuits-pdf-download/](https://mugiwara-cosplay.sellfy.store/p/digital-bird-wings-pattern-for-partial-fursuits-pdf-download/ "smartCard-inline")
+
+[https://www.etsy.com/ca/listing/717601353/digital-bird-wings-pattern-for-partial](https://www.etsy.com/ca/listing/717601353/digital-bird-wings-pattern-for-partial "smartCard-inline")
+
+[https://www.youtube.com/watch?v=I2_NHOGRLs8](https://www.youtube.com/watch?v=I2_NHOGRLs8 "smartCard-inline")
+
+![Mugiwara Bird Arm Wings](<attachments/WingsFeathers/Mugiwara Bird Arm Wings/image-01.png>)
+
+---
+
+<a id="mugiwara-angel-dragon-wings"></a>
+### Mugiwara Angel Dragon Wings #cheap #feathers-birds #video-tutorials #other-species
+
+[https://mugiwara-cosplay.sellfy.store/p/digital-angel-dragon-wing-pattern-for-fursuits-pdf-download/](https://mugiwara-cosplay.sellfy.store/p/digital-angel-dragon-wing-pattern-for-fursuits-pdf-download/ "smartCard-inline")
+
+[https://www.etsy.com/ca/listing/660650193/digital-angel-dragon-wing-pattern-for](https://www.etsy.com/ca/listing/660650193/digital-angel-dragon-wing-pattern-for "smartCard-inline")
+
+[https://www.youtube.com/watch?v=aCpSWxwf-lw](https://www.youtube.com/watch?v=aCpSWxwf-lw "smartCard-inline")
+
+![Mugiwara Angel Dragon Wings](<attachments/WingsFeathers/Mugiwara Angel Dragon Wings/image-01.png>)
+
+---
+
+<a id="mugiwara-bat-dragon-wing-v1"></a>
+### Mugiwara Bat/Dragon Wing V1 #cheap #feathers-birds #other-species #video-tutorials
+
+[https://mugiwara-cosplay.sellfy.store/p/digital-dragon-wing-pattern-for-fursuits-pdf-download/](https://mugiwara-cosplay.sellfy.store/p/digital-dragon-wing-pattern-for-fursuits-pdf-download/ "smartCard-inline")
+
+[https://www.etsy.com/ca/listing/672351113/digital-dragon-wing-pattern-for-fursuits](https://www.etsy.com/ca/listing/672351113/digital-dragon-wing-pattern-for-fursuits "smartCard-inline")
+
+[https://www.youtube.com/watch?v=DbPgklNCg_M](https://www.youtube.com/watch?v=DbPgklNCg_M "smartCard-inline")
+
+![Mugiwara Bat/Dragon Wing V1](<attachments/WingsFeathers/Mugiwara BatDragon Wing V1/image-01.png>)
+
+---
+
+<a id="mugiwara-bat-dragon-wing-v2"></a>
+### Mugiwara Bat/Dragon Wing V2 #cheap #feathers-birds #other-species #video-tutorials
+
+[https://mugiwara-cosplay.sellfy.store/p/digital-dragon-wing-version-2-pattern-for-fursuits-pdf-download/](https://mugiwara-cosplay.sellfy.store/p/digital-dragon-wing-version-2-pattern-for-fursuits-pdf-download/ "smartCard-inline")
+
+[https://www.etsy.com/ca/listing/1241114406/digital-dragon-wing-version-2-pattern](https://www.etsy.com/ca/listing/1241114406/digital-dragon-wing-version-2-pattern "smartCard-inline")
+
+[https://www.youtube.com/watch?v=MsRHpJGjqgw](https://www.youtube.com/watch?v=MsRHpJGjqgw "smartCard-inline")
+
+![Mugiwara Bat/Dragon Wing V2](<attachments/WingsFeathers/Mugiwara BatDragon Wing V2/image-01.jpg>)
+
+---
+
+<a id="mugiwara-bird-tail"></a>
+### Mugiwara Bird Tail #cheap #any-tails #feathers-birds #video-tutorials #other-species
+
+[https://mugiwara-cosplay.sellfy.store/p/digital-bird-tail-pattern-for-fursuits-pdf-download/](https://mugiwara-cosplay.sellfy.store/p/digital-bird-tail-pattern-for-fursuits-pdf-download/ "smartCard-inline")
+
+[https://www.etsy.com/ca/listing/699181949/digital-bird-tail-pattern-for-fursuits](https://www.etsy.com/ca/listing/699181949/digital-bird-tail-pattern-for-fursuits "smartCard-inline")
+
+[https://www.youtube.com/watch?v=x-erJBZEIzU](https://www.youtube.com/watch?v=x-erJBZEIzU "smartCard-inline")
+
+![Mugiwara Bird Tail](<attachments/WingsFeathers/Mugiwara Bird Tail/image-01.png>)
+
+---
+
+<a id="mugiwara-mini-arm-wings-3-lengths"></a>
+### Mugiwara Mini Arm Wings (3 Lengths) #cheap #feathers-birds #any-hand-paws #video-tutorials #other-species
+
+[https://www.youtube.com/watch?v=u-RNRohhdac](https://www.youtube.com/watch?v=u-RNRohhdac "smartCard-inline")
+
+SHORT:
+[https://mugiwara-cosplay.sellfy.store/p/digital-bat-wing-pattern-for-partial-fursuits-short-wings-pdf-download/](https://mugiwara-cosplay.sellfy.store/p/digital-bat-wing-pattern-for-partial-fursuits-short-wings-pdf-download/ "smartCard-inline")
+
+[https://www.etsy.com/ca/listing/715914559/digital-bat-wing-pattern-for-partial](https://www.etsy.com/ca/listing/715914559/digital-bat-wing-pattern-for-partial "smartCard-inline")
+
+MEDIUM:
+
+[https://mugiwara-cosplay.sellfy.store/p/digital-bat-wing-pattern-for-partial-fursuits-medium-long-wings-pdf-download/](https://mugiwara-cosplay.sellfy.store/p/digital-bat-wing-pattern-for-partial-fursuits-medium-long-wings-pdf-download/ "smartCard-inline")
+
+[https://www.etsy.com/ca/listing/702062496/digital-bat-wing-pattern-for-partial](https://www.etsy.com/ca/listing/702062496/digital-bat-wing-pattern-for-partial "smartCard-inline")
+
+LARGE:
+
+[https://mugiwara-cosplay.sellfy.store/p/digital-bat-wing-pattern-for-partial-fursuits-long-wings-pdf-download/](https://mugiwara-cosplay.sellfy.store/p/digital-bat-wing-pattern-for-partial-fursuits-long-wings-pdf-download/ "smartCard-inline")
+
+[https://www.etsy.com/ca/listing/702061758/digital-bat-wing-pattern-for-partial](https://www.etsy.com/ca/listing/702061758/digital-bat-wing-pattern-for-partial "smartCard-inline")
+
+![Mugiwara Mini Arm Wings 3 Lengths](<attachments/WingsFeathers/Mugiwara Mini Arm Wings (3 Lengths)/image-01.png>)
+
+![Mugiwara Mini Arm Wings 3 Lengths](<attachments/WingsFeathers/Mugiwara Mini Arm Wings (3 Lengths)/image-02.webp>)
+
+![Mugiwara Mini Arm Wings 3 Lengths](<attachments/WingsFeathers/Mugiwara Mini Arm Wings (3 Lengths)/image-03.webp>)
+
+---
+
+<a id="north-cat-creations-wings"></a>
+### North Cat Creations Wings #cheap #feathers-birds
+
+[https://www.etsy.com/ca/listing/1240028393/bird-fursuit-wings-pattern-pdf](https://www.etsy.com/ca/listing/1240028393/bird-fursuit-wings-pattern-pdf "smartCard-inline")
+
+![North Cat Creations Wings](<attachments/WingsFeathers/North Cat Creations Wings/image-01.png>)
+
+![North Cat Creations Wings](<attachments/WingsFeathers/North Cat Creations Wings/image-02.png>)
+
+---
+
+<a id="north-cat-creations-feathered-tail"></a>
+### North Cat Creations Feathered Tail #cheap #feathers-birds #any-tails
+
+[https://www.etsy.com/ca/listing/1256213346/bird-fursuit-tail-pattern-pdf](https://www.etsy.com/ca/listing/1256213346/bird-fursuit-tail-pattern-pdf "smartCard-inline")
+
+![North Cat Creations Feathered Tail](<attachments/WingsFeathers/North Cat Creations Feathered Tail/image-01.png>)
+
+---
+
+<a id="twilightknights-large-fursuit-wings"></a>
+### TwilightKnights Large Fursuit Wings #moderately #feathers-birds
+
+[https://www.etsy.com/ca/listing/1473701755/fursuit-wings-tutorial](https://www.etsy.com/ca/listing/1473701755/fursuit-wings-tutorial "smartCard-inline")
+
+![TwilightKnights Large Fursuit Wings](<attachments/WingsFeathers/TwilightKnights Large Fursuit Wings/image-01.png>)
+
+---
+
+<a id="pinkuscraftycottage-bird-tail"></a>
+### PinkusCraftyCottage Bird Tail #cheap #other-species #feathers-birds #any-tails
+
+[https://www.etsy.com/ca/listing/1068678264/diy-bird-tail-pdf-pattern](https://www.etsy.com/ca/listing/1068678264/diy-bird-tail-pdf-pattern "smartCard-inline")
+
+![PinkusCraftyCottage Bird Tail](<attachments/WingsFeathers/PinkusCraftyCottage Bird Tail/image-01.webp>)
+
+![PinkusCraftyCottage Bird Tail](<attachments/WingsFeathers/PinkusCraftyCottage Bird Tail/image-02.webp>)
+
+---
+
+<a id="basilmintcreation-bird-wings"></a>
+### BasilMintCreation Bird Wings #feathers-birds #any-hand-paws #moderately
+
+[https://www.etsy.com/ca/listing/1547695126/fursuit-or-cosplay-wings-pdf-pattern](https://www.etsy.com/ca/listing/1547695126/fursuit-or-cosplay-wings-pdf-pattern "smartCard-inline")
+
+![BasilMintCreation Bird Wings](<attachments/WingsFeathers/BasilMintCreation Bird Wings/image-01.webp>)
+
+---
+
+<a id="kazplay-diy-wing-harness"></a>
+### Kazplay DIY Wing Harness #video-tutorials #cheap #other-species #feathers-birds #any-bodysuit
+
+[https://www.etsy.com/ca/listing/1335791715/diy-large-wing-harness-digital-template](https://www.etsy.com/ca/listing/1335791715/diy-large-wing-harness-digital-template "smartCard-inline")
+
+[https://youtu.be/SN95R_n4mAI](https://youtu.be/SN95R_n4mAI "smartCard-inline")
+
+![Kazplay DIY Wing Harness](<attachments/WingsFeathers/Kazplay DIY Wing Harness/image-01.webp>)
+
+---
+
+<a id="ricochetxcrafts-bird-wings"></a>
+### ricochetxcrafts Bird Wings #foam-only #other-species #feathers-birds #cheap #moderately
+
+[https://www.etsy.com/ca/listing/1738170780/bird-arm-wing-pattern](https://www.etsy.com/ca/listing/1738170780/bird-arm-wing-pattern)
+
+![ricochetxcrafts Bird Wings](<attachments/WingsFeathers/ricochetxcrafts Bird Wings/image-01.png>)
+
+---
+
+<a id="ricochetxcrafts-bird-tail"></a>
+### ricochetxcrafts Bird tail #foam-only #other-species #any-tails #feathers-birds #cheap
+
+[https://www.etsy.com/ca/listing/1683882618/bird-tail-pattern](https://www.etsy.com/ca/listing/1683882618/bird-tail-pattern)
+
+![ricochetxcrafts Bird tail](<attachments/WingsFeathers/ricochetxcrafts Bird tail/image-01.png>)
+
+---
+
+<a id="faetrinkets-tail-template"></a>
+### FaeTrinkets Tail Template #foam-only #cheap #feathers-birds #any-tails #other-species
+
+[https://www.etsy.com/ca/listing/1242775146/starbird-bird-tail-feathers-cosplay](https://www.etsy.com/ca/listing/1242775146/starbird-bird-tail-feathers-cosplay "smartCard-inline")
+
+![FaeTrinkets Tail Template](<attachments/WingsFeathers/FaeTrinkets Tail Template/image-01.jpg>)
+
+---
+
+<a id="mossyfox-bat-wing-pattern"></a>
+### MossyFox Bat Wing Pattern #moderately #other-species #video-tutorials #multipack
+
+Just the wing pattern: [https://mossyfox.bigcartel.com/product/bat-wing-pattern](https://mossyfox.bigcartel.com/product/bat-wing-pattern "smartCard-inline")
+
+Bundle comes with bat wing + ear pattern: [https://mossyfox.bigcartel.com/product/digital-bat-eing-ear-bundle](https://mossyfox.bigcartel.com/product/digital-bat-eing-ear-bundle "smartCard-inline")
+
+![MossyFox Bat Wing Pattern](<attachments/WingsFeathers/MossyFox Bat Wing Pattern/image-01.webp>)
+
+---
+
+<a id="kittencafestudios-5-styles-small-fursuit-wings"></a>
+### KittenCafeStudios 5 Styles Small Fursuit Wings #expensive #multipack #other-species #feathers-birds
+
+[https://www.etsy.com/ca/listing/1827604445/5-styles-pattern-tutorial-diy-fursuit](https://www.etsy.com/ca/listing/1827604445/5-styles-pattern-tutorial-diy-fursuit "smartCard-inline")
+
+![KittenCafeStudios 5 Styles Small Fursuit Wings](<attachments/WingsFeathers/KittenCafeStudios 5 Styles Small Fursuit Wings/image-01.webp>)
+
+---
+
+<a id="thecasualfriday-wing-hands"></a>
+### TheCasualFriday Wing Hands #feathers-birds #moderately
+
+[https://www.etsy.com/ca/listing/1906261739/bird-wing-fursuit-paw-pattern](https://www.etsy.com/ca/listing/1906261739/bird-wing-fursuit-paw-pattern "smartCard-inline")
+
+![TheCasualFriday Wing Hands](<attachments/WingsFeathers/TheCasualFriday Wing Hands/image-01.png>)
+
+---
+
+<a id="ricochetxcrafts-toony-bird-tail"></a>
+### ricochetxcrafts Toony Bird Tail #feathers-birds #any-tails #cheap #foam-only #other-species
+
+[https://www.etsy.com/ca/listing/1771835964/toon-bird-tail-foam-pattern](https://www.etsy.com/ca/listing/1771835964/toon-bird-tail-foam-pattern "smartCard-inline")
+
+![ricochetxcrafts Toony Bird Tail](<attachments/WingsFeathers/ricochetxcrafts Toony Bird Tail/image-01.png>)
+
+---
+
+<a id="ricochetxcrafts-mini-wings-harness"></a>
+### ricochetxcrafts Mini Wings + Harness #other-species #feathers-birds #foam-only
+
+[https://www.etsy.com/ca/listing/4376220656/mini-wings-and-harness-pattern](https://www.etsy.com/ca/listing/4376220656/mini-wings-and-harness-pattern "smartCard-inline")
+
+![ricochetxcrafts Mini Wings + Harness](<attachments/WingsFeathers/ricochetxcrafts Mini Wings + Harness/image-01.png>)
+
+---
+
+<a id="ricochetxcrafts-fantasy-lugia-wings"></a>
+### ricochetxcrafts Fantasy/Lugia Wings #other-species #moderately #foam-only
+
+[https://www.etsy.com/ca/listing/1842329777/fantasy-wing-foam-pattern](https://www.etsy.com/ca/listing/1842329777/fantasy-wing-foam-pattern "smartCard-inline")
+
+![ricochetxcrafts Fantasy/Lugia Wings](<attachments/WingsFeathers/ricochetxcrafts FantasyLugia Wings/image-01.png>)
+
+---
+
+<a id="chevalhoof-wing-pattern"></a>
+### ChevalHoof Wing Pattern #moderately #feathers-birds #video-tutorials
+
+[https://www.etsy.com/ca/listing/4308456853/fursuit-feathered-wing-pattern](https://www.etsy.com/ca/listing/4308456853/fursuit-feathered-wing-pattern "smartCard-inline")
+
+Follows Neffertity’s tutorial:[https://youtu.be/1AV_HpCQwZ8?si=XUY6aZv9VQdvbBmx](https://youtu.be/1AV_HpCQwZ8?si=XUY6aZv9VQdvbBmx "smartCard-inline")
+
+![ChevalHoof Wing Pattern](<attachments/WingsFeathers/ChevalHoof Wing Pattern/image-01.png>)
+
+---
+
+<a id="nearvalkyrie-butterfly-wings"></a>
+### NearValkyrie Butterfly Wings #other-species #cheap #multipack #free
+
+Pack 1:[https://www.etsy.com/ca/listing/1449463357/wings-patterns-set-3](https://www.etsy.com/ca/listing/1449463357/wings-patterns-set-3 "smartCard-inline")
+
+Pack 1: [https://ko-fi.com/s/f8916e12b8](https://ko-fi.com/s/f8916e12b8 "smartCard-inline")
+
+Pack 2:[https://ko-fi.com/s/f9f385289d](https://ko-fi.com/s/f9f385289d "smartCard-inline")
+
+Pack 3: [https://ko-fi.com/s/eea035e03a](https://ko-fi.com/s/eea035e03a "smartCard-inline")
+
+Free 1: [https://ko-fi.com/s/7b67069f5a](https://ko-fi.com/s/7b67069f5a "smartCard-inline")
+
+Free 2: [https://ko-fi.com/s/da48cb08e8](https://ko-fi.com/s/da48cb08e8 "smartCard-inline")
+
+![NearValkyrie Butterfly Wings](<attachments/WingsFeathers/NearValkyrie Butterfly Wings/image-01.webp>)
+
+![NearValkyrie Butterfly Wings](<attachments/WingsFeathers/NearValkyrie Butterfly Wings/image-02.png>)
+
+![NearValkyrie Butterfly Wings](<attachments/WingsFeathers/NearValkyrie Butterfly Wings/image-03.png>)
+
+![NearValkyrie Butterfly Wings](<attachments/WingsFeathers/NearValkyrie Butterfly Wings/image-04.png>)
+
+![NearValkyrie Butterfly Wings](<attachments/WingsFeathers/NearValkyrie Butterfly Wings/image-05.png>)
+
+---
+
+<details>
+  <summary>Canine/Hyena Tails (46 cards)</summary>
+
+<a id="canine-hyena-tails"></a>
+
+## Canine/Hyena Tails
+
+---
+
+<a id="free-foxfire-fantasy-canine-tail"></a>
+### (FREE) FoxFire Fantasy Canine Tail #free #any-tails #canine
+
+[https://ko-fi.com/s/d74abe5d39](https://ko-fi.com/s/d74abe5d39 "smartCard-inline")
+
+Feel free to tip for the pattern!
+
+![FREE FoxFire Fantasy Canine Tail](<attachments/CanineHyena Tails/(FREE) FoxFire Fantasy Canine Tail/image-01.png>)
+
+---
+
+<a id="fur-smoothie-4-tail-pattern-pack"></a>
+### Fur Smoothie 4 Tail Pattern Pack #cheap #other-species #canine #any-tails #equine-cervine #multipack
+
+[https://www.etsy.com/ca/listing/975540385/pdf-pattern-tail-pattern-pack-4](https://www.etsy.com/ca/listing/975540385/pdf-pattern-tail-pattern-pack-4 "smartCard-inline")
+
+![Fur Smoothie 4 Tail Pattern Pack](<attachments/CanineHyena Tails/Fur Smoothie 4 Tail Pattern Pack/image-01.png>)
+
+---
+
+<a id="oktavia-s-creatures-hyena-tail"></a>
+### Oktavia's Creatures Hyena Tail #moderately #canine #any-tails #other-species
+
+(I know they’re not technically canines.)
+
+[https://www.etsy.com/ca/listing/1415846962/hyena-tail-for-fursuits-cosplay-and](https://www.etsy.com/ca/listing/1415846962/hyena-tail-for-fursuits-cosplay-and "smartCard-inline")
+
+![Oktavia's Creatures Hyena Tail](<attachments/CanineHyena Tails/Oktavia's Creatures Hyena Tail/image-01.png>)
+
+![Oktavia's Creatures Hyena Tail](<attachments/CanineHyena Tails/Oktavia's Creatures Hyena Tail/image-02.png>)
+
+---
+
+<a id="neffertity-super-motion-canine-tail"></a>
+### Neffertity Super Motion Canine Tail #moderately #any-tails #canine #video-tutorials
+
+[https://www.artbyneffertity.com/store/pattern-caninetail](https://www.artbyneffertity.com/store/pattern-caninetail "smartCard-inline")
+
+[https://youtu.be/vFkfsAU17KQ?list=PLRIT0XO_NdobD28aCtz_89mHTngtO-HyE](https://youtu.be/vFkfsAU17KQ?list=PLRIT0XO_NdobD28aCtz_89mHTngtO-HyE "smartCard-inline")
+
+![Neffertity Super Motion Canine Tail](<attachments/CanineHyena Tails/Neffertity Super Motion Canine Tail/image-01.png>)
+
+![Neffertity Super Motion Canine Tail](<attachments/CanineHyena Tails/Neffertity Super Motion Canine Tail/image-02.png>)
+
+---
+
+<a id="spiltgrapesoda-large-canine-tail"></a>
+### Spiltgrapesoda Large Canine Tail #cheap #canine #any-tails
+
+[https://shop.spiltgrapesoda.com/spiltgrapesoda/p/large-canine-tail-pattern-pdf-download](https://shop.spiltgrapesoda.com/spiltgrapesoda/p/large-canine-tail-pattern-pdf-download "smartCard-inline")
+
+[https://www.etsy.com/ca/listing/1522230396/large-canine-tail-pattern-pdf-download](https://www.etsy.com/ca/listing/1522230396/large-canine-tail-pattern-pdf-download "smartCard-inline")
+
+![Spiltgrapesoda Large Canine Tail](<attachments/CanineHyena Tails/Spiltgrapesoda Large Canine Tail/image-01.png>)
+
+---
+
+<a id="spiltgrapesoda-fox-tail"></a>
+### Spiltgrapesoda Fox Tail #cheap #canine #any-tails
+
+[https://shop.spiltgrapesoda.com/spiltgrapesoda/p/fox-tail-pattern-pdf-download](https://shop.spiltgrapesoda.com/spiltgrapesoda/p/fox-tail-pattern-pdf-download "smartCard-inline")
+
+[https://www.etsy.com/ca/listing/1610112088/fox-tail-pattern-pdf-download](https://www.etsy.com/ca/listing/1610112088/fox-tail-pattern-pdf-download)
+
+![Spiltgrapesoda Fox Tail](<attachments/CanineHyena Tails/Spiltgrapesoda Fox Tail/image-01.jpg>)
+
+---
+
+<a id="ybl-suits-canine-tail"></a>
+### YBL Suits Canine Tail #moderately #any-tails #canine #any-species
+
+YaBoiLuke Suits
+
+[https://www.yblsuits.com/shop/p/canine-tail-pattern-pdf-download](https://www.yblsuits.com/shop/p/canine-tail-pattern-pdf-download "smartCard-inline")
+
+[https://www.etsy.com/ca/listing/905422987/canine-tail-pattern-pdf-download](https://www.etsy.com/ca/listing/905422987/canine-tail-pattern-pdf-download "smartCard-inline")
+
+![YBL Suits Canine Tail](<attachments/CanineHyena Tails/YBL Suits Canine Tail/image-01.png>)
+
+---
+
+<a id="mugiwara-canine-tail"></a>
+### Mugiwara Canine Tail #cheap #any-tails #canine #video-tutorials #any-species
+
+[https://mugiwara-cosplay.sellfy.store/p/digital-canine-tail-pattern-for-fursuits-pdf-download/](https://mugiwara-cosplay.sellfy.store/p/digital-canine-tail-pattern-for-fursuits-pdf-download/ "smartCard-inline")
+
+[https://www.etsy.com/ca/listing/648409906/digital-canine-tail-pattern-for-fursuits](https://www.etsy.com/ca/listing/648409906/digital-canine-tail-pattern-for-fursuits "smartCard-inline")
+
+[https://www.youtube.com/watch?v=nM4VrN3Ukgs](https://www.youtube.com/watch?v=nM4VrN3Ukgs "smartCard-inline")
+
+![Mugiwara Canine Tail](<attachments/CanineHyena Tails/Mugiwara Canine Tail/image-01.png>)
+
+---
+
+<a id="skunky-designs-large-nub-tail"></a>
+### Skunky Designs Large Nub Tail #cheap #any-tails #canine #any-species
+
+[https://www.skunkydesigns.com/collections/patterns-and-tutorials/products/pattern-large-nub-tail](https://www.skunkydesigns.com/collections/patterns-and-tutorials/products/pattern-large-nub-tail)
+
+![Skunky Designs Large Nub Tail](<attachments/CanineHyena Tails/Skunky Designs Large Nub Tail/image-01.png>)
+
+---
+
+<a id="koifishycostumes-mini-canine-tail"></a>
+### KoiFishyCostumes Mini Canine Tail #cheap #any-tails #canine #any-species
+
+[https://www.etsy.com/ca/listing/1471439154/mini-canine-tail-digital-pattern-and](https://www.etsy.com/ca/listing/1471439154/mini-canine-tail-digital-pattern-and "smartCard-inline")
+
+![KoiFishyCostumes Mini Canine Tail](<attachments/CanineHyena Tails/KoiFishyCostumes Mini Canine Tail/image-01.png>)
+
+---
+
+<a id="howlingdragonstudios-canine-tail"></a>
+### HowlingDragonStudios Canine Tail #cheap #any-tails #canine #any-species
+
+[https://www.etsy.com/ca/listing/1384636361/tail-pattern-digital-download](https://www.etsy.com/ca/listing/1384636361/tail-pattern-digital-download "smartCard-inline")
+
+![HowlingDragonStudios Canine Tail](<attachments/CanineHyena Tails/HowlingDragonStudios Canine Tail/image-01.png>)
+
+---
+
+<a id="werewolfprince666-wolf-tail"></a>
+### werewolfprince666 Wolf Tail #any-tails #canine #any-species #cheap
+
+[https://www.etsy.com/ca/listing/1401070076/waggy-fursuit-tail-pattern-and](https://www.etsy.com/ca/listing/1401070076/waggy-fursuit-tail-pattern-and "smartCard-inline")
+
+![werewolfprince666 Wolf Tail](<attachments/CanineHyena Tails/werewolfprince666 Wolf Tail/image-01.jpg>)
+
+---
+
+<a id="werewolfprince666-waggy-tail"></a>
+### werewolfprince666 Waggy Tail #any-tails #canine #any-species #cheap
+
+[https://www.etsy.com/ca/listing/1401070076/waggy-fursuit-tail-pattern-and](https://www.etsy.com/ca/listing/1401070076/waggy-fursuit-tail-pattern-and "smartCard-inline")
+
+![werewolfprince666 Waggy Tail](<attachments/CanineHyena Tails/werewolfprince666 Waggy Tail/image-01.png>)
+
+![werewolfprince666 Waggy Tail](<attachments/CanineHyena Tails/werewolfprince666 Waggy Tail/image-02.png>)
+
+---
+
+<a id="werewolfprince666-fox-tail"></a>
+### werewolfprince666 Fox Tail #cheap #any-tails #canine #any-species
+
+[https://www.etsy.com/ca/listing/1435948453/fox-fursuit-tail-pattern-and](https://www.etsy.com/ca/listing/1435948453/fox-fursuit-tail-pattern-and "smartCard-inline")
+
+![werewolfprince666 Fox Tail](<attachments/CanineHyena Tails/werewolfprince666 Fox Tail/image-01.png>)
+
+![werewolfprince666 Fox Tail](<attachments/CanineHyena Tails/werewolfprince666 Fox Tail/image-02.png>)
+
+---
+
+<a id="werewolfprince666-hyena-tail"></a>
+### werewolfprince666 Hyena Tail #cheap #any-tails #canine #any-species
+
+[https://www.etsy.com/ca/listing/1396982813/hyena-fursuit-tail-pattern-and](https://www.etsy.com/ca/listing/1396982813/hyena-fursuit-tail-pattern-and "smartCard-inline")
+
+![werewolfprince666 Hyena Tail](<attachments/CanineHyena Tails/werewolfprince666 Hyena Tail/image-01.png>)
+
+---
+
+<a id="pawsandmaws-bluey-tail"></a>
+### PawsAndMaws Bluey Tail #cheap #any-tails #canine
+
+[https://www.etsy.com/listing/1379118904/pdf-pattern-download-bluey-style-cosplay](https://www.etsy.com/listing/1379118904/pdf-pattern-download-bluey-style-cosplay "smartCard-inline")
+
+![PawsAndMaws Bluey Tail](<attachments/CanineHyena Tails/PawsAndMaws Bluey Tail/image-01.png>)
+
+---
+
+<a id="wormyfur-hyena-tail"></a>
+### wormyfur Hyena Tail #cheap #other-species #canine #any-tails
+
+[https://www.etsy.com/ca/listing/1515527417/hyena-fursuit-tail-pattern-pdf-with](https://www.etsy.com/ca/listing/1515527417/hyena-fursuit-tail-pattern-pdf-with "smartCard-inline")
+
+![wormyfur Hyena Tail](<attachments/CanineHyena Tails/wormyfur Hyena Tail/image-01.jpg>)
+
+---
+
+<a id="pinkuscraftycottage-relaxed-dog-tail"></a>
+### PinkusCraftyCottage Relaxed Dog Tail #any-tails #canine #cheap
+
+[https://www.etsy.com/ca/listing/1001264314/diy-relaxed-dog-tail-pdf-pattern](https://www.etsy.com/ca/listing/1001264314/diy-relaxed-dog-tail-pdf-pattern "smartCard-inline")
+
+![PinkusCraftyCottage Relaxed Dog Tail](<attachments/CanineHyena Tails/PinkusCraftyCottage Relaxed Dog Tail/image-01.jpg>)
+
+---
+
+<a id="pinkuscraftycottage-fox-tail"></a>
+### PinkusCraftyCottage Fox Tail #any-tails #canine #cheap #any-species #video-tutorials
+
+[https://www.etsy.com/ca/listing/944339643/diy-small-fox-tail-pdf-pattern](https://www.etsy.com/ca/listing/944339643/diy-small-fox-tail-pdf-pattern "smartCard-inline")
+
+Video: [https://twitter.com/PinkuShikaArt/status/1363674475166900230?s=20](https://twitter.com/PinkuShikaArt/status/1363674475166900230?s=20 "smartCard-inline")
+
+![PinkusCraftyCottage Fox Tail](<attachments/CanineHyena Tails/PinkusCraftyCottage Fox Tail/image-01.webp>)
+
+---
+
+<a id="pinkuscraftycottage-wolf-tail"></a>
+### PinkusCraftyCottage Wolf Tail #cheap #canine #any-tails
+
+[https://www.etsy.com/ca/listing/779895598/diy-wolf-tail-pdf-pattern](https://www.etsy.com/ca/listing/779895598/diy-wolf-tail-pdf-pattern "smartCard-inline")
+
+![PinkusCraftyCottage Wolf Tail](<attachments/CanineHyena Tails/PinkusCraftyCottage Wolf Tail/image-01.webp>)
+
+---
+
+<a id="pinkuscraftycottage-wagging-tail"></a>
+### PinkusCraftyCottage Wagging Tail #cheap #any-species #canine #any-tails
+
+[https://www.etsy.com/ca/listing/1567733108/diy-wagging-tail-pdf-pattern](https://www.etsy.com/ca/listing/1567733108/diy-wagging-tail-pdf-pattern "smartCard-inline")
+
+![PinkusCraftyCottage Wagging Tail](<attachments/CanineHyena Tails/PinkusCraftyCottage Wagging Tail/image-01.webp>)
+
+---
+
+<a id="saberwolfstudio-canine-tail"></a>
+### Saberwolfstudio Canine Tail #cheap #canine #any-tails #any-species
+
+[https://www.etsy.com/ca/listing/1526612480/canine-tail-pattern](https://www.etsy.com/ca/listing/1526612480/canine-tail-pattern "smartCard-inline")
+
+![Saberwolfstudio Canine Tail](<attachments/CanineHyena Tails/Saberwolfstudio Canine Tail/image-01.webp>)
+
+---
+
+<a id="faroutfursuits-short-waggy-tail"></a>
+### FarOutFursuits Short Waggy Tail #any-tails #canine #cheap #any-species
+
+[https://www.etsy.com/ca/listing/1649338098/short-waggy-tail-pattern](https://www.etsy.com/ca/listing/1649338098/short-waggy-tail-pattern "smartCard-inline")
+
+![FarOutFursuits Short Waggy Tail](<attachments/CanineHyena Tails/FarOutFursuits Short Waggy Tail/image-01.jpg>)
+
+![FarOutFursuits Short Waggy Tail](<attachments/CanineHyena Tails/FarOutFursuits Short Waggy Tail/image-02.jpg>)
+
+---
+
+<a id="mikomikawaii-canine-tail"></a>
+### MikomiKawaii Canine Tail #canine #any-tails #cheap
+
+[https://www.etsy.com/ca/listing/1111195370/canine-fursuit-tail-pattern-and-tutorial](https://www.etsy.com/ca/listing/1111195370/canine-fursuit-tail-pattern-and-tutorial "smartCard-inline")
+
+![MikomiKawaii Canine Tail](<attachments/CanineHyena Tails/MikomiKawaii Canine Tail/image-01.webp>)
+
+---
+
+<a id="sweetcidercreation-large-canine-tail-pattern"></a>
+### SweetCiderCreation Large Canine Tail Pattern #canine #any-tails #cheap #any-species #other-species
+
+[https://www.etsy.com/ca/listing/1649463086/fursuit-tail-pattern-large-canine](https://www.etsy.com/ca/listing/1649463086/fursuit-tail-pattern-large-canine "smartCard-inline")
+
+![SweetCiderCreation Large Canine Tail Pattern](<attachments/CanineHyena Tails/SweetCiderCreation Large Canine Tail Pattern/image-01.jpg>)
+
+---
+
+<a id="figfur-canine-tail-pattern"></a>
+### FigFur Canine Tail Pattern #cheap #any-tails #canine #video-tutorials
+
+[https://www.etsy.com/ca/listing/1611170045/diy-canine-tail-pattern-pdf-download](https://www.etsy.com/ca/listing/1611170045/diy-canine-tail-pattern-pdf-download "smartCard-inline")
+
+[https://youtu.be/V0F7fUydXdI?si=wLduYPRYQwQLmgu-](https://youtu.be/V0F7fUydXdI?si=wLduYPRYQwQLmgu- "smartCard-inline")
+
+![FigFur Canine Tail Pattern](<attachments/CanineHyena Tails/FigFur Canine Tail Pattern/image-01.jpg>)
+
+---
+
+<a id="missrars-creatures-kitsune-fox-tail"></a>
+### Missrars Creatures Kitsune Fox Tail #video-tutorials #cheap #any-species #canine #any-tails
+
+[https://www.etsy.com/ca/listing/1556059102/pdf-pattern-kitsune-fox-fursuit-tail](https://www.etsy.com/ca/listing/1556059102/pdf-pattern-kitsune-fox-fursuit-tail "smartCard-inline")
+
+[https://www.youtube.com/watch?v=STAjPntQFTU](https://www.youtube.com/watch?v=STAjPntQFTU "smartCard-inline")
+
+![Missrars Creatures Kitsune Fox Tail](<attachments/CanineHyena Tails/Missrars Creatures Kitsune Fox Tail/image-01.jpg>)
+
+---
+
+<a id="geknome-canine-tail"></a>
+### Geknome Canine Tail #cheap #canine #any-tails
+
+[https://www.etsy.com/ca/listing/1748068107/fursuit-canine-dog-tail-pattern-tutorial](https://www.etsy.com/ca/listing/1748068107/fursuit-canine-dog-tail-pattern-tutorial "smartCard-inline")
+
+![Geknome Canine Tail](<attachments/CanineHyena Tails/Geknome Canine Tail/image-01.webp>)
+
+---
+
+<a id="redsewsshop-wolf-tail"></a>
+### RedSewsShop Wolf Tail #cheap #any-tails #canine
+
+[https://www.etsy.com/ca/listing/1755644269/digital-wolf-dog-fursuit-tail-pattern](https://www.etsy.com/ca/listing/1755644269/digital-wolf-dog-fursuit-tail-pattern "smartCard-inline")
+
+![RedSewsShop Wolf Tail](<attachments/CanineHyena Tails/RedSewsShop Wolf Tail/image-01.webp>)
+
+---
+
+<a id="highvalleycreation-canine-tail"></a>
+### HighValleyCreation Canine Tail #canine #any-tails #cheap
+
+[https://www.etsy.com/ca/listing/1759939427/canine-tail-pattern](https://www.etsy.com/ca/listing/1759939427/canine-tail-pattern)
+
+![HighValleyCreation Canine Tail](<attachments/CanineHyena Tails/HighValleyCreation Canine Tail/image-01.webp>)
+
+---
+
+<a id="punkyiggy-canine-shepard-tail"></a>
+### PunkyIggy Canine/Shepard Tail #cheap #canine #any-tails
+
+[https://www.etsy.com/ca/listing/1777463171/shepherd-canine-tail-with-hidden-belt?click_key=02c0c2356400e51ad3f470da0bd120410f8e6c72%3A1777463171&click_sum=a3c9c92a&ref=shop_home_recs_1&crt=1](https://www.etsy.com/ca/listing/1777463171/shepherd-canine-tail-with-hidden-belt?click_key=02c0c2356400e51ad3f470da0bd120410f8e6c72%3A1777463171&click_sum=a3c9c92a&ref=shop_home_recs_1&crt=1 "smartCard-inline")
+
+![PunkyIggy Canine/Shepard Tail](<attachments/CanineHyena Tails/PunkyIggy CanineShepard Tail/image-01.webp>)
+
+---
+
+<a id="kodasuits-canine-tail"></a>
+### KodaSuits Canine Tail #cheap #any-tails #canine #any-species
+
+[https://www.etsy.com/ca/listing/1670706786/easy-canine-tail-pattern-fursuit-pattern](https://www.etsy.com/ca/listing/1670706786/easy-canine-tail-pattern-fursuit-pattern "smartCard-inline")
+
+![KodaSuits Canine Tail](<attachments/CanineHyena Tails/KodaSuits Canine Tail/image-01.webp>)
+
+---
+
+<a id="werewolfprince666-striped-hyena-tail"></a>
+### werewolfprince666 Striped Hyena Tail #any-species #canine #any-tails #cheap
+
+[https://www.etsy.com/ca/listing/1787750078/striped-hyena-fursuit-tail-sewing](https://www.etsy.com/ca/listing/1787750078/striped-hyena-fursuit-tail-sewing "smartCard-inline")
+
+![werewolfprince666 Striped Hyena Tail](<attachments/CanineHyena Tails/werewolfprince666 Striped Hyena Tail/image-01.png>)
+
+---
+
+<a id="teacuplion-xl-wolf-cat-tail"></a>
+### TeacupLion XL Wolf + Cat Tail #cheap #multipack #any-tails #canine #feline
+
+[https://www.etsy.com/ca/listing/1771873702/fursuit-sewing-pattern-tail-bundle](https://www.etsy.com/ca/listing/1771873702/fursuit-sewing-pattern-tail-bundle "smartCard-inline")
+
+![TeacupLion XL Wolf + Cat Tail](<attachments/CanineHyena Tails/TeacupLion XL Wolf + Cat Tail/image-01.jpg>)
+
+![TeacupLion XL Wolf + Cat Tail](<attachments/CanineHyena Tails/TeacupLion XL Wolf + Cat Tail/image-02.webp>)
+
+---
+
+<a id="teacuplion-canine-tail"></a>
+### TeacupLion Canine Tail #canine #any-tails #cheap
+
+[https://www.etsy.com/ca/listing/1787058669/fursuit-sewing-pattern-tail-canine-large](https://www.etsy.com/ca/listing/1787058669/fursuit-sewing-pattern-tail-canine-large "smartCard-inline")
+
+![TeacupLion Canine Tail](<attachments/CanineHyena Tails/TeacupLion Canine Tail/image-01.webp>)
+
+---
+
+<a id="kittencafestudios-fox-wolf-tail"></a>
+### KittenCafeStudios Fox/Wolf Tail #any-tails #canine #cheap
+
+[https://www.etsy.com/ca/listing/1831497300/diy-fursuit-evolution-fox-tail-pattern](https://www.etsy.com/ca/listing/1831497300/diy-fursuit-evolution-fox-tail-pattern "smartCard-inline")
+
+![KittenCafeStudios Fox/Wolf Tail](<attachments/CanineHyena Tails/KittenCafeStudios FoxWolf Tail/image-01.webp>)
+
+---
+
+<a id="sonstafurs-medium-nub-tail"></a>
+### Sonstafurs Medium Nub Tail #cheap #any-tails #any-species
+
+[https://www.etsy.com/ca/listing/4299193235/medium-nub-tail-pdf-pattern-tutorial-for](https://www.etsy.com/ca/listing/4299193235/medium-nub-tail-pdf-pattern-tutorial-for)
+
+![Sonstafurs Medium Nub Tail](<attachments/CanineHyena Tails/Sonstafurs Medium Nub Tail/image-01.png>)
+
+---
+
+<a id="werewolfprince666-xl-canine-tail"></a>
+### werewolfprince666 XL Canine Tail #any-species #any-tails #cheap
+
+[https://www.etsy.com/ca/listing/1382977322/xl-canine-fursuit-tail-sewing-pattern](https://www.etsy.com/ca/listing/1382977322/xl-canine-fursuit-tail-sewing-pattern "smartCard-inline")
+
+![werewolfprince666 XL Canine Tail](<attachments/CanineHyena Tails/werewolfprince666 XL Canine Tail/image-01.png>)
+
+---
+
+<a id="mistyrivers-creations"></a>
+### MistyRivers Creations #cheap #canine #any-tails #any-species
+
+[https://ko-fi.com/s/c75fd4b0ec](https://ko-fi.com/s/c75fd4b0ec "smartCard-inline")
+
+![MistyRivers Creations](<attachments/CanineHyena Tails/MistyRivers Creations/image-01.png>)
+
+---
+
+<a id="sweetcidercreation-hyena-tail"></a>
+### SweetCiderCreation Hyena Tail #any-tails #any-species #canine #cheap
+
+[https://www.etsy.com/ca/listing/4323235152/fursuit-tail-pattern-large-hyenacanine](https://www.etsy.com/ca/listing/4323235152/fursuit-tail-pattern-large-hyenacanine "smartCard-inline")
+
+![SweetCiderCreation Hyena Tail](<attachments/CanineHyena Tails/SweetCiderCreation Hyena Tail/image-01.png>)
+
+---
+
+<a id="geknome-waggy-tail"></a>
+### Geknome Waggy Tail #cheap #other-species #any-species #any-tails
+
+[https://www.etsy.com/ca/listing/4450057963/waggy-fursuit-tail-tutorial](https://www.etsy.com/ca/listing/4450057963/waggy-fursuit-tail-tutorial "smartCard-inline")
+
+![Geknome Waggy Tail](<attachments/CanineHyena Tails/Geknome Waggy Tail/image-01.webp>)
+
+---
+
+<a id="puzzlepatchworks-dog-wolf-tail"></a>
+### PuzzlePatchworks Dog/Wolf Tail #any-species #any-tails #other-species #cheap #canine
+
+[https://www.etsy.com/ca/listing/4310703861/dog-wolf-tail-pattern-pdf-download](https://www.etsy.com/ca/listing/4310703861/dog-wolf-tail-pattern-pdf-download "smartCard-inline")
+
+![PuzzlePatchworks Dog/Wolf Tail](<attachments/CanineHyena Tails/PuzzlePatchworks DogWolf Tail/image-01.webp>)
+
+---
+
+<a id="puzzlepatchworks-big-wolf-tail"></a>
+### PuzzlePatchworks Big Wolf Tail #cheap #canine #other-species #any-tails #any-species
+
+[https://www.etsy.com/ca/listing/4310702216/big-wolf-tail-pattern-pdf-download](https://www.etsy.com/ca/listing/4310702216/big-wolf-tail-pattern-pdf-download "smartCard-inline")
+
+![PuzzlePatchworks Big Wolf Tail](<attachments/CanineHyena Tails/PuzzlePatchworks Big Wolf Tail/image-01.webp>)
+
+---
+
+<a id="kanixstudios-canine-tail"></a>
+### KanixStudios Canine Tail #any-species #any-tails #canine #cheap
+
+[https://www.etsy.com/ca/listing/1311064743/fursuit-tail-pattern-caninefoxwolf-pdf](https://www.etsy.com/ca/listing/1311064743/fursuit-tail-pattern-caninefoxwolf-pdf "smartCard-inline")
+
+![KanixStudios Canine Tail](<attachments/CanineHyena Tails/KanixStudios Canine Tail/image-01.jpg>)
+
+---
+
+<a id="yugoro-articulated-canine-tail"></a>
+### Yugoro Articulated Canine Tail #moderately #foam-only #any-tails #any-species #canine #video-tutorials
+
+[https://www.etsy.com/ca/listing/4391513063/flexible-tail-pattern-for-fox-wolf](https://www.etsy.com/ca/listing/4391513063/flexible-tail-pattern-for-fox-wolf "smartCard-inline")
+
+![Yugoro Articulated Canine Tail](<attachments/CanineHyena Tails/Yugoro Articulated Canine Tail/image-01.webp>)
+
+---
+
+<a id="wingleafworkshop-foam-canine-tail"></a>
+### WingLeafWorkshop Foam Canine Tail #canine #any-tails #foam-only #cheap #any-species
+
+[https://www.etsy.com/ca/listing/1835776938/fursuit-tail-base-pdf-pattern-canine](https://www.etsy.com/ca/listing/1835776938/fursuit-tail-base-pdf-pattern-canine "smartCard-inline")
+
+![WingLeafWorkshop Foam Canine Tail](<attachments/CanineHyena Tails/WingLeafWorkshop Foam Canine Tail/image-01.png>)
+
+---
+
+<details>
+  <summary>Curly Tails (17 cards)</summary>
+
+<a id="curly-tails"></a>
+
+## Curly Tails
+
+---
+
+<a id="free-freakhound-curly-tail"></a>
+### (FREE) Freakhound Curly Tail #free #canine #any-tails
+
+[http://freakhoundstudios.com/curlytail](http://freakhoundstudios.com/curlytail "smartCard-inline")
+
+![FREE Freakhound Curly Tail](<attachments/Curly Tails/(FREE) Freakhound Curly Tail/image-01.png>)
+
+---
+
+<a id="pseudocanid-curly-tail-v1"></a>
+### Pseudocanid Curly Tail V1 #cheap #any-tails #canine
+
+[https://www.etsy.com/ca/listing/810062318/curly-tail-v1-pattern-digital](https://www.etsy.com/ca/listing/810062318/curly-tail-v1-pattern-digital "smartCard-inline")
+
+![Pseudocanid Curly Tail V1](<attachments/Curly Tails/Pseudocanid Curly Tail V1/image-01.png>)
+
+---
+
+<a id="pseudocanid-curly-tail-v2"></a>
+### Pseudocanid Curly Tail V2 #cheap #any-tails #canine #video-tutorials
+
+[https://www.etsy.com/ca/listing/810062318/curly-tail-v1-pattern-digital](https://www.etsy.com/ca/listing/810062318/curly-tail-v1-pattern-digital "smartCard-inline")
+
+[https://www.youtube.com/watch?v=aLBqhB6OD-Y](https://www.youtube.com/watch?v=aLBqhB6OD-Y "smartCard-inline")
+
+![Pseudocanid Curly Tail V2](<attachments/Curly Tails/Pseudocanid Curly Tail V2/image-01.png>)
+
+![Pseudocanid Curly Tail V2](<attachments/Curly Tails/Pseudocanid Curly Tail V2/image-02.png>)
+
+---
+
+<a id="ybl-suits-perky-tail"></a>
+### YBL Suits Perky Tail #moderately #any-tails #canine
+
+YaBoiLuke Suits
+
+[https://www.yblsuits.com/shop/p/huskytail](https://www.yblsuits.com/shop/p/huskytail)
+
+[https://www.etsy.com/ca/listing/1383333381/perky-tail-pattern-pdf-download](https://www.etsy.com/ca/listing/1383333381/perky-tail-pattern-pdf-download "smartCard-inline")
+
+![YBL Suits Perky Tail](<attachments/Curly Tails/YBL Suits Perky Tail/image-01.png>)
+
+![YBL Suits Perky Tail](<attachments/Curly Tails/YBL Suits Perky Tail/image-02.png>)
+
+---
+
+<a id="ybl-suits-husky-tail"></a>
+### YBL Suits Husky Tail #moderately #any-tails #canine
+
+YaBoiLuke Suits
+
+[https://www.yblsuits.com/shop/p/huskytail](https://www.yblsuits.com/shop/p/huskytail)
+
+[https://www.etsy.com/ca/listing/942056618/husky-tail-pattern-pdf-download](https://www.etsy.com/ca/listing/942056618/husky-tail-pattern-pdf-download "smartCard-inline")
+
+![YBL Suits Husky Tail](<attachments/Curly Tails/YBL Suits Husky Tail/image-01.png>)
+
+---
+
+<a id="mugiwara-curl-tail"></a>
+### Mugiwara Curl Tail #cheap #any-tails #canine #video-tutorials
+
+[https://mugiwara-cosplay.sellfy.store/p/digital-curled-tail-pattern-for-fursuits-pdf-download/](https://mugiwara-cosplay.sellfy.store/p/digital-curled-tail-pattern-for-fursuits-pdf-download/ "smartCard-inline")
+
+[https://www.etsy.com/ca/listing/662247829/digital-curled-tail-pattern-for-fursuits](https://www.etsy.com/ca/listing/662247829/digital-curled-tail-pattern-for-fursuits "smartCard-inline")
+
+[https://www.youtube.com/watch?v=oqxf3L9cWDM](https://www.youtube.com/watch?v=oqxf3L9cWDM "smartCard-inline")
+
+![Mugiwara Curl Tail](<attachments/Curly Tails/Mugiwara Curl Tail/image-01.png>)
+
+---
+
+<a id="north-cat-creations-curly-tail"></a>
+### North Cat Creations Curly Tail #cheap #canine #any-tails
+
+[https://www.etsy.com/ca/listing/1237918219/curly-husky-fursuit-tail-pattern-pdf](https://www.etsy.com/ca/listing/1237918219/curly-husky-fursuit-tail-pattern-pdf "smartCard-inline")
+
+![North Cat Creations Curly Tail](<attachments/Curly Tails/North Cat Creations Curly Tail/image-01.png>)
+
+![North Cat Creations Curly Tail](<attachments/Curly Tails/North Cat Creations Curly Tail/image-02.png>)
+
+---
+
+<a id="fennecfemme-long-curly-tail"></a>
+### FennecFemme Long Curly Tail #cheap #any-tails #canine
+
+[https://www.etsy.com/ca/listing/1408348960/digital-puppy-tail-pattern-for-fursuits](https://www.etsy.com/ca/listing/1408348960/digital-puppy-tail-pattern-for-fursuits "smartCard-inline")
+
+![FennecFemme Long Curly Tail](<attachments/Curly Tails/FennecFemme Long Curly Tail/image-01.png>)
+
+---
+
+<a id="direcreatures-curly-tail"></a>
+### DireCreatures Curly Tail #moderately #any-tails #canine
+
+[https://www.etsy.com/ca/listing/1036253546/pdf-pattern-husky-tail-by-direcreatures](https://www.etsy.com/ca/listing/1036253546/pdf-pattern-husky-tail-by-direcreatures "smartCard-inline")
+
+![DireCreatures Curly Tail](<attachments/Curly Tails/DireCreatures Curly Tail/image-01.png>)
+
+---
+
+<a id="goatygoods-husky-curly-tail"></a>
+### GoatyGoods Husky Curly Tail #cheap #any-tails #canine
+
+[https://payhip.com/b/JUkAq](https://payhip.com/b/JUkAq "smartCard-inline")
+
+![GoatyGoods Husky Curly Tail](<attachments/Curly Tails/GoatyGoods Husky Curly Tail/image-01.png>)
+
+---
+
+<a id="furrytimecreations-long-curly-tail"></a>
+### FurryTimeCreations Long Curly Tail #cheap #any-tails #canine #other-species
+
+[https://www.etsy.com/ca/listing/1102168514/curly-tail-pattern-for-fursuits-and](https://www.etsy.com/ca/listing/1102168514/curly-tail-pattern-for-fursuits-and "smartCard-inline")
+
+![FurryTimeCreations Long Curly Tail](<attachments/Curly Tails/FurryTimeCreations Long Curly Tail/image-01.png>)
+
+---
+
+<a id="pinkuscraftycottage-tight-curl-tail"></a>
+### PinkusCraftyCottage Tight Curl Tail #cheap #any-tails #canine
+
+[https://www.etsy.com/ca/listing/983640355/diy-tight-curl-tail-pdf-pattern](https://www.etsy.com/ca/listing/983640355/diy-tight-curl-tail-pdf-pattern "smartCard-inline")
+
+![PinkusCraftyCottage Tight Curl Tail](<attachments/Curly Tails/PinkusCraftyCottage Tight Curl Tail/image-01.webp>)
+
+![PinkusCraftyCottage Tight Curl Tail](<attachments/Curly Tails/PinkusCraftyCottage Tight Curl Tail/image-02.jpg>)
+
+---
+
+<a id="missrars-creatures-husky-tail"></a>
+### Missrars Creatures Husky Tail #cheap #any-tails #canine
+
+[https://www.etsy.com/ca/listing/1559775982/pdf-pattern-husky-fursuit-tail-digital](https://www.etsy.com/ca/listing/1559775982/pdf-pattern-husky-fursuit-tail-digital "smartCard-inline")
+
+![Missrars Creatures Husky Tail](<attachments/Curly Tails/Missrars Creatures Husky Tail/image-01.jpg>)
+
+---
+
+<a id="kiafursuits-2-sizes-canine-tail"></a>
+### KiaFursuits 2 Sizes Canine Tail #any-species #any-tails #multipack #cheap
+
+[https://www.etsy.com/ca/listing/1809007139/canine-tail-pattern-large-medium-options](https://www.etsy.com/ca/listing/1809007139/canine-tail-pattern-large-medium-options "smartCard-inline")
+
+![KiaFursuits 2 Sizes Canine Tail](<attachments/Curly Tails/KiaFursuits 2 Sizes Canine Tail/image-01.webp>)
+
+---
+
+<a id="spiltgrapesoda-standard-curly-tail-pattern"></a>
+### SpiltGrapeSoda Standard Curly Tail Pattern #any-tails #canine #video-tutorials #cheap
+
+[https://www.etsy.com/ca/listing/1777560329/standard-curly-tail-pattern-pdf-download](https://www.etsy.com/ca/listing/1777560329/standard-curly-tail-pattern-pdf-download "smartCard-inline")
+
+![SpiltGrapeSoda Standard Curly Tail Pattern](<attachments/Curly Tails/SpiltGrapeSoda Standard Curly Tail Pattern/image-01.webp>)
+
+---
+
+<a id="spiltgrapesoda-upright-curly-tail-pattern"></a>
+### SpiltGrapeSoda Upright Curly Tail Pattern #any-tails #canine #video-tutorials #cheap
+
+[https://www.etsy.com/ca/listing/1763362398/upright-curly-tail-pattern-pdf-download](https://www.etsy.com/ca/listing/1763362398/upright-curly-tail-pattern-pdf-download)
+
+![SpiltGrapeSoda Upright Curly Tail Pattern](<attachments/Curly Tails/SpiltGrapeSoda Upright Curly Tail Pattern/image-01.webp>)
+
+---
+
+<a id="spiltgrapesoda-relaxed-curly-tail-pattern"></a>
+### SpiltGrapeSoda Relaxed Curly Tail Pattern #any-tails #canine #video-tutorials #cheap
+
+[https://www.etsy.com/ca/listing/1763364120/relaxed-curly-tail-pattern-pdf-download](https://www.etsy.com/ca/listing/1763364120/relaxed-curly-tail-pattern-pdf-download)
+
+![SpiltGrapeSoda Relaxed Curly Tail Pattern](<attachments/Curly Tails/SpiltGrapeSoda Relaxed Curly Tail Pattern/image-01.webp>)
+
+---
+
+<details>
+  <summary>Feline Tails (20 cards)</summary>
+
+<a id="feline-tails"></a>
+
+## Feline Tails
+
+---
+
+<a id="free-foxfire-fantasy-snow-leopard-tail"></a>
+### (FREE) FoxFire Fantasy Snow Leopard Tail #free #feline #any-tails
+
+[https://foxfirefantasy.com/shop/legacy-snow-leopard-tail-pattern](https://foxfirefantasy.com/shop/legacy-snow-leopard-tail-pattern "smartCard-inline")
+
+![FREE FoxFire Fantasy Snow Leopard Tail](<attachments/Feline Tails/(FREE) FoxFire Fantasy Snow Leopard Tail/image-01.png>)
+
+---
+
+<a id="neffertity-super-motion-feline-tail"></a>
+### Neffertity Super Motion Feline Tail #moderately #any-tails #feline #video-tutorials
+
+[https://www.artbyneffertity.com/store/pattern-felinetail](https://www.artbyneffertity.com/store/pattern-felinetail "smartCard-inline")
+
+[https://youtu.be/Mlq96ojwlg8?list=PLRIT0XO_NdobD28aCtz_89mHTngtO-HyE](https://youtu.be/Mlq96ojwlg8?list=PLRIT0XO_NdobD28aCtz_89mHTngtO-HyE "smartCard-inline")
+
+![Neffertity Super Motion Feline Tail](<attachments/Feline Tails/Neffertity Super Motion Feline Tail/image-01.png>)
+
+![Neffertity Super Motion Feline Tail](<attachments/Feline Tails/Neffertity Super Motion Feline Tail/image-02.png>)
+
+---
+
+<a id="mugiwara-simple-cat-tail"></a>
+### Mugiwara Simple Cat Tail #cheap #any-tails #feline #video-tutorials #any-species
+
+[https://mugiwara-cosplay.sellfy.store/p/digital-feline-tail-pattern-for-fursuits-pdf-download/](https://mugiwara-cosplay.sellfy.store/p/digital-feline-tail-pattern-for-fursuits-pdf-download/ "smartCard-inline")
+
+[https://www.etsy.com/ca/listing/666841578/digital-feline-tail-pattern-for-fursuits](https://www.etsy.com/ca/listing/666841578/digital-feline-tail-pattern-for-fursuits "smartCard-inline")
+
+[https://www.youtube.com/watch?v=CDyvxtK4KbU](https://www.youtube.com/watch?v=CDyvxtK4KbU "smartCard-inline")
+
+![Mugiwara Simple Cat Tail](<attachments/Feline Tails/Mugiwara Simple Cat Tail/image-01.png>)
+
+---
+
+<a id="mugiwara-lion-tail"></a>
+### Mugiwara Lion Tail #cheap #any-tails #feline #video-tutorials
+
+[https://mugiwara-cosplay.sellfy.store/p/digital-lion-tail-pattern-for-fursuits-pdf-download/](https://mugiwara-cosplay.sellfy.store/p/digital-lion-tail-pattern-for-fursuits-pdf-download/ "smartCard-inline")
+
+[https://www.etsy.com/ca/listing/682549181/digital-lion-tail-pattern-for-fursuits](https://www.etsy.com/ca/listing/682549181/digital-lion-tail-pattern-for-fursuits "smartCard-inline")
+
+[https://www.youtube.com/watch?v=CzAjjd7j3uo](https://www.youtube.com/watch?v=CzAjjd7j3uo "smartCard-inline")
+
+![Mugiwara Lion Tail](<attachments/Feline Tails/Mugiwara Lion Tail/image-01.png>)
+
+---
+
+<a id="mugiwara-tiger-tail"></a>
+### Mugiwara Tiger Tail #cheap #any-tails #feline #video-tutorials
+
+[https://mugiwara-cosplay.sellfy.store/p/digital-tiger-tail-pattern-for-fursuits-and-cosplay-pdf-download/](https://mugiwara-cosplay.sellfy.store/p/digital-tiger-tail-pattern-for-fursuits-and-cosplay-pdf-download/ "smartCard-inline")
+
+[https://www.etsy.com/ca/listing/770365491/digital-tiger-tail-pattern-for-fursuits](https://www.etsy.com/ca/listing/770365491/digital-tiger-tail-pattern-for-fursuits)
+
+[https://www.youtube.com/watch?v=cML5LlJM9Mk](https://www.youtube.com/watch?v=cML5LlJM9Mk "smartCard-inline")
+
+![Mugiwara Tiger Tail](<attachments/Feline Tails/Mugiwara Tiger Tail/image-01.png>)
+
+---
+
+<a id="skunky-designs-cat-tail"></a>
+### Skunky Designs Cat Tail #cheap #any-tails #feline
+
+[https://www.skunkydesigns.com/collections/patterns-and-tutorials/products/pattern-cat-tail](https://www.skunkydesigns.com/collections/patterns-and-tutorials/products/pattern-cat-tail "smartCard-inline")
+
+![Skunky Designs Cat Tail](<attachments/Feline Tails/Skunky Designs Cat Tail/image-01.png>)
+
+---
+
+<a id="saberwolfstudio-feline-tail"></a>
+### Saberwolfstudio Feline Tail #cheap #any-tails #feline
+
+[https://www.etsy.com/ca/listing/1015083517/feline-tail-pattern-digital-pdf](https://www.etsy.com/ca/listing/1015083517/feline-tail-pattern-digital-pdf "smartCard-inline")
+
+![Saberwolfstudio Feline Tail](<attachments/Feline Tails/Saberwolfstudio Feline Tail/image-01.png>)
+
+![Saberwolfstudio Feline Tail](<attachments/Feline Tails/Saberwolfstudio Feline Tail/image-02.png>)
+
+---
+
+<a id="spiltgrapesoda-large-feline-tail"></a>
+### SpiltGrapeSoda Large Feline Tail #any-tails #cheap #feline
+
+[https://shop.spiltgrapesoda.com/spiltgrapesoda/p/large-feline-tail-pattern-pdf-download](https://shop.spiltgrapesoda.com/spiltgrapesoda/p/large-feline-tail-pattern-pdf-download "smartCard-inline")
+
+[https://www.etsy.com/ca/listing/1624282393/large-feline-tail-pattern-pdf-download](https://www.etsy.com/ca/listing/1624282393/large-feline-tail-pattern-pdf-download "smartCard-inline")
+
+![SpiltGrapeSoda Large Feline Tail](<attachments/Feline Tails/SpiltGrapeSoda Large Feline Tail/image-01.webp>)
+
+---
+
+<a id="pinkuscraftycottage-cheetah-pattern"></a>
+### PinkusCraftyCottage Cheetah Pattern #feline #any-tails #cheap
+
+[https://www.etsy.com/ca/listing/1019148416/diy-cheetah-tail-pdf-pattern](https://www.etsy.com/ca/listing/1019148416/diy-cheetah-tail-pdf-pattern "smartCard-inline")
+
+![PinkusCraftyCottage Cheetah Pattern](<attachments/Feline Tails/PinkusCraftyCottage Cheetah Pattern/image-01.webp>)
+
+---
+
+<a id="pinkuscraftycottage-3-tiger-patterns"></a>
+### PinkusCraftyCottage 3 Tiger Patterns #moderately #any-tails #feline
+
+[https://www.etsy.com/ca/listing/1425051011/diy-tiger-tail-bundle-pdf-pattern](https://www.etsy.com/ca/listing/1425051011/diy-tiger-tail-bundle-pdf-pattern "smartCard-inline")
+
+![PinkusCraftyCottage 3 Tiger Patterns](<attachments/Feline Tails/PinkusCraftyCottage 3 Tiger Patterns/image-01.webp>)
+
+---
+
+<a id="koifishycostumes-cat-tail"></a>
+### KoiFishyCostumes Cat Tail #feline #cheap #any-tails #video-tutorials
+
+[https://www.etsy.com/ca/listing/1585605857/cat-tail-digital-pattern](https://www.etsy.com/ca/listing/1585605857/cat-tail-digital-pattern "smartCard-inline")
+
+[https://www.tiktok.com/@koifishycostume/video/7285332089778523394](https://www.tiktok.com/@koifishycostume/video/7285332089778523394 "smartCard-inline")
+
+![KoiFishyCostumes Cat Tail](<attachments/Feline Tails/KoiFishyCostumes Cat Tail/image-01.jpg>)
+
+---
+
+<a id="knittinkittenfashion-cat-tail"></a>
+### KnittinKittenFashion Cat Tail #cheap #any-tails #feline
+
+[https://www.etsy.com/ca/listing/1788772524/cat-tail-fursuit-sewing-pattern-pdf](https://www.etsy.com/ca/listing/1788772524/cat-tail-fursuit-sewing-pattern-pdf "smartCard-inline")
+
+![KnittinKittenFashion Cat Tail](<attachments/Feline Tails/KnittinKittenFashion Cat Tail/image-01.webp>)
+
+---
+
+<a id="kiafursuits-2-sizes-feline-tail"></a>
+### KiaFursuits 2 Sizes Feline Tail #feline #any-tails #cheap #multipack
+
+[https://www.etsy.com/ca/listing/1794802090/feline-tail-pattern-large-medium-options](https://www.etsy.com/ca/listing/1794802090/feline-tail-pattern-large-medium-options "smartCard-inline")
+
+![KiaFursuits 2 Sizes Feline Tail](<attachments/Feline Tails/KiaFursuits 2 Sizes Feline Tail/image-01.png>)
+
+---
+
+<a id="howlingdragonstudios-big-cat-tail"></a>
+### HowlingDragonStudios Big Cat Tail #cheap #any-tails #feline
+
+[https://www.etsy.com/ca/listing/1859446675/big-cat-tail-pattern-digital-download](https://www.etsy.com/ca/listing/1859446675/big-cat-tail-pattern-digital-download "smartCard-inline")
+
+![HowlingDragonStudios Big Cat Tail](<attachments/Feline Tails/HowlingDragonStudios Big Cat Tail/image-01.webp>)
+
+---
+
+<a id="geknome-floor-dragger-feline-tail"></a>
+### Geknome Floor Dragger Feline Tail #feline #any-tails #cheap #other-species
+
+[https://www.etsy.com/ca/listing/1854524247/floor-dragger-feline-tail-pattern](https://www.etsy.com/ca/listing/1854524247/floor-dragger-feline-tail-pattern "smartCard-inline")
+
+![Geknome Floor Dragger Feline Tail](<attachments/Feline Tails/Geknome Floor Dragger Feline Tail/image-01.webp>)
+
+---
+
+<a id="sonstafurs-cat-tail"></a>
+### Sonstafurs Cat Tail #cheap #any-tails #feline
+
+[https://www.etsy.com/ca/listing/4348531848/cat-tail-pdf-pattern-tutorial-for](https://www.etsy.com/ca/listing/4348531848/cat-tail-pdf-pattern-tutorial-for "smartCard-inline")
+
+![Sonstafurs Cat Tail](<attachments/Feline Tails/Sonstafurs Cat Tail/image-01.png>)
+
+---
+
+<a id="sonstafurs-lion-tail"></a>
+### Sonstafurs Lion Tail #feline #any-tails #cheap
+
+[https://www.etsy.com/ca/listing/4338488163/lion-tail-pdf-pattern-tutorial-for](https://www.etsy.com/ca/listing/4338488163/lion-tail-pdf-pattern-tutorial-for "smartCard-inline")
+
+![Sonstafurs Lion Tail](<attachments/Feline Tails/Sonstafurs Lion Tail/image-01.png>)
+
+---
+
+<a id="highvalleycreations-cat-tail"></a>
+### HighValleyCreations Cat Tail #cheap #feline #any-tails
+
+[https://www.etsy.com/ca/listing/1822909499/cat-tail-pattern](https://www.etsy.com/ca/listing/1822909499/cat-tail-pattern "smartCard-inline")
+
+![HighValleyCreations Cat Tail](<attachments/Feline Tails/HighValleyCreations Cat Tail/image-01.png>)
+
+---
+
+<a id="sweetcidercreation-large-feline-tail"></a>
+### SweetCiderCreation Large Feline Tail #other-species #any-tails #feline #cheap #any-species
+
+[https://www.etsy.com/ca/listing/4323230343/fursuit-tail-pattern-large-feline](https://www.etsy.com/ca/listing/4323230343/fursuit-tail-pattern-large-feline "smartCard-inline")
+
+![SweetCiderCreation Large Feline Tail](<attachments/Feline Tails/SweetCiderCreation Large Feline Tail/image-01.png>)
+
+---
+
+<a id="kanixstudios-feline-tail"></a>
+### KanixStudios Feline Tail #cheap #feline #any-tails
+
+[https://www.etsy.com/ca/listing/1693276362/fursuit-tail-pattern-felinecatkitty-pdf](https://www.etsy.com/ca/listing/1693276362/fursuit-tail-pattern-felinecatkitty-pdf "smartCard-inline")
+
+![KanixStudios Feline Tail](<attachments/Feline Tails/KanixStudios Feline Tail/image-01.webp>)
+
+---
+
+<details>
+  <summary>Nub Tails (28 cards)</summary>
+
+<a id="nub-tails"></a>
+
+## Nub Tails
+
+---
+
+<a id="mugiwara-bunny-deer-nub-tail"></a>
+### Mugiwara Bunny/Deer/Nub Tail #cheap #any-tails #any-species #equine-cervine #other-species #video-tutorials
+
+[https://mugiwara-cosplay.sellfy.store/p/digital-bunny-or-deer-tail-pattern-for-fursuits-pdf-download/](https://mugiwara-cosplay.sellfy.store/p/digital-bunny-or-deer-tail-pattern-for-fursuits-pdf-download/ "smartCard-inline")
+
+[https://www.etsy.com/ca/listing/662250311/digital-bunny-or-deer-tail-pattern-for](https://www.etsy.com/ca/listing/662250311/digital-bunny-or-deer-tail-pattern-for)
+
+[https://www.youtube.com/watch?v=4CQMLjUikK8](https://www.youtube.com/watch?v=4CQMLjUikK8 "smartCard-inline")
+
+![Mugiwara Bunny/Deer/Nub Tail](<attachments/Nub Tails/Mugiwara BunnyDeerNub Tail/image-01.png>)
+
+---
+
+<a id="mugiwara-large-nub-tail"></a>
+### Mugiwara Large Nub Tail #cheap #any-tails #any-species #other-species #video-tutorials
+
+[https://mugiwara-cosplay.sellfy.store/p/digital-nub-tail-pattern-for-fursuits-pdf-download/](https://mugiwara-cosplay.sellfy.store/p/digital-nub-tail-pattern-for-fursuits-pdf-download/ "smartCard-inline")
+
+[https://www.etsy.com/ca/listing/1613193925/digital-nub-tail-pattern-for-fursuits](https://www.etsy.com/ca/listing/1613193925/digital-nub-tail-pattern-for-fursuits "smartCard-inline")
+
+[https://www.youtube.com/watch?v=yxvp5jGshac](https://www.youtube.com/watch?v=yxvp5jGshac "smartCard-inline")
+
+![Mugiwara Large Nub Tail](<attachments/Nub Tails/Mugiwara Large Nub Tail/image-01.jpg>)
+
+---
+
+<a id="skunky-designs-nub-tail"></a>
+### Skunky Designs Nub Tail #cheap #any-tails #any-species
+
+[https://www.skunkydesigns.com/collections/patterns-and-tutorials/products/pattern-nub-tail](https://www.skunkydesigns.com/collections/patterns-and-tutorials/products/pattern-nub-tail "smartCard-inline")
+
+![Skunky Designs Nub Tail](<attachments/Nub Tails/Skunky Designs Nub Tail/image-01.png>)
+
+---
+
+<a id="koifishycostumes-dino-tail"></a>
+### KoiFishyCostumes Dino Tail #cheap #other-species #any-tails
+
+[https://www.etsy.com/ca/listing/1408408839/dino-tail-digital-pattern](https://www.etsy.com/ca/listing/1408408839/dino-tail-digital-pattern "smartCard-inline")
+
+![KoiFishyCostumes Dino Tail](<attachments/Nub Tails/KoiFishyCostumes Dino Tail/image-01.png>)
+
+---
+
+<a id="koifishycostumes-nub-tail-v1"></a>
+### KoiFishyCostumes Nub Tail V1 #cheap #other-species #equine-cervine #any-tails #feline #canine #any-species
+
+[https://www.etsy.com/ca/listing/1206021352/nub-tail-digital-pattern-download-only](https://www.etsy.com/ca/listing/1206021352/nub-tail-digital-pattern-download-only "smartCard-inline")
+
+![KoiFishyCostumes Nub Tail V1](<attachments/Nub Tails/KoiFishyCostumes Nub Tail V1/image-01.png>)
+
+---
+
+<a id="koifishycostumes-nub-tail-v2"></a>
+### KoiFishyCostumes Nub Tail V2 #cheap #other-species #equine-cervine #any-tails #feline #canine #any-species #video-tutorials
+
+[https://www.etsy.com/ca/listing/1206021352/nub-tail-digital-pattern-download-only](https://www.etsy.com/ca/listing/1206021352/nub-tail-digital-pattern-download-only "smartCard-inline")
+
+[https://www.tiktok.com/@koifishycostume/video/7272668501242891522](https://www.tiktok.com/@koifishycostume/video/7272668501242891522 "smartCard-inline")
+
+![KoiFishyCostumes Nub Tail V2](<attachments/Nub Tails/KoiFishyCostumes Nub Tail V2/image-01.jpg>)
+
+---
+
+<a id="furgetfulfaefursuits-deer-nub-tail"></a>
+### FurgetfulFaeFursuits Deer/Nub Tail #other-species #equine-cervine #any-tails #canine #any-species
+
+[https://www.etsy.com/ca/listing/1257493529/deer-fursuit-tail-pattern-furgetful-fae](https://www.etsy.com/ca/listing/1257493529/deer-fursuit-tail-pattern-furgetful-fae "smartCard-inline")
+
+![FurgetfulFaeFursuits Deer/Nub Tail](<attachments/Nub Tails/FurgetfulFaeFursuits DeerNub Tail/image-01.png>)
+
+![FurgetfulFaeFursuits Deer/Nub Tail](<attachments/Nub Tails/FurgetfulFaeFursuits DeerNub Tail/image-02.png>)
+
+---
+
+<a id="locomotion-fursuits-nub-tail"></a>
+### Locomotion Fursuits Nub Tail #cheap #other-species #any-tails #equine-cervine #canine #any-species
+
+[https://www.etsy.com/ca/listing/1110635494/fursuit-nub-tail-pdf-pattern](https://www.etsy.com/ca/listing/1110635494/fursuit-nub-tail-pdf-pattern)
+
+![Locomotion Fursuits Nub Tail](<attachments/Nub Tails/Locomotion Fursuits Nub Tail/image-01.png>)
+
+---
+
+<a id="werewolfprince666-nub-tail"></a>
+### werewolfprince666 Nub Tail #cheap #other-species #any-tails #equine-cervine #canine #feline #any-species
+
+[https://www.etsy.com/ca/listing/1493418159/nub-fursuit-tail-pattern-and](https://www.etsy.com/ca/listing/1493418159/nub-fursuit-tail-pattern-and "smartCard-inline")
+
+All 5 tails: [https://www.etsy.com/ca/listing/1539024111/fursuit-tail-sewing-pattern-and-tutorial](https://www.etsy.com/ca/listing/1539024111/fursuit-tail-sewing-pattern-and-tutorial "smartCard-inline")
+
+![werewolfprince666 Nub Tail](<attachments/Nub Tails/werewolfprince666 Nub Tail/image-01.png>)
+
+---
+
+<a id="stuffedtailsfurs-nub-tail"></a>
+### StuffedTailsFurs Nub Tail #cheap #other-species #any-tails #equine-cervine #feline #canine #any-species
+
+[https://www.etsy.com/ca/listing/1182058578/nub-tail-digital-pattern](https://www.etsy.com/ca/listing/1182058578/nub-tail-digital-pattern "smartCard-inline")
+
+![StuffedTailsFurs Nub Tail](<attachments/Nub Tails/StuffedTailsFurs Nub Tail/image-01.png>)
+
+---
+
+<a id="geknome-nub-tail"></a>
+### Geknome Nub Tail #cheap #any-tails #canine #feline #other-species #any-species
+
+[https://www.etsy.com/ca/listing/1280259051/nub-tail-fursuit-patten](https://www.etsy.com/ca/listing/1280259051/nub-tail-fursuit-patten "smartCard-inline")
+
+![Geknome Nub Tail](<attachments/Nub Tails/Geknome Nub Tail/image-01.png>)
+
+![Geknome Nub Tail](<attachments/Nub Tails/Geknome Nub Tail/image-02.png>)
+
+---
+
+<a id="formidablefriends-nub-tail"></a>
+### FormidableFriends Nub Tail #canine #equine-cervine #cheap #any-tails #any-species
+
+[https://www.etsy.com/ca/listing/1016375340/bunny-doe-tail-pattern-tail-is-approx](https://www.etsy.com/ca/listing/1016375340/bunny-doe-tail-pattern-tail-is-approx "smartCard-inline")
+
+![FormidableFriends Nub Tail](<attachments/Nub Tails/FormidableFriends Nub Tail/image-01.png>)
+
+---
+
+<a id="spiltgrapesoda-nub-tail"></a>
+### SpiltGrapeSoda Nub Tail #any-tails #cheap #other-species #any-species
+
+[https://shop.spiltgrapesoda.com/spiltgrapesoda/p/large-nub-tail-pattern-pdf-download](https://shop.spiltgrapesoda.com/spiltgrapesoda/p/large-nub-tail-pattern-pdf-download "smartCard-inline")
+
+[https://www.etsy.com/ca/listing/1624279221/large-nub-tail-pattern-pdf-download](https://www.etsy.com/ca/listing/1624279221/large-nub-tail-pattern-pdf-download)
+
+![SpiltGrapeSoda Nub Tail](<attachments/Nub Tails/SpiltGrapeSoda Nub Tail/image-01.jpg>)
+
+---
+
+<a id="geknome-v2-nub-tail"></a>
+### Geknome V2 Nub Tail #other-species #cheap #any-tails
+
+[https://www.etsy.com/ca/listing/1623122856/fursuit-nub-tail-v2-pattern-tutorial](https://www.etsy.com/ca/listing/1623122856/fursuit-nub-tail-v2-pattern-tutorial)
+
+![Geknome V2 Nub Tail](<attachments/Nub Tails/Geknome V2 Nub Tail/image-01.webp>)
+
+![Geknome V2 Nub Tail](<attachments/Nub Tails/Geknome V2 Nub Tail/image-02.webp>)
+
+---
+
+<a id="beepscreatures-nub-tail"></a>
+### BeepsCreatures Nub Tail #cheap #any-tails #any-species
+
+[https://www.etsy.com/ca/listing/1575497241/swirly-nub-fursuit-tail-pattern-pdf](https://www.etsy.com/ca/listing/1575497241/swirly-nub-fursuit-tail-pattern-pdf "smartCard-inline")
+
+![BeepsCreatures Nub Tail](<attachments/Nub Tails/BeepsCreatures Nub Tail/image-01.jpg>)
+
+---
+
+<a id="pinkuscraftycottage-nub-tail"></a>
+### PinkusCraftyCottage Nub tail #any-species #any-tails #cheap
+
+[https://www.etsy.com/ca/listing/779902712/diy-small-nub-tail-pdf-pattern](https://www.etsy.com/ca/listing/779902712/diy-small-nub-tail-pdf-pattern "smartCard-inline")
+
+![PinkusCraftyCottage Nub tail](<attachments/Nub Tails/PinkusCraftyCottage Nub tail/image-01.webp>)
+
+---
+
+<a id="pinkuscraftycottage-deer-tail"></a>
+### PinkusCraftyCottage Deer Tail #other-species #any-species #any-tails #cheap #equine-cervine
+
+[https://www.etsy.com/ca/listing/944154440/diy-deer-tail-pdf-pattern](https://www.etsy.com/ca/listing/944154440/diy-deer-tail-pdf-pattern "smartCard-inline")
+
+![PinkusCraftyCottage Deer Tail](<attachments/Nub Tails/PinkusCraftyCottage Deer Tail/image-01.webp>)
+
+---
+
+<a id="figfur-nub-tail"></a>
+### FigFur Nub Tail #cheap #other-species #any-species #any-tails #equine-cervine
+
+[https://www.etsy.com/ca/listing/1675578753/nub-tail-pattern-pdf-download](https://www.etsy.com/ca/listing/1675578753/nub-tail-pattern-pdf-download "smartCard-inline")
+
+![FigFur Nub Tail](<attachments/Nub Tails/FigFur Nub Tail/image-01.jpg>)
+
+---
+
+<a id="howlingdragonstudios-nub-tail"></a>
+### HowlingDragonStudios Nub Tail #any-tails #any-species #cheap #canine #feline
+
+[https://www.etsy.com/ca/listing/1625189515/nub-tail-pattern-digital-download](https://www.etsy.com/ca/listing/1625189515/nub-tail-pattern-digital-download "smartCard-inline")
+
+![HowlingDragonStudios Nub Tail](<attachments/Nub Tails/HowlingDragonStudios Nub Tail/image-01.jpg>)
+
+---
+
+<a id="sonstafurs-nub-tail"></a>
+### Sonstafurs Nub Tail #equine-cervine #any-species #other-species #any-tails
+
+[https://www.etsy.com/ca/listing/1676544778/fursuit-nub-tail-pdf-pattern-tutorial](https://www.etsy.com/ca/listing/1676544778/fursuit-nub-tail-pdf-pattern-tutorial "smartCard-inline")
+
+![Sonstafurs Nub Tail](<attachments/Nub Tails/Sonstafurs Nub Tail/image-01.webp>)
+
+---
+
+<a id="highvalleycreation-bear-tail"></a>
+### HighValleyCreation "Bear" Tail #any-tails #any-species #cheap
+
+[https://www.etsy.com/ca/listing/1737130100/bear-tail-pattern-and-instructions](https://www.etsy.com/ca/listing/1737130100/bear-tail-pattern-and-instructions)
+
+![HighValleyCreation "Bear" Tail](<attachments/Nub Tails/HighValleyCreation Bear Tail/image-01.webp>)
+
+---
+
+<a id="highvalleycreation-bunny-tail"></a>
+### HighValleyCreation "Bunny" Tail #any-tails #any-species #cheap
+
+[https://www.etsy.com/ca/listing/1759945399/bunny-tail-pattern](https://www.etsy.com/ca/listing/1759945399/bunny-tail-pattern)
+
+![HighValleyCreation "Bunny" Tail](<attachments/Nub Tails/HighValleyCreation Bunny Tail/image-01.webp>)
+
+---
+
+<a id="kittencafestudios-nub-tail"></a>
+### KittenCafeStudios Nub Tail #cheap #any-tails #any-species
+
+[https://www.etsy.com/ca/listing/1798732354/diy-fursuit-nub-tail-pattern-tutorial](https://www.etsy.com/ca/listing/1798732354/diy-fursuit-nub-tail-pattern-tutorial "smartCard-inline")
+
+![KittenCafeStudios Nub Tail](<attachments/Nub Tails/KittenCafeStudios Nub Tail/image-01.webp>)
+
+---
+
+<a id="kiafursuits-nub-tail"></a>
+### KiaFursuits Nub Tail #any-species #any-tails #cheap
+
+[https://www.etsy.com/ca/listing/1794803788/nub-tail-pattern-pdf-download](https://www.etsy.com/ca/listing/1794803788/nub-tail-pattern-pdf-download)
+
+![KiaFursuits Nub Tail](<attachments/Nub Tails/KiaFursuits Nub Tail/image-01.png>)
+
+---
+
+<a id="chevalhoof-nub-tail"></a>
+### ChevalHoof Nub Tail #cheap #any-tails #any-species
+
+[https://www.etsy.com/ca/listing/1744617645/nub-tail-pattern](https://www.etsy.com/ca/listing/1744617645/nub-tail-pattern "smartCard-inline")
+
+![ChevalHoof Nub Tail](<attachments/Nub Tails/ChevalHoof Nub Tail/image-01.webp>)
+
+---
+
+<a id="kittencafestudios-deer-tail"></a>
+### KittenCafeStudios Deer Tail #any-tails #cheap #any-species #equine-cervine
+
+[https://www.etsy.com/ca/listing/4435283500/diy-fursuit-spotted-deer-nub-tail](https://www.etsy.com/ca/listing/4435283500/diy-fursuit-spotted-deer-nub-tail "smartCard-inline")
+
+![KittenCafeStudios Deer Tail](<attachments/Nub Tails/KittenCafeStudios Deer Tail/image-01.webp>)
+
+---
+
+<a id="puzzlepatchworks-deer-pattern"></a>
+### PuzzlePatchworks Deer Pattern #equine-cervine #any-species #cheap #any-tails
+
+[https://www.etsy.com/ca/listing/4308772427/deer-tail-pattern-pdf-download](https://www.etsy.com/ca/listing/4308772427/deer-tail-pattern-pdf-download "smartCard-inline")
+
+![PuzzlePatchworks Deer Pattern](<attachments/Nub Tails/PuzzlePatchworks Deer Pattern/image-01.webp>)
+
+---
+
+<a id="doubletroublefursuit-nub-tail"></a>
+### DoubleTroubleFursuit Nub Tail #any-tails #cheap #any-species #equine-cervine
+
+[https://www.etsy.com/ca/listing/1110635494/fursuit-nub-tail-pdf-pattern](https://www.etsy.com/ca/listing/1110635494/fursuit-nub-tail-pdf-pattern "smartCard-inline")
+
+![DoubleTroubleFursuit Nub Tail](<attachments/Nub Tails/DoubleTroubleFursuit Nub Tail/image-01.webp>)
+
+---
+
+<details>
+  <summary>Other Species Tails (47 cards)</summary>
 
 <a id="other-species-tails"></a>
 
-</details>
-
-<details>
-<summary>Other Species Tails</summary>
-
-
-[↑ Contents](#contents)
+## Other Species Tails
 
 ---
 
@@ -1774,15 +4959,1622 @@ Lizard: [https://www.etsy.com/ca/listing/1854978420/pdf-lizard-tail-pattern](htt
 
 ---
 
-<a id="head-patterns"></a>
+<details>
+  <summary>Noses (9 cards)</summary>
 
-</details>
+<a id="noses"></a>
+
+## Noses
+
+---
+
+<a id="curlworks-pickable-canine-feline-nose-free"></a>
+### Curlworks Pickable Canine + Feline Nose (FREE) #canine #fursuit-heads #free #feline
+
+[https://www.curlworks.net/extras/curlworks-diy-pickable-fursuit-nose-patterns](https://www.curlworks.net/extras/curlworks-diy-pickable-fursuit-nose-patterns "smartCard-inline")
+
+![Curlworks Pickable Canine + Feline Nose FREE](<attachments/Noses/Curlworks Pickable Canine + Feline Nose (FREE)/image-01.png>)
+
+---
+
+<a id="free-doubletroublefursuit-ferret-nose"></a>
+### (FREE) DoubleTroubleFursuit Ferret Nose #other-species #fursuit-heads #free
+
+[https://doubletroublefursuit.wixsite.com/patterns/blank](https://doubletroublefursuit.wixsite.com/patterns/blank "smartCard-inline")
+
+![FREE DoubleTroubleFursuit Ferret Nose](<attachments/Noses/(FREE) DoubleTroubleFursuit Ferret Nose/image-01.png>)
+
+---
+
+<a id="mugiwara-canine-noses"></a>
+### Mugiwara Canine Noses #cheap #canine #fursuit-heads #video-tutorials
+
+[https://mugiwara-cosplay.sellfy.store/p/digital-canine-nose-pattern-for-fursuits-pdf-download/](https://mugiwara-cosplay.sellfy.store/p/digital-canine-nose-pattern-for-fursuits-pdf-download/ "smartCard-inline")
+
+[https://www.etsy.com/ca/listing/1389659955/digital-canine-nose-pattern-for-fursuits](https://www.etsy.com/ca/listing/1389659955/digital-canine-nose-pattern-for-fursuits "smartCard-inline")
+
+[https://youtu.be/YD9dzsxPRoA](https://youtu.be/YD9dzsxPRoA "smartCard-inline")
+
+![Mugiwara Canine Noses](<attachments/Noses/Mugiwara Canine Noses/image-01.png>)
+
+---
+
+<a id="twilightknights-canine-nose"></a>
+### TwilightKnights Canine Nose #cheap #canine #video-tutorials #fursuit-heads
+
+[https://www.etsy.com/ca/listing/1282775676/fursuit-nose-sewing-pattern-tutorial](https://www.etsy.com/ca/listing/1282775676/fursuit-nose-sewing-pattern-tutorial "smartCard-inline")
+
+![TwilightKnights Canine Nose](<attachments/Noses/TwilightKnights Canine Nose/image-01.png>)
+
+![TwilightKnights Canine Nose](<attachments/Noses/TwilightKnights Canine Nose/image-02.png>)
+
+---
+
+<a id="frostihadasundae-pickable-nose-pattern"></a>
+### FrostiHadaSundae Pickable Nose Pattern #cheap #fursuit-heads #canine
+
+[https://www.etsy.com/ca/listing/1781512456/fhs-caninenosepatterninstructions](https://www.etsy.com/ca/listing/1781512456/fhs-caninenosepatterninstructions "smartCard-inline")
+
+![FrostiHadaSundae Pickable Nose Pattern](<attachments/Noses/FrostiHadaSundae Pickable Nose Pattern/image-01.webp>)
+
+![FrostiHadaSundae Pickable Nose Pattern](<attachments/Noses/FrostiHadaSundae Pickable Nose Pattern/image-02.webp>)
+
+---
+
+<a id="teacuplion-cat-and-dog-nose"></a>
+### TeacupLion Cat and Dog Nose #any-species #multipack #feline #canine #cheap #video-tutorials #fursuit-heads
+
+[https://www.etsy.com/ca/listing/1799757467/fursuit-nose-sewing-pattern-pdf-bundle](https://www.etsy.com/ca/listing/1799757467/fursuit-nose-sewing-pattern-pdf-bundle)
+
+![TeacupLion Cat and Dog Nose](<attachments/Noses/TeacupLion Cat and Dog Nose/image-01.webp>)
+
+---
+
+<a id="kittencafestudios-fursuit-nose"></a>
+### KittenCafeStudios Fursuit Nose #fursuit-heads #cheap #any-species #canine #feline
+
+[https://www.etsy.com/ca/listing/1851417454/diy-fursuit-nose-pattern-tutorial](https://www.etsy.com/ca/listing/1851417454/diy-fursuit-nose-pattern-tutorial "smartCard-inline")
+
+![KittenCafeStudios Fursuit Nose](<attachments/Noses/KittenCafeStudios Fursuit Nose/image-01.webp>)
+
+---
+
+<a id="frostihadasundae-bat-nose-pattern"></a>
+### FrostiHadaSundae Bat Nose Pattern #cheap #fursuit-heads #other-species
+
+[https://www.etsy.com/ca/listing/1881019380/fhsbatnosepatterninstructions](https://www.etsy.com/ca/listing/1881019380/fhsbatnosepatterninstructions "smartCard-inline")
+
+![FrostiHadaSundae Bat Nose Pattern](<attachments/Noses/FrostiHadaSundae Bat Nose Pattern/image-01.webp>)
+
+---
+
+<a id="kaiyuwolfart-pickabable-nose-pattern"></a>
+### KaiyuWolfArt Pickabable Nose Pattern #cheap #canine #fursuit-heads
+
+[https://www.etsy.com/ca/listing/1877783108/pickable-canine-fursuit-nose-pattern](https://www.etsy.com/ca/listing/1877783108/pickable-canine-fursuit-nose-pattern)
+
+![KaiyuWolfArt Pickabable Nose Pattern](<attachments/Noses/KaiyuWolfArt Pickabable Nose Pattern/image-01.webp>)
+
+---
 
 <details>
-<summary>Head Patterns</summary>
+  <summary>Tongues (14 cards)</summary>
 
+<a id="tongues"></a>
 
-[↑ Contents](#contents)
+## Tongues
+
+---
+
+<a id="mugiwara-7-tongue-patterns"></a>
+### Mugiwara 7 Tongue Patterns #cheap #other-species #canine #feline #equine-cervine #feathers-birds #fursuit-heads #video-tutorials #multipack #any-species
+
+[https://mugiwara-cosplay.sellfy.store/p/digital-fabric-tongue-patterns-for-fursuits-7-shapes-pdf-download/](https://mugiwara-cosplay.sellfy.store/p/digital-fabric-tongue-patterns-for-fursuits-7-shapes-pdf-download/ "smartCard-inline")
+
+[https://www.etsy.com/ca/listing/724073456/digital-fabric-tongue-patterns-for](https://www.etsy.com/ca/listing/724073456/digital-fabric-tongue-patterns-for "smartCard-inline")
+
+[https://www.youtube.com/watch?v=emC_mtjL8Ro](https://www.youtube.com/watch?v=emC_mtjL8Ro "smartCard-inline")
+
+![Mugiwara 7 Tongue Patterns](<attachments/Tongues/Mugiwara 7 Tongue Patterns/image-01.png>)
+
+---
+
+<a id="koifishycostumes"></a>
+### KoiFishyCostumes #cheap #other-species #canine #feline #equine-cervine #fursuit-heads #multipack #any-species
+
+[https://www.etsy.com/ca/listing/1395782788/fursuit-tongue-pattern-9-designs-digital](https://www.etsy.com/ca/listing/1395782788/fursuit-tongue-pattern-9-designs-digital "smartCard-inline")
+
+![KoiFishyCostumes](<attachments/Tongues/KoiFishyCostumes/image-01.png>)
+
+---
+
+<a id="howlingdragonstudios-3-tongue-lengths"></a>
+### HowlingDragonStudios 3 tongue lengths #cheap #other-species #canine #feline #equine-cervine #fursuit-heads #multipack #any-species
+
+[https://www.etsy.com/ca/listing/1379059559/fursuit-tongue-patterns-3-lengths](https://www.etsy.com/ca/listing/1379059559/fursuit-tongue-patterns-3-lengths "smartCard-inline")
+
+![HowlingDragonStudios 3 tongue lengths](<attachments/Tongues/HowlingDragonStudios 3 tongue lengths/image-01.png>)
+
+![HowlingDragonStudios 3 tongue lengths](<attachments/Tongues/HowlingDragonStudios 3 tongue lengths/image-02.jpg>)
+
+---
+
+<a id="werewolfprince666-teeth-and-tongues"></a>
+### werewolfprince666 Teeth and Tongues #cheap #other-species #canine #feline #equine-cervine #fursuit-heads #multipack #any-species
+
+[https://www.etsy.com/ca/listing/1479225748/fursuit-tongue-and-teeth-pattern](https://www.etsy.com/ca/listing/1479225748/fursuit-tongue-and-teeth-pattern)
+
+![werewolfprince666 Teeth and Tongues](<attachments/Tongues/werewolfprince666 Teeth and Tongues/image-01.png>)
+
+![werewolfprince666 Teeth and Tongues](<attachments/Tongues/werewolfprince666 Teeth and Tongues/image-02.png>)
+
+![werewolfprince666 Teeth and Tongues](<attachments/Tongues/werewolfprince666 Teeth and Tongues/image-03.png>)
+
+---
+
+<a id="matrices-sewn-teeth-tutorial"></a>
+### Matrices Sewn Teeth Tutorial #cheap #other-species #video-tutorials #fursuit-heads #any-species #tutorial-no-pattern-incl
+
+[https://www.etsy.com/ca/listing/1031252614/pattern-and-tutorial-sewn-teeth-for](https://www.etsy.com/ca/listing/1031252614/pattern-and-tutorial-sewn-teeth-for "smartCard-inline")
+
+![Matrices Sewn Teeth Tutorial](<attachments/Tongues/Matrices Sewn Teeth Tutorial/image-01.png>)
+
+---
+
+<a id="matrices-tongue-tutorial"></a>
+### Matrices Tongue Tutorial #cheap #other-species #fursuit-heads #video-tutorials #any-species #tutorial-no-pattern-incl
+
+[https://www.etsy.com/ca/listing/1223590856/pattern-and-tutorial-sewn-tongues-for](https://www.etsy.com/ca/listing/1223590856/pattern-and-tutorial-sewn-tongues-for "smartCard-inline")
+
+![Matrices Tongue Tutorial](<attachments/Tongues/Matrices Tongue Tutorial/image-01.png>)
+
+![Matrices Tongue Tutorial](<attachments/Tongues/Matrices Tongue Tutorial/image-02.png>)
+
+---
+
+<a id="mayingfantasy-5-tongue-patterns"></a>
+### Mayingfantasy 5 Tongue Patterns #other-species #cheap #canine #feline #equine-cervine #feathers-birds #any-species #multipack
+
+[https://mayingfantasycreations.com/product/tongue-patterns/](https://mayingfantasycreations.com/product/tongue-patterns/ "smartCard-inline")
+
+[https://www.etsy.com/ca/listing/1493220821/fursuit-tongue-pattern-digital-download](https://www.etsy.com/ca/listing/1493220821/fursuit-tongue-pattern-digital-download "smartCard-inline")
+
+![Mayingfantasy 5 Tongue Patterns](<attachments/Tongues/Mayingfantasy 5 Tongue Patterns/image-01.jpg>)
+
+---
+
+<a id="frostyfurs-6-tongue-shapes"></a>
+### FrostyFurs 6 Tongue Shapes #cheap #fursuit-heads #any-species #other-species #canine #feline #equine-cervine #feathers-birds #multipack
+
+Sewing machine and hand sewing pattern:
+
+[https://www.etsy.com/ca/listing/1684174099/fursuit-tongue-pattern-bundle-6-shapes](https://www.etsy.com/ca/listing/1684174099/fursuit-tongue-pattern-bundle-6-shapes "smartCard-inline")
+
+![FrostyFurs 6 Tongue Shapes](<attachments/Tongues/FrostyFurs 6 Tongue Shapes/image-01.webp>)
+
+---
+
+<a id="furrybunbun-flexible-tongue-pattern"></a>
+### FurryBunBun Flexible Tongue Pattern #any-species #cheap #fursuit-heads
+
+[https://www.etsy.com/ca/listing/1241748262/tongue-pattern-step-by-step-instructions](https://www.etsy.com/ca/listing/1241748262/tongue-pattern-step-by-step-instructions "smartCard-inline")
+
+![FurryBunBun Flexible Tongue Pattern](<attachments/Tongues/FurryBunBun Flexible Tongue Pattern/image-01.webp>)
+
+---
+
+<a id="blackmarblefursuits-3-tongues"></a>
+### BlackMarbleFursuits 3 Tongues #fursuit-heads #cheap #any-species
+
+Basic tongue: [https://www.etsy.com/ca/listing/1538354936/fursuit-tongue-pattern-template-pdf](https://www.etsy.com/ca/listing/1538354936/fursuit-tongue-pattern-template-pdf "smartCard-inline")
+
+Forked Tongue: [https://www.etsy.com/ca/listing/1552581241/fursuit-forked-tongue-pattern-template](https://www.etsy.com/ca/listing/1552581241/fursuit-forked-tongue-pattern-template "smartCard-inline")
+
+Pierced Tongue (read description): [https://www.etsy.com/ca/listing/1552585503/fursuit-pierced-tongue-pattern-template](https://www.etsy.com/ca/listing/1552585503/fursuit-pierced-tongue-pattern-template "smartCard-inline")
+
+![BlackMarbleFursuits 3 Tongues](<attachments/Tongues/BlackMarbleFursuits 3 Tongues/image-01.jpg>)
+
+![BlackMarbleFursuits 3 Tongues](<attachments/Tongues/BlackMarbleFursuits 3 Tongues/image-02.jpg>)
+
+![BlackMarbleFursuits 3 Tongues](<attachments/Tongues/BlackMarbleFursuits 3 Tongues/image-03.jpg>)
+
+---
+
+<a id="kittencafestudios-tongue-pattern"></a>
+### KittenCafeStudios Tongue Pattern #cheap #any-species
+
+6 tongue patterns:
+
+[https://www.etsy.com/ca/listing/1851432568/diy-fursuit-tongue-pattern-tutorial](https://www.etsy.com/ca/listing/1851432568/diy-fursuit-tongue-pattern-tutorial "smartCard-inline")
+
+![KittenCafeStudios Tongue Pattern](<attachments/Tongues/KittenCafeStudios Tongue Pattern/image-01.webp>)
+
+---
+
+<a id="cactusdogstudio-velcro-bird-tongue-3-sizes"></a>
+### CactusDogStudio Velcro Bird Tongue (3 sizes) #other-species #feathers-birds #fursuit-heads #cheap
+
+[https://www.etsy.com/ca/listing/4307266611/fursuit-tongue-pattern-removable-velcro](https://www.etsy.com/ca/listing/4307266611/fursuit-tongue-pattern-removable-velcro "smartCard-inline")
+
+![CactusDogStudio Velcro Bird Tongue 3 sizes](<attachments/Tongues/CactusDogStudio Velcro Bird Tongue (3 sizes)/image-01.webp>)
+
+---
+
+<a id="moondeitycrafts-tongue-templates-snake-normal"></a>
+### MoonDeityCrafts Tongue Templates (Snake + Normal) #fursuit-heads #any-species #cheap #other-species
+
+Normal:[https://www.etsy.com/ca/listing/1636986192/digital-fursuit-tongue-template](https://www.etsy.com/ca/listing/1636986192/digital-fursuit-tongue-template "smartCard-inline")
+
+Snake: [https://www.etsy.com/ca/listing/1636965878/digital-fursuit-snake-tongue-template](https://www.etsy.com/ca/listing/1636965878/digital-fursuit-snake-tongue-template "smartCard-inline")
+
+![MoonDeityCrafts Tongue Templates Snake + Normal](<attachments/Tongues/MoonDeityCrafts Tongue Templates (Snake + Normal)/image-01.png>)
+
+![MoonDeityCrafts Tongue Templates Snake + Normal](<attachments/Tongues/MoonDeityCrafts Tongue Templates (Snake + Normal)/image-02.webp>)
+
+---
+
+<a id="kodasuits-forked-tongue"></a>
+### Kodasuits Forked Tongue #cheap #other-species #fursuit-heads
+
+[https://www.etsy.com/ca/listing/1866838818/forked-fursuit-tongue-pattern-furry-pdf](https://www.etsy.com/ca/listing/1866838818/forked-fursuit-tongue-pattern-furry-pdf "smartCard-inline")
+
+![Kodasuits Forked Tongue](<attachments/Tongues/Kodasuits Forked Tongue/image-01.webp>)
+
+---
+
+<details>
+  <summary>Teeth and Gums (6 cards)</summary>
+
+<a id="teeth-and-gums"></a>
+
+## Teeth and Gums
+
+---
+
+<a id="https-www-youtube-com-watch-v-8cx4vujpaqq"></a>
+### https://www.youtube.com/watch?v=8cX4VUjPaqQ #video-tutorials #other-species #free #equine-cervine #fursuit-heads #any-species #tutorial-no-pattern-incl
+
+[https://www.youtube.com/watch?v=8cX4VUjPaqQ](https://www.youtube.com/watch?v=8cX4VUjPaqQ "smartCard-inline")
+
+![https://www.youtube.com/watch?v=8cX4VUjPaqQ](<attachments/Teeth and Gums/httpswww.youtube.comwatchv=8cX4VUjPaqQ/image-01.png>)
+
+---
+
+<a id="ruben-s-magic-lab-teeth-w-gums"></a>
+### Ruben's Magic Lab Teeth w/Gums #moderately #other-species #canine #feline #equine-cervine #video-tutorials #fursuit-heads #any-species
+
+[https://www.etsy.com/ca/listing/1460469769/plush-fursuit-jaw-set-teeth-with-gums](https://www.etsy.com/ca/listing/1460469769/plush-fursuit-jaw-set-teeth-with-gums)
+
+![Ruben's Magic Lab Teeth w/Gums](<attachments/Teeth and Gums/Ruben's Magic Lab Teeth wGums/image-01.png>)
+
+![Ruben's Magic Lab Teeth w/Gums](<attachments/Teeth and Gums/Ruben's Magic Lab Teeth wGums/image-02.png>)
+
+---
+
+<a id="atd-fursuits-mouth-ridges-tutorial"></a>
+### ATD Fursuits Mouth Ridges Tutorial #video-tutorials #cheap #any-species #fursuit-heads #tutorial-no-pattern-incl
+
+[https://ko-fi.com/s/0739fe9455](https://ko-fi.com/s/0739fe9455 "smartCard-inline")
+
+![ATD Fursuits Mouth Ridges Tutorial](<attachments/Teeth and Gums/ATD Fursuits Mouth Ridges Tutorial/image-01.png>)
+
+---
+
+<a id="kodasuits-3-jawset-patterns-canine-herbivore-carnivore-rapto"></a>
+### Kodasuits 3 Jawset Patterns (Canine, Herbivore, Carnivore/Raptor) #other-species #cheap #fursuit-heads #any-species
+
+Canine Teeth: [https://www.etsy.com/ca/listing/1874730376/plush-fursuit-jawset-pattern-teeth-furry](https://www.etsy.com/ca/listing/1874730376/plush-fursuit-jawset-pattern-teeth-furry "smartCard-inline")
+
+Herbivore: [https://www.etsy.com/ca/listing/4318125738/plush-fursuit-jawset-herbivore-pattern](https://www.etsy.com/ca/listing/4318125738/plush-fursuit-jawset-herbivore-pattern "smartCard-inline")
+
+Carnivore/Raptor: [https://www.etsy.com/ca/listing/4318129646/plush-fursuit-jawset-carnivore-pattern](https://www.etsy.com/ca/listing/4318129646/plush-fursuit-jawset-carnivore-pattern "smartCard-inline")
+
+![Kodasuits 3 Jawset Patterns Canine, Herbivore, Carnivore/Raptor](<attachments/Teeth and Gums/Kodasuits 3 Jawset Patterns (Canine, Herbivore, CarnivoreRaptor)/image-01.png>)
+
+![Kodasuits 3 Jawset Patterns Canine, Herbivore, Carnivore/Raptor](<attachments/Teeth and Gums/Kodasuits 3 Jawset Patterns (Canine, Herbivore, CarnivoreRaptor)/image-02.png>)
+
+![Kodasuits 3 Jawset Patterns Canine, Herbivore, Carnivore/Raptor](<attachments/Teeth and Gums/Kodasuits 3 Jawset Patterns (Canine, Herbivore, CarnivoreRaptor)/image-03.png>)
+
+---
+
+<a id="rudebirdstudios-teeth-maw-pattern"></a>
+### RudeBirdStudios Teeth/Maw Pattern #other-species #any-species #fursuit-heads #cheap
+
+[https://www.etsy.com/ca/listing/4418828965/detail-mochi-teethmaw-pattern-pdf](https://www.etsy.com/ca/listing/4418828965/detail-mochi-teethmaw-pattern-pdf "smartCard-inline")
+
+![RudeBirdStudios Teeth/Maw Pattern](<attachments/Teeth and Gums/RudeBirdStudios TeethMaw Pattern/image-01.webp>)
+
+---
+
+<a id="kittencafestudios-teeth"></a>
+### KittenCafeStudios Teeth #cheap #any-species
+
+4 sizes of teeth:
+
+[https://www.etsy.com/ca/listing/1851432140/diy-fursuit-teeth-pattern-tutorial](https://www.etsy.com/ca/listing/1851432140/diy-fursuit-teeth-pattern-tutorial "smartCard-inline")
+
+![KittenCafeStudios Teeth](<attachments/Teeth and Gums/KittenCafeStudios Teeth/image-01.webp>)
+
+---
+
+<details>
+  <summary>Horns (15 cards)</summary>
+
+<a id="horns"></a>
+
+## Horns
+
+---
+
+<a id="mugiwara-horns"></a>
+### Mugiwara Horns #cheap #other-species #equine-cervine #fursuit-heads #video-tutorials #multipack
+
+[https://mugiwara-cosplay.sellfy.store/p/digital-horn-sewing-patterns-for-fursuits-and-cosplay-pdf-download/](https://mugiwara-cosplay.sellfy.store/p/digital-horn-sewing-patterns-for-fursuits-and-cosplay-pdf-download/ "smartCard-inline")
+
+[https://www.etsy.com/ca/listing/731328433/digital-horn-sewing-patterns-for](https://www.etsy.com/ca/listing/731328433/digital-horn-sewing-patterns-for "smartCard-inline")
+
+[https://www.youtube.com/watch?v=NKakGSz9WCs](https://www.youtube.com/watch?v=NKakGSz9WCs "smartCard-inline")
+
+![Mugiwara Horns](<attachments/Horns/Mugiwara Horns/image-01.png>)
+
+---
+
+<a id="kivovissuits-plush-curled-horns"></a>
+### KivovisSuits Plush Curled Horns #cheap #other-species #fursuit-heads
+
+[https://www.etsy.com/ca/listing/1148154168/plush-horn-tutorial-and-pattern-horns](https://www.etsy.com/ca/listing/1148154168/plush-horn-tutorial-and-pattern-horns "smartCard-inline")
+
+![KivovisSuits Plush Curled Horns](<attachments/Horns/KivovisSuits Plush Curled Horns/image-01.png>)
+
+![KivovisSuits Plush Curled Horns](<attachments/Horns/KivovisSuits Plush Curled Horns/image-02.png>)
+
+---
+
+<a id="rockyrainbowstudios-curved-plush-horn"></a>
+### RockyRainbowStudios Curved Plush Horn #cheap #other-species #fursuit-heads
+
+[https://www.etsy.com/ca/listing/1268153736/horn-pattern-digital-download](https://www.etsy.com/ca/listing/1268153736/horn-pattern-digital-download "smartCard-inline")
+
+![RockyRainbowStudios Curved Plush Horn](<attachments/Horns/RockyRainbowStudios Curved Plush Horn/image-01.png>)
+
+![RockyRainbowStudios Curved Plush Horn](<attachments/Horns/RockyRainbowStudios Curved Plush Horn/image-02.png>)
+
+---
+
+<a id="fishpishstudios-plush-unicorn-horn"></a>
+### FishPishStudios Plush Unicorn Horn #fursuit-heads #other-species #cheap
+
+[https://www.etsy.com/ca/listing/1148515254/fabric-unicorn-horn-tutorial-and-pattern](https://www.etsy.com/ca/listing/1148515254/fabric-unicorn-horn-tutorial-and-pattern "smartCard-inline")
+
+![FishPishStudios Plush Unicorn Horn](<attachments/Horns/FishPishStudios Plush Unicorn Horn/image-01.webp>)
+
+---
+
+<a id="lostwax-12-eva-horns"></a>
+### LostWax 12 EVA Horns #other-species #cheap #video-tutorials #multipack #fursuit-heads #foam-only
+
+[https://lostwaxoz.gumroad.com/l/Horns?layout=profile](https://lostwaxoz.gumroad.com/l/Horns?layout=profile "smartCard-inline")
+
+[https://www.youtube.com/watch?v=jIOvwL7yIyk](https://www.youtube.com/watch?v=jIOvwL7yIyk "smartCard-inline")
+
+[https://www.youtube.com/watch?v=Nt0Md8yHjqs](https://www.youtube.com/watch?v=Nt0Md8yHjqs "smartCard-inline")
+
+![LostWax 12 EVA Horns](<attachments/Horns/LostWax 12 EVA Horns/image-01.jpeg>)
+
+---
+
+<a id="kamuicosplay-horn-multipack-v1-5-styles-or-sold-individually"></a>
+### KamuiCosplay Horn Multipack V1 (5 styles, or sold individually) #moderately #multipack #other-species #fursuit-heads #foam-only
+
+Multipack: [https://www.kamuicosplay.com/product/horncollection/](https://www.kamuicosplay.com/product/horncollection/ "smartCard-inline")
+
+Singles:
+Ram's Horn: [https://www.kamuicosplay.com/product/ramhorn/](https://www.kamuicosplay.com/product/ramhorn/ "smartCard-inline")
+
+Thick Horn: [https://www.kamuicosplay.com/product/thickhorn/](https://www.kamuicosplay.com/product/thickhorn/ "smartCard-inline")
+
+Long Horn: [https://www.kamuicosplay.com/product/longhorn/](https://www.kamuicosplay.com/product/longhorn/ "smartCard-inline")
+
+Curved Horn: [https://www.kamuicosplay.com/product/curvedhorn/](https://www.kamuicosplay.com/product/curvedhorn/ "smartCard-inline")
+
+Spiky Horn: [https://www.kamuicosplay.com/product/spikyhorn/](https://www.kamuicosplay.com/product/spikyhorn/ "smartCard-inline")
+
+![KamuiCosplay Horn Multipack V1 5 styles, or sold individually](<attachments/Horns/KamuiCosplay Horn Multipack V1 (5 styles, or sold individually)/image-01.jpg>)
+
+![KamuiCosplay Horn Multipack V1 5 styles, or sold individually](<attachments/Horns/KamuiCosplay Horn Multipack V1 (5 styles, or sold individually)/image-02.jpg>)
+
+![KamuiCosplay Horn Multipack V1 5 styles, or sold individually](<attachments/Horns/KamuiCosplay Horn Multipack V1 (5 styles, or sold individually)/image-03.jpg>)
+
+![KamuiCosplay Horn Multipack V1 5 styles, or sold individually](<attachments/Horns/KamuiCosplay Horn Multipack V1 (5 styles, or sold individually)/image-04.jpg>)
+
+![KamuiCosplay Horn Multipack V1 5 styles, or sold individually](<attachments/Horns/KamuiCosplay Horn Multipack V1 (5 styles, or sold individually)/image-05.jpg>)
+
+![KamuiCosplay Horn Multipack V1 5 styles, or sold individually](<attachments/Horns/KamuiCosplay Horn Multipack V1 (5 styles, or sold individually)/image-06.jpg>)
+
+---
+
+<a id="kamuicosplay-horn-multipack-v2-7-styles-or-sold-individually"></a>
+### KamuiCosplay Horn Multipack V2 (7 styles, or sold individually) #moderately #multipack #other-species #fursuit-heads #foam-only
+
+Multipack: [https://www.kamuicosplay.com/product/horncollection2/](https://www.kamuicosplay.com/product/horncollection2/ "smartCard-inline")
+
+Single:
+
+Epic Ram’s Horns: [https://www.kamuicosplay.com/product/epicramhorn/](https://www.kamuicosplay.com/product/epicramhorn/ "smartCard-inline")
+
+Devil’s Horns: [https://www.kamuicosplay.com/product/devilhorns/](https://www.kamuicosplay.com/product/devilhorns/ "smartCard-inline")
+
+Imp Horns: [https://www.kamuicosplay.com/product/imphorn/](https://www.kamuicosplay.com/product/imphorn/ "smartCard-inline")
+
+Demon Horn: [https://www.kamuicosplay.com/product/demonhorns/](https://www.kamuicosplay.com/product/demonhorns/ "smartCard-inline")
+
+Twisted Horns: [https://www.kamuicosplay.com/product/twistedhorns/](https://www.kamuicosplay.com/product/twistedhorns/ "smartCard-inline")
+
+Fairy Horns: [https://www.kamuicosplay.com/product/fairyhorns/](https://www.kamuicosplay.com/product/fairyhorns/ "smartCard-inline")
+
+Bull Horns: [https://www.kamuicosplay.com/product/bullhorns/](https://www.kamuicosplay.com/product/bullhorns/ "smartCard-inline")
+
+![KamuiCosplay Horn Multipack V2 7 styles, or sold individually](<attachments/Horns/KamuiCosplay Horn Multipack V2 (7 styles, or sold individually)/image-01.jpg>)
+
+![KamuiCosplay Horn Multipack V2 7 styles, or sold individually](<attachments/Horns/KamuiCosplay Horn Multipack V2 (7 styles, or sold individually)/image-02.jpg>)
+
+![KamuiCosplay Horn Multipack V2 7 styles, or sold individually](<attachments/Horns/KamuiCosplay Horn Multipack V2 (7 styles, or sold individually)/image-03.jpg>)
+
+![KamuiCosplay Horn Multipack V2 7 styles, or sold individually](<attachments/Horns/KamuiCosplay Horn Multipack V2 (7 styles, or sold individually)/image-04.jpg>)
+
+![KamuiCosplay Horn Multipack V2 7 styles, or sold individually](<attachments/Horns/KamuiCosplay Horn Multipack V2 (7 styles, or sold individually)/image-05.jpg>)
+
+---
+
+<a id="sayakat-cosplay-7-foam-oni-horns"></a>
+### Sayakat Cosplay 7 Foam Oni Horns #cheap #fursuit-heads #other-species #multipack #foam-only #video-tutorials
+
+[https://sayakatcosplay.storenvy.com/products/31350910-foam-oni-horn-patterns-and-tutorial](https://sayakatcosplay.storenvy.com/products/31350910-foam-oni-horn-patterns-and-tutorial "smartCard-inline")
+
+[https://www.etsy.com/ca/listing/901809040/foam-oni-horn-patterns-and-tutorial](https://www.etsy.com/ca/listing/901809040/foam-oni-horn-patterns-and-tutorial "smartCard-inline")
+
+![Sayakat Cosplay 7 Foam Oni Horns](<attachments/Horns/Sayakat Cosplay 7 Foam Oni Horns/image-01.jpg>)
+
+---
+
+<a id="trinestreasury-ram-s-horn-pack-5-in-pack-or-singles"></a>
+### TrinesTreasury Ram's Horn Pack (5 in pack or singles) #multipack #cheap #moderately #fursuit-heads #other-species #foam-only
+
+Multipack:
+
+[https://www.etsy.com/ca/listing/1397594701/ram-horn-pattern-collection-for-eva-foam](https://www.etsy.com/ca/listing/1397594701/ram-horn-pattern-collection-for-eva-foam "smartCard-inline")
+
+Small Ram Horn: [https://www.etsy.com/ca/listing/1397601675/small-ram-horn-pattern-for-eva-foam-a4](https://www.etsy.com/ca/listing/1397601675/small-ram-horn-pattern-for-eva-foam-a4?click_key=3f9b350ebfb330063f862ba3dcdedc80e1c5efde%3A1397601675&click_sum=a760d266&ref=shop_home_active_2&sts=1)
+
+Twisted Ram Horn: [https://www.etsy.com/ca/listing/1397603813/twisted-ram-horn-pattern-for-eva-foam-a4](https://www.etsy.com/ca/listing/1397603813/twisted-ram-horn-pattern-for-eva-foam-a4?click_key=0c5d6f298a1030cda556fb2232174ff9fc3fccc8%3A1397603813&click_sum=3ea90e24&ref=shop_home_active_3&sts=1)
+
+Straight Ram Horn: [https://www.etsy.com/ca/listing/1383601232/straight-ram-horn-pattern-for-eva-foam](https://www.etsy.com/ca/listing/1383601232/straight-ram-horn-pattern-for-eva-foam "smartCard-inline")
+
+Big Ram Horn: [https://www.etsy.com/ca/listing/1397600183/big-ram-horn-pattern-for-eva-foam-a4-and](https://www.etsy.com/ca/listing/1397600183/big-ram-horn-pattern-for-eva-foam-a4-and)
+
+Round Ram Horn: [https://www.etsy.com/ca/listing/1397607821/round-ram-horn-pattern-for-eva-foam-a4](https://www.etsy.com/ca/listing/1397607821/round-ram-horn-pattern-for-eva-foam-a4 "smartCard-inline")
+
+![TrinesTreasury Ram's Horn Pack 5 in pack or singles](<attachments/Horns/TrinesTreasury Ram's Horn Pack (5 in pack or singles)/image-01.webp>)
+
+![TrinesTreasury Ram's Horn Pack 5 in pack or singles](<attachments/Horns/TrinesTreasury Ram's Horn Pack (5 in pack or singles)/image-02.webp>)
+
+---
+
+<a id="trinestreasury-single-horns-antler-sold-seperately"></a>
+### TrinesTreasury Single Horns + Antler Sold Seperately #cheap #fursuit-heads #other-species #foam-only
+
+Albedo Horns: [https://www.etsy.com/ca/listing/1388202902/albedo-horn-pattern-for-eva-foam-a4-and](https://www.etsy.com/ca/listing/1388202902/albedo-horn-pattern-for-eva-foam-a4-and "smartCard-inline")
+
+Stygian Horns: [https://www.etsy.com/ca/listing/1388202000/ganyu-horn-pattern-for-eva-foam-a4-and](https://www.etsy.com/ca/listing/1388202000/ganyu-horn-pattern-for-eva-foam-a4-and "smartCard-inline")
+
+Layered Dragon Horns: [https://www.etsy.com/ca/listing/1393612538/layered-dragon-horn-pattern-for-eva-foam](https://www.etsy.com/ca/listing/1393612538/layered-dragon-horn-pattern-for-eva-foam "smartCard-inline")
+
+Dragon Horns: [https://www.etsy.com/ca/listing/1388204304/dragon-horn-pattern-for-eva-foam-a4-and](https://www.etsy.com/ca/listing/1388204304/dragon-horn-pattern-for-eva-foam-a4-and)
+
+Antlers: [https://www.etsy.com/ca/listing/1659093636/deer-antlers-pattern-for-eva-foam-a4-and](https://www.etsy.com/ca/listing/1659093636/deer-antlers-pattern-for-eva-foam-a4-and "smartCard-inline")
+
+Tiefling Horns: [https://www.etsy.com/ca/listing/1597438078/ruin-curves-tiefling-horn-pattern-for](https://www.etsy.com/ca/listing/1597438078/ruin-curves-tiefling-horn-pattern-for "smartCard-inline")
+
+Ox Horns: [https://www.etsy.com/ca/listing/1659090812/ox-horn-pattern-for-eva-foam-a4-and-us](https://www.etsy.com/ca/listing/1659090812/ox-horn-pattern-for-eva-foam-a4-and-us)
+
+![TrinesTreasury Single Horns + Antler Sold Seperately](<attachments/Horns/TrinesTreasury Single Horns + Antler Sold Seperately/image-01.webp>)
+
+![TrinesTreasury Single Horns + Antler Sold Seperately](<attachments/Horns/TrinesTreasury Single Horns + Antler Sold Seperately/image-02.webp>)
+
+![TrinesTreasury Single Horns + Antler Sold Seperately](<attachments/Horns/TrinesTreasury Single Horns + Antler Sold Seperately/image-03.webp>)
+
+![TrinesTreasury Single Horns + Antler Sold Seperately](<attachments/Horns/TrinesTreasury Single Horns + Antler Sold Seperately/image-04.png>)
+
+![TrinesTreasury Single Horns + Antler Sold Seperately](<attachments/Horns/TrinesTreasury Single Horns + Antler Sold Seperately/image-05.jpg>)
+
+![TrinesTreasury Single Horns + Antler Sold Seperately](<attachments/Horns/TrinesTreasury Single Horns + Antler Sold Seperately/image-06.jpg>)
+
+![TrinesTreasury Single Horns + Antler Sold Seperately](<attachments/Horns/TrinesTreasury Single Horns + Antler Sold Seperately/image-07.jpg>)
+
+---
+
+<a id="fatunicorncosplay-horn-multipacks-and-singles-12-patterns-to"></a>
+### FatUnicornCosplay Horn Multipacks & Singles (12 Patterns Total) #cheap #moderately #other-species #fursuit-heads #multipack #foam-only
+
+Multipack 1 + 2 (12 patterns):
+
+[https://www.etsy.com/ca/listing/1195459322/diy-foam-horn-pattern-collection-12](https://www.etsy.com/ca/listing/1195459322/diy-foam-horn-pattern-collection-12 "smartCard-inline")
+
+Multipack 1 (6 patterns):
+
+[https://www.etsy.com/ca/listing/1032457204/diy-foam-horn-pattern-collection-cosplay](https://www.etsy.com/ca/listing/1032457204/diy-foam-horn-pattern-collection-cosplay "smartCard-inline")
+
+Multipack 2 (6 patterns):
+
+[https://www.etsy.com/ca/listing/1167783897/diy-foam-horn-pattern-collection-2](https://www.etsy.com/ca/listing/1167783897/diy-foam-horn-pattern-collection-2 "smartCard-inline")
+
+Mini Pack (3 patterns):
+
+[https://www.etsy.com/ca/listing/895894463/diy-rams-horns-cosplay-horns-dragon](https://www.etsy.com/ca/listing/895894463/diy-rams-horns-cosplay-horns-dragon "smartCard-inline")
+
+‌
+
+Singles:
+
+Dragon Horns v1:
+
+[https://www.etsy.com/ca/listing/880124154/diy-dragon-horns-cosplay-horns-costume](https://www.etsy.com/ca/listing/880124154/diy-dragon-horns-cosplay-horns-costume "smartCard-inline")
+
+Dragon Horns v2:
+
+[https://www.etsy.com/ca/listing/1431734055/diy-dragon-horns-cosplay-horns-costume](https://www.etsy.com/ca/listing/1431734055/diy-dragon-horns-cosplay-horns-costume "smartCard-inline")
+
+Ram’s Horns:
+
+[https://www.etsy.com/ca/listing/883138525/diy-rams-horns-cosplay-horns-costume](https://www.etsy.com/ca/listing/883138525/diy-rams-horns-cosplay-horns-costume "smartCard-inline")
+
+Satyr Horns:
+
+[https://www.etsy.com/ca/listing/1305754198/diy-eva-foam-horn-pattern-ram-horn](https://www.etsy.com/ca/listing/1305754198/diy-eva-foam-horn-pattern-ram-horn)
+
+![FatUnicornCosplay Horn Multipacks & Singles 12 Patterns Total](<attachments/Horns/FatUnicornCosplay Horn Multipacks & Singles (12 Patterns Total)/image-01.webp>)
+
+![FatUnicornCosplay Horn Multipacks & Singles 12 Patterns Total](<attachments/Horns/FatUnicornCosplay Horn Multipacks & Singles (12 Patterns Total)/image-02.webp>)
+
+![FatUnicornCosplay Horn Multipacks & Singles 12 Patterns Total](<attachments/Horns/FatUnicornCosplay Horn Multipacks & Singles (12 Patterns Total)/image-03.webp>)
+
+![FatUnicornCosplay Horn Multipacks & Singles 12 Patterns Total](<attachments/Horns/FatUnicornCosplay Horn Multipacks & Singles (12 Patterns Total)/image-04.webp>)
+
+![FatUnicornCosplay Horn Multipacks & Singles 12 Patterns Total](<attachments/Horns/FatUnicornCosplay Horn Multipacks & Singles (12 Patterns Total)/image-05.webp>)
+
+![FatUnicornCosplay Horn Multipacks & Singles 12 Patterns Total](<attachments/Horns/FatUnicornCosplay Horn Multipacks & Singles (12 Patterns Total)/image-06.webp>)
+
+![FatUnicornCosplay Horn Multipacks & Singles 12 Patterns Total](<attachments/Horns/FatUnicornCosplay Horn Multipacks & Singles (12 Patterns Total)/image-07.webp>)
+
+![FatUnicornCosplay Horn Multipacks & Singles 12 Patterns Total](<attachments/Horns/FatUnicornCosplay Horn Multipacks & Singles (12 Patterns Total)/image-08.webp>)
+
+---
+
+<a id="kittencafestudios-3-plush-horns-and-antlers"></a>
+### KittenCafeStudios 3 Plush Horns and Antlers #fursuit-heads #cheap #equine-cervine
+
+[https://www.etsy.com/ca/listing/1851433176/diy-fursuit-horns-and-antlers-pattern](https://www.etsy.com/ca/listing/1851433176/diy-fursuit-horns-and-antlers-pattern "smartCard-inline")
+
+![KittenCafeStudios 3 Plush Horns and Antlers](<attachments/Horns/KittenCafeStudios 3 Plush Horns and Antlers/image-01.webp>)
+
+---
+
+<a id="atd-fursuits-pleated-horn-tutorial"></a>
+### ATD Fursuits Pleated Horn TUTORIAL #cheap #tutorial-no-pattern-incl #video-tutorials #other-species #fursuit-heads
+
+[https://ko-fi.com/s/3595aec21b](https://ko-fi.com/s/3595aec21b "smartCard-inline")
+
+![ATD Fursuits Pleated Horn TUTORIAL](<attachments/Horns/ATD Fursuits Pleated Horn TUTORIAL/image-01.png>)
+
+---
+
+<a id="chillicosplay-14-horn-patterns"></a>
+### ChilliCosplay 14 Horn Patterns #other-species #cheap #foam-only #fursuit-heads
+
+[https://www.etsy.com/ca/shop/ChilliCosplay?ref=shop-header-name&listing_id=733761246&from_page=listing&section_id=27442499](https://www.etsy.com/ca/shop/ChilliCosplay?ref=shop-header-name&listing_id=733761246&from_page=listing&section_id=27442499 "smartCard-inline")
+
+Dutch Angel Dragon:
+
+[https://www.etsy.com/ca/listing/776625367/dutch-angel-fursuit-horns-eva-foam](https://www.etsy.com/ca/listing/776625367/dutch-angel-fursuit-horns-eva-foam "smartCard-inline")
+
+Small Devil Horns:
+
+[https://www.etsy.com/ca/listing/642440657/small-devil-horns-pattern-costume](https://www.etsy.com/ca/listing/642440657/small-devil-horns-pattern-costume "smartCard-inline")
+
+Hellboy Devil Horns:
+
+[https://www.etsy.com/ca/listing/689057350/hellboy-devil-horns-template-eva-foam](https://www.etsy.com/ca/listing/689057350/hellboy-devil-horns-template-eva-foam "smartCard-inline")
+
+Dragon Beast:
+
+[https://www.etsy.com/ca/listing/642372133/dragon-beast-horns-pattern-diy-cosplay](https://www.etsy.com/ca/listing/642372133/dragon-beast-horns-pattern-diy-cosplay "smartCard-inline")
+
+Rams Horns:
+[https://www.etsy.com/ca/listing/592707349/rams-horns-eva-foam-cosplay-horn](https://www.etsy.com/ca/listing/592707349/rams-horns-eva-foam-cosplay-horn "smartCard-inline")
+
+Mercy Imp:
+
+[https://www.etsy.com/ca/listing/642614085/mercy-imp-horns-devil-cosplay-template](https://www.etsy.com/ca/listing/642614085/mercy-imp-horns-devil-cosplay-template "smartCard-inline")
+
+Satyr Horns:
+
+[https://www.etsy.com/ca/listing/631398902/satyr-horns-template-eva-foam-devil](https://www.etsy.com/ca/listing/631398902/satyr-horns-template-eva-foam-devil "smartCard-inline")
+
+Large Devil Horns:
+
+[https://www.etsy.com/ca/listing/733761088/large-devil-horns-template-eva-foam](https://www.etsy.com/ca/listing/733761088/large-devil-horns-template-eva-foam "smartCard-inline")
+
+Maleficent Horns:
+[https://www.etsy.com/ca/listing/592793591/maleficent-horns-template-eva-foam](https://www.etsy.com/ca/listing/592793591/maleficent-horns-template-eva-foam "smartCard-inline")
+
+Mt. Lady Horns:
+
+[https://www.etsy.com/ca/listing/605387711/mt-lady-horns-eva-foam-horn-cosplay](https://www.etsy.com/ca/listing/605387711/mt-lady-horns-eva-foam-horn-cosplay "smartCard-inline")
+
+Bull Ox Horns:
+
+[https://www.etsy.com/ca/listing/642385189/bull-ox-horns-template-eva-foam-cosplay](https://www.etsy.com/ca/listing/642385189/bull-ox-horns-template-eva-foam-cosplay "smartCard-inline")
+
+Dragon/Minotaur Horns:
+
+[https://www.etsy.com/ca/listing/764976178/dragon-minotaur-horns-template-eva-foam](https://www.etsy.com/ca/listing/764976178/dragon-minotaur-horns-template-eva-foam "smartCard-inline")
+
+Dragon Horns:
+
+[https://www.etsy.com/ca/listing/732498814/dragon-horns-cosplay-template-digital](https://www.etsy.com/ca/listing/732498814/dragon-horns-cosplay-template-digital "smartCard-inline")
+
+Curly Twist Demon:
+[https://www.etsy.com/ca/listing/624905450/curly-twist-demon-horns-pattern-eva-foam](https://www.etsy.com/ca/listing/624905450/curly-twist-demon-horns-pattern-eva-foam "smartCard-inline")
+
+![ChilliCosplay 14 Horn Patterns](<attachments/Horns/ChilliCosplay 14 Horn Patterns/image-01.webp>)
+
+![ChilliCosplay 14 Horn Patterns](<attachments/Horns/ChilliCosplay 14 Horn Patterns/image-02.png>)
+
+![ChilliCosplay 14 Horn Patterns](<attachments/Horns/ChilliCosplay 14 Horn Patterns/image-03.png>)
+
+![ChilliCosplay 14 Horn Patterns](<attachments/Horns/ChilliCosplay 14 Horn Patterns/image-04.png>)
+
+![ChilliCosplay 14 Horn Patterns](<attachments/Horns/ChilliCosplay 14 Horn Patterns/image-05.png>)
+
+![ChilliCosplay 14 Horn Patterns](<attachments/Horns/ChilliCosplay 14 Horn Patterns/image-06.png>)
+
+![ChilliCosplay 14 Horn Patterns](<attachments/Horns/ChilliCosplay 14 Horn Patterns/image-07.png>)
+
+![ChilliCosplay 14 Horn Patterns](<attachments/Horns/ChilliCosplay 14 Horn Patterns/image-08.png>)
+
+![ChilliCosplay 14 Horn Patterns](<attachments/Horns/ChilliCosplay 14 Horn Patterns/image-09.png>)
+
+![ChilliCosplay 14 Horn Patterns](<attachments/Horns/ChilliCosplay 14 Horn Patterns/image-10.png>)
+
+![ChilliCosplay 14 Horn Patterns](<attachments/Horns/ChilliCosplay 14 Horn Patterns/image-11.png>)
+
+![ChilliCosplay 14 Horn Patterns](<attachments/Horns/ChilliCosplay 14 Horn Patterns/image-12.png>)
+
+![ChilliCosplay 14 Horn Patterns](<attachments/Horns/ChilliCosplay 14 Horn Patterns/image-13.png>)
+
+![ChilliCosplay 14 Horn Patterns](<attachments/Horns/ChilliCosplay 14 Horn Patterns/image-14.png>)
+
+---
+
+<a id="siwencosplaypatterns-5-horn-patterns"></a>
+### Siwencosplaypatterns 5 Horn Patterns #foam-only #cheap #other-species #fursuit-heads #multipack
+
+All 5:[https://www.etsy.com/ca/listing/1794760298/5-pdf-horns-pattern-set](https://www.etsy.com/ca/listing/1794760298/5-pdf-horns-pattern-set "smartCard-inline")
+
+1 Swept Back: [https://www.etsy.com/ca/listing/1854007084/pdf-fantasy-horn-cosplay-pattern-1](https://www.etsy.com/ca/listing/1854007084/pdf-fantasy-horn-cosplay-pattern-1 "smartCard-inline")
+
+2 Smooth Back: [https://www.etsy.com/ca/listing/1854008754/pdf-fantasy-horn-cosplay-pattern-2](https://www.etsy.com/ca/listing/1854008754/pdf-fantasy-horn-cosplay-pattern-2 "smartCard-inline")
+
+3 Curved Upwards: [https://www.etsy.com/ca/listing/1854009140/pdf-fantasy-horn-cosplay-pattern-3](https://www.etsy.com/ca/listing/1854009140/pdf-fantasy-horn-cosplay-pattern-3 "smartCard-inline")
+
+4 Thin Horns: [https://www.etsy.com/ca/listing/1868209775/pdf-fantasy-horn-cosplay-pattern-4](https://www.etsy.com/ca/listing/1868209775/pdf-fantasy-horn-cosplay-pattern-4 "smartCard-inline")
+
+5 Devil Horns: [https://www.etsy.com/ca/listing/1868209935/pdf-fantasy-horn-cosplay-pattern-5](https://www.etsy.com/ca/listing/1868209935/pdf-fantasy-horn-cosplay-pattern-5 "smartCard-inline")
+
+![Siwencosplaypatterns 5 Horn Patterns](<attachments/Horns/Siwencosplaypatterns 5 Horn Patterns/image-01.webp>)
+
+![Siwencosplaypatterns 5 Horn Patterns](<attachments/Horns/Siwencosplaypatterns 5 Horn Patterns/image-02.png>)
+
+![Siwencosplaypatterns 5 Horn Patterns](<attachments/Horns/Siwencosplaypatterns 5 Horn Patterns/image-03.png>)
+
+![Siwencosplaypatterns 5 Horn Patterns](<attachments/Horns/Siwencosplaypatterns 5 Horn Patterns/image-04.png>)
+
+![Siwencosplaypatterns 5 Horn Patterns](<attachments/Horns/Siwencosplaypatterns 5 Horn Patterns/image-05.png>)
+
+![Siwencosplaypatterns 5 Horn Patterns](<attachments/Horns/Siwencosplaypatterns 5 Horn Patterns/image-06.png>)
+
+---
+
+<details>
+  <summary>Ears (23 cards)</summary>
+
+<a id="ears"></a>
+
+## Ears
+
+---
+
+<a id="cactusdogstudio-floppy-ear-pattern"></a>
+### CactusDogStudio Floppy Ear Pattern #cheap #fursuit-heads #canine
+
+[https://www.etsy.com/ca/listing/1679888684/fursuit-floppy-ear-pattern](https://www.etsy.com/ca/listing/1679888684/fursuit-floppy-ear-pattern "smartCard-inline")
+
+![CactusDogStudio Floppy Ear Pattern](<attachments/Ears/CactusDogStudio Floppy Ear Pattern/image-01.webp>)
+
+---
+
+<a id="twilightknights-7-ear-pack"></a>
+### TwilightKnights 7 Ear pack #cheap #canine #feline #other-species #fursuit-heads #multipack #any-species
+
+[https://www.etsy.com/ca/listing/1295006937/fursuit-ears-pattern-pack-7-patterns](https://www.etsy.com/ca/listing/1295006937/fursuit-ears-pattern-pack-7-patterns "smartCard-inline")
+
+![TwilightKnights 7 Ear pack](<attachments/Ears/TwilightKnights 7 Ear pack/image-01.png>)
+
+---
+
+<a id="twilightknights-4-ear-pack"></a>
+### TwilightKnights 4 Ear pack #cheap #other-species #fursuit-heads #multipack
+
+[https://www.etsy.com/ca/listing/1295006937/fursuit-ears-pattern-pack-7-patterns](https://www.etsy.com/ca/listing/1295006937/fursuit-ears-pattern-pack-7-patterns "smartCard-inline")
+
+![TwilightKnights 4 Ear pack](<attachments/Ears/TwilightKnights 4 Ear pack/image-01.jpg>)
+
+---
+
+<a id="ybl-5-ear-patterns"></a>
+### YBL 5 Ear Patterns #moderately #canine #feline #other-species #fursuit-heads #multipack #any-species
+
+[https://www.etsy.com/ca/listing/1369346400/fursuit-ear-patterns-pdf-download](https://www.etsy.com/ca/listing/1369346400/fursuit-ear-patterns-pdf-download "smartCard-inline")
+
+Canine, fennec, cat, “pointed” and hyena
+
+![YBL 5 Ear Patterns](<attachments/Ears/YBL 5 Ear Patterns/image-01.png>)
+
+---
+
+<a id="jaycostumes-7-ear-patterns"></a>
+### Jaycostumes 7 Ear Patterns #other-species #cheap #canine #feline #fursuit-heads #multipack #any-species
+
+[https://www.etsy.com/ca/listing/852273815/7-fursuit-head-ear-pattern-diy-pdf](https://www.etsy.com/ca/listing/852273815/7-fursuit-head-ear-pattern-diy-pdf "smartCard-inline")
+
+canine, housecat, big cat, ferret, possum, “little critter” (fits many species), rat/rodent
+
+![Jaycostumes 7 Ear Patterns](<attachments/Ears/Jaycostumes 7 Ear Patterns/image-01.png>)
+
+![Jaycostumes 7 Ear Patterns](<attachments/Ears/Jaycostumes 7 Ear Patterns/image-02.png>)
+
+---
+
+<a id="tinnatupaws-7-ear-patterns"></a>
+### TinnatuPaws 7 Ear Patterns #other-species #feline #canine #fursuit-heads #cheap #expensive #multipack #any-species #foam-only
+
+Multipack: [https://www.etsy.com/ca/listing/1207997248/fursuit-ear-pattern-pack-pdf-download-7](https://www.etsy.com/ca/listing/1207997248/fursuit-ear-pattern-pack-pdf-download-7 "smartCard-inline")
+
+Singles:
+
+Canine: [https://www.etsy.com/ca/listing/1208698446/wolf-fox-fursuit-ears-downloadable](https://www.etsy.com/ca/listing/1208698446/wolf-fox-fursuit-ears-downloadable "smartCard-inline")
+
+Hyena/notched: [https://www.etsy.com/ca/listing/1208704510/hyena-fursuit-ears-downloadable-pattern](https://www.etsy.com/ca/listing/1208704510/hyena-fursuit-ears-downloadable-pattern "smartCard-inline")
+
+Feline: [https://www.etsy.com/ca/listing/1208699734/pointed-cat-fursuit-ears-downloadable](https://www.etsy.com/ca/listing/1208699734/pointed-cat-fursuit-ears-downloadable "smartCard-inline")
+
+Big Cat: [https://www.etsy.com/ca/listing/1222652455/big-cat-fursuit-ears-downloadable](https://www.etsy.com/ca/listing/1222652455/big-cat-fursuit-ears-downloadable "smartCard-inline")
+
+Manokit: [https://www.etsy.com/ca/listing/1208695218/fursuit-ears-with-gauges-downloadable](https://www.etsy.com/ca/listing/1208695218/fursuit-ears-with-gauges-downloadable "smartCard-inline")
+
+Bunny: [https://www.etsy.com/ca/listing/1208693358/fursuit-bunny-ears-downloadable-pattern](https://www.etsy.com/ca/listing/1208693358/fursuit-bunny-ears-downloadable-pattern "smartCard-inline")
+
+Floppy: [https://www.etsy.com/ca/listing/1208701752/floppy-dog-fursuit-ears-downloadable](https://www.etsy.com/ca/listing/1208701752/floppy-dog-fursuit-ears-downloadable "smartCard-inline")
+
+![TinnatuPaws 7 Ear Patterns](<attachments/Ears/TinnatuPaws 7 Ear Patterns/image-01.jpg>)
+
+![TinnatuPaws 7 Ear Patterns](<attachments/Ears/TinnatuPaws 7 Ear Patterns/image-02.webp>)
+
+![TinnatuPaws 7 Ear Patterns](<attachments/Ears/TinnatuPaws 7 Ear Patterns/image-03.webp>)
+
+![TinnatuPaws 7 Ear Patterns](<attachments/Ears/TinnatuPaws 7 Ear Patterns/image-04.webp>)
+
+![TinnatuPaws 7 Ear Patterns](<attachments/Ears/TinnatuPaws 7 Ear Patterns/image-05.webp>)
+
+![TinnatuPaws 7 Ear Patterns](<attachments/Ears/TinnatuPaws 7 Ear Patterns/image-06.webp>)
+
+![TinnatuPaws 7 Ear Patterns](<attachments/Ears/TinnatuPaws 7 Ear Patterns/image-07.webp>)
+
+![TinnatuPaws 7 Ear Patterns](<attachments/Ears/TinnatuPaws 7 Ear Patterns/image-08.webp>)
+
+---
+
+<a id="mugiwara-fennec-fox-and-canine-headband-ears"></a>
+### Mugiwara Fennec Fox & Canine Headband Ears #cheap #fursuit-heads #canine #video-tutorials
+
+[https://mugiwara-cosplay.sellfy.store/p/digital-fennec-fox-and-canine-headband-ears-patterns-pdf-download/](https://mugiwara-cosplay.sellfy.store/p/digital-fennec-fox-and-canine-headband-ears-patterns-pdf-download/ "smartCard-inline")
+
+[https://www.etsy.com/ca/listing/659737247/digital-fennec-fox-canine-headband-ears](https://www.etsy.com/ca/listing/659737247/digital-fennec-fox-canine-headband-ears "smartCard-inline")
+
+[https://www.youtube.com/watch?v=gYN3iBuip7U](https://www.youtube.com/watch?v=gYN3iBuip7U "smartCard-inline")
+
+![Mugiwara Fennec Fox & Canine Headband Ears](<attachments/Ears/Mugiwara Fennec Fox & Canine Headband Ears/image-01.jpg>)
+
+![Mugiwara Fennec Fox & Canine Headband Ears](<attachments/Ears/Mugiwara Fennec Fox & Canine Headband Ears/image-02.jpg>)
+
+---
+
+<a id="mugiwara-feline-headband-ears"></a>
+### Mugiwara Feline Headband Ears #cheap #fursuit-heads #canine #feline #video-tutorials
+
+[https://mugiwara-cosplay.sellfy.store/p/digital-feline-headband-ears-patterns-pdf-download/](https://mugiwara-cosplay.sellfy.store/p/digital-feline-headband-ears-patterns-pdf-download/ "smartCard-inline")
+
+[https://www.etsy.com/ca/listing/660263008/digital-feline-headband-ears-patterns](https://www.etsy.com/ca/listing/660263008/digital-feline-headband-ears-patterns "smartCard-inline")
+
+[https://www.youtube.com/watch?v=gYN3iBuip7U](https://www.youtube.com/watch?v=gYN3iBuip7U "smartCard-inline")
+
+![Mugiwara Feline Headband Ears](<attachments/Ears/Mugiwara Feline Headband Ears/image-01.jpg>)
+
+---
+
+<a id="mugiwara-bunny-headband-ears"></a>
+### Mugiwara Bunny Headband Ears #cheap #fursuit-heads #video-tutorials #other-species
+
+[https://mugiwara-cosplay.sellfy.store/p/digital-bunny-headband-ears-pattern-pdf-download/](https://mugiwara-cosplay.sellfy.store/p/digital-bunny-headband-ears-pattern-pdf-download/ "smartCard-inline")
+
+[https://www.etsy.com/ca/listing/728638419/digital-bunny-headband-ears-pattern-pdf](https://www.etsy.com/ca/listing/728638419/digital-bunny-headband-ears-pattern-pdf "smartCard-inline")
+
+[https://www.youtube.com/watch?v=tRUg-YXYHb0](https://www.youtube.com/watch?v=tRUg-YXYHb0 "smartCard-inline")
+
+![Mugiwara Bunny Headband Ears](<attachments/Ears/Mugiwara Bunny Headband Ears/image-01.jpg>)
+
+---
+
+<a id="blackmarblefursuits-lop-rabbit-ears"></a>
+### BlackMarbleFursuits Lop Rabbit Ears #other-species #cheap #fursuit-heads
+
+[https://www.etsy.com/ca/listing/1621823100/fursuit-rabbit-ears-pattern-template-pdf](https://www.etsy.com/ca/listing/1621823100/fursuit-rabbit-ears-pattern-template-pdf "smartCard-inline")
+
+![BlackMarbleFursuits Lop Rabbit Ears](<attachments/Ears/BlackMarbleFursuits Lop Rabbit Ears/image-01.jpg>)
+
+---
+
+<a id="direcreatures-5-species-ear-pack"></a>
+### DireCreatures 5 Species Ear Pack #moderately #other-species #fursuit-heads #multipack #any-species #canine #feline
+
+Fox, wolf, cat, big cat, sergal
+
+[https://www.etsy.com/ca/listing/1371552381/pdf-pattern-deluxe-ear-pattern-pack-by](https://www.etsy.com/ca/listing/1371552381/pdf-pattern-deluxe-ear-pattern-pack-by "smartCard-inline")
+
+![DireCreatures 5 Species Ear Pack](<attachments/Ears/DireCreatures 5 Species Ear Pack/image-01.jpg>)
+
+---
+
+<a id="teacuplion-canine-ears"></a>
+### TeacupLion Canine Ears #foam-only #fursuit-heads #any-species #canine #cheap #video-tutorials
+
+[https://www.etsy.com/ca/listing/1786207884/fursuit-sewing-pattern-canine-foam-ear](https://www.etsy.com/ca/listing/1786207884/fursuit-sewing-pattern-canine-foam-ear "smartCard-inline")
+
+![TeacupLion Canine Ears](<attachments/Ears/TeacupLion Canine Ears/image-01.webp>)
+
+---
+
+<a id="teacuplion-pom-ears"></a>
+### TeacupLion Pom Ears #foam-only #fursuit-heads #any-species #cheap #video-tutorials #canine
+
+[https://www.etsy.com/ca/listing/1790203400/fursuit-pdf-pattern-pomeranian-foam-ear](https://www.etsy.com/ca/listing/1790203400/fursuit-pdf-pattern-pomeranian-foam-ear)
+
+![TeacupLion Pom Ears](<attachments/Ears/TeacupLion Pom Ears/image-01.webp>)
+
+---
+
+<a id="teacuplion-feline-ears"></a>
+### TeacupLion Feline Ears #foam-only #fursuit-heads #any-species #cheap #video-tutorials #feline
+
+[https://www.etsy.com/ca/listing/1790141312/fursuit-pdf-pattern-feline-foam-ear-cat](https://www.etsy.com/ca/listing/1790141312/fursuit-pdf-pattern-feline-foam-ear-cat "smartCard-inline")
+
+![TeacupLion Feline Ears](<attachments/Ears/TeacupLion Feline Ears/image-01.webp>)
+
+---
+
+<a id="teacuplion-floppy-ears"></a>
+### TeacupLion Floppy Ears #moderately #multipack #fursuit-heads #canine
+
+[https://www.etsy.com/ca/listing/1788536860/fursuit-sewing-pattern-2-ear-pdf-bundle](https://www.etsy.com/ca/listing/1788536860/fursuit-sewing-pattern-2-ear-pdf-bundle "smartCard-inline")
+
+2 styles
+
+3 flop levels (floppy, stiff, poseable)
+
+![TeacupLion Floppy Ears](<attachments/Ears/TeacupLion Floppy Ears/image-01.webp>)
+
+---
+
+<a id="mossyfox-bat-ears"></a>
+### MossyFox Bat Ears #video-tutorials #moderately #other-species #fursuit-heads #multipack
+
+Just the ears: [https://mossyfox.bigcartel.com/product/bat-ear-patern-tutorial](https://mossyfox.bigcartel.com/product/bat-ear-patern-tutorial "smartCard-inline")
+
+Wings and Ears Bundle: [https://mossyfox.bigcartel.com/product/digital-bat-eing-ear-bundle](https://mossyfox.bigcartel.com/product/digital-bat-eing-ear-bundle "smartCard-inline")
+
+![MossyFox Bat Ears](<attachments/Ears/MossyFox Bat Ears/image-01.webp>)
+
+---
+
+<a id="mossyfox-fawn-ear-pattern"></a>
+### MossyFox Fawn Ear Pattern #fursuit-heads #other-species #cheap
+
+[https://mossyfox.bigcartel.com/product/fawn-ear-pattern-tutorial](https://mossyfox.bigcartel.com/product/fawn-ear-pattern-tutorial "smartCard-inline")
+
+![MossyFox Fawn Ear Pattern](<attachments/Ears/MossyFox Fawn Ear Pattern/image-01.webp>)
+
+---
+
+<a id="twilightknights-ear-headbands"></a>
+### TwilightKnights Ear Headbands #multipack #cheap #fursuit-heads #canine #feline
+
+[https://www.etsy.com/ca/listing/1691778624/animal-ear-headband-tutorial-pattern-pdf](https://www.etsy.com/ca/listing/1691778624/animal-ear-headband-tutorial-pattern-pdf)
+
+![TwilightKnights Ear Headbands](<attachments/Ears/TwilightKnights Ear Headbands/image-01.webp>)
+
+---
+
+<a id="highvalleycreations-rabbit-ears"></a>
+### HighValleyCreations Rabbit Ears #other-species #fursuit-heads #cheap
+
+[https://www.etsy.com/ca/listing/1869298534/bunny-ear-pattern-and-instructions](https://www.etsy.com/ca/listing/1869298534/bunny-ear-pattern-and-instructions "smartCard-inline")
+
+![HighValleyCreations Rabbit Ears](<attachments/Ears/HighValleyCreations Rabbit Ears/image-01.png>)
+
+---
+
+<a id="trinestreasury-6-ear-patterns"></a>
+### TrinesTreasury 6 Ear Patterns #cheap #fursuit-heads #other-species #foam-only #canine #feline #equine-cervine #any-species
+
+Folded Dog: [https://www.etsy.com/ca/listing/4301445897/folded-dog-ears-pattern-guide-a4-and-us](https://www.etsy.com/ca/listing/4301445897/folded-dog-ears-pattern-guide-a4-and-us "smartCard-inline")
+
+Angry Cat: [https://www.etsy.com/ca/listing/4301454897/angry-cat-ears-pattern-guide-a4-and-us](https://www.etsy.com/ca/listing/4301454897/angry-cat-ears-pattern-guide-a4-and-us "smartCard-inline")
+
+Bunny:[https://www.etsy.com/ca/listing/4301432946/bunny-ears-pattern-guide-a4-and-us](https://www.etsy.com/ca/listing/4301432946/bunny-ears-pattern-guide-a4-and-us "smartCard-inline")
+
+Hanging Ears: [https://www.etsy.com/ca/listing/4301422946/hanging-ears-pattern-guide-a4-and-us](https://www.etsy.com/ca/listing/4301422946/hanging-ears-pattern-guide-a4-and-us "smartCard-inline")
+
+Mouse: [https://www.etsy.com/ca/listing/4301406405/mouse-ears-pattern-guide-a4-and-us](https://www.etsy.com/ca/listing/4301406405/mouse-ears-pattern-guide-a4-and-us "smartCard-inline")
+
+Deer: [https://www.etsy.com/ca/listing/4301390064/deer-ear-pattern-guide-a4-and-us-letter](https://www.etsy.com/ca/listing/4301390064/deer-ear-pattern-guide-a4-and-us-letter "smartCard-inline")
+
+![TrinesTreasury 6 Ear Patterns](<attachments/Ears/TrinesTreasury 6 Ear Patterns/image-01.png>)
+
+![TrinesTreasury 6 Ear Patterns](<attachments/Ears/TrinesTreasury 6 Ear Patterns/image-02.png>)
+
+![TrinesTreasury 6 Ear Patterns](<attachments/Ears/TrinesTreasury 6 Ear Patterns/image-03.png>)
+
+![TrinesTreasury 6 Ear Patterns](<attachments/Ears/TrinesTreasury 6 Ear Patterns/image-04.png>)
+
+![TrinesTreasury 6 Ear Patterns](<attachments/Ears/TrinesTreasury 6 Ear Patterns/image-05.png>)
+
+![TrinesTreasury 6 Ear Patterns](<attachments/Ears/TrinesTreasury 6 Ear Patterns/image-06.png>)
+
+---
+
+<a id="moondeitycrafts-cat-ear-template"></a>
+### MoonDeityCrafts Cat Ear Template #feline #cheap #fursuit-heads
+
+[https://www.etsy.com/ca/listing/1636989528/digital-cat-ears-template](https://www.etsy.com/ca/listing/1636989528/digital-cat-ears-template "smartCard-inline")
+
+![MoonDeityCrafts Cat Ear Template](<attachments/Ears/MoonDeityCrafts Cat Ear Template/image-01.webp>)
+
+---
+
+<a id="splitsharksuits-5-ear-styles"></a>
+### SplitSharkSuits 5 Ear Styles #fursuit-heads #cheap #other-species #any-species #canine #feline #foam-only
+
+Rounded/Curved: [https://www.etsy.com/ca/listing/4419473876/rounded-curved-dinomask-ear-base-pattern](https://www.etsy.com/ca/listing/4419473876/rounded-curved-dinomask-ear-base-pattern "smartCard-inline")
+
+Wide Base: [https://www.etsy.com/ca/listing/4407404874/wide-dinomask-ear-base-pattern](https://www.etsy.com/ca/listing/4407404874/wide-dinomask-ear-base-pattern "smartCard-inline")
+
+Back Facing: [https://www.etsy.com/ca/listing/4407441117/back-facing-dinomask-ear-base-pattern](https://www.etsy.com/ca/listing/4407441117/back-facing-dinomask-ear-base-pattern "smartCard-inline")
+
+Cow Ear: [https://www.etsy.com/ca/listing/4440500836/cow-dinomask-ear-pattern-splitsharksuits](https://www.etsy.com/ca/listing/4440500836/cow-dinomask-ear-pattern-splitsharksuits "smartCard-inline")
+
+Floppy Ears: [https://www.etsy.com/ca/listing/4407390375/dinomask-floppy-ear-pattern-small-floppy](https://www.etsy.com/ca/listing/4407390375/dinomask-floppy-ear-pattern-small-floppy "smartCard-inline")
+
+![SplitSharkSuits 5 Ear Styles](<attachments/Ears/SplitSharkSuits 5 Ear Styles/image-01.webp>)
+
+![SplitSharkSuits 5 Ear Styles](<attachments/Ears/SplitSharkSuits 5 Ear Styles/image-02.webp>)
+
+![SplitSharkSuits 5 Ear Styles](<attachments/Ears/SplitSharkSuits 5 Ear Styles/image-03.png>)
+
+![SplitSharkSuits 5 Ear Styles](<attachments/Ears/SplitSharkSuits 5 Ear Styles/image-04.png>)
+
+![SplitSharkSuits 5 Ear Styles](<attachments/Ears/SplitSharkSuits 5 Ear Styles/image-05.png>)
+
+---
+
+<a id="themishfittoy-15-ear-patterns"></a>
+### TheMishfitToy 15 Ear Patterns #feline #canine #any-species #other-species #cheap #fursuit-heads
+
+Fox Ears: [https://www.etsy.com/ca/listing/1905935005/fox-ear-cosplay-pattern](https://www.etsy.com/ca/listing/1905935005/fox-ear-cosplay-pattern "smartCard-inline")
+
+Gorou/Dog Ears: [https://www.etsy.com/ca/listing/1905915671/gorou-small-dog-ear-cosplay-pattern](https://www.etsy.com/ca/listing/1905915671/gorou-small-dog-ear-cosplay-pattern "smartCard-inline")
+
+Floppy Ear: [https://www.etsy.com/ca/listing/1891754490/floppy-dog-ear-cosplay-pattern](https://www.etsy.com/ca/listing/1891754490/floppy-dog-ear-cosplay-pattern "smartCard-inline")
+
+Tighnari/Tall Ears: [https://www.etsy.com/ca/listing/1905940137/tighnari-ear-cosplay-pattern](https://www.etsy.com/ca/listing/1905940137/tighnari-ear-cosplay-pattern "smartCard-inline")
+
+Cat: [https://www.etsy.com/ca/listing/1905938469/cat-ear-cosplay-pattern](https://www.etsy.com/ca/listing/1905938469/cat-ear-cosplay-pattern "smartCard-inline")
+
+Lynx: [https://www.etsy.com/ca/listing/4338699082/lynx-ear-cosplay-pattern](https://www.etsy.com/ca/listing/4338699082/lynx-ear-cosplay-pattern "smartCard-inline")
+
+Small Round: [https://www.etsy.com/ca/listing/4338700206/short-round-ear-cosplay-pattern](https://www.etsy.com/ca/listing/4338700206/short-round-ear-cosplay-pattern "smartCard-inline")
+
+Bear: [https://www.etsy.com/ca/listing/1905936493/bear-ears-cosplay-pattern](https://www.etsy.com/ca/listing/1905936493/bear-ears-cosplay-pattern "smartCard-inline")
+
+Goat/Cow: [https://www.etsy.com/ca/listing/1891751298/goat-cow-cosplay-pattern](https://www.etsy.com/ca/listing/1891751298/goat-cow-cosplay-pattern "smartCard-inline")
+
+Deer: [https://www.etsy.com/ca/listing/1905937477/deer-ear-cosplay-pattern](https://www.etsy.com/ca/listing/1905937477/deer-ear-cosplay-pattern "smartCard-inline")
+
+Horse: [https://www.etsy.com/ca/listing/4357812585/horse-ear-cosplay-pattern](https://www.etsy.com/ca/listing/4357812585/horse-ear-cosplay-pattern "smartCard-inline")
+
+Rat: [https://www.etsy.com/ca/listing/1891748006/large-rat-ear-cosplay-pattern](https://www.etsy.com/ca/listing/1891748006/large-rat-ear-cosplay-pattern "smartCard-inline")
+
+Large Bat: [https://www.etsy.com/ca/listing/1905923361/large-bat-ear-cosplay-pattern](https://www.etsy.com/ca/listing/1905923361/large-bat-ear-cosplay-pattern "smartCard-inline")
+
+Tall Rabbit: [https://www.etsy.com/ca/listing/1891745638/tall-rabbit-ear-cosplay-pattern](https://www.etsy.com/ca/listing/1891745638/tall-rabbit-ear-cosplay-pattern "smartCard-inline")
+
+Jax/Taller Rabbit Ears: [https://www.etsy.com/ca/listing/1891732674/jax-the-amazing-digital-circus-rabbit](https://www.etsy.com/ca/listing/1891732674/jax-the-amazing-digital-circus-rabbit "smartCard-inline")
+
+![TheMishfitToy 15 Ear Patterns](<attachments/Ears/TheMishfitToy 15 Ear Patterns/image-01.png>)
+
+![TheMishfitToy 15 Ear Patterns](<attachments/Ears/TheMishfitToy 15 Ear Patterns/image-02.png>)
+
+![TheMishfitToy 15 Ear Patterns](<attachments/Ears/TheMishfitToy 15 Ear Patterns/image-03.png>)
+
+![TheMishfitToy 15 Ear Patterns](<attachments/Ears/TheMishfitToy 15 Ear Patterns/image-04.png>)
+
+![TheMishfitToy 15 Ear Patterns](<attachments/Ears/TheMishfitToy 15 Ear Patterns/image-05.png>)
+
+![TheMishfitToy 15 Ear Patterns](<attachments/Ears/TheMishfitToy 15 Ear Patterns/image-06.png>)
+
+![TheMishfitToy 15 Ear Patterns](<attachments/Ears/TheMishfitToy 15 Ear Patterns/image-07.png>)
+
+![TheMishfitToy 15 Ear Patterns](<attachments/Ears/TheMishfitToy 15 Ear Patterns/image-08.png>)
+
+![TheMishfitToy 15 Ear Patterns](<attachments/Ears/TheMishfitToy 15 Ear Patterns/image-09.png>)
+
+![TheMishfitToy 15 Ear Patterns](<attachments/Ears/TheMishfitToy 15 Ear Patterns/image-10.png>)
+
+![TheMishfitToy 15 Ear Patterns](<attachments/Ears/TheMishfitToy 15 Ear Patterns/image-11.png>)
+
+![TheMishfitToy 15 Ear Patterns](<attachments/Ears/TheMishfitToy 15 Ear Patterns/image-12.png>)
+
+![TheMishfitToy 15 Ear Patterns](<attachments/Ears/TheMishfitToy 15 Ear Patterns/image-13.png>)
+
+![TheMishfitToy 15 Ear Patterns](<attachments/Ears/TheMishfitToy 15 Ear Patterns/image-14.png>)
+
+![TheMishfitToy 15 Ear Patterns](<attachments/Ears/TheMishfitToy 15 Ear Patterns/image-15.png>)
+
+---
+
+<details>
+  <summary>Necks & Dino Mask Hoods (17 cards)</summary>
+
+<a id="necks-and-dino-mask-hoods"></a>
+
+## Necks & Dino Mask Hoods
+
+---
+
+<a id="sheenitude-neck-pattern"></a>
+### Sheenitude Neck Pattern #cheap #fursuit-heads #video-tutorials #any-species
+
+[https://www.etsy.com/ca/listing/863914986/fursuit-neck-pattern-pdf](https://www.etsy.com/ca/listing/863914986/fursuit-neck-pattern-pdf "smartCard-inline")
+
+Tutorial:[https://www.youtube.com/watch?v=YkoNSAg6h-M](https://www.youtube.com/watch?v=YkoNSAg6h-M "smartCard-inline")
+
+I have used this neck pattern and it works very well, fits about 22-23 inches without modification. I find the neck a little long, but it’s easy enough to modify.
+
+![Sheenitude Neck Pattern](<attachments/Necks & Dino Mask Hoods/Sheenitude Neck Pattern/image-01.png>)
+
+---
+
+<a id="ybl-neck-pattern"></a>
+### YBL Neck Pattern #cheap #canine #feline #other-species #equine-cervine #fursuit-heads #any-species
+
+[https://www.etsy.com/ca/listing/1159185920/fursuit-neck-pattern-pdf-download](https://www.etsy.com/ca/listing/1159185920/fursuit-neck-pattern-pdf-download)
+
+![YBL Neck Pattern](<attachments/Necks & Dino Mask Hoods/YBL Neck Pattern/image-01.png>)
+
+---
+
+<a id="jaycostumes-fursuit-neck"></a>
+### Jaycostumes Fursuit Neck #cheap #fursuit-heads #any-species
+
+[https://www.etsy.com/ca/listing/825055884/fursuit-neck-pattern-for-head-diy-pdf](https://www.etsy.com/ca/listing/825055884/fursuit-neck-pattern-for-head-diy-pdf "smartCard-inline")
+
+![Jaycostumes Fursuit Neck](<attachments/Necks & Dino Mask Hoods/Jaycostumes Fursuit Neck/image-01.png>)
+
+---
+
+<a id="jaycostumes-neck-and-ear-patterns"></a>
+### Jaycostumes Neck & Ear Patterns #other-species #moderately #fursuit-heads #any-species #multipack
+
+[https://www.etsy.com/ca/listing/1027590160/fursuit-neck-and-ears-for-head-making](https://www.etsy.com/ca/listing/1027590160/fursuit-neck-and-ears-for-head-making "smartCard-inline")
+
+![Jaycostumes Neck & Ear Patterns](<attachments/Necks & Dino Mask Hoods/Jaycostumes Neck & Ear Patterns/image-01.png>)
+
+---
+
+<a id="spiltgrapesoda-raptor-mask-hood-neck-pattern"></a>
+### SpiltGrapeSoda Raptor Mask Hood/Neck Pattern #moderately #other-species #fursuit-heads #any-species
+
+[https://shop.spiltgrapesoda.com/spiltgrapesoda/p/raptor-mask-hood-and-neck-pattern-pdf-download](https://shop.spiltgrapesoda.com/spiltgrapesoda/p/raptor-mask-hood-and-neck-pattern-pdf-download "smartCard-inline")
+
+[https://www.etsy.com/ca/listing/1366827273/raptor-mask-hood-and-neck-pattern-pdf](https://www.etsy.com/ca/listing/1366827273/raptor-mask-hood-and-neck-pattern-pdf "smartCard-inline")
+
+![SpiltGrapeSoda Raptor Mask Hood/Neck Pattern](<attachments/Necks & Dino Mask Hoods/SpiltGrapeSoda Raptor Mask HoodNeck Pattern/image-01.png>)
+
+---
+
+<a id="hiero-crafts-creations-dvc-skull-hood"></a>
+### Hiero Crafts Creations DVC Skull Hood #other-species #fursuit-heads #moderately #canine #any-species
+
+Fits the Dream Vision Creations Canine Skull
+
+Comes with an ear pattern
+
+[https://hierocraftcreations.com/shop/ols/products/hiero-craft-creations-skull-dog-fursuit-head-hood-pattern](https://hierocraftcreations.com/shop/ols/products/hiero-craft-creations-skull-dog-fursuit-head-hood-pattern "smartCard-inline")
+
+![Hiero Crafts Creations DVC Skull Hood](<attachments/Necks & Dino Mask Hoods/Hiero Crafts Creations DVC Skull Hood/image-01.png>)
+
+---
+
+<a id="geknome-neck-pattern-v1-v2"></a>
+### Geknome Neck Pattern V1 + V2 #cheap #other-species #fursuit-heads #any-species
+
+[https://www.etsy.com/ca/listing/1308227957/fursuit-neck-pattern-pdf-download](https://www.etsy.com/ca/listing/1308227957/fursuit-neck-pattern-pdf-download "smartCard-inline")
+
+![Geknome Neck Pattern V1 + V2](<attachments/Necks & Dino Mask Hoods/Geknome Neck Pattern V1 + V2/image-01.png>)
+
+---
+
+<a id="furgetfulfaefursuits-neck-pattern"></a>
+### FurgetfulFaeFursuits Neck Pattern #cheap #other-species #fursuit-heads #any-species
+
+[https://www.etsy.com/ca/listing/997288842/fursuit-neck-pattern-furgetful-fae](https://www.etsy.com/ca/listing/997288842/fursuit-neck-pattern-furgetful-fae "smartCard-inline")
+
+![FurgetfulFaeFursuits Neck Pattern](<attachments/Necks & Dino Mask Hoods/FurgetfulFaeFursuits Neck Pattern/image-01.png>)
+
+---
+
+<a id="twinklesartstudio-dino-mask-hood"></a>
+### TwinklesArtStudio Dino Mask Hood #other-species #moderately #fursuit-heads
+
+[https://www.etsy.com/ca/listing/1468148794/twinkles-dino-mask-hood-template-pdf](https://www.etsy.com/ca/listing/1468148794/twinkles-dino-mask-hood-template-pdf "smartCard-inline")
+
+![TwinklesArtStudio Dino Mask Hood](<attachments/Necks & Dino Mask Hoods/TwinklesArtStudio Dino Mask Hood/image-01.png>)
+
+![TwinklesArtStudio Dino Mask Hood](<attachments/Necks & Dino Mask Hoods/TwinklesArtStudio Dino Mask Hood/image-02.png>)
+
+---
+
+<a id="formidablefriends-dino-mask-hood"></a>
+### FormidableFriends Dino Mask Hood #other-species #moderately #fursuit-heads
+
+[https://www.etsy.com/ca/listing/1024935821/raptor-and-dino-mask-fur-pattern-digital](https://www.etsy.com/ca/listing/1024935821/raptor-and-dino-mask-fur-pattern-digital "smartCard-inline")
+
+![FormidableFriends Dino Mask Hood](<attachments/Necks & Dino Mask Hoods/FormidableFriends Dino Mask Hood/image-01.png>)
+
+---
+
+<a id="twilightknights-lined-fursuit-hood"></a>
+### TwilightKnights Lined Fursuit Hood #other-species #cheap #fursuit-heads #any-species
+
+[https://www.etsy.com/ca/listing/1553220451/lined-fursuit-hood-tutorial](https://www.etsy.com/ca/listing/1553220451/lined-fursuit-hood-tutorial "smartCard-inline")
+
+![TwilightKnights Lined Fursuit Hood](<attachments/Necks & Dino Mask Hoods/TwilightKnights Lined Fursuit Hood/image-01.jpg>)
+
+---
+
+<a id="mayingfatasy-dino-hood"></a>
+### Mayingfatasy Dino Hood #moderately #other-species #fursuit-heads
+
+[https://mayingfantasycreations.com/product/dinomask-hood-neck-pattern/](https://mayingfantasycreations.com/product/dinomask-hood-neck-pattern/ "smartCard-inline")
+
+[https://www.etsy.com/ca/listing/1479494174/dinomask-hood-and-neck-pattern-digital](https://www.etsy.com/ca/listing/1479494174/dinomask-hood-and-neck-pattern-digital)
+
+![Mayingfatasy Dino Hood](<attachments/Necks & Dino Mask Hoods/Mayingfatasy Dino Hood/image-01.jpg>)
+
+![Mayingfatasy Dino Hood](<attachments/Necks & Dino Mask Hoods/Mayingfatasy Dino Hood/image-02.jpg>)
+
+---
+
+<a id="geknome-dino-mask-hood-ear-pattern"></a>
+### Geknome Dino Mask Hood + Ear Pattern #other-species #moderately #fursuit-heads #any-species
+
+[https://www.etsy.com/ca/listing/1818605879/customizable-dino-mask-hood-pattern-with](https://www.etsy.com/ca/listing/1818605879/customizable-dino-mask-hood-pattern-with "smartCard-inline")
+
+hood pattern
+chin pattern
+
+2 ear patterns
+
+![Geknome Dino Mask Hood + Ear Pattern](<attachments/Necks & Dino Mask Hoods/Geknome Dino Mask Hood + Ear Pattern/image-01.webp>)
+
+---
+
+<a id="splitsharkstudios-dino-hood"></a>
+### SplitSharkStudios Dino Hood #other-species #moderately #any-species #fursuit-heads
+
+[https://www.etsy.com/ca/listing/4406500650/dinomask-hood-pattern-dinomask-neck](https://www.etsy.com/ca/listing/4406500650/dinomask-hood-pattern-dinomask-neck "smartCard-inline")
+
+![SplitSharkStudios Dino Hood](<attachments/Necks & Dino Mask Hoods/SplitSharkStudios Dino Hood/image-01.webp>)
+
+---
+
+<a id="north-cat-creations-fursuit-neck-pattern"></a>
+### North Cat Creations Fursuit Neck Pattern #fursuit-heads #any-species #cheap #video-tutorials
+
+[https://www.etsy.com/ca/listing/1782549534/fursuit-neck-pattern-pdf](https://www.etsy.com/ca/listing/1782549534/fursuit-neck-pattern-pdf)
+
+![North Cat Creations Fursuit Neck Pattern](<attachments/Necks & Dino Mask Hoods/North Cat Creations Fursuit Neck Pattern/image-01.webp>)
+
+---
+
+<a id="teacuplion-neck-pattern"></a>
+### TeacupLion Neck Pattern #moderately #fursuit-heads #any-species #video-tutorials
+
+[https://www.etsy.com/ca/listing/1789657049/fursuit-sewing-pattern-deluxe-slim-neck](https://www.etsy.com/ca/listing/1789657049/fursuit-sewing-pattern-deluxe-slim-neck "smartCard-inline")
+
+![TeacupLion Neck Pattern](<attachments/Necks & Dino Mask Hoods/TeacupLion Neck Pattern/image-01.webp>)
+
+---
+
+<a id="teacuplion-neck-and-head-back"></a>
+### TeacupLion Neck & Head Back #moderately #any-species #other-species #fursuit-heads #video-tutorials
+
+[https://www.etsy.com/ca/listing/4343928842/fursuit-sewing-pattern-slip-on-neck-and](https://www.etsy.com/ca/listing/4343928842/fursuit-sewing-pattern-slip-on-neck-and "smartCard-inline")
+
+![TeacupLion Neck & Head Back](<attachments/Necks & Dino Mask Hoods/TeacupLion Neck & Head Back/image-01.png>)
+
+---
+
+<details>
+  <summary>Head Liners (21 cards)</summary>
+
+<a id="head-liners"></a>
+
+## Head Liners
+
+---
+
+<a id="free-kloofsuits-basic-balaclava"></a>
+### (FREE) Kloofsuits Basic Balaclava #fursuit-heads #free #any-species
+
+Letter size: [https://www.kloofsuits.co.uk/_files/ugd/132978_ab62f9722aa345f7be78df5f037ddc0e.pdf](https://www.kloofsuits.co.uk/_files/ugd/132978_ab62f9722aa345f7be78df5f037ddc0e.pdf)
+
+A4 size: [https://www.kloofsuits.co.uk/_files/ugd/132978_a67ed974b46d423aa1950d7e0123b738.pdf](https://www.kloofsuits.co.uk/_files/ugd/132978_a67ed974b46d423aa1950d7e0123b738.pdf)
+
+![FREE Kloofsuits Basic Balaclava](<attachments/Head Liners/(FREE) Kloofsuits Basic Balaclava/image-01.webp>)
+
+---
+
+<a id="twilightknights-head-lining-tutorial"></a>
+### TwilightKnights Head Lining Tutorial #cheap #video-tutorials #fursuit-heads #any-species #tutorial-no-pattern-incl
+
+[https://www.etsy.com/ca/listing/1369939902/fursuit-head-lining-tutorial](https://www.etsy.com/ca/listing/1369939902/fursuit-head-lining-tutorial "smartCard-inline")
+
+![TwilightKnights Head Lining Tutorial](<attachments/Head Liners/TwilightKnights Head Lining Tutorial/image-01.png>)
+
+---
+
+<a id="softpawsstudios-head-and-neck-liner"></a>
+### SoftpawsStudios Head & Neck Liner #cheap #fursuit-heads #any-species
+
+Be sure to use a stretchy material like lycra or neoprene
+
+[https://www.etsy.com/ca/listing/1291347189/fully-faced-balaclavaneck-pattern](https://www.etsy.com/ca/listing/1291347189/fully-faced-balaclavaneck-pattern "smartCard-inline")
+
+![SoftpawsStudios Head & Neck Liner](<attachments/Head Liners/SoftpawsStudios Head & Neck Liner/image-01.png>)
+
+---
+
+<a id="charredfursuits-head-lining"></a>
+### CharredFursuits Head Lining #moderately #fursuit-heads #any-species
+
+[https://charredfursuits.com/product/album](https://charredfursuits.com/product/album "smartCard-inline")
+
+[https://www.etsy.com/ca/listing/926689501/fursuit-head-lining-pattern-tutorial](https://www.etsy.com/ca/listing/926689501/fursuit-head-lining-pattern-tutorial "smartCard-inline")
+
+![CharredFursuits Head Lining](<attachments/Head Liners/CharredFursuits Head Lining/image-01.png>)
+
+![CharredFursuits Head Lining](<attachments/Head Liners/CharredFursuits Head Lining/image-02.png>)
+
+![CharredFursuits Head Lining](<attachments/Head Liners/CharredFursuits Head Lining/image-03.png>)
+
+---
+
+<a id="oktavia-s-creatures-balaclava-pattern"></a>
+### Oktavia's Creatures Balaclava Pattern #cheap #fursuit-heads #any-species
+
+[https://www.etsy.com/ca/listing/1184928150/balaclava-pattern-for-fursuit-cosplay](https://www.etsy.com/ca/listing/1184928150/balaclava-pattern-for-fursuit-cosplay "smartCard-inline")
+
+![Oktavia's Creatures Balaclava Pattern](<attachments/Head Liners/Oktavia's Creatures Balaclava Pattern/image-01.png>)
+
+---
+
+<a id="missrarscreatures-hood-pattern"></a>
+### MissrarsCreatures Hood Pattern #cheap #any-species #fursuit-heads
+
+[https://www.etsy.com/ca/listing/962451155/pdf-pattern-faceplate-foundation-fursuit](https://www.etsy.com/ca/listing/962451155/pdf-pattern-faceplate-foundation-fursuit "smartCard-inline")
+
+Made to be used with their bucket pattern here:
+
+[https://www.etsy.com/ca/listing/881423718/pdf-pattern-faceplate-foundation-fursuit](https://www.etsy.com/ca/listing/881423718/pdf-pattern-faceplate-foundation-fursuit "smartCard-inline")
+
+![MissrarsCreatures Hood Pattern](<attachments/Head Liners/MissrarsCreatures Hood Pattern/image-01.png>)
+
+---
+
+<a id="geknome-head-base-lining"></a>
+### Geknome Head Base Lining #cheap #fursuit-heads #any-species
+
+[https://www.etsy.com/ca/listing/1564438305/fursuit-head-base-lining-pattern](https://www.etsy.com/ca/listing/1564438305/fursuit-head-base-lining-pattern "smartCard-inline")
+
+![Geknome Head Base Lining](<attachments/Head Liners/Geknome Head Base Lining/image-01.webp>)
+
+![Geknome Head Base Lining](<attachments/Head Liners/Geknome Head Base Lining/image-02.jpg>)
+
+---
+
+<a id="kiefercat-balaclava-with-optional-zipper"></a>
+### KieferCat Balaclava with Optional Zipper #any-species #fursuit-heads #cheap
+
+[https://kiefercat.gumroad.com/l/IdkAW](https://kiefercat.gumroad.com/l/IdkAW "smartCard-inline")
+
+![KieferCat Balaclava with Optional Zipper](<attachments/Head Liners/KieferCat Balaclava with Optional Zipper/image-01.webp>)
+
+---
+
+<a id="drachen-katze-fursuit-head-liner-with-zipper"></a>
+### Drachen_katze Fursuit Head Liner with Zipper #cheap #fursuit-heads #any-species
+
+[https://drachenkatze.gumroad.com/l/GdTUc](https://drachenkatze.gumroad.com/l/GdTUc "smartCard-inline")
+
+![Drachen_katze Fursuit Head Liner with Zipper](<attachments/Head Liners/Drachen_katze Fursuit Head Liner with Zipper/image-01.png>)
+
+![Drachen_katze Fursuit Head Liner with Zipper](<attachments/Head Liners/Drachen_katze Fursuit Head Liner with Zipper/image-02.png>)
+
+---
+
+<a id="softpawsstudios-head-liner-and-balaclava"></a>
+### SoftPawsStudios Head Liner & Balaclava #any-species #fursuit-heads #cheap
+
+[https://www.etsy.com/ca/listing/1291347189/20-fully-faced-balaclavaneck-pattern](https://www.etsy.com/ca/listing/1291347189/20-fully-faced-balaclavaneck-pattern)
+
+![SoftPawsStudios Head Liner & Balaclava](<attachments/Head Liners/SoftPawsStudios Head Liner & Balaclava/image-01.jpg>)
+
+---
+
+<a id="skunky-designs-head-liner"></a>
+### Skunky Designs Head Liner #cheap #fursuit-heads #any-species
+
+[https://www.etsy.com/ca/listing/1280918764/fursuit-head-lining-snail-boi-pattern](https://www.etsy.com/ca/listing/1280918764/fursuit-head-lining-snail-boi-pattern)
+
+![Skunky Designs Head Liner](<attachments/Head Liners/Skunky Designs Head Liner/image-01.jpg>)
+
+---
+
+<a id="oblestudios-head-lining-pattern"></a>
+### ObleStudios Head Lining Pattern #cheap #fursuit-heads #any-species
+
+[https://www.etsy.com/ca/listing/839748406/fursuit-head-lining-pattern](https://www.etsy.com/ca/listing/839748406/fursuit-head-lining-pattern "smartCard-inline")
+
+![ObleStudios Head Lining Pattern](<attachments/Head Liners/ObleStudios Head Lining Pattern/image-01.webp>)
+
+---
+
+<a id="werewolfprincess666-head-liner-pattern-tutorial"></a>
+### werewolfprincess666 Head Liner Pattern + Tutorial #any-species #fursuit-heads #cheap #tutorial-no-pattern-incl
+
+[https://www.etsy.com/ca/listing/1453076149/fursuit-head-liner-sewing-pattern-and](https://www.etsy.com/ca/listing/1453076149/fursuit-head-liner-sewing-pattern-and "smartCard-inline")
+
+![werewolfprincess666 Head Liner Pattern + Tutorial](<attachments/Head Liners/werewolfprincess666 Head Liner Pattern + Tutorial/image-01.png>)
+
+---
+
+<a id="plaidpawsbymaus-neck-pattern"></a>
+### PlaidPawsbyMaus Neck Pattern #cheap #fursuit-heads #any-species
+
+[https://www.etsy.com/ca/listing/1686019081/toony-costume-head-neck-pattern](https://www.etsy.com/ca/listing/1686019081/toony-costume-head-neck-pattern)
+
+![PlaidPawsbyMaus Neck Pattern](<attachments/Head Liners/PlaidPawsbyMaus Neck Pattern/image-01.webp>)
+
+---
+
+<a id="highvalleycreation-head-liner"></a>
+### HighValleyCreation Head Liner #cheap #fursuit-heads #any-species
+
+[https://www.etsy.com/ca/listing/1717311589/digital-fursuit-lining-and-instructions](https://www.etsy.com/ca/listing/1717311589/digital-fursuit-lining-and-instructions "smartCard-inline")
+
+![HighValleyCreation Head Liner](<attachments/Head Liners/HighValleyCreation Head Liner/image-01.webp>)
+
+---
+
+<a id="goldenreliic-head-and-neck-liner"></a>
+### GoldenReliic Head and Neck Liner #fursuit-heads #any-species #cheap
+
+[https://www.etsy.com/ca/listing/1776862224/fursuit-head-liner-pattern](https://www.etsy.com/ca/listing/1776862224/fursuit-head-liner-pattern "smartCard-inline")
+
+![GoldenReliic Head and Neck Liner](<attachments/Head Liners/GoldenReliic Head and Neck Liner/image-01.webp>)
+
+---
+
+<a id="werewolfprince666-expanding-foam-head-base-pattern"></a>
+### werewolfprince666 Expanding Foam Head Base Pattern #foam-only #fursuit-heads #cheap #any-species #other-species
+
+[https://www.etsy.com/ca/listing/1823913717/expanding-foam-fursuit-head-base-helmut](https://www.etsy.com/ca/listing/1823913717/expanding-foam-fursuit-head-base-helmut "smartCard-inline")
+
+![werewolfprince666 Expanding Foam Head Base Pattern](<attachments/Head Liners/werewolfprince666 Expanding Foam Head Base Pattern/image-01.png>)
+
+---
+
+<a id="werewolfprince666-head-liner-tutorial"></a>
+### werewolfprince666 Head Liner Tutorial #fursuit-heads #moderately #any-species #other-species #tutorial-no-pattern-incl
+
+[https://www.etsy.com/ca/listing/1746404156/deluxe-fursuit-head-lining-tutorial](https://www.etsy.com/ca/listing/1746404156/deluxe-fursuit-head-lining-tutorial "smartCard-inline")
+
+![werewolfprince666 Head Liner Tutorial](<attachments/Head Liners/werewolfprince666 Head Liner Tutorial/image-01.png>)
+
+---
+
+<a id="bloodngoold-fursuit-neck-hood"></a>
+### BloodngOOld Fursuit Neck + Hood #other-species #any-species #fursuit-heads #moderately
+
+[https://www.etsy.com/ca/listing/1868807585/fursuit-neck-hood-pdf-pattern-a4](https://www.etsy.com/ca/listing/1868807585/fursuit-neck-hood-pdf-pattern-a4 "smartCard-inline")
+
+![BloodngOOld Fursuit Neck + Hood](<attachments/Head Liners/BloodngOOld Fursuit Neck + Hood/image-01.png>)
+
+---
+
+<a id="otterhalfcostumes-lined-neck-w-zipper"></a>
+### OtterHalfCostumes Lined Neck w/Zipper #any-species #moderately #fursuit-heads #tutorial-no-pattern-incl #video-tutorials
+
+[https://www.etsy.com/ca/listing/4447786060/lined-fursuit-neck-with-zipper-tutorial](https://www.etsy.com/ca/listing/4447786060/lined-fursuit-neck-with-zipper-tutorial "smartCard-inline")
+
+Made to work with this:
+
+[https://www.etsy.com/ca/listing/1873100551/adjustable-fursuit-head-lining-tutorial](https://www.etsy.com/ca/listing/1873100551/adjustable-fursuit-head-lining-tutorial "smartCard-inline")
+
+![OtterHalfCostumes Lined Neck w/Zipper](<attachments/Head Liners/OtterHalfCostumes Lined Neck wZipper/image-01.webp>)
+
+---
+
+<a id="otterhalfcostumes-adjustable-head-base-liner"></a>
+### OtterHalfCostumes Adjustable Head Base Liner #fursuit-heads #moderately #any-species #video-tutorials #tutorial-no-pattern-incl
+
+[https://www.etsy.com/ca/listing/1873100551/adjustable-fursuit-head-lining-tutorial](https://www.etsy.com/ca/listing/1873100551/adjustable-fursuit-head-lining-tutorial "smartCard-inline")
+
+Made to work with this:
+
+[https://www.etsy.com/ca/listing/4447786060/lined-fursuit-neck-with-zipper-tutorial](https://www.etsy.com/ca/listing/4447786060/lined-fursuit-neck-with-zipper-tutorial "smartCard-inline")
+
+![OtterHalfCostumes Adjustable Head Base Liner](<attachments/Head Liners/OtterHalfCostumes Adjustable Head Base Liner/image-01.webp>)
+
+---
+
+<details>
+  <summary>Bucket Patterns (10 cards)</summary>
+
+<a id="bucket-patterns"></a>
+
+## Bucket Patterns
+
+---
+
+<a id="free-maim-back-of-head-shell"></a>
+### (FREE) Maim Back of Head Shell #free #foam-only #any-species #fursuit-heads
+
+[https://drive.google.com/file/d/1NiPiICBp5_3_QQan6655nesO_S5MrjHp/view](https://drive.google.com/file/d/1NiPiICBp5_3_QQan6655nesO_S5MrjHp/view "smartCard-inline")
+
+![FREE Maim Back of Head Shell](<attachments/Bucket Patterns/(FREE) Maim Back of Head Shell/image-01.png>)
+
+---
+
+<a id="free-freakhound-foam-sphere"></a>
+### (Free) Freakhound Foam Sphere #free #fursuit-heads #foam-only #any-species
+
+[https://freakhoundstudios.com/sphere](https://freakhoundstudios.com/sphere "smartCard-inline")
+
+![Free Freakhound Foam Sphere](<attachments/Bucket Patterns/(Free) Freakhound Foam Sphere/image-01.png>)
+
+---
+
+<a id="corgileg-crafts-bucket-base"></a>
+### Corgileg Crafts Bucket Base #cheap #fursuit-heads #foam-only #any-species
+
+[https://www.etsy.com/ca/listing/839351180/bucket-style-foam-fursuit-head-base-and](https://www.etsy.com/ca/listing/839351180/bucket-style-foam-fursuit-head-base-and "smartCard-inline")
+
+![Corgileg Crafts Bucket Base](<attachments/Bucket Patterns/Corgileg Crafts Bucket Base/image-01.png>)
+
+---
+
+<a id="ybl-bucket-head"></a>
+### YBL Bucket Head #cheap #fursuit-heads #foam-only #any-species
+
+[https://www.etsy.com/ca/listing/1026257375/fursuit-bucket-head-pattern-pdf-download](https://www.etsy.com/ca/listing/1026257375/fursuit-bucket-head-pattern-pdf-download "smartCard-inline")
+
+![YBL Bucket Head](<attachments/Bucket Patterns/YBL Bucket Head/image-01.png>)
+
+![YBL Bucket Head](<attachments/Bucket Patterns/YBL Bucket Head/image-02.png>)
+
+---
+
+<a id="missrarscreatures-foam-base"></a>
+### MissrarsCreatures Foam Base #cheap #fursuit-heads #foam-only #any-species #video-tutorials
+
+[https://www.etsy.com/ca/listing/881423718/pdf-pattern-faceplate-foundation-fursuit](https://www.etsy.com/ca/listing/881423718/pdf-pattern-faceplate-foundation-fursuit)
+
+[https://www.youtube.com/watch?v=B-bPwzIbrVQ](https://www.youtube.com/watch?v=B-bPwzIbrVQ "smartCard-inline")
+
+![MissrarsCreatures Foam Base](<attachments/Bucket Patterns/MissrarsCreatures Foam Base/image-01.png>)
+
+---
+
+<a id="soulenterprise-bucket-pattern"></a>
+### SoulEnterprise Bucket Pattern #cheap #fursuit-heads #any-species #foam-only
+
+[https://www.etsy.com/ca/listing/1421973375/fursuit-bucket-head-pattern-pdf-download](https://www.etsy.com/ca/listing/1421973375/fursuit-bucket-head-pattern-pdf-download)
+
+![SoulEnterprise Bucket Pattern](<attachments/Bucket Patterns/SoulEnterprise Bucket Pattern/image-01.png>)
+
+---
+
+<a id="skyehighstudios-bucket-head-base"></a>
+### SkyehighStudios Bucket Head Base #fursuit-heads #cheap #video-tutorials #any-species #foam-only
+
+[https://www.skyehighstudios.com/store/p/bucket-head-base-pattern](https://www.skyehighstudios.com/store/p/bucket-head-base-pattern)
+
+[https://www.youtube.com/watch?v=Fn-NNR4u6XI](https://www.youtube.com/watch?v=Fn-NNR4u6XI "smartCard-inline")
+
+![SkyehighStudios Bucket Head Base](<attachments/Bucket Patterns/SkyehighStudios Bucket Head Base/image-01.png>)
+
+---
+
+<a id="doubletroublefursuit-head-dome"></a>
+### DoubleTroubleFursuit Head Dome #cheap #fursuit-heads #video-tutorials #any-species #foam-only
+
+One review recommends 1/2 inch foam instead
+
+[https://www.etsy.com/ca/listing/1199154360/fursuit-dome-base](https://www.etsy.com/ca/listing/1199154360/fursuit-dome-base "smartCard-inline")
+
+[https://youtu.be/5avMoQ1wypE](https://youtu.be/5avMoQ1wypE "smartCard-inline")
+
+![DoubleTroubleFursuit Head Dome](<attachments/Bucket Patterns/DoubleTroubleFursuit Head Dome/image-01.png>)
+
+---
+
+<a id="fatunicorncosplay-basic-helmet"></a>
+### FatUnicornCosplay Basic Helmet #cheap #fursuit-heads #any-species #foam-only
+
+[https://www.etsy.com/ca/listing/903231325/diy-basic-helmet-pattern-larp-pattern](https://www.etsy.com/ca/listing/903231325/diy-basic-helmet-pattern-larp-pattern)
+
+![FatUnicornCosplay Basic Helmet](<attachments/Bucket Patterns/FatUnicornCosplay Basic Helmet/image-01.jpg>)
+
+![FatUnicornCosplay Basic Helmet](<attachments/Bucket Patterns/FatUnicornCosplay Basic Helmet/image-02.webp>)
+
+---
+
+<a id="geknome-bucket-head"></a>
+### Geknome Bucket Head #fursuit-heads #foam-only #any-species #cheap
+
+[https://www.etsy.com/ca/listing/1553664112/fursuit-bucket-head-base-pattern](https://www.etsy.com/ca/listing/1553664112/fursuit-bucket-head-base-pattern)
+
+![Geknome Bucket Head](<attachments/Bucket Patterns/Geknome Bucket Head/image-01.webp>)
+
+---
+
+<details>
+  <summary>Head Patterns (31 cards)</summary>
+
+<a id="head-patterns"></a>
+
+## Head Patterns
 
 ---
 
@@ -2628,15 +7420,153 @@ Toony Cat: [https://www.etsy.com/ca/listing/4405149119/cat-toony-head-base-pdf-p
 
 ---
 
-<a id="helpful-extras-for-fursuit-parts"></a>
+<details>
+  <summary>Fursuit Hair (8 cards)</summary>
 
-</details>
+<a id="fursuit-hair"></a>
+
+## Fursuit Hair
+
+---
+
+<a id="moondeitycrafts-hair-poof"></a>
+### MoonDeityCrafts Hair Poof #any-species #cheap #fursuit-heads
+
+[https://www.etsy.com/ca/listing/1591961184/digital-fursuit-hair-template-tutorial](https://www.etsy.com/ca/listing/1591961184/digital-fursuit-hair-template-tutorial "smartCard-inline")
+
+![MoonDeityCrafts Hair Poof](<attachments/Fursuit Hair/MoonDeityCrafts Hair Poof/image-01.webp>)
+
+---
+
+<a id="splitsharkstudios-mohawk-pattern"></a>
+### SplitSharkStudios Mohawk Pattern #cheap #fursuit-heads #any-species
+
+[https://www.etsy.com/ca/listing/4407322898/dinomask-mohawk-pattern-dinomask-hair](https://www.etsy.com/ca/listing/4407322898/dinomask-mohawk-pattern-dinomask-hair "smartCard-inline")
+
+![SplitSharkStudios Mohawk Pattern](<attachments/Fursuit Hair/SplitSharkStudios Mohawk Pattern/image-01.png>)
+
+---
+
+<a id="mugiqwaracosplay-mane-pattern"></a>
+### MugiqwaraCosplay Mane Pattern #other-species #video-tutorials #fursuit-heads #moderately
+
+Advanced Pattern
+
+[https://youtu.be/xJamRPzHPHE](https://youtu.be/xJamRPzHPHE "smartCard-inline")
+
+[https://www.etsy.com/ca/listing/1801844300/digital-fursuit-mane-pattern-for](https://www.etsy.com/ca/listing/1801844300/digital-fursuit-mane-pattern-for "smartCard-inline")
+
+![MugiqwaraCosplay Mane Pattern](<attachments/Fursuit Hair/MugiqwaraCosplay Mane Pattern/image-01.png>)
+
+---
+
+<a id="werewolfprince666-hair-tutorial"></a>
+### werewolfprince666 Hair Tutorial #cheap #fursuit-heads #any-species #tutorial-no-pattern-incl #other-species
+
+[https://www.etsy.com/ca/listing/1604838686/fursuit-head-emo-hair-tutorial](https://www.etsy.com/ca/listing/1604838686/fursuit-head-emo-hair-tutorial "smartCard-inline")
+
+![werewolfprince666 Hair Tutorial](<attachments/Fursuit Hair/werewolfprince666 Hair Tutorial/image-01.png>)
+
+---
+
+<a id="kittencafestudios-neck-donut-poof"></a>
+### KittenCafeStudios Neck Donut Poof #any-species #cheap #fursuit-heads
+
+[https://www.etsy.com/ca/listing/1812939323/diy-fursuit-neck-donut-poof-pattern](https://www.etsy.com/ca/listing/1812939323/diy-fursuit-neck-donut-poof-pattern)
+
+![KittenCafeStudios Neck Donut Poof](<attachments/Fursuit Hair/KittenCafeStudios Neck Donut Poof/image-01.webp>)
+
+---
+
+<a id="teacuplion-4-cheek-fluffs"></a>
+### TeacupLion 4 Cheek Fluffs #fursuit-heads #cheap #foam-only #any-species
+
+[https://www.etsy.com/ca/listing/1806930375/fursuit-pdf-cheek-pattern-4-sizes-foam](https://www.etsy.com/ca/listing/1806930375/fursuit-pdf-cheek-pattern-4-sizes-foam "smartCard-inline")
+
+![TeacupLion 4 Cheek Fluffs](<attachments/Fursuit Hair/TeacupLion 4 Cheek Fluffs/image-01.webp>)
+
+---
+
+<a id="teacuplion-head-fluff"></a>
+### TeacupLion Head Fluff #any-species #cheap #fursuit-heads #video-tutorials
+
+[https://www.etsy.com/ca/listing/1821710285/fursuit-pattern-hair-head-fluff-pdf](https://www.etsy.com/ca/listing/1821710285/fursuit-pattern-hair-head-fluff-pdf "smartCard-inline")
+
+![TeacupLion Head Fluff](<attachments/Fursuit Hair/TeacupLion Head Fluff/image-01.webp>)
+
+---
+
+<a id="teacuplion-deluxe-emo-hair"></a>
+### TeacupLion Deluxe Emo Hair #fursuit-heads #moderately #any-species
+
+[https://www.etsy.com/ca/listing/1890943080/fursuit-sewing-pattern-deluxe-emo-scene](https://www.etsy.com/ca/listing/1890943080/fursuit-sewing-pattern-deluxe-emo-scene "smartCard-inline")
+
+![TeacupLion Deluxe Emo Hair](<attachments/Fursuit Hair/TeacupLion Deluxe Emo Hair/image-01.webp>)
+
+---
 
 <details>
-<summary>Helpful Extras for Fursuit Parts</summary>
+  <summary>Embroidery Files (5 cards)</summary>
 
+<a id="embroidery-files"></a>
 
-[↑ Contents](#contents)
+## Embroidery Files
+
+---
+
+<a id="skunky-designs-embroidery-file-for-claws"></a>
+### Skunky Designs Embroidery File for Claws #cheap #any-species #any-hand-paws #multipack
+
+[https://www.etsy.com/ca/listing/1278611014/claw-embroidery-file-for-fursuit-hand](https://www.etsy.com/ca/listing/1278611014/claw-embroidery-file-for-fursuit-hand "smartCard-inline")
+
+2 sizes of claws
+
+![Skunky Designs Embroidery File for Claws](<attachments/Embroidery Files/Skunky Designs Embroidery File for Claws/image-01.jpg>)
+
+---
+
+<a id="frostyfurs-ith-6-claw-files"></a>
+### FrostyFurs ITH 6 Claw Files #any-species #cheap #any-hand-paws #multipack
+
+[https://www.etsy.com/ca/listing/1656193736/ith-fursuit-claws-machine-embroidery](https://www.etsy.com/ca/listing/1656193736/ith-fursuit-claws-machine-embroidery "smartCard-inline")
+
+![FrostyFurs ITH 6 Claw Files](<attachments/Embroidery Files/FrostyFurs ITH 6 Claw Files/image-01.webp>)
+
+---
+
+<a id="frostyfurs-6-tongue-files"></a>
+### FrostyFurs 6 Tongue Files #cheap #fursuit-heads #any-species #other-species #canine #feline #equine-cervine #feathers-birds #multipack
+
+[https://www.etsy.com/ca/listing/1679820105/ith-fursuit-tongues-machine-embroidery](https://www.etsy.com/ca/listing/1679820105/ith-fursuit-tongues-machine-embroidery "smartCard-inline")
+
+![FrostyFurs 6 Tongue Files](<attachments/Embroidery Files/FrostyFurs 6 Tongue Files/image-01.webp>)
+
+---
+
+<a id="frostihadasundae-hand-paw-files"></a>
+### FrostiHadaSundae Hand Paw Files #cheap #any-species #any-hand-paws
+
+[https://www.etsy.com/ca/listing/1651263286/handpaw-embroidery-design](https://www.etsy.com/ca/listing/1651263286/handpaw-embroidery-design "smartCard-inline")
+
+![FrostiHadaSundae Hand Paw Files](<attachments/Embroidery Files/FrostiHadaSundae Hand Paw Files/image-01.jpg>)
+
+---
+
+<a id="frostihadasundae-foot-paw-files"></a>
+### FrostiHadaSundae Foot Paw Files #cheap #any-species #any-feet
+
+[https://www.etsy.com/ca/listing/1665468193/foot-paw-embroidery-design](https://www.etsy.com/ca/listing/1665468193/foot-paw-embroidery-design "smartCard-inline")
+
+![FrostiHadaSundae Foot Paw Files](<attachments/Embroidery Files/FrostiHadaSundae Foot Paw Files/image-01.jpg>)
+
+---
+
+<details>
+  <summary>Helpful Extras for Fursuit Parts (35 cards)</summary>
+
+<a id="helpful-extras-for-fursuit-parts"></a>
+
+## Helpful Extras for Fursuit Parts
 
 ---
 
@@ -3002,829 +7932,12 @@ Basic: [https://www.etsy.com/ca/listing/4435286052/diy-basic-fursuit-footpaw-san
 
 ---
 
-<a id="feline-paws"></a>
-
-</details>
-
 <details>
-<summary>Feline Paws</summary>
-
-
-[↑ Contents](#contents)
-
----
-
-<a id="free-foxfire-fantasy-feral-feline-paws"></a>
-### (FREE) FoxFire Fantasy Feral Feline Paws #any-hand-paws #feline #free
-
-[https://ko-fi.com/s/90ce0269e6](https://ko-fi.com/s/90ce0269e6 "smartCard-inline")
-
-Feel free to leave a tip!
-
-Just the pattern, NO INSTRUCTIONS:
-
-[https://ko-fi.com/s/58d201e4f0](https://ko-fi.com/s/58d201e4f0 "smartCard-inline")
-
-![FREE FoxFire Fantasy Feral Feline Paws](<attachments/Feline Paws/(FREE) FoxFire Fantasy Feral Feline Paws/image-01.png>)
-
----
-
-<a id="ybl-suits-puffy-feline-paws"></a>
-### YBL Suits Puffy Feline Paws #moderately #any-hand-paws #feline
-
-YaBoiLuke
-
-[https://www.yblsuits.com/shop/p/felinepaw](https://www.yblsuits.com/shop/p/felinepaw "smartCard-inline")
-
-[https://www.etsy.com/ca/listing/898555502/feline-puffy-paw-pattern-pdf-download](https://www.etsy.com/ca/listing/898555502/feline-puffy-paw-pattern-pdf-download?click_key=80881f39a6f9a3d8156f427559c02a94cddb151f%3A898555502&click_sum=c3a0177d&ref=shop_home_active_12&crt=1)
-
-![YBL Suits Puffy Feline Paws](<attachments/Feline Paws/YBL Suits Puffy Feline Paws/image-01.png>)
-
-![YBL Suits Puffy Feline Paws](<attachments/Feline Paws/YBL Suits Puffy Feline Paws/image-02.png>)
-
----
-
-<a id="floofunlimited-feline-puffy-paws"></a>
-### FloofUnlimited Feline Puffy Paws #any-hand-paws #feline #expensive
-
-[https://www.etsy.com/ca/listing/4336636635/diy-fursuit-feline-puffy-paws-pdf](https://www.etsy.com/ca/listing/4336636635/diy-fursuit-feline-puffy-paws-pdf "smartCard-inline")
-
-![FloofUnlimited Feline Puffy Paws](<attachments/Feline Paws/FloofUnlimited Feline Puffy Paws/image-01.png>)
-
----
-
-<a id="pseudocanid-chunky-cat-paws"></a>
-### Pseudocanid Chunky Cat Paws #moderately #any-hand-paws #feline #video-tutorials
-
-[https://www.etsy.com/ca/listing/1240295951/chunky-feline-hand-paw-pattern-digital](https://www.etsy.com/ca/listing/1240295951/chunky-feline-hand-paw-pattern-digital "smartCard-inline")
-
-[https://www.youtube.com/watch?v=gE4kOu7aZOo](https://www.youtube.com/watch?v=gE4kOu7aZOo "smartCard-inline")
-
-![Pseudocanid Chunky Cat Paws](<attachments/Feline Paws/Pseudocanid Chunky Cat Paws/image-01.png>)
-
-![Pseudocanid Chunky Cat Paws](<attachments/Feline Paws/Pseudocanid Chunky Cat Paws/image-02.png>)
-
-![Pseudocanid Chunky Cat Paws](<attachments/Feline Paws/Pseudocanid Chunky Cat Paws/image-03.png>)
-
----
-
-<a id="oktavia-s-creatures-feral-2-pattern-pack-canine-and-feline"></a>
-### Oktavia's Creatures Feral 2 Pattern Pack (Canine & Feline) #moderately #any-hand-paws #feline #canine #multipack
-
-[https://www.etsy.com/ca/listing/1233102353/canine-and-feline-feral-hand-paws](https://www.etsy.com/ca/listing/1233102353/canine-and-feline-feral-hand-paws "smartCard-inline")
-
-![Oktavia's Creatures Feral 2 Pattern Pack Canine & Feline](<attachments/Feline Paws/Oktavia's Creatures Feral 2 Pattern Pack (Canine & Feline)/image-01.png>)
-
-![Oktavia's Creatures Feral 2 Pattern Pack Canine & Feline](<attachments/Feline Paws/Oktavia's Creatures Feral 2 Pattern Pack (Canine & Feline)/image-02.png>)
-
-![Oktavia's Creatures Feral 2 Pattern Pack Canine & Feline](<attachments/Feline Paws/Oktavia's Creatures Feral 2 Pattern Pack (Canine & Feline)/image-03.png>)
-
----
-
-<a id="teeth-and-gums"></a>
-
-</details>
-
-<details>
-<summary>Teeth and Gums</summary>
-
-
-[↑ Contents](#contents)
-
----
-
-<a id="https-www-youtube-com-watch-v-8cx4vujpaqq"></a>
-### https://www.youtube.com/watch?v=8cX4VUjPaqQ #video-tutorials #other-species #free #equine-cervine #fursuit-heads #any-species #tutorial-no-pattern-incl
-
-[https://www.youtube.com/watch?v=8cX4VUjPaqQ](https://www.youtube.com/watch?v=8cX4VUjPaqQ "smartCard-inline")
-
-![https://www.youtube.com/watch?v=8cX4VUjPaqQ](<attachments/Teeth and Gums/httpswww.youtube.comwatchv=8cX4VUjPaqQ/image-01.png>)
-
----
-
-<a id="ruben-s-magic-lab-teeth-w-gums"></a>
-### Ruben's Magic Lab Teeth w/Gums #moderately #other-species #canine #feline #equine-cervine #video-tutorials #fursuit-heads #any-species
-
-[https://www.etsy.com/ca/listing/1460469769/plush-fursuit-jaw-set-teeth-with-gums](https://www.etsy.com/ca/listing/1460469769/plush-fursuit-jaw-set-teeth-with-gums)
-
-![Ruben's Magic Lab Teeth w/Gums](<attachments/Teeth and Gums/Ruben's Magic Lab Teeth wGums/image-01.png>)
-
-![Ruben's Magic Lab Teeth w/Gums](<attachments/Teeth and Gums/Ruben's Magic Lab Teeth wGums/image-02.png>)
-
----
-
-<a id="atd-fursuits-mouth-ridges-tutorial"></a>
-### ATD Fursuits Mouth Ridges Tutorial #video-tutorials #cheap #any-species #fursuit-heads #tutorial-no-pattern-incl
-
-[https://ko-fi.com/s/0739fe9455](https://ko-fi.com/s/0739fe9455 "smartCard-inline")
-
-![ATD Fursuits Mouth Ridges Tutorial](<attachments/Teeth and Gums/ATD Fursuits Mouth Ridges Tutorial/image-01.png>)
-
----
-
-<a id="kodasuits-3-jawset-patterns-canine-herbivore-carnivore-rapto"></a>
-### Kodasuits 3 Jawset Patterns (Canine, Herbivore, Carnivore/Raptor) #other-species #cheap #fursuit-heads #any-species
-
-Canine Teeth: [https://www.etsy.com/ca/listing/1874730376/plush-fursuit-jawset-pattern-teeth-furry](https://www.etsy.com/ca/listing/1874730376/plush-fursuit-jawset-pattern-teeth-furry "smartCard-inline")
-
-Herbivore: [https://www.etsy.com/ca/listing/4318125738/plush-fursuit-jawset-herbivore-pattern](https://www.etsy.com/ca/listing/4318125738/plush-fursuit-jawset-herbivore-pattern "smartCard-inline")
-
-Carnivore/Raptor: [https://www.etsy.com/ca/listing/4318129646/plush-fursuit-jawset-carnivore-pattern](https://www.etsy.com/ca/listing/4318129646/plush-fursuit-jawset-carnivore-pattern "smartCard-inline")
-
-![Kodasuits 3 Jawset Patterns Canine, Herbivore, Carnivore/Raptor](<attachments/Teeth and Gums/Kodasuits 3 Jawset Patterns (Canine, Herbivore, CarnivoreRaptor)/image-01.png>)
-
-![Kodasuits 3 Jawset Patterns Canine, Herbivore, Carnivore/Raptor](<attachments/Teeth and Gums/Kodasuits 3 Jawset Patterns (Canine, Herbivore, CarnivoreRaptor)/image-02.png>)
-
-![Kodasuits 3 Jawset Patterns Canine, Herbivore, Carnivore/Raptor](<attachments/Teeth and Gums/Kodasuits 3 Jawset Patterns (Canine, Herbivore, CarnivoreRaptor)/image-03.png>)
-
----
-
-<a id="rudebirdstudios-teeth-maw-pattern"></a>
-### RudeBirdStudios Teeth/Maw Pattern #other-species #any-species #fursuit-heads #cheap
-
-[https://www.etsy.com/ca/listing/4418828965/detail-mochi-teethmaw-pattern-pdf](https://www.etsy.com/ca/listing/4418828965/detail-mochi-teethmaw-pattern-pdf "smartCard-inline")
-
-![RudeBirdStudios Teeth/Maw Pattern](<attachments/Teeth and Gums/RudeBirdStudios TeethMaw Pattern/image-01.webp>)
-
----
-
-<a id="kittencafestudios-teeth"></a>
-### KittenCafeStudios Teeth #cheap #any-species
-
-4 sizes of teeth:
-
-[https://www.etsy.com/ca/listing/1851432140/diy-fursuit-teeth-pattern-tutorial](https://www.etsy.com/ca/listing/1851432140/diy-fursuit-teeth-pattern-tutorial "smartCard-inline")
-
-![KittenCafeStudios Teeth](<attachments/Teeth and Gums/KittenCafeStudios Teeth/image-01.webp>)
-
----
-
-<a id="generic-or-puffy-paws"></a>
-
-</details>
-
-<details>
-<summary>Generic or Puffy Paws</summary>
-
-
-[↑ Contents](#contents)
-
----
-
-<a id="free-matrices-5-finger-paw"></a>
-### (FREE) Matrices 5 Finger Paw #free #any-hand-paws #any-5-finger-hand-paw #any-species
-
-[https://pupdates.matrices.net/post/178186200444/simple-handpaw-pattern-and-tutorial-want-a-set-of](https://pupdates.matrices.net/post/178186200444/simple-handpaw-pattern-and-tutorial-want-a-set-of "smartCard-inline")
-
-![FREE Matrices 5 Finger Paw](<attachments/Generic or Puffy Paws/(FREE) Matrices 5 Finger Paw/image-01.png>)
-
----
-
-<a id="free-curlworks-puffy-paw"></a>
-### (FREE) Curlworks Puffy Paw #free #any-hand-paws #video-tutorials #any-species
-
-[https://static1.squarespace.com/static/673a8ea23f6775765bc30b75/t/674d1a6b9a090574e21562b0/1733106285608/Curlworks_Paw_Pattern_shrunk.pdf](https://static1.squarespace.com/static/673a8ea23f6775765bc30b75/t/674d1a6b9a090574e21562b0/1733106285608/Curlworks_Paw_Pattern_shrunk.pdf)
-
-Tutorials, but not by the creator of the pattern:
-
-[https://www.youtube.com/watch?v=vKRIz51txvM](https://www.youtube.com/watch?v=vKRIz51txvM "smartCard-inline") [https://twitter.com/Heckgeck/status/1087794668207779840](https://twitter.com/Heckgeck/status/1087794668207779840)
-
-I will say I have used this pattern and I adore it. If you need something for a cute character this definitely works!
-
-Make sure to lengthen the wrist to where you need it though! I remember it being a bit short.
-
-![FREE Curlworks Puffy Paw](<attachments/Generic or Puffy Paws/(FREE) Curlworks Puffy Paw/image-01.png>)
-
-![FREE Curlworks Puffy Paw](<attachments/Generic or Puffy Paws/(FREE) Curlworks Puffy Paw/image-02.png>)
-
----
-
-<a id="free-runnerrabbit-paws"></a>
-### (FREE) RunnerRabbit Paws #free #any-hand-paws #canine #video-tutorials
-
-[https://runnerrabbit.gumroad.com/l/XHegGV](https://runnerrabbit.gumroad.com/l/XHegGV "smartCard-inline")
-https://youtu.be/IaUabcSliNI?si=2lsUPTfClWRFDg2q
-
-![FREE RunnerRabbit Paws](<attachments/Generic or Puffy Paws/(FREE) RunnerRabbit Paws/image-01.png>)
-
-![FREE RunnerRabbit Paws](<attachments/Generic or Puffy Paws/(FREE) RunnerRabbit Paws/image-02.png>)
-
----
-
-<a id="free-freakhound-canine-paw"></a>
-### (FREE) Freakhound Canine Paw #free #any-hand-paws #canine
-
-[http://freakhoundstudios.com/free-paws-canine](http://freakhoundstudios.com/free-paws-canine "smartCard-inline")
-
-![FREE Freakhound Canine Paw](<attachments/Generic or Puffy Paws/(FREE) Freakhound Canine Paw/image-01.png>)
-
-![FREE Freakhound Canine Paw](<attachments/Generic or Puffy Paws/(FREE) Freakhound Canine Paw/image-02.png>)
-
-![FREE Freakhound Canine Paw](<attachments/Generic or Puffy Paws/(FREE) Freakhound Canine Paw/image-03.png>)
-
----
-
-<a id="free-kloofsuits-simple-paws"></a>
-### (FREE) Kloofsuits Simple Paws #free #any-hand-paws #any-species
-
-LETTER SIZED PAPER: [https://www.kloofsuits.co.uk/_files/ugd/132978_8648cd14306144868bd78a6cb93f3411.pdf](https://www.kloofsuits.co.uk/_files/ugd/132978_8648cd14306144868bd78a6cb93f3411.pdf)
-
-A4 SIZED PAPER:
-
-[https://www.kloofsuits.co.uk/_files/ugd/132978_d4515ebe1ea141c0a74a70c32013d23c.pdf](https://www.kloofsuits.co.uk/_files/ugd/132978_d4515ebe1ea141c0a74a70c32013d23c.pdf)
-
-![FREE Kloofsuits Simple Paws](<attachments/Generic or Puffy Paws/(FREE) Kloofsuits Simple Paws/image-01.png>)
-
----
-
-<a id="free-in-a-jiffy-creations-3-paw-patterns"></a>
-### (FREE) In-A-Jiffy!Creations 3 Paw Patterns #any-species #any-hand-paws #free
-
-Print on average 8.5” x 11” printer paper
-
-Measure twice, cut once!
-
-Feel free to send them a tip!
-
-[https://ko-fi.com/inajiffycreations](https://ko-fi.com/inajiffycreations "smartCard-inline")
-
-![FREE In-A-JiffyCreations 3 Paw Patterns](<attachments/Generic or Puffy Paws/(FREE) In-A-Jiffy!Creations 3 Paw Patterns/image-01.jpg>)
-
-![FREE In-A-JiffyCreations 3 Paw Patterns](<attachments/Generic or Puffy Paws/(FREE) In-A-Jiffy!Creations 3 Paw Patterns/image-02.jpg>)
-
-![FREE In-A-JiffyCreations 3 Paw Patterns](<attachments/Generic or Puffy Paws/(FREE) In-A-Jiffy!Creations 3 Paw Patterns/image-03.png>)
-
-![FREE In-A-JiffyCreations 3 Paw Patterns](<attachments/Generic or Puffy Paws/(FREE) In-A-Jiffy!Creations 3 Paw Patterns/image-04.png>)
-
-![FREE In-A-JiffyCreations 3 Paw Patterns](<attachments/Generic or Puffy Paws/(FREE) In-A-Jiffy!Creations 3 Paw Patterns/image-05.png>)
-
----
-
-<a id="kloofsuits-4-finger-paws"></a>
-### Kloofsuits 4 Finger paws #cheap #any-hand-paws #canine #video-tutorials
-
-[https://www.etsy.com/ca/listing/1219853167/pdf-template-fursuit-4-finger-paws](https://www.etsy.com/ca/listing/1219853167/pdf-template-fursuit-4-finger-paws "smartCard-inline")
-
-[https://youtu.be/08YFGH2FP2E](https://youtu.be/08YFGH2FP2E "smartCard-inline")
-
-![Kloofsuits 4 Finger paws](<attachments/Generic or Puffy Paws/Kloofsuits 4 Finger paws/image-01.png>)
-
----
-
-<a id="kloofsuits-puffy-paw"></a>
-### Kloofsuits Puffy Paw #cheap #any-hand-paws #canine #video-tutorials
-
-[https://www.etsy.com/ca/listing/675833989/pdf-template-fursuit-puffy-paws-digital](https://www.etsy.com/ca/listing/675833989/pdf-template-fursuit-puffy-paws-digital "smartCard-inline")
-
-[https://youtu.be/08YFGH2FP2E](https://youtu.be/08YFGH2FP2E "smartCard-inline")
-
-![Kloofsuits Puffy Paw](<attachments/Generic or Puffy Paws/Kloofsuits Puffy Paw/image-01.png>)
-
-![Kloofsuits Puffy Paw](<attachments/Generic or Puffy Paws/Kloofsuits Puffy Paw/image-02.png>)
-
-![Kloofsuits Puffy Paw](<attachments/Generic or Puffy Paws/Kloofsuits Puffy Paw/image-03.png>)
-
----
-
-<a id="ybl-suits-puffy-paw"></a>
-### YBL Suits Puffy Paw #moderately #canine #any-hand-paws
-
-YaBoiLuke Suits
-
-[https://www.yblsuits.com/shop/p/pawpattern](https://www.yblsuits.com/shop/p/pawpattern "smartCard-inline")
-
-[https://www.etsy.com/ca/listing/838490379/puffy-fursuit-paw-pattern-pdf-download](https://www.etsy.com/ca/listing/838490379/puffy-fursuit-paw-pattern-pdf-download "smartCard-inline")
-
-![YBL Suits Puffy Paw](<attachments/Generic or Puffy Paws/YBL Suits Puffy Paw/image-01.png>)
-
-![YBL Suits Puffy Paw](<attachments/Generic or Puffy Paws/YBL Suits Puffy Paw/image-02.png>)
-
-![YBL Suits Puffy Paw](<attachments/Generic or Puffy Paws/YBL Suits Puffy Paw/image-03.png>)
-
----
-
-<a id="makeafur-puffy-paw"></a>
-### MakeAFur Puffy Paw #moderately #canine #any-hand-paws #video-tutorials
-
-[https://ko-fi.com/s/a597d258f0](https://ko-fi.com/s/a597d258f0)
-
-Video Tutorial:
-
-[https://www.youtube.com/watch?v=zga1uRRyfcU&t=1s](https://www.youtube.com/watch?v=zga1uRRyfcU&t=1s "smartCard-inline")
-
-![MakeAFur Puffy Paw](<attachments/Generic or Puffy Paws/MakeAFur Puffy Paw/image-01.png>)
-
----
-
-<a id="mugiwara-simple-4-finger-paw"></a>
-### Mugiwara Simple 4 Finger Paw #cheap #any-hand-paws #video-tutorials #any-species
-
-[https://mugiwara-cosplay.sellfy.store/p/digital-toony-hand-paw-pattern-for-fursuits-pdf-download/](https://mugiwara-cosplay.sellfy.store/p/digital-toony-hand-paw-pattern-for-fursuits-pdf-download/ "smartCard-inline")
-
-[https://www.etsy.com/ca/listing/648404984/digital-toony-hand-paw-pattern-for](https://www.etsy.com/ca/listing/648404984/digital-toony-hand-paw-pattern-for "smartCard-inline")
-
-[https://www.youtube.com/watch?v=x6yYytDshjw](https://www.youtube.com/watch?v=x6yYytDshjw "smartCard-inline")
-
-![Mugiwara Simple 4 Finger Paw](<attachments/Generic or Puffy Paws/Mugiwara Simple 4 Finger Paw/image-01.png>)
-
----
-
-<a id="mugiwara-puffy-paw-older-pattern"></a>
-### Mugiwara Puffy Paw (Older Pattern) #cheap #any-hand-paws #video-tutorials #any-species
-
-[https://mugiwara-cosplay.sellfy.store/p/digital-puffy-hand-paw-pattern-for-fursuits-old-version-pdf-download/](https://mugiwara-cosplay.sellfy.store/p/digital-puffy-hand-paw-pattern-for-fursuits-old-version-pdf-download/ "smartCard-inline")
-
-[https://www.etsy.com/ca/listing/648407144/digital-puffy-hand-paw-pattern-for](https://www.etsy.com/ca/listing/648407144/digital-puffy-hand-paw-pattern-for)
-
-Considers this the newer version: [https://trello.com/c/VU0o8iRw/41-mugiwara-4-finger-puffy-paw](https://trello.com/c/VU0o8iRw/41-mugiwara-4-finger-puffy-paw "smartCard-inline")
-
-![Mugiwara Puffy Paw Older Pattern](<attachments/Generic or Puffy Paws/Mugiwara Puffy Paw (Older Pattern)/image-01.png>)
-
----
-
-<a id="mugiwara-puffy-paw-newer-version"></a>
-### Mugiwara Puffy Paw (Newer version) #moderately #any-hand-paws #video-tutorials #any-species
-
-[https://mugiwara-cosplay.sellfy.store/p/digital-puffy-hand-paw-pattern-for-fursuits-new-version-pdf-download/](https://mugiwara-cosplay.sellfy.store/p/digital-puffy-hand-paw-pattern-for-fursuits-new-version-pdf-download/ "smartCard-inline")
-
-[https://www.etsy.com/ca/listing/1473765373/digital-puffy-hand-paw-pattern-for](https://www.etsy.com/ca/listing/1473765373/digital-puffy-hand-paw-pattern-for "smartCard-inline")
-
-[https://youtu.be/Rx7P0vwmads](https://youtu.be/Rx7P0vwmads "smartCard-inline")
-
-![Mugiwara Puffy Paw Newer version](<attachments/Generic or Puffy Paws/Mugiwara Puffy Paw (Newer version)/image-01.png>)
-
----
-
-<a id="pseudocanid-puffy-paw"></a>
-### Pseudocanid Puffy Paw #cheap #any-hand-paws #any-species #video-tutorials
-
-[https://www.etsy.com/ca/listing/810041788/easy-toony-puffy-hand-paw-basicsimple](https://www.etsy.com/ca/listing/810041788/easy-toony-puffy-hand-paw-basicsimple "smartCard-inline")
-
-[https://www.youtube.com/watch?v=8_LYxW--TJA](https://www.youtube.com/watch?v=8_LYxW--TJA "smartCard-inline")
-
-![Pseudocanid Puffy Paw](<attachments/Generic or Puffy Paws/Pseudocanid Puffy Paw/image-01.png>)
-
-![Pseudocanid Puffy Paw](<attachments/Generic or Puffy Paws/Pseudocanid Puffy Paw/image-02.png>)
-
-![Pseudocanid Puffy Paw](<attachments/Generic or Puffy Paws/Pseudocanid Puffy Paw/image-03.png>)
-
----
-
-<a id="pseudocanid-simple-retro-paw"></a>
-### Pseudocanid Simple/Retro Paw #cheap #any-hand-paws #any-species #video-tutorials
-
-[https://www.etsy.com/ca/listing/1130157008/easy-retro-hand-paw-basicsimple-pattern](https://www.etsy.com/ca/listing/1130157008/easy-retro-hand-paw-basicsimple-pattern "smartCard-inline")
-
-[https://www.youtube.com/watch?v=8_LYxW--TJA](https://www.youtube.com/watch?v=8_LYxW--TJA "smartCard-inline")
-
-![Pseudocanid Simple/Retro Paw](<attachments/Generic or Puffy Paws/Pseudocanid SimpleRetro Paw/image-01.png>)
-
-![Pseudocanid Simple/Retro Paw](<attachments/Generic or Puffy Paws/Pseudocanid SimpleRetro Paw/image-02.png>)
-
----
-
-<a id="pseudocanid-chunky-paw"></a>
-### Pseudocanid Chunky Paw #moderately #canine #any-hand-paws #video-tutorials
-
-[https://www.etsy.com/ca/listing/1244865015/chunky-canine-hand-paw-pattern-digital](https://www.etsy.com/ca/listing/1244865015/chunky-canine-hand-paw-pattern-digital "smartCard-inline")
-
-[https://www.youtube.com/watch?v=gE4kOu7aZOo](https://www.youtube.com/watch?v=gE4kOu7aZOo "smartCard-inline")
-
-![Pseudocanid Chunky Paw](<attachments/Generic or Puffy Paws/Pseudocanid Chunky Paw/image-01.png>)
-
-![Pseudocanid Chunky Paw](<attachments/Generic or Puffy Paws/Pseudocanid Chunky Paw/image-02.png>)
-
-![Pseudocanid Chunky Paw](<attachments/Generic or Puffy Paws/Pseudocanid Chunky Paw/image-03.png>)
-
----
-
-<a id="lobitoworks-4-finger-paws"></a>
-### LobitoWorks 4 Finger Paws #cheap #any-hand-paws #any-species
-
-https://ko-fi.com/s/e39d42b69b
-
-[https://www.etsy.com/ca/listing/1041661151/fursuit-handpaws-pattern-tutorial](https://www.etsy.com/ca/listing/1041661151/fursuit-handpaws-pattern-tutorial)
-
-![LobitoWorks 4 Finger Paws](<attachments/Generic or Puffy Paws/LobitoWorks 4 Finger Paws/image-01.png>)
-
----
-
-<a id="fursmoothie-2-paw-pattern-pack"></a>
-### FurSmoothie 2 Paw Pattern Pack #cheap #any-hand-paws #canine #multipack #any-species
-
-[https://www.etsy.com/ca/listing/1031307278/fursuit-puffy-paw-patterns-2-pack](https://www.etsy.com/ca/listing/1031307278/fursuit-puffy-paw-patterns-2-pack "smartCard-inline")
-
-![FurSmoothie 2 Paw Pattern Pack](<attachments/Generic or Puffy Paws/FurSmoothie 2 Paw Pattern Pack/image-01.png>)
-
-![FurSmoothie 2 Paw Pattern Pack](<attachments/Generic or Puffy Paws/FurSmoothie 2 Paw Pattern Pack/image-02.png>)
-
----
-
-<a id="oktavia-s-creatures-4-finger-mochi-paws"></a>
-### Oktavia's Creatures 4 Finger Mochi Paws #moderately #other-species #any-hand-paws #any-species
-
-[https://www.etsy.com/ca/listing/1187692027/puffy-4-fingered-mochi-paw-digital](https://www.etsy.com/ca/listing/1187692027/puffy-4-fingered-mochi-paw-digital "smartCard-inline")
-
-![Oktavia's Creatures 4 Finger Mochi Paws](<attachments/Generic or Puffy Paws/Oktavia's Creatures 4 Finger Mochi Paws/image-01.png>)
-
-![Oktavia's Creatures 4 Finger Mochi Paws](<attachments/Generic or Puffy Paws/Oktavia's Creatures 4 Finger Mochi Paws/image-02.png>)
-
-![Oktavia's Creatures 4 Finger Mochi Paws](<attachments/Generic or Puffy Paws/Oktavia's Creatures 4 Finger Mochi Paws/image-03.png>)
-
----
-
-<a id="oktavia-s-creatures-feral-2-pattern-pack-canine-and-feline"></a>
-### Oktavia's Creatures Feral 2 Pattern Pack (Canine & Feline) #moderately #any-hand-paws #canine #feline #multipack
-
-[https://www.etsy.com/ca/listing/1233102353/canine-and-feline-feral-hand-paws](https://www.etsy.com/ca/listing/1233102353/canine-and-feline-feral-hand-paws "smartCard-inline")
-
-![Oktavia's Creatures Feral 2 Pattern Pack Canine & Feline](<attachments/Generic or Puffy Paws/Oktavia's Creatures Feral 2 Pattern Pack (Canine & Feline)/image-01.png>)
-
-![Oktavia's Creatures Feral 2 Pattern Pack Canine & Feline](<attachments/Generic or Puffy Paws/Oktavia's Creatures Feral 2 Pattern Pack (Canine & Feline)/image-02.png>)
-
-![Oktavia's Creatures Feral 2 Pattern Pack Canine & Feline](<attachments/Generic or Puffy Paws/Oktavia's Creatures Feral 2 Pattern Pack (Canine & Feline)/image-03.png>)
-
----
-
-<a id="wittlestudios-puffy-paws"></a>
-### WittleStudios Puffy Paws #cheap #any-hand-paws #canine
-
-[https://ko-fi.com/s/7c88621b51](https://ko-fi.com/s/7c88621b51 "smartCard-inline")
-
-[https://www.etsy.com/ca/listing/1234215254/wittles-puffy-paws-pattern](https://www.etsy.com/ca/listing/1234215254/wittles-puffy-paws-pattern "smartCard-inline")
-
-![WittleStudios Puffy Paws](<attachments/Generic or Puffy Paws/WittleStudios Puffy Paws/image-01.png>)
-
-![WittleStudios Puffy Paws](<attachments/Generic or Puffy Paws/WittleStudios Puffy Paws/image-02.png>)
-
----
-
-<a id="bitemefursuits-puffy-paws"></a>
-### BiteMeFursuits Puffy Paws #moderately #any-hand-paws #canine
-
-[https://www.etsy.com/listing/1246513554/pdf-pattern-download-puffy-fursuit](https://www.etsy.com/listing/1246513554/pdf-pattern-download-puffy-fursuit)
-
-![BiteMeFursuits Puffy Paws](<attachments/Generic or Puffy Paws/BiteMeFursuits Puffy Paws/image-01.png>)
-
-![BiteMeFursuits Puffy Paws](<attachments/Generic or Puffy Paws/BiteMeFursuits Puffy Paws/image-02.png>)
-
-![BiteMeFursuits Puffy Paws](<attachments/Generic or Puffy Paws/BiteMeFursuits Puffy Paws/image-03.png>)
-
----
-
-<a id="thecasualfriday-4-fingers-w-optional-dew-claw"></a>
-### TheCasualFriday 4 Fingers w/Optional Dew Claw #moderately #other-species #any-hand-paws #canine
-
-[https://www.etsy.com/ca/listing/1333743568/feral-canine-4-finger-paw-pattern](https://www.etsy.com/ca/listing/1333743568/feral-canine-4-finger-paw-pattern)
-
-![TheCasualFriday 4 Fingers w/Optional Dew Claw](<attachments/Generic or Puffy Paws/TheCasualFriday 4 Fingers wOptional Dew Claw/image-01.png>)
-
-![TheCasualFriday 4 Fingers w/Optional Dew Claw](<attachments/Generic or Puffy Paws/TheCasualFriday 4 Fingers wOptional Dew Claw/image-02.png>)
-
-![TheCasualFriday 4 Fingers w/Optional Dew Claw](<attachments/Generic or Puffy Paws/TheCasualFriday 4 Fingers wOptional Dew Claw/image-03.png>)
-
----
-
-<a id="frostihadasundae-chunky-paws"></a>
-### FrostiHadaSundae Chunky Paws #cheap #any-hand-paws #any-species
-
-[https://www.etsy.com/ca/listing/1413888156/chunky-poofy-paws-hand-paw-pdf-pattern](https://www.etsy.com/ca/listing/1413888156/chunky-poofy-paws-hand-paw-pdf-pattern "smartCard-inline")
-
-![FrostiHadaSundae Chunky Paws](<attachments/Generic or Puffy Paws/FrostiHadaSundae Chunky Paws/image-01.png>)
-
-![FrostiHadaSundae Chunky Paws](<attachments/Generic or Puffy Paws/FrostiHadaSundae Chunky Paws/image-02.png>)
-
-![FrostiHadaSundae Chunky Paws](<attachments/Generic or Puffy Paws/FrostiHadaSundae Chunky Paws/image-03.png>)
-
----
-
-<a id="wolfskinstudio-just-the-puffy-pawpads"></a>
-### WolfskinStudio JUST the puffy PAWPADS #cheap #other-species #any-hand-paws #any-5-finger-hand-paw #video-tutorials #any-species
-
-ONLY A PATTERN FOR THE BEANS
-
-[https://www.etsy.com/ca/listing/1272444057/puffy-pawpads-pattern](https://www.etsy.com/ca/listing/1272444057/puffy-pawpads-pattern "smartCard-inline")
-
-[https://youtu.be/EeC6L_0E8eo](https://youtu.be/EeC6L_0E8eo "smartCard-inline")
-
-![WolfskinStudio JUST the puffy PAWPADS](<attachments/Generic or Puffy Paws/WolfskinStudio JUST the puffy PAWPADS/image-01.png>)
-
----
-
-<a id="skullzbonezfursuitz-puffy-paws"></a>
-### Skullzbonezfursuitz Puffy Paws #cheap #any-hand-paws #any-species
-
-[https://www.etsy.com/ca/listing/961080886/big-puffy-paws-pattern-not-the-paws-the](https://www.etsy.com/ca/listing/961080886/big-puffy-paws-pattern-not-the-paws-the "smartCard-inline")
-
-![Skullzbonezfursuitz Puffy Paws](<attachments/Generic or Puffy Paws/Skullzbonezfursuitz Puffy Paws/image-01.png>)
-
-![Skullzbonezfursuitz Puffy Paws](<attachments/Generic or Puffy Paws/Skullzbonezfursuitz Puffy Paws/image-02.png>)
-
----
-
-<a id="goobakery-simple-paw"></a>
-### GooBakery Simple Paw #cheap #any-hand-paws #any-species
-
-[https://www.etsy.com/ca/listing/1260416086/simple-fursuit-paw-pattern-very-beginner](https://www.etsy.com/ca/listing/1260416086/simple-fursuit-paw-pattern-very-beginner)
-
-![GooBakery Simple Paw](<attachments/Generic or Puffy Paws/GooBakery Simple Paw/image-01.png>)
-
-![GooBakery Simple Paw](<attachments/Generic or Puffy Paws/GooBakery Simple Paw/image-02.png>)
-
----
-
-<a id="twilightknights-2-paws-paw"></a>
-### TwilightKnights 2 Paws Paw #moderately #any-hand-paws #multipack #any-species
-
-“long” and “short” finger versions
-
-[https://www.etsy.com/ca/listing/1328303647/puffy-paw-pattern-pdf-download-2-styles](https://www.etsy.com/ca/listing/1328303647/puffy-paw-pattern-pdf-download-2-styles "smartCard-inline")
-
-![TwilightKnights 2 Paws Paw](<attachments/Generic or Puffy Paws/TwilightKnights 2 Paws Paw/image-01.png>)
-
-![TwilightKnights 2 Paws Paw](<attachments/Generic or Puffy Paws/TwilightKnights 2 Paws Paw/image-02.png>)
-
-![TwilightKnights 2 Paws Paw](<attachments/Generic or Puffy Paws/TwilightKnights 2 Paws Paw/image-03.png>)
-
----
-
-<a id="sparklepawsstudios-puffy-paws"></a>
-### SparklePawsStudios Puffy Paws #any-hand-paws #cheap #any-species
-
-[https://www.etsy.com/ca/listing/1515314940/thumb-y-puffy-paws-pattern-read](https://www.etsy.com/ca/listing/1515314940/thumb-y-puffy-paws-pattern-read "smartCard-inline")
-
-![SparklePawsStudios Puffy Paws](<attachments/Generic or Puffy Paws/SparklePawsStudios Puffy Paws/image-01.png>)
-
-![SparklePawsStudios Puffy Paws](<attachments/Generic or Puffy Paws/SparklePawsStudios Puffy Paws/image-02.png>)
-
----
-
-<a id="ollyfur-hand-paws"></a>
-### OllyFur Hand Paws #cheap #any-species #any-hand-paws #video-tutorials
-
-[https://www.etsy.com/ca/listing/1557915679/digital-download-fursuit-hand-paws](https://www.etsy.com/ca/listing/1557915679/digital-download-fursuit-hand-paws "smartCard-inline")
-
-[https://www.youtube.com/watch?v=IvNNBzqgbFk](https://www.youtube.com/watch?v=IvNNBzqgbFk "smartCard-inline")
-
-![OllyFur Hand Paws](<attachments/Generic or Puffy Paws/OllyFur Hand Paws/image-01.webp>)
-
-![OllyFur Hand Paws](<attachments/Generic or Puffy Paws/OllyFur Hand Paws/image-02.webp>)
-
----
-
-<a id="klovesbunnies-art-puffy-paws-pattern"></a>
-### Klovesbunnies Art Puffy Paws Pattern #cheap #any-species #any-hand-paws
-
-[https://klovesbunniesart.weebly.com/store/p753/Puffy_Paw_Pattern_%28Printable%29.html](https://klovesbunniesart.weebly.com/store/p753/Puffy_Paw_Pattern_%28Printable%29.html "smartCard-inline")
-
-[https://klovesbunnies.gumroad.com/l/puffypawpattern](https://klovesbunnies.gumroad.com/l/puffypawpattern "smartCard-inline")
-
-![Klovesbunnies Art Puffy Paws Pattern](<attachments/Generic or Puffy Paws/Klovesbunnies Art Puffy Paws Pattern/image-01.jpg>)
-
----
-
-<a id="blue-fleece-slim-paws"></a>
-### Blue Fleece Slim Paws #moderately #any-hand-paws #any-species
-
-[https://hullablue.gumroad.com/l/zNLdE](https://hullablue.gumroad.com/l/zNLdE "smartCard-inline")
-
-![Blue Fleece Slim Paws](<attachments/Generic or Puffy Paws/Blue Fleece Slim Paws/image-01.png>)
-
-![Blue Fleece Slim Paws](<attachments/Generic or Puffy Paws/Blue Fleece Slim Paws/image-02.png>)
-
----
-
-<a id="sonstafurs-puffy-paws"></a>
-### Sonstafurs Puffy Paws #any-hand-paws #any-species #cheap
-
-[https://www.etsy.com/ca/listing/1590606620/pdf-pattern-download-fursuit-4-finger](https://www.etsy.com/ca/listing/1590606620/pdf-pattern-download-fursuit-4-finger "smartCard-inline")
-
-![Sonstafurs Puffy Paws](<attachments/Generic or Puffy Paws/Sonstafurs Puffy Paws/image-01.jpg>)
-
-![Sonstafurs Puffy Paws](<attachments/Generic or Puffy Paws/Sonstafurs Puffy Paws/image-02.png>)
-
----
-
-<a id="flowerfurstudio-paw-pattern"></a>
-### FlowerFurStudio Paw Pattern #any-species #any-hand-paws #moderately
-
-[https://www.flowerfurstudio.com/p/fursuit-paws-pattern/](https://www.flowerfurstudio.com/p/fursuit-paws-pattern/ "smartCard-inline")
-
-![FlowerFurStudio Paw Pattern](<attachments/Generic or Puffy Paws/FlowerFurStudio Paw Pattern/image-01.png>)
-
----
-
-<a id="skyehighstudios-feral-handpaws"></a>
-### SkyehighStudios Feral Handpaws #moderately #any-hand-paws #any-species #video-tutorials
-
-[https://www.skyehighstudios.com/store/p/feral-fursuit-handpaw-pattern-new](https://www.skyehighstudios.com/store/p/feral-fursuit-handpaw-pattern-new "smartCard-inline")
-
-[https://www.youtube.com/watch?v=MXiYc9-fLNM](https://www.youtube.com/watch?v=MXiYc9-fLNM "smartCard-inline")
-
-![SkyehighStudios Feral Handpaws](<attachments/Generic or Puffy Paws/SkyehighStudios Feral Handpaws/image-01.png>)
-
----
-
-<a id="skyehighstudios-puffy-paws"></a>
-### SkyehighStudios Puffy Paws #moderately #any-hand-paws #any-species #video-tutorials
-
-[https://www.skyehighstudios.com/store/p/toony-fursuit-handpaw-pattern](https://www.skyehighstudios.com/store/p/toony-fursuit-handpaw-pattern "smartCard-inline")
-
-[https://www.youtube.com/watch?v=MXiYc9-fLNM](https://www.youtube.com/watch?v=MXiYc9-fLNM "smartCard-inline")
-
-![SkyehighStudios Puffy Paws](<attachments/Generic or Puffy Paws/SkyehighStudios Puffy Paws/image-01.png>)
-
----
-
-<a id="finch-factory-fursuits-handpaws"></a>
-### Finch Factory Fursuits HandPaws #any-hand-paws #any-species #moderately
-
-[https://www.patreon.com/FinchFactoryFursuits/shop/hand-paw-pattern-138263](https://www.patreon.com/FinchFactoryFursuits/shop/hand-paw-pattern-138263 "smartCard-inline")
-
-![Finch Factory Fursuits HandPaws](<attachments/Generic or Puffy Paws/Finch Factory Fursuits HandPaws/image-01.webp>)
-
----
-
-<a id="geknome-toony-paws"></a>
-### Geknome Toony Paws #moderately #any-species #any-hand-paws
-
-[https://www.etsy.com/listing/1764915487/toony-fursuit-handpaw-pattern-tutorial](https://www.etsy.com/listing/1764915487/toony-fursuit-handpaw-pattern-tutorial "smartCard-inline")
-
-![Geknome Toony Paws](<attachments/Generic or Puffy Paws/Geknome Toony Paws/image-01.jpg>)
-
----
-
-<a id="spiltgrapesoda-4-finger-thumb-puffy-paw"></a>
-### SpiltGrapeSoda 4 Finger Thumb Puffy Paw #video-tutorials #any-species #any-hand-paws #moderately
-
-[https://shop.spiltgrapesoda.com/spiltgrapesoda/p/four-finger-thumb-style-puffy-hand-paw-pattern-pdf-download](https://shop.spiltgrapesoda.com/spiltgrapesoda/p/four-finger-thumb-style-puffy-hand-paw-pattern-pdf-download "smartCard-inline")
-
-[https://www.etsy.com/ca/listing/1697012233/four-finger-thumb-style-puffy-hand-paw](https://www.etsy.com/ca/listing/1697012233/four-finger-thumb-style-puffy-hand-paw "smartCard-inline")
-
-[https://youtu.be/1wJcU5uHQ_U](https://youtu.be/1wJcU5uHQ_U "smartCard-inline")
-
-![SpiltGrapeSoda 4 Finger Thumb Puffy Paw](<attachments/Generic or Puffy Paws/SpiltGrapeSoda 4 Finger Thumb Puffy Paw/image-01.webp>)
-
----
-
-<a id="cactusdogstudio-paw-pattern-finger-escapes"></a>
-### CactusDogStudio Paw Pattern + Finger Escapes #any-hand-paws #any-species #cheap
-
-[https://www.etsy.com/ca/listing/1833617029/fursuit-paw-pattern-with-optional-finger](https://www.etsy.com/ca/listing/1833617029/fursuit-paw-pattern-with-optional-finger "smartCard-inline")
-
-![CactusDogStudio Paw Pattern + Finger Escapes](<attachments/Generic or Puffy Paws/CactusDogStudio Paw Pattern + Finger Escapes/image-01.webp>)
-
-![CactusDogStudio Paw Pattern + Finger Escapes](<attachments/Generic or Puffy Paws/CactusDogStudio Paw Pattern + Finger Escapes/image-02.jpg>)
-
-![CactusDogStudio Paw Pattern + Finger Escapes](<attachments/Generic or Puffy Paws/CactusDogStudio Paw Pattern + Finger Escapes/image-03.webp>)
-
----
-
-<a id="kiafursuits-mochi-paw-pattern"></a>
-### KiaFursuits Mochi Paw Pattern #moderately #any-hand-paws #any-species
-
-[https://www.etsy.com/ca/listing/1691750001/fursuit-mochi-paw-pattern-digital](https://www.etsy.com/ca/listing/1691750001/fursuit-mochi-paw-pattern-digital)
-
-![KiaFursuits Mochi Paw Pattern](<attachments/Generic or Puffy Paws/KiaFursuits Mochi Paw Pattern/image-01.webp>)
-
-![KiaFursuits Mochi Paw Pattern](<attachments/Generic or Puffy Paws/KiaFursuits Mochi Paw Pattern/image-02.jpg>)
-
----
-
-<a id="wingleafworkshop-cute-handpaws"></a>
-### WingLeafWorkshop "Cute" Handpaws #any-hand-paws #any-species #cheap
-
-[https://www.etsy.com/ca/listing/1740507742/cute-handpaws-pdf-pattern-detailed](https://www.etsy.com/ca/listing/1740507742/cute-handpaws-pdf-pattern-detailed "smartCard-inline")
-
-![WingLeafWorkshop "Cute" Handpaws](<attachments/Generic or Puffy Paws/WingLeafWorkshop Cute Handpaws/image-01.jpg>)
-
----
-
-<a id="blackmarblefursuits-puffy-paws"></a>
-### BlackMarbleFursuits Puffy Paws #cheap #any-species #any-hand-paws
-
-[https://www.etsy.com/ca/listing/1695795015/fursuit-paws-pattern-template-pdf-and](https://www.etsy.com/ca/listing/1695795015/fursuit-paws-pattern-template-pdf-and)
-
-![BlackMarbleFursuits Puffy Paws](<attachments/Generic or Puffy Paws/BlackMarbleFursuits Puffy Paws/image-01.jpg>)
-
-![BlackMarbleFursuits Puffy Paws](<attachments/Generic or Puffy Paws/BlackMarbleFursuits Puffy Paws/image-02.jpg>)
-
----
-
-<a id="kittencafestudios-puffy-paws"></a>
-### KittenCafeStudios Puffy Paws #moderately #any-hand-paws #any-species
-
-[https://www.etsy.com/ca/listing/1710265485/diy-fursuit-puffy-paw-pattern-tutorial](https://www.etsy.com/ca/listing/1710265485/diy-fursuit-puffy-paw-pattern-tutorial "smartCard-inline")
-
-![KittenCafeStudios Puffy Paws](<attachments/Generic or Puffy Paws/KittenCafeStudios Puffy Paws/image-01.webp>)
-
----
-
-<a id="mistyrivers-creations-puffy-paws"></a>
-### MistyRivers Creations Puffy Paws #any-species #any-hand-paws #moderately
-
-[https://ko-fi.com/s/e3666e830d](https://ko-fi.com/s/e3666e830d "smartCard-inline")
-
-[https://www.etsy.com/ca/listing/1801514439/fursuit-puffy-paw-pattern-pdf-template](https://www.etsy.com/ca/listing/1801514439/fursuit-puffy-paw-pattern-pdf-template "smartCard-inline")
-
-![MistyRivers Creations Puffy Paws](<attachments/Generic or Puffy Paws/MistyRivers Creations Puffy Paws/image-01.webp>)
-
----
-
-<a id="wild-fox-works-puffy-paw-pattern"></a>
-### Wild Fox Works Puffy Paw Pattern #any-hand-paws #cheap #canine
-
-[https://ko-fi.com/s/4ec72accb0](https://ko-fi.com/s/4ec72accb0 "smartCard-inline")
-
-![Wild Fox Works Puffy Paw Pattern](<attachments/Generic or Puffy Paws/Wild Fox Works Puffy Paw Pattern/image-01.png>)
-
----
-
-<a id="kaiyuwolfart-puffy-paws"></a>
-### KaiyuWolfArt Puffy Paws #cheap #any-hand-paws #canine
-
-[https://www.etsy.com/ca/listing/1851846605/fursuit-puffy-paw-pattern-pdf-download](https://www.etsy.com/ca/listing/1851846605/fursuit-puffy-paw-pattern-pdf-download "smartCard-inline")
-
-![KaiyuWolfArt Puffy Paws](<attachments/Generic or Puffy Paws/KaiyuWolfArt Puffy Paws/image-01.webp>)
-
----
-
-<a id="doubletroublefursuit-hand-paws"></a>
-### DoubleTroubleFursuit Hand Paws #moderately #any-hand-paws #any-species
-
-[https://www.etsy.com/ca/listing/4297575358/diy-fursuit-handpaw-sewing-pattern](https://www.etsy.com/ca/listing/4297575358/diy-fursuit-handpaw-sewing-pattern "smartCard-inline")
-
-[https://www.youtube.com/watch?v=ZAPq8yU_afw](https://www.youtube.com/watch?v=ZAPq8yU_afw "smartCard-inline")
-
-![DoubleTroubleFursuit Hand Paws](<attachments/Generic or Puffy Paws/DoubleTroubleFursuit Hand Paws/image-01.png>)
-
----
-
-<a id="cervidaedecay-fursuit-paw-w-opt-dewclaw"></a>
-### CervidaeDecay Fursuit Paw w/opt.Dewclaw #any-hand-paws #moderately #any-species
-
-[https://www.etsy.com/ca/listing/1792320414/fursuit-puffy-paws-digital](https://www.etsy.com/ca/listing/1792320414/fursuit-puffy-paws-digital "smartCard-inline")
-
-![CervidaeDecay Fursuit Paw w/opt.Dewclaw](<attachments/Generic or Puffy Paws/CervidaeDecay Fursuit Paw wopt.Dewclaw/image-01.png>)
-
----
-
-<a id="craftycrittercabin-hand-paw-pattern"></a>
-### CraftyCritterCabin Hand Paw Pattern #any-species #any-hand-paws #moderately #canine
-
-[https://www.etsy.com/ca/listing/1807977957/ppbm-hand-paw-pattern-advanced-pdf-file](https://www.etsy.com/ca/listing/1807977957/ppbm-hand-paw-pattern-advanced-pdf-file "smartCard-inline")
-
-![CraftyCritterCabin Hand Paw Pattern](<attachments/Generic or Puffy Paws/CraftyCritterCabin Hand Paw Pattern/image-01.png>)
-
----
-
-<a id="tinnatu-paws-semi-slim-paw-pattern"></a>
-### Tinnatu Paws Semi-Slim Paw Pattern #moderately #any-hand-paws #any-species
-
-[https://www.etsy.com/ca/listing/1839098535/semi-slim-fursuit-paw-pattern-pdf](https://www.etsy.com/ca/listing/1839098535/semi-slim-fursuit-paw-pattern-pdf "smartCard-inline")
-
-![Tinnatu Paws Semi-Slim Paw Pattern](<attachments/Generic or Puffy Paws/Tinnatu Paws Semi-Slim Paw Pattern/image-01.webp>)
-
----
-
-<a id="kittencafestudios-toony-feral-paws"></a>
-### KittenCafeStudios Toony Feral Paws #moderately #any-species #any-hand-paws #canine
-
-[https://www.etsy.com/ca/listing/4435288482/diy-toony-feral-style-fursuit-puffy-paw](https://www.etsy.com/ca/listing/4435288482/diy-toony-feral-style-fursuit-puffy-paw "smartCard-inline")
-
-![KittenCafeStudios Toony Feral Paws](<attachments/Generic or Puffy Paws/KittenCafeStudios Toony Feral Paws/image-01.webp>)
-
----
-
-<a id="kittencafestudios-anthro-paws"></a>
-### KittenCafeStudios Anthro Paws #moderately #any-hand-paws #any-species
-
-[https://www.etsy.com/ca/listing/4435285119/diy-toony-anthro-style-fursuit-puffy-paw](https://www.etsy.com/ca/listing/4435285119/diy-toony-anthro-style-fursuit-puffy-paw "smartCard-inline")
-
-![KittenCafeStudios Anthro Paws](<attachments/Generic or Puffy Paws/KittenCafeStudios Anthro Paws/image-01.webp>)
-
----
-
-<a id="mysticmalamute-4-finger-paw"></a>
-### MysticMalamute 4 Finger Paw #cheap #any-species #any-hand-paws
-
-[https://ko-fi.com/s/65da62c8e1](https://ko-fi.com/s/65da62c8e1 "smartCard-inline")
-
-[https://www.etsy.com/ca/listing/4438645584/toony-fursuit-handpaw-pattern-tutorial](https://www.etsy.com/ca/listing/4438645584/toony-fursuit-handpaw-pattern-tutorial "smartCard-inline")
-
-![MysticMalamute 4 Finger Paw](<attachments/Generic or Puffy Paws/MysticMalamute 4 Finger Paw/image-01.png>)
-
----
+  <summary>Helpful Extras (12 cards)</summary>
 
 <a id="helpful-extras"></a>
 
-</details>
-
-<details>
-<summary>Helpful Extras</summary>
-
-
-[↑ Contents](#contents)
+## Helpful Extras
 
 ---
 
@@ -3984,4863 +8097,19 @@ https://vt.tiktok.com/ZSFcEEWNU/
 
 ---
 
-<a id="5-finger-paw-patterns"></a>
-
-</details>
-
 <details>
-<summary>5 Finger Paw Patterns</summary>
+  <summary>Foam Head Patterns (6 cards)</summary>
 
+<a id="foam-head-patterns"></a>
 
-[↑ Contents](#contents)
-
----
-
-<a id="free-freakhound-5-finger-paws"></a>
-### (FREE) Freakhound 5 Finger Paws #free #canine #any-hand-paws #any-5-finger-hand-paw
-
-[http://freakhoundstudios.com/freepaws2](http://freakhoundstudios.com/freepaws2 "smartCard-inline")
-
-![FREE Freakhound 5 Finger Paws](<attachments/5 Finger Paw Patterns/(FREE) Freakhound 5 Finger Paws/image-01.png>)
-
----
-
-<a id="free-mango-savepoint-slim-5-finger-paw"></a>
-### (FREE) Mango_Savepoint Slim 5 Finger Paw #free #any-species #any-hand-paws #any-5-finger-hand-paw #expensive #video-tutorials
-
-COMPLEX PATTERN
-
-Feel free to add a donation:
-
-[https://ko-fi.com/s/c4afcdee05](https://ko-fi.com/s/c4afcdee05 "smartCard-inline")
-
-PAID video tutorial:
-
-[https://ko-fi.com/s/618663d2f7](https://ko-fi.com/s/618663d2f7 "smartCard-inline")
-
-![FREE Mango_Savepoint Slim 5 Finger Paw](<attachments/5 Finger Paw Patterns/(FREE) Mango_Savepoint Slim 5 Finger Paw/image-01.png>)
-
----
-
-<a id="matrices-5-finger-paw"></a>
-### Matrices 5 Finger Paw #moderately #any-hand-paws #any-5-finger-hand-paw #any-species
-
-[https://www.etsy.com/ca/listing/1169809787/pattern-and-tutorial-shaped-5-digit](https://www.etsy.com/ca/listing/1169809787/pattern-and-tutorial-shaped-5-digit "smartCard-inline")
-
-![Matrices 5 Finger Paw](<attachments/5 Finger Paw Patterns/Matrices 5 Finger Paw/image-01.png>)
-
-![Matrices 5 Finger Paw](<attachments/5 Finger Paw Patterns/Matrices 5 Finger Paw/image-02.png>)
-
----
-
-<a id="kloofsuit-5-finger-paw"></a>
-### Kloofsuit 5 Finger Paw #cheap #any-hand-paws #any-5-finger-hand-paw #any-species
-
-[https://www.etsy.com/ca/listing/865332997/pdf-template-fursuit-5-finger-paws](https://www.etsy.com/ca/listing/865332997/pdf-template-fursuit-5-finger-paws "smartCard-inline")
-
-![Kloofsuit 5 Finger Paw](<attachments/5 Finger Paw Patterns/Kloofsuit 5 Finger Paw/image-01.png>)
-
----
-
-<a id="ybl-suits-5-finger-paw"></a>
-### YBL Suits 5 Finger Paw #moderately #any-hand-paws #other-species #any-5-finger-hand-paw
-
-[https://www.etsy.com/ca/listing/1191100266/5-finger-fursuit-paw-pattern-pdf](https://www.etsy.com/ca/listing/1191100266/5-finger-fursuit-paw-pattern-pdf "smartCard-inline")
-
-![YBL Suits 5 Finger Paw](<attachments/5 Finger Paw Patterns/YBL Suits 5 Finger Paw/image-01.png>)
-
-![YBL Suits 5 Finger Paw](<attachments/5 Finger Paw Patterns/YBL Suits 5 Finger Paw/image-02.png>)
-
----
-
-<a id="mugiwara-simple-5-finger-paw"></a>
-### Mugiwara Simple 5 Finger Paw #cheap #any-hand-paws #video-tutorials #any-5-finger-hand-paw #any-species
-
-[https://mugiwara-cosplay.sellfy.store/p/digital-5-fingered-hand-paw-pattern-for-fursuits-pdf-download/](https://mugiwara-cosplay.sellfy.store/p/digital-5-fingered-hand-paw-pattern-for-fursuits-pdf-download/ "smartCard-inline")
-
-[https://www.etsy.com/ca/listing/678617743/digital-5-fingered-hand-paw-pattern-for](https://www.etsy.com/ca/listing/678617743/digital-5-fingered-hand-paw-pattern-for "smartCard-inline")
-
-[https://www.youtube.com/watch?v=x6yYytDshjw](https://www.youtube.com/watch?v=x6yYytDshjw "smartCard-inline")
-
-![Mugiwara Simple 5 Finger Paw](<attachments/5 Finger Paw Patterns/Mugiwara Simple 5 Finger Paw/image-01.png>)
-
----
-
-<a id="mugiwara-puffy-5-finger-paw"></a>
-### Mugiwara Puffy 5 Finger Paw #moderately #any-hand-paws #video-tutorials #any-5-finger-hand-paw #any-species
-
-[https://mugiwara-cosplay.sellfy.store/p/digital-5-fingered-puffy-hand-paw-pattern-for-fursuits-pdf-download/](https://mugiwara-cosplay.sellfy.store/p/digital-5-fingered-puffy-hand-paw-pattern-for-fursuits-pdf-download/ "smartCard-inline")
-
-[https://www.etsy.com/ca/listing/675605358/digital-5-fingered-puffy-hand-paw](https://www.etsy.com/ca/listing/675605358/digital-5-fingered-puffy-hand-paw "smartCard-inline")
-
-[https://www.youtube.com/watch?v=1E0HYdLHGkA](https://www.youtube.com/watch?v=1E0HYdLHGkA "smartCard-inline")
-
-![Mugiwara Puffy 5 Finger Paw](<attachments/5 Finger Paw Patterns/Mugiwara Puffy 5 Finger Paw/image-01.png>)
-
----
-
-<a id="missrars-creatures-puffy-5-finger-paw"></a>
-### Missrars Creatures Puffy 5 Finger Paw #moderately #any-hand-paws #any-5-finger-hand-paw #any-species
-
-[https://www.etsy.com/ca/listing/946084039/pdf-pattern-5-finger-puffy-fursuit-paws](https://www.etsy.com/ca/listing/946084039/pdf-pattern-5-finger-puffy-fursuit-paws "smartCard-inline")
-
-![Missrars Creatures Puffy 5 Finger Paw](<attachments/5 Finger Paw Patterns/Missrars Creatures Puffy 5 Finger Paw/image-01.png>)
-
-![Missrars Creatures Puffy 5 Finger Paw](<attachments/5 Finger Paw Patterns/Missrars Creatures Puffy 5 Finger Paw/image-02.png>)
-
-![Missrars Creatures Puffy 5 Finger Paw](<attachments/5 Finger Paw Patterns/Missrars Creatures Puffy 5 Finger Paw/image-03.png>)
-
----
-
-<a id="missrars-creatures-5-finger-applique-paw-pattern"></a>
-### Missrars Creatures 5 Finger Applique Paw Pattern #moderately #any-hand-paws #any-5-finger-hand-paw #video-tutorials #any-species
-
-[https://www.etsy.com/ca/listing/1108433401/pdf-pattern-simple-applique-fursuit-paws](https://www.etsy.com/ca/listing/1108433401/pdf-pattern-simple-applique-fursuit-paws "smartCard-inline")
-
-![Missrars Creatures 5 Finger Applique Paw Pattern](<attachments/5 Finger Paw Patterns/Missrars Creatures 5 Finger Applique Paw Pattern/image-01.png>)
-
-![Missrars Creatures 5 Finger Applique Paw Pattern](<attachments/5 Finger Paw Patterns/Missrars Creatures 5 Finger Applique Paw Pattern/image-02.png>)
-
-![Missrars Creatures 5 Finger Applique Paw Pattern](<attachments/5 Finger Paw Patterns/Missrars Creatures 5 Finger Applique Paw Pattern/image-03.png>)
-
----
-
-<a id="oktavias-creature-s-5-finger-paw-pattern"></a>
-### Oktavias Creature's 5 Finger Paw Pattern #moderately #any-hand-paws #any-5-finger-hand-paw #any-species
-
-[https://www.etsy.com/ca/listing/1128260097/puffy-5-fingered-paw-digital-pattern-pdf](https://www.etsy.com/ca/listing/1128260097/puffy-5-fingered-paw-digital-pattern-pdf "smartCard-inline")
-
-![Oktavias Creature's 5 Finger Paw Pattern](<attachments/5 Finger Paw Patterns/Oktavias Creature's 5 Finger Paw Pattern/image-01.png>)
-
-![Oktavias Creature's 5 Finger Paw Pattern](<attachments/5 Finger Paw Patterns/Oktavias Creature's 5 Finger Paw Pattern/image-02.png>)
-
----
-
-<a id="skunky-designs-slim-5-finger-paw"></a>
-### Skunky Designs Slim 5 Finger Paw #cheap #any-hand-paws #any-5-finger-hand-paw #any-species
-
-[https://www.skunkydesigns.com/collections/patterns-and-tutorials/products/pattern-slim-style-puffy-5-finger-hand-paws-high-detail-instructions-with-two-lining-options-digital-download](https://www.skunkydesigns.com/collections/patterns-and-tutorials/products/pattern-slim-style-puffy-5-finger-hand-paws-high-detail-instructions-with-two-lining-options-digital-download)
-
-![Skunky Designs Slim 5 Finger Paw](<attachments/5 Finger Paw Patterns/Skunky Designs Slim 5 Finger Paw/image-01.png>)
-
-![Skunky Designs Slim 5 Finger Paw](<attachments/5 Finger Paw Patterns/Skunky Designs Slim 5 Finger Paw/image-02.png>)
-
-![Skunky Designs Slim 5 Finger Paw](<attachments/5 Finger Paw Patterns/Skunky Designs Slim 5 Finger Paw/image-03.png>)
-
----
-
-<a id="wolfskinstudios-5-finger-paws"></a>
-### WolfskinStudios 5 Finger Paws #cheap #any-hand-paws #any-5-finger-hand-paw #any-species
-
-[https://www.etsy.com/ca/listing/1141342263/fursuit-5-finger-hand-paws-pattern](https://www.etsy.com/ca/listing/1141342263/fursuit-5-finger-hand-paws-pattern "smartCard-inline")
-
-(may need to resize pattern)
-
-![WolfskinStudios 5 Finger Paws](<attachments/5 Finger Paw Patterns/WolfskinStudios 5 Finger Paws/image-01.png>)
-
-![WolfskinStudios 5 Finger Paws](<attachments/5 Finger Paw Patterns/WolfskinStudios 5 Finger Paws/image-02.png>)
-
----
-
-<a id="wolfskinstudios-monster-5-finger-handpaw"></a>
-### WolfskinStudios Monster 5 Finger Handpaw #moderately #any-hand-paws #canine #any-5-finger-hand-paw #other-species
-
-[https://www.etsy.com/ca/listing/1523012015/monster-5-finger-handpaw-pattern-pdf](https://www.etsy.com/ca/listing/1523012015/monster-5-finger-handpaw-pattern-pdf "smartCard-inline")
-
-![WolfskinStudios Monster 5 Finger Handpaw](<attachments/5 Finger Paw Patterns/WolfskinStudios Monster 5 Finger Handpaw/image-01.png>)
-
-![WolfskinStudios Monster 5 Finger Handpaw](<attachments/5 Finger Paw Patterns/WolfskinStudios Monster 5 Finger Handpaw/image-02.png>)
-
-![WolfskinStudios Monster 5 Finger Handpaw](<attachments/5 Finger Paw Patterns/WolfskinStudios Monster 5 Finger Handpaw/image-03.png>)
-
----
-
-<a id="goatygoods-5-fingered-handpaws"></a>
-### GoatyGoods 5 Fingered Handpaws #moderately #canine #any-hand-paws #any-5-finger-hand-paw #any-species
-
-[https://payhip.com/b/Afm8Q](https://payhip.com/b/Afm8Q)
-
-![GoatyGoods 5 Fingered Handpaws](<attachments/5 Finger Paw Patterns/GoatyGoods 5 Fingered Handpaws/image-01.png>)
-
-![GoatyGoods 5 Fingered Handpaws](<attachments/5 Finger Paw Patterns/GoatyGoods 5 Fingered Handpaws/image-02.png>)
-
----
-
-<a id="tes-5-finger-paw-pattern"></a>
-### Tes 5 Finger Paw Pattern #any-species #cheap #any-5-finger-hand-paw #any-hand-paws
-
-[https://musingwolfdog.gumroad.com/l/handpawpattern](https://musingwolfdog.gumroad.com/l/handpawpattern "smartCard-inline")
-
-![Tes 5 Finger Paw Pattern](<attachments/5 Finger Paw Patterns/Tes 5 Finger Paw Pattern/image-01.webp>)
-
----
-
-<a id="sonstafurs-5-finger-paws"></a>
-### Sonstafurs 5 Finger Paws #any-hand-paws #any-5-finger-hand-paw #moderately #any-species
-
-[https://www.etsy.com/ca/listing/1627207516/pdf-pattern-download-fursuit-5-finger](https://www.etsy.com/ca/listing/1627207516/pdf-pattern-download-fursuit-5-finger "smartCard-inline")
-
-![Sonstafurs 5 Finger Paws](<attachments/5 Finger Paw Patterns/Sonstafurs 5 Finger Paws/image-01.png>)
-
----
-
-<a id="wingleafworkshop-5-finger-paws"></a>
-### WingLeafWorkshop 5 Finger Paws #cheap #any-hand-paws #any-5-finger-hand-paw #any-species
-
-[https://www.etsy.com/ca/listing/1742391267/5-fingered-paws-fluffy-handpaws-pdf](https://www.etsy.com/ca/listing/1742391267/5-fingered-paws-fluffy-handpaws-pdf "smartCard-inline")
-
-![WingLeafWorkshop 5 Finger Paws](<attachments/5 Finger Paw Patterns/WingLeafWorkshop 5 Finger Paws/image-01.jpg>)
-
----
-
-<a id="wingleafworkshop-4-or-5-fingered-puffy-paws"></a>
-### WingLeafWorkshop 4 or 5 Fingered Puffy Paws #any-species #any-5-finger-hand-paw #any-hand-paws #cheap
-
-[https://www.etsy.com/ca/listing/1736845565/fluffy-handpaws-pdf-pattern-detailed](https://www.etsy.com/ca/listing/1736845565/fluffy-handpaws-pdf-pattern-detailed "smartCard-inline")
-
-![WingLeafWorkshop 4 or 5 Fingered Puffy Paws](<attachments/5 Finger Paw Patterns/WingLeafWorkshop 4 or 5 Fingered Puffy Paws/image-01.webp>)
-
----
-
-<a id="wingleafworkshop-4-or-5-fingered-fluffy-paws"></a>
-### WingLeafWorkshop 4 or 5 Fingered Fluffy Paws #any-species #any-5-finger-hand-paw #any-hand-paws #cheap
-
-[https://www.etsy.com/ca/listing/1767545587/puffy-handpaws-pdf-pattern-detailed](https://www.etsy.com/ca/listing/1767545587/puffy-handpaws-pdf-pattern-detailed "smartCard-inline")
-
-![WingLeafWorkshop 4 or 5 Fingered Fluffy Paws](<attachments/5 Finger Paw Patterns/WingLeafWorkshop 4 or 5 Fingered Fluffy Paws/image-01.webp>)
-
----
-
-<a id="twilightknights-5-fingered-puffy-paw"></a>
-### TwilightKnights 5 Fingered Puffy Paw #moderately #any-5-finger-hand-paw #any-hand-paws #any-species
-
-[https://www.etsy.com/ca/listing/1786193215/5-fingered-puffy-paw-pattern-pdf](https://www.etsy.com/ca/listing/1786193215/5-fingered-puffy-paw-pattern-pdf "smartCard-inline")
-
-![TwilightKnights 5 Fingered Puffy Paw](<attachments/5 Finger Paw Patterns/TwilightKnights 5 Fingered Puffy Paw/image-01.webp>)
-
----
-
-<a id="thistlecrux-5-finger-paws"></a>
-### Thistlecrux 5 Finger Paws #canine #any-hand-paws #any-5-finger-hand-paw #moderately
-
-[https://www.etsy.com/ca/listing/1809480607/5-finger-fursuit-paw-pattern-with](https://www.etsy.com/ca/listing/1809480607/5-finger-fursuit-paw-pattern-with "smartCard-inline")
-
-![Thistlecrux 5 Finger Paws](<attachments/5 Finger Paw Patterns/Thistlecrux 5 Finger Paws/image-01.png>)
-
----
-
-<a id="mysticmalamute-5-finger-puffy-paw"></a>
-### MysticMalamute 5 Finger Puffy Paw #any-5-finger-hand-paw #any-hand-paws #any-species #cheap
-
-[https://ko-fi.com/s/9d6d867008](https://ko-fi.com/s/9d6d867008 "smartCard-inline")
-
-[https://www.etsy.com/ca/listing/4406866046/five-finger-puffy-fursuit-paw-pattern](https://www.etsy.com/ca/listing/4406866046/five-finger-puffy-fursuit-paw-pattern "smartCard-inline")
-
-![MysticMalamute 5 Finger Puffy Paw](<attachments/5 Finger Paw Patterns/MysticMalamute 5 Finger Puffy Paw/image-01.png>)
-
----
-
-<a id="mysticmalamute-flat-5-finger-paw"></a>
-### MysticMalamute Flat 5 Finger Paw #cheap #any-species #any-hand-paws #any-5-finger-hand-paw
-
-[https://www.etsy.com/ca/listing/4364032852/simple-5-finger-paw-pattern-for-fursuits](https://www.etsy.com/ca/listing/4364032852/simple-5-finger-paw-pattern-for-fursuits "smartCard-inline")
-
-[https://ko-fi.com/s/5ee8a96583](https://ko-fi.com/s/5ee8a96583 "smartCard-inline")
-
-![MysticMalamute Flat 5 Finger Paw](<attachments/5 Finger Paw Patterns/MysticMalamute Flat 5 Finger Paw/image-01.png>)
-
-![MysticMalamute Flat 5 Finger Paw](<attachments/5 Finger Paw Patterns/MysticMalamute Flat 5 Finger Paw/image-02.png>)
-
----
-
-<a id="ears"></a>
-
-</details>
-
-<details>
-<summary>Ears</summary>
-
-
-[↑ Contents](#contents)
-
----
-
-<a id="cactusdogstudio-floppy-ear-pattern"></a>
-### CactusDogStudio Floppy Ear Pattern #cheap #fursuit-heads #canine
-
-[https://www.etsy.com/ca/listing/1679888684/fursuit-floppy-ear-pattern](https://www.etsy.com/ca/listing/1679888684/fursuit-floppy-ear-pattern "smartCard-inline")
-
-![CactusDogStudio Floppy Ear Pattern](<attachments/Ears/CactusDogStudio Floppy Ear Pattern/image-01.webp>)
-
----
-
-<a id="twilightknights-7-ear-pack"></a>
-### TwilightKnights 7 Ear pack #cheap #canine #feline #other-species #fursuit-heads #multipack #any-species
-
-[https://www.etsy.com/ca/listing/1295006937/fursuit-ears-pattern-pack-7-patterns](https://www.etsy.com/ca/listing/1295006937/fursuit-ears-pattern-pack-7-patterns "smartCard-inline")
-
-![TwilightKnights 7 Ear pack](<attachments/Ears/TwilightKnights 7 Ear pack/image-01.png>)
-
----
-
-<a id="twilightknights-4-ear-pack"></a>
-### TwilightKnights 4 Ear pack #cheap #other-species #fursuit-heads #multipack
-
-[https://www.etsy.com/ca/listing/1295006937/fursuit-ears-pattern-pack-7-patterns](https://www.etsy.com/ca/listing/1295006937/fursuit-ears-pattern-pack-7-patterns "smartCard-inline")
-
-![TwilightKnights 4 Ear pack](<attachments/Ears/TwilightKnights 4 Ear pack/image-01.jpg>)
-
----
-
-<a id="ybl-5-ear-patterns"></a>
-### YBL 5 Ear Patterns #moderately #canine #feline #other-species #fursuit-heads #multipack #any-species
-
-[https://www.etsy.com/ca/listing/1369346400/fursuit-ear-patterns-pdf-download](https://www.etsy.com/ca/listing/1369346400/fursuit-ear-patterns-pdf-download "smartCard-inline")
-
-Canine, fennec, cat, “pointed” and hyena
-
-![YBL 5 Ear Patterns](<attachments/Ears/YBL 5 Ear Patterns/image-01.png>)
-
----
-
-<a id="jaycostumes-7-ear-patterns"></a>
-### Jaycostumes 7 Ear Patterns #other-species #cheap #canine #feline #fursuit-heads #multipack #any-species
-
-[https://www.etsy.com/ca/listing/852273815/7-fursuit-head-ear-pattern-diy-pdf](https://www.etsy.com/ca/listing/852273815/7-fursuit-head-ear-pattern-diy-pdf "smartCard-inline")
-
-canine, housecat, big cat, ferret, possum, “little critter” (fits many species), rat/rodent
-
-![Jaycostumes 7 Ear Patterns](<attachments/Ears/Jaycostumes 7 Ear Patterns/image-01.png>)
-
-![Jaycostumes 7 Ear Patterns](<attachments/Ears/Jaycostumes 7 Ear Patterns/image-02.png>)
-
----
-
-<a id="tinnatupaws-7-ear-patterns"></a>
-### TinnatuPaws 7 Ear Patterns #other-species #feline #canine #fursuit-heads #cheap #expensive #multipack #any-species #foam-only
-
-Multipack: [https://www.etsy.com/ca/listing/1207997248/fursuit-ear-pattern-pack-pdf-download-7](https://www.etsy.com/ca/listing/1207997248/fursuit-ear-pattern-pack-pdf-download-7 "smartCard-inline")
-
-Singles:
-
-Canine: [https://www.etsy.com/ca/listing/1208698446/wolf-fox-fursuit-ears-downloadable](https://www.etsy.com/ca/listing/1208698446/wolf-fox-fursuit-ears-downloadable "smartCard-inline")
-
-Hyena/notched: [https://www.etsy.com/ca/listing/1208704510/hyena-fursuit-ears-downloadable-pattern](https://www.etsy.com/ca/listing/1208704510/hyena-fursuit-ears-downloadable-pattern "smartCard-inline")
-
-Feline: [https://www.etsy.com/ca/listing/1208699734/pointed-cat-fursuit-ears-downloadable](https://www.etsy.com/ca/listing/1208699734/pointed-cat-fursuit-ears-downloadable "smartCard-inline")
-
-Big Cat: [https://www.etsy.com/ca/listing/1222652455/big-cat-fursuit-ears-downloadable](https://www.etsy.com/ca/listing/1222652455/big-cat-fursuit-ears-downloadable "smartCard-inline")
-
-Manokit: [https://www.etsy.com/ca/listing/1208695218/fursuit-ears-with-gauges-downloadable](https://www.etsy.com/ca/listing/1208695218/fursuit-ears-with-gauges-downloadable "smartCard-inline")
-
-Bunny: [https://www.etsy.com/ca/listing/1208693358/fursuit-bunny-ears-downloadable-pattern](https://www.etsy.com/ca/listing/1208693358/fursuit-bunny-ears-downloadable-pattern "smartCard-inline")
-
-Floppy: [https://www.etsy.com/ca/listing/1208701752/floppy-dog-fursuit-ears-downloadable](https://www.etsy.com/ca/listing/1208701752/floppy-dog-fursuit-ears-downloadable "smartCard-inline")
-
-![TinnatuPaws 7 Ear Patterns](<attachments/Ears/TinnatuPaws 7 Ear Patterns/image-01.jpg>)
-
-![TinnatuPaws 7 Ear Patterns](<attachments/Ears/TinnatuPaws 7 Ear Patterns/image-02.webp>)
-
-![TinnatuPaws 7 Ear Patterns](<attachments/Ears/TinnatuPaws 7 Ear Patterns/image-03.webp>)
-
-![TinnatuPaws 7 Ear Patterns](<attachments/Ears/TinnatuPaws 7 Ear Patterns/image-04.webp>)
-
-![TinnatuPaws 7 Ear Patterns](<attachments/Ears/TinnatuPaws 7 Ear Patterns/image-05.webp>)
-
-![TinnatuPaws 7 Ear Patterns](<attachments/Ears/TinnatuPaws 7 Ear Patterns/image-06.webp>)
-
-![TinnatuPaws 7 Ear Patterns](<attachments/Ears/TinnatuPaws 7 Ear Patterns/image-07.webp>)
-
-![TinnatuPaws 7 Ear Patterns](<attachments/Ears/TinnatuPaws 7 Ear Patterns/image-08.webp>)
-
----
-
-<a id="mugiwara-fennec-fox-and-canine-headband-ears"></a>
-### Mugiwara Fennec Fox & Canine Headband Ears #cheap #fursuit-heads #canine #video-tutorials
-
-[https://mugiwara-cosplay.sellfy.store/p/digital-fennec-fox-and-canine-headband-ears-patterns-pdf-download/](https://mugiwara-cosplay.sellfy.store/p/digital-fennec-fox-and-canine-headband-ears-patterns-pdf-download/ "smartCard-inline")
-
-[https://www.etsy.com/ca/listing/659737247/digital-fennec-fox-canine-headband-ears](https://www.etsy.com/ca/listing/659737247/digital-fennec-fox-canine-headband-ears "smartCard-inline")
-
-[https://www.youtube.com/watch?v=gYN3iBuip7U](https://www.youtube.com/watch?v=gYN3iBuip7U "smartCard-inline")
-
-![Mugiwara Fennec Fox & Canine Headband Ears](<attachments/Ears/Mugiwara Fennec Fox & Canine Headband Ears/image-01.jpg>)
-
-![Mugiwara Fennec Fox & Canine Headband Ears](<attachments/Ears/Mugiwara Fennec Fox & Canine Headband Ears/image-02.jpg>)
-
----
-
-<a id="mugiwara-feline-headband-ears"></a>
-### Mugiwara Feline Headband Ears #cheap #fursuit-heads #canine #feline #video-tutorials
-
-[https://mugiwara-cosplay.sellfy.store/p/digital-feline-headband-ears-patterns-pdf-download/](https://mugiwara-cosplay.sellfy.store/p/digital-feline-headband-ears-patterns-pdf-download/ "smartCard-inline")
-
-[https://www.etsy.com/ca/listing/660263008/digital-feline-headband-ears-patterns](https://www.etsy.com/ca/listing/660263008/digital-feline-headband-ears-patterns "smartCard-inline")
-
-[https://www.youtube.com/watch?v=gYN3iBuip7U](https://www.youtube.com/watch?v=gYN3iBuip7U "smartCard-inline")
-
-![Mugiwara Feline Headband Ears](<attachments/Ears/Mugiwara Feline Headband Ears/image-01.jpg>)
-
----
-
-<a id="mugiwara-bunny-headband-ears"></a>
-### Mugiwara Bunny Headband Ears #cheap #fursuit-heads #video-tutorials #other-species
-
-[https://mugiwara-cosplay.sellfy.store/p/digital-bunny-headband-ears-pattern-pdf-download/](https://mugiwara-cosplay.sellfy.store/p/digital-bunny-headband-ears-pattern-pdf-download/ "smartCard-inline")
-
-[https://www.etsy.com/ca/listing/728638419/digital-bunny-headband-ears-pattern-pdf](https://www.etsy.com/ca/listing/728638419/digital-bunny-headband-ears-pattern-pdf "smartCard-inline")
-
-[https://www.youtube.com/watch?v=tRUg-YXYHb0](https://www.youtube.com/watch?v=tRUg-YXYHb0 "smartCard-inline")
-
-![Mugiwara Bunny Headband Ears](<attachments/Ears/Mugiwara Bunny Headband Ears/image-01.jpg>)
-
----
-
-<a id="blackmarblefursuits-lop-rabbit-ears"></a>
-### BlackMarbleFursuits Lop Rabbit Ears #other-species #cheap #fursuit-heads
-
-[https://www.etsy.com/ca/listing/1621823100/fursuit-rabbit-ears-pattern-template-pdf](https://www.etsy.com/ca/listing/1621823100/fursuit-rabbit-ears-pattern-template-pdf "smartCard-inline")
-
-![BlackMarbleFursuits Lop Rabbit Ears](<attachments/Ears/BlackMarbleFursuits Lop Rabbit Ears/image-01.jpg>)
-
----
-
-<a id="direcreatures-5-species-ear-pack"></a>
-### DireCreatures 5 Species Ear Pack #moderately #other-species #fursuit-heads #multipack #any-species #canine #feline
-
-Fox, wolf, cat, big cat, sergal
-
-[https://www.etsy.com/ca/listing/1371552381/pdf-pattern-deluxe-ear-pattern-pack-by](https://www.etsy.com/ca/listing/1371552381/pdf-pattern-deluxe-ear-pattern-pack-by "smartCard-inline")
-
-![DireCreatures 5 Species Ear Pack](<attachments/Ears/DireCreatures 5 Species Ear Pack/image-01.jpg>)
-
----
-
-<a id="teacuplion-canine-ears"></a>
-### TeacupLion Canine Ears #foam-only #fursuit-heads #any-species #canine #cheap #video-tutorials
-
-[https://www.etsy.com/ca/listing/1786207884/fursuit-sewing-pattern-canine-foam-ear](https://www.etsy.com/ca/listing/1786207884/fursuit-sewing-pattern-canine-foam-ear "smartCard-inline")
-
-![TeacupLion Canine Ears](<attachments/Ears/TeacupLion Canine Ears/image-01.webp>)
-
----
-
-<a id="teacuplion-pom-ears"></a>
-### TeacupLion Pom Ears #foam-only #fursuit-heads #any-species #cheap #video-tutorials #canine
-
-[https://www.etsy.com/ca/listing/1790203400/fursuit-pdf-pattern-pomeranian-foam-ear](https://www.etsy.com/ca/listing/1790203400/fursuit-pdf-pattern-pomeranian-foam-ear)
-
-![TeacupLion Pom Ears](<attachments/Ears/TeacupLion Pom Ears/image-01.webp>)
-
----
-
-<a id="teacuplion-feline-ears"></a>
-### TeacupLion Feline Ears #foam-only #fursuit-heads #any-species #cheap #video-tutorials #feline
-
-[https://www.etsy.com/ca/listing/1790141312/fursuit-pdf-pattern-feline-foam-ear-cat](https://www.etsy.com/ca/listing/1790141312/fursuit-pdf-pattern-feline-foam-ear-cat "smartCard-inline")
-
-![TeacupLion Feline Ears](<attachments/Ears/TeacupLion Feline Ears/image-01.webp>)
-
----
-
-<a id="teacuplion-floppy-ears"></a>
-### TeacupLion Floppy Ears #moderately #multipack #fursuit-heads #canine
-
-[https://www.etsy.com/ca/listing/1788536860/fursuit-sewing-pattern-2-ear-pdf-bundle](https://www.etsy.com/ca/listing/1788536860/fursuit-sewing-pattern-2-ear-pdf-bundle "smartCard-inline")
-
-2 styles
-
-3 flop levels (floppy, stiff, poseable)
-
-![TeacupLion Floppy Ears](<attachments/Ears/TeacupLion Floppy Ears/image-01.webp>)
-
----
-
-<a id="mossyfox-bat-ears"></a>
-### MossyFox Bat Ears #video-tutorials #moderately #other-species #fursuit-heads #multipack
-
-Just the ears: [https://mossyfox.bigcartel.com/product/bat-ear-patern-tutorial](https://mossyfox.bigcartel.com/product/bat-ear-patern-tutorial "smartCard-inline")
-
-Wings and Ears Bundle: [https://mossyfox.bigcartel.com/product/digital-bat-eing-ear-bundle](https://mossyfox.bigcartel.com/product/digital-bat-eing-ear-bundle "smartCard-inline")
-
-![MossyFox Bat Ears](<attachments/Ears/MossyFox Bat Ears/image-01.webp>)
-
----
-
-<a id="mossyfox-fawn-ear-pattern"></a>
-### MossyFox Fawn Ear Pattern #fursuit-heads #other-species #cheap
-
-[https://mossyfox.bigcartel.com/product/fawn-ear-pattern-tutorial](https://mossyfox.bigcartel.com/product/fawn-ear-pattern-tutorial "smartCard-inline")
-
-![MossyFox Fawn Ear Pattern](<attachments/Ears/MossyFox Fawn Ear Pattern/image-01.webp>)
-
----
-
-<a id="twilightknights-ear-headbands"></a>
-### TwilightKnights Ear Headbands #multipack #cheap #fursuit-heads #canine #feline
-
-[https://www.etsy.com/ca/listing/1691778624/animal-ear-headband-tutorial-pattern-pdf](https://www.etsy.com/ca/listing/1691778624/animal-ear-headband-tutorial-pattern-pdf)
-
-![TwilightKnights Ear Headbands](<attachments/Ears/TwilightKnights Ear Headbands/image-01.webp>)
-
----
-
-<a id="highvalleycreations-rabbit-ears"></a>
-### HighValleyCreations Rabbit Ears #other-species #fursuit-heads #cheap
-
-[https://www.etsy.com/ca/listing/1869298534/bunny-ear-pattern-and-instructions](https://www.etsy.com/ca/listing/1869298534/bunny-ear-pattern-and-instructions "smartCard-inline")
-
-![HighValleyCreations Rabbit Ears](<attachments/Ears/HighValleyCreations Rabbit Ears/image-01.png>)
-
----
-
-<a id="trinestreasury-6-ear-patterns"></a>
-### TrinesTreasury 6 Ear Patterns #cheap #fursuit-heads #other-species #foam-only #canine #feline #equine-cervine #any-species
-
-Folded Dog: [https://www.etsy.com/ca/listing/4301445897/folded-dog-ears-pattern-guide-a4-and-us](https://www.etsy.com/ca/listing/4301445897/folded-dog-ears-pattern-guide-a4-and-us "smartCard-inline")
-
-Angry Cat: [https://www.etsy.com/ca/listing/4301454897/angry-cat-ears-pattern-guide-a4-and-us](https://www.etsy.com/ca/listing/4301454897/angry-cat-ears-pattern-guide-a4-and-us "smartCard-inline")
-
-Bunny:[https://www.etsy.com/ca/listing/4301432946/bunny-ears-pattern-guide-a4-and-us](https://www.etsy.com/ca/listing/4301432946/bunny-ears-pattern-guide-a4-and-us "smartCard-inline")
-
-Hanging Ears: [https://www.etsy.com/ca/listing/4301422946/hanging-ears-pattern-guide-a4-and-us](https://www.etsy.com/ca/listing/4301422946/hanging-ears-pattern-guide-a4-and-us "smartCard-inline")
-
-Mouse: [https://www.etsy.com/ca/listing/4301406405/mouse-ears-pattern-guide-a4-and-us](https://www.etsy.com/ca/listing/4301406405/mouse-ears-pattern-guide-a4-and-us "smartCard-inline")
-
-Deer: [https://www.etsy.com/ca/listing/4301390064/deer-ear-pattern-guide-a4-and-us-letter](https://www.etsy.com/ca/listing/4301390064/deer-ear-pattern-guide-a4-and-us-letter "smartCard-inline")
-
-![TrinesTreasury 6 Ear Patterns](<attachments/Ears/TrinesTreasury 6 Ear Patterns/image-01.png>)
-
-![TrinesTreasury 6 Ear Patterns](<attachments/Ears/TrinesTreasury 6 Ear Patterns/image-02.png>)
-
-![TrinesTreasury 6 Ear Patterns](<attachments/Ears/TrinesTreasury 6 Ear Patterns/image-03.png>)
-
-![TrinesTreasury 6 Ear Patterns](<attachments/Ears/TrinesTreasury 6 Ear Patterns/image-04.png>)
-
-![TrinesTreasury 6 Ear Patterns](<attachments/Ears/TrinesTreasury 6 Ear Patterns/image-05.png>)
-
-![TrinesTreasury 6 Ear Patterns](<attachments/Ears/TrinesTreasury 6 Ear Patterns/image-06.png>)
-
----
-
-<a id="moondeitycrafts-cat-ear-template"></a>
-### MoonDeityCrafts Cat Ear Template #feline #cheap #fursuit-heads
-
-[https://www.etsy.com/ca/listing/1636989528/digital-cat-ears-template](https://www.etsy.com/ca/listing/1636989528/digital-cat-ears-template "smartCard-inline")
-
-![MoonDeityCrafts Cat Ear Template](<attachments/Ears/MoonDeityCrafts Cat Ear Template/image-01.webp>)
-
----
-
-<a id="splitsharksuits-5-ear-styles"></a>
-### SplitSharkSuits 5 Ear Styles #fursuit-heads #cheap #other-species #any-species #canine #feline #foam-only
-
-Rounded/Curved: [https://www.etsy.com/ca/listing/4419473876/rounded-curved-dinomask-ear-base-pattern](https://www.etsy.com/ca/listing/4419473876/rounded-curved-dinomask-ear-base-pattern "smartCard-inline")
-
-Wide Base: [https://www.etsy.com/ca/listing/4407404874/wide-dinomask-ear-base-pattern](https://www.etsy.com/ca/listing/4407404874/wide-dinomask-ear-base-pattern "smartCard-inline")
-
-Back Facing: [https://www.etsy.com/ca/listing/4407441117/back-facing-dinomask-ear-base-pattern](https://www.etsy.com/ca/listing/4407441117/back-facing-dinomask-ear-base-pattern "smartCard-inline")
-
-Cow Ear: [https://www.etsy.com/ca/listing/4440500836/cow-dinomask-ear-pattern-splitsharksuits](https://www.etsy.com/ca/listing/4440500836/cow-dinomask-ear-pattern-splitsharksuits "smartCard-inline")
-
-Floppy Ears: [https://www.etsy.com/ca/listing/4407390375/dinomask-floppy-ear-pattern-small-floppy](https://www.etsy.com/ca/listing/4407390375/dinomask-floppy-ear-pattern-small-floppy "smartCard-inline")
-
-![SplitSharkSuits 5 Ear Styles](<attachments/Ears/SplitSharkSuits 5 Ear Styles/image-01.webp>)
-
-![SplitSharkSuits 5 Ear Styles](<attachments/Ears/SplitSharkSuits 5 Ear Styles/image-02.webp>)
-
-![SplitSharkSuits 5 Ear Styles](<attachments/Ears/SplitSharkSuits 5 Ear Styles/image-03.png>)
-
-![SplitSharkSuits 5 Ear Styles](<attachments/Ears/SplitSharkSuits 5 Ear Styles/image-04.png>)
-
-![SplitSharkSuits 5 Ear Styles](<attachments/Ears/SplitSharkSuits 5 Ear Styles/image-05.png>)
-
----
-
-<a id="themishfittoy-15-ear-patterns"></a>
-### TheMishfitToy 15 Ear Patterns #feline #canine #any-species #other-species #cheap #fursuit-heads
-
-Fox Ears: [https://www.etsy.com/ca/listing/1905935005/fox-ear-cosplay-pattern](https://www.etsy.com/ca/listing/1905935005/fox-ear-cosplay-pattern "smartCard-inline")
-
-Gorou/Dog Ears: [https://www.etsy.com/ca/listing/1905915671/gorou-small-dog-ear-cosplay-pattern](https://www.etsy.com/ca/listing/1905915671/gorou-small-dog-ear-cosplay-pattern "smartCard-inline")
-
-Floppy Ear: [https://www.etsy.com/ca/listing/1891754490/floppy-dog-ear-cosplay-pattern](https://www.etsy.com/ca/listing/1891754490/floppy-dog-ear-cosplay-pattern "smartCard-inline")
-
-Tighnari/Tall Ears: [https://www.etsy.com/ca/listing/1905940137/tighnari-ear-cosplay-pattern](https://www.etsy.com/ca/listing/1905940137/tighnari-ear-cosplay-pattern "smartCard-inline")
-
-Cat: [https://www.etsy.com/ca/listing/1905938469/cat-ear-cosplay-pattern](https://www.etsy.com/ca/listing/1905938469/cat-ear-cosplay-pattern "smartCard-inline")
-
-Lynx: [https://www.etsy.com/ca/listing/4338699082/lynx-ear-cosplay-pattern](https://www.etsy.com/ca/listing/4338699082/lynx-ear-cosplay-pattern "smartCard-inline")
-
-Small Round: [https://www.etsy.com/ca/listing/4338700206/short-round-ear-cosplay-pattern](https://www.etsy.com/ca/listing/4338700206/short-round-ear-cosplay-pattern "smartCard-inline")
-
-Bear: [https://www.etsy.com/ca/listing/1905936493/bear-ears-cosplay-pattern](https://www.etsy.com/ca/listing/1905936493/bear-ears-cosplay-pattern "smartCard-inline")
-
-Goat/Cow: [https://www.etsy.com/ca/listing/1891751298/goat-cow-cosplay-pattern](https://www.etsy.com/ca/listing/1891751298/goat-cow-cosplay-pattern "smartCard-inline")
-
-Deer: [https://www.etsy.com/ca/listing/1905937477/deer-ear-cosplay-pattern](https://www.etsy.com/ca/listing/1905937477/deer-ear-cosplay-pattern "smartCard-inline")
-
-Horse: [https://www.etsy.com/ca/listing/4357812585/horse-ear-cosplay-pattern](https://www.etsy.com/ca/listing/4357812585/horse-ear-cosplay-pattern "smartCard-inline")
-
-Rat: [https://www.etsy.com/ca/listing/1891748006/large-rat-ear-cosplay-pattern](https://www.etsy.com/ca/listing/1891748006/large-rat-ear-cosplay-pattern "smartCard-inline")
-
-Large Bat: [https://www.etsy.com/ca/listing/1905923361/large-bat-ear-cosplay-pattern](https://www.etsy.com/ca/listing/1905923361/large-bat-ear-cosplay-pattern "smartCard-inline")
-
-Tall Rabbit: [https://www.etsy.com/ca/listing/1891745638/tall-rabbit-ear-cosplay-pattern](https://www.etsy.com/ca/listing/1891745638/tall-rabbit-ear-cosplay-pattern "smartCard-inline")
-
-Jax/Taller Rabbit Ears: [https://www.etsy.com/ca/listing/1891732674/jax-the-amazing-digital-circus-rabbit](https://www.etsy.com/ca/listing/1891732674/jax-the-amazing-digital-circus-rabbit "smartCard-inline")
-
-![TheMishfitToy 15 Ear Patterns](<attachments/Ears/TheMishfitToy 15 Ear Patterns/image-01.png>)
-
-![TheMishfitToy 15 Ear Patterns](<attachments/Ears/TheMishfitToy 15 Ear Patterns/image-02.png>)
-
-![TheMishfitToy 15 Ear Patterns](<attachments/Ears/TheMishfitToy 15 Ear Patterns/image-03.png>)
-
-![TheMishfitToy 15 Ear Patterns](<attachments/Ears/TheMishfitToy 15 Ear Patterns/image-04.png>)
-
-![TheMishfitToy 15 Ear Patterns](<attachments/Ears/TheMishfitToy 15 Ear Patterns/image-05.png>)
-
-![TheMishfitToy 15 Ear Patterns](<attachments/Ears/TheMishfitToy 15 Ear Patterns/image-06.png>)
-
-![TheMishfitToy 15 Ear Patterns](<attachments/Ears/TheMishfitToy 15 Ear Patterns/image-07.png>)
-
-![TheMishfitToy 15 Ear Patterns](<attachments/Ears/TheMishfitToy 15 Ear Patterns/image-08.png>)
-
-![TheMishfitToy 15 Ear Patterns](<attachments/Ears/TheMishfitToy 15 Ear Patterns/image-09.png>)
-
-![TheMishfitToy 15 Ear Patterns](<attachments/Ears/TheMishfitToy 15 Ear Patterns/image-10.png>)
-
-![TheMishfitToy 15 Ear Patterns](<attachments/Ears/TheMishfitToy 15 Ear Patterns/image-11.png>)
-
-![TheMishfitToy 15 Ear Patterns](<attachments/Ears/TheMishfitToy 15 Ear Patterns/image-12.png>)
-
-![TheMishfitToy 15 Ear Patterns](<attachments/Ears/TheMishfitToy 15 Ear Patterns/image-13.png>)
-
-![TheMishfitToy 15 Ear Patterns](<attachments/Ears/TheMishfitToy 15 Ear Patterns/image-14.png>)
-
-![TheMishfitToy 15 Ear Patterns](<attachments/Ears/TheMishfitToy 15 Ear Patterns/image-15.png>)
-
----
-
-<a id="fursuit-hair"></a>
-
-</details>
-
-<details>
-<summary>Fursuit Hair</summary>
-
-
-[↑ Contents](#contents)
-
----
-
-<a id="moondeitycrafts-hair-poof"></a>
-### MoonDeityCrafts Hair Poof #any-species #cheap #fursuit-heads
-
-[https://www.etsy.com/ca/listing/1591961184/digital-fursuit-hair-template-tutorial](https://www.etsy.com/ca/listing/1591961184/digital-fursuit-hair-template-tutorial "smartCard-inline")
-
-![MoonDeityCrafts Hair Poof](<attachments/Fursuit Hair/MoonDeityCrafts Hair Poof/image-01.webp>)
-
----
-
-<a id="splitsharkstudios-mohawk-pattern"></a>
-### SplitSharkStudios Mohawk Pattern #cheap #fursuit-heads #any-species
-
-[https://www.etsy.com/ca/listing/4407322898/dinomask-mohawk-pattern-dinomask-hair](https://www.etsy.com/ca/listing/4407322898/dinomask-mohawk-pattern-dinomask-hair "smartCard-inline")
-
-![SplitSharkStudios Mohawk Pattern](<attachments/Fursuit Hair/SplitSharkStudios Mohawk Pattern/image-01.png>)
-
----
-
-<a id="mugiqwaracosplay-mane-pattern"></a>
-### MugiqwaraCosplay Mane Pattern #other-species #video-tutorials #fursuit-heads #moderately
-
-Advanced Pattern
-
-[https://youtu.be/xJamRPzHPHE](https://youtu.be/xJamRPzHPHE "smartCard-inline")
-
-[https://www.etsy.com/ca/listing/1801844300/digital-fursuit-mane-pattern-for](https://www.etsy.com/ca/listing/1801844300/digital-fursuit-mane-pattern-for "smartCard-inline")
-
-![MugiqwaraCosplay Mane Pattern](<attachments/Fursuit Hair/MugiqwaraCosplay Mane Pattern/image-01.png>)
-
----
-
-<a id="werewolfprince666-hair-tutorial"></a>
-### werewolfprince666 Hair Tutorial #cheap #fursuit-heads #any-species #tutorial-no-pattern-incl #other-species
-
-[https://www.etsy.com/ca/listing/1604838686/fursuit-head-emo-hair-tutorial](https://www.etsy.com/ca/listing/1604838686/fursuit-head-emo-hair-tutorial "smartCard-inline")
-
-![werewolfprince666 Hair Tutorial](<attachments/Fursuit Hair/werewolfprince666 Hair Tutorial/image-01.png>)
-
----
-
-<a id="kittencafestudios-neck-donut-poof"></a>
-### KittenCafeStudios Neck Donut Poof #any-species #cheap #fursuit-heads
-
-[https://www.etsy.com/ca/listing/1812939323/diy-fursuit-neck-donut-poof-pattern](https://www.etsy.com/ca/listing/1812939323/diy-fursuit-neck-donut-poof-pattern)
-
-![KittenCafeStudios Neck Donut Poof](<attachments/Fursuit Hair/KittenCafeStudios Neck Donut Poof/image-01.webp>)
-
----
-
-<a id="teacuplion-4-cheek-fluffs"></a>
-### TeacupLion 4 Cheek Fluffs #fursuit-heads #cheap #foam-only #any-species
-
-[https://www.etsy.com/ca/listing/1806930375/fursuit-pdf-cheek-pattern-4-sizes-foam](https://www.etsy.com/ca/listing/1806930375/fursuit-pdf-cheek-pattern-4-sizes-foam "smartCard-inline")
-
-![TeacupLion 4 Cheek Fluffs](<attachments/Fursuit Hair/TeacupLion 4 Cheek Fluffs/image-01.webp>)
-
----
-
-<a id="teacuplion-head-fluff"></a>
-### TeacupLion Head Fluff #any-species #cheap #fursuit-heads #video-tutorials
-
-[https://www.etsy.com/ca/listing/1821710285/fursuit-pattern-hair-head-fluff-pdf](https://www.etsy.com/ca/listing/1821710285/fursuit-pattern-hair-head-fluff-pdf "smartCard-inline")
-
-![TeacupLion Head Fluff](<attachments/Fursuit Hair/TeacupLion Head Fluff/image-01.webp>)
-
----
-
-<a id="teacuplion-deluxe-emo-hair"></a>
-### TeacupLion Deluxe Emo Hair #fursuit-heads #moderately #any-species
-
-[https://www.etsy.com/ca/listing/1890943080/fursuit-sewing-pattern-deluxe-emo-scene](https://www.etsy.com/ca/listing/1890943080/fursuit-sewing-pattern-deluxe-emo-scene "smartCard-inline")
-
-![TeacupLion Deluxe Emo Hair](<attachments/Fursuit Hair/TeacupLion Deluxe Emo Hair/image-01.webp>)
-
----
-
-<a id="canine-and-generic-feet-paws"></a>
-
-</details>
-
-<details>
-<summary>Canine & Generic Feet Paws</summary>
-
-
-[↑ Contents](#contents)
-
----
-
-<a id="free-foxfire-fantasy-feral-canine-slim-paws"></a>
-### (FREE) FoxFire Fantasy Feral Canine Slim Paws #any-feet #canine #free
-
-[https://ko-fi.com/s/e6a0e4a710](https://ko-fi.com/s/e6a0e4a710 "smartCard-inline")
-
-Feel free to leave a tip!
-
-Just the pattern NO INSTRUCTIONS:
-
-[https://ko-fi.com/s/e6c5ebc0cb](https://ko-fi.com/s/e6c5ebc0cb "smartCard-inline")
-
-![FREE FoxFire Fantasy Feral Canine Slim Paws](<attachments/Canine & Generic Feet Paws/(FREE) FoxFire Fantasy Feral Canine Slim Paws/image-01.png>)
-
-![FREE FoxFire Fantasy Feral Canine Slim Paws](<attachments/Canine & Generic Feet Paws/(FREE) FoxFire Fantasy Feral Canine Slim Paws/image-02.png>)
-
-![FREE FoxFire Fantasy Feral Canine Slim Paws](<attachments/Canine & Generic Feet Paws/(FREE) FoxFire Fantasy Feral Canine Slim Paws/image-03.png>)
-
----
-
-<a id="foxfire-fantasy-fox-foot-pattern"></a>
-### FoxFire Fantasy Fox Foot Pattern #canine #expensive #any-feet
-
-[https://ko-fi.com/s/620b6f6f93](https://ko-fi.com/s/620b6f6f93 "smartCard-inline")
-
-![FoxFire Fantasy Fox Foot Pattern](<attachments/Canine & Generic Feet Paws/FoxFire Fantasy Fox Foot Pattern/image-01.png>)
-
----
-
-<a id="freakhound-sock-paw"></a>
-### Freakhound Sock Paw #cheap #any-feet #canine #feline #any-species #sockpaw
-
-[https://yellowfr3ak.gumroad.com/l/gOXUw](https://yellowfr3ak.gumroad.com/l/gOXUw "smartCard-inline")
-
-![Freakhound Sock Paw](<attachments/Canine & Generic Feet Paws/Freakhound Sock Paw/image-01.png>)
-
----
-
-<a id="matrices-plantifootpaw"></a>
-### Matrices PlantiFootpaw #moderately #any-feet #canine #feline #any-species #sockpaw
-
-[https://matrices.gumroad.com/l/footpaws?layout=profile](https://matrices.gumroad.com/l/footpaws?layout=profile "smartCard-inline")
-
-[https://www.etsy.com/ca/listing/639864906/pattern-and-tutorial-fursuit-plantigrade](https://www.etsy.com/ca/listing/639864906/pattern-and-tutorial-fursuit-plantigrade "smartCard-inline")
-
-![Matrices PlantiFootpaw](<attachments/Canine & Generic Feet Paws/Matrices PlantiFootpaw/image-01.png>)
-
----
-
-<a id="ybl-suits-puffy-footpaw"></a>
-### YBL Suits Puffy Footpaw #moderately #any-feet #canine #feline #any-species
-
-YaBoiLuke Suits
-
-[https://www.yblsuits.com/shop/p/toony-footpaw-fursuit-pattern-pdf-download](https://www.yblsuits.com/shop/p/toony-footpaw-fursuit-pattern-pdf-download "smartCard-inline")
-
-[https://www.etsy.com/ca/listing/1103588238/toony-footpaw-fursuit-pattern-pdf](https://www.etsy.com/ca/listing/1103588238/toony-footpaw-fursuit-pattern-pdf "smartCard-inline")
-
-![YBL Suits Puffy Footpaw](<attachments/Canine & Generic Feet Paws/YBL Suits Puffy Footpaw/image-01.png>)
-
-![YBL Suits Puffy Footpaw](<attachments/Canine & Generic Feet Paws/YBL Suits Puffy Footpaw/image-02.png>)
-
----
-
-<a id="spiltgrapesoda-digi-feetpaws-v1"></a>
-### SpiltGrapeSoda Digi Feetpaws V1 #expensive #any-feet #canine #feline #any-species
-
-[https://shop.spiltgrapesoda.com/spiltgrapesoda/p/digigrade-fursuit-feetpaw-indoor-and-outdoor-pattern-pdf-download](https://shop.spiltgrapesoda.com/spiltgrapesoda/p/digigrade-fursuit-feetpaw-indoor-and-outdoor-pattern-pdf-download "smartCard-inline")
-
-[https://www.etsy.com/ca/listing/971364183/digigrade-fursuit-feetpaw-pattern-pdf](https://www.etsy.com/ca/listing/971364183/digigrade-fursuit-feetpaw-pattern-pdf "smartCard-inline")
-
-![SpiltGrapeSoda Digi Feetpaws V1](<attachments/Canine & Generic Feet Paws/SpiltGrapeSoda Digi Feetpaws V1/image-01.png>)
-
-![SpiltGrapeSoda Digi Feetpaws V1](<attachments/Canine & Generic Feet Paws/SpiltGrapeSoda Digi Feetpaws V1/image-02.png>)
-
----
-
-<a id="spiltgrapesoda-digi-v2-indoor-outdoor"></a>
-### SpiltGrapeSoda Digi V2 Indoor + Outdoor #expensive #any-feet #canine #feline #any-species
-
-[https://shop.spiltgrapesoda.com/spiltgrapesoda/p/digigrade-20-fursuit-feetpaw-indoor-and-outdoor-pattern-pdf-download](https://shop.spiltgrapesoda.com/spiltgrapesoda/p/digigrade-20-fursuit-feetpaw-indoor-and-outdoor-pattern-pdf-download "smartCard-inline")
-
-[https://www.etsy.com/ca/listing/1669833867/digigrade-20-fursuit-feetpaw-indoor-and](https://www.etsy.com/ca/listing/1669833867/digigrade-20-fursuit-feetpaw-indoor-and "smartCard-inline")
-
-![SpiltGrapeSoda Digi V2 Indoor + Outdoor](<attachments/Canine & Generic Feet Paws/SpiltGrapeSoda Digi V2 Indoor + Outdoor/image-01.jpg>)
-
-![SpiltGrapeSoda Digi V2 Indoor + Outdoor](<attachments/Canine & Generic Feet Paws/SpiltGrapeSoda Digi V2 Indoor + Outdoor/image-02.jpg>)
-
-![SpiltGrapeSoda Digi V2 Indoor + Outdoor](<attachments/Canine & Generic Feet Paws/SpiltGrapeSoda Digi V2 Indoor + Outdoor/image-03.jpg>)
-
----
-
-<a id="spiltgrapesoda-planti-v1"></a>
-### SpiltGrapeSoda Planti V1 #moderately #any-feet #canine #feline #any-species
-
-[https://shop.spiltgrapesoda.com/spiltgrapesoda/p/plantigrade-20-fursuit-feetpaw-indoor-and-outdoor-pattern-pdf-download](https://shop.spiltgrapesoda.com/spiltgrapesoda/p/plantigrade-20-fursuit-feetpaw-indoor-and-outdoor-pattern-pdf-download "smartCard-inline")
-
-[https://www.etsy.com/ca/listing/1059368688/plantigrade-fursuit-feetpaw-pattern-pdf](https://www.etsy.com/ca/listing/1059368688/plantigrade-fursuit-feetpaw-pattern-pdf "smartCard-inline")
-
-![SpiltGrapeSoda Planti V1](<attachments/Canine & Generic Feet Paws/SpiltGrapeSoda Planti V1/image-01.png>)
-
-![SpiltGrapeSoda Planti V1](<attachments/Canine & Generic Feet Paws/SpiltGrapeSoda Planti V1/image-02.png>)
-
----
-
-<a id="spiltgrapesoda-planti-v2"></a>
-### SpiltGrapeSoda Planti V2 #moderately #any-feet #canine #feline #any-species
-
-[https://www.etsy.com/ca/listing/1059368688/plantigrade-fursuit-feetpaw-pattern-pdf](https://www.etsy.com/ca/listing/1059368688/plantigrade-fursuit-feetpaw-pattern-pdf "smartCard-inline")
-
-![SpiltGrapeSoda Planti V2](<attachments/Canine & Generic Feet Paws/SpiltGrapeSoda Planti V2/image-01.webp>)
-
-![SpiltGrapeSoda Planti V2](<attachments/Canine & Generic Feet Paws/SpiltGrapeSoda Planti V2/image-02.jpg>)
-
----
-
-<a id="spiltgrapesoda-slim-feet-paw"></a>
-### SpiltGrapeSoda Slim Feet Paw #moderately #any-feet #canine #feline #any-species
-
-[https://www.etsy.com/ca/listing/1549700617/slim-fursuit-feetpaw-pattern-pdf](https://www.etsy.com/ca/listing/1549700617/slim-fursuit-feetpaw-pattern-pdf "smartCard-inline")
-
-![SpiltGrapeSoda Slim Feet Paw](<attachments/Canine & Generic Feet Paws/SpiltGrapeSoda Slim Feet Paw/image-01.png>)
-
-![SpiltGrapeSoda Slim Feet Paw](<attachments/Canine & Generic Feet Paws/SpiltGrapeSoda Slim Feet Paw/image-02.png>)
-
----
-
-<a id="pseudocanid-slim-planti-feet-sockpaw"></a>
-### Pseudocanid Slim Planti Feet/Sockpaw #moderately #canine #feline #any-feet #any-species
-
-[https://www.etsy.com/ca/listing/1139118218/slim-sockpawfeetpaw-pattern-digital](https://www.etsy.com/ca/listing/1139118218/slim-sockpawfeetpaw-pattern-digital "smartCard-inline")
-
-![Pseudocanid Slim Planti Feet/Sockpaw](<attachments/Canine & Generic Feet Paws/Pseudocanid Slim Planti FeetSockpaw/image-01.png>)
-
-![Pseudocanid Slim Planti Feet/Sockpaw](<attachments/Canine & Generic Feet Paws/Pseudocanid Slim Planti FeetSockpaw/image-02.png>)
-
-![Pseudocanid Slim Planti Feet/Sockpaw](<attachments/Canine & Generic Feet Paws/Pseudocanid Slim Planti FeetSockpaw/image-03.png>)
-
----
-
-<a id="pseudocanid-stompy-sock-feetpaws"></a>
-### Pseudocanid Stompy Sock/Feetpaws #moderately #any-feet #canine #feline #any-species #sockpaw #video-tutorials
-
-[https://www.etsy.com/ca/listing/1031343657/stompy-sockpawfeetpaw-pattern-digital](https://www.etsy.com/ca/listing/1031343657/stompy-sockpawfeetpaw-pattern-digital "smartCard-inline")
-
-[https://www.youtube.com/watch?v=uwKIbc0KVLM](https://www.youtube.com/watch?v=uwKIbc0KVLM "smartCard-inline")
-
-![Pseudocanid Stompy Sock/Feetpaws](<attachments/Canine & Generic Feet Paws/Pseudocanid Stompy SockFeetpaws/image-01.png>)
-
-![Pseudocanid Stompy Sock/Feetpaws](<attachments/Canine & Generic Feet Paws/Pseudocanid Stompy SockFeetpaws/image-02.png>)
-
-![Pseudocanid Stompy Sock/Feetpaws](<attachments/Canine & Generic Feet Paws/Pseudocanid Stompy SockFeetpaws/image-03.png>)
-
----
-
-<a id="apoxon-industries-slim-fleece-sockpaw"></a>
-### Apoxon Industries Slim Fleece Sockpaw #moderately #any-feet #canine #feline #any-species #sockpaw
-
-[https://www.etsy.com/ca/listing/1001219718/fleece-sockpaw-pattern-and-tutorial](https://www.etsy.com/ca/listing/1001219718/fleece-sockpaw-pattern-and-tutorial "smartCard-inline")
-
-![Apoxon Industries Slim Fleece Sockpaw](<attachments/Canine & Generic Feet Paws/Apoxon Industries Slim Fleece Sockpaw/image-01.png>)
-
----
-
-<a id="fursmoothie-footpaw-pattern"></a>
-### FurSmoothie Footpaw Pattern #cheap #other-species #any-feet #canine #feline #video-tutorials
-
-[https://www.etsy.com/ca/listing/967425681/footpaw-base-pattern](https://www.etsy.com/ca/listing/967425681/footpaw-base-pattern "smartCard-inline")
-
-[https://www.youtube.com/playlist?list=PLLY8iOf8Yzs1VfpfktaPsLZrz-Lcq8iN2](https://www.youtube.com/playlist?list=PLLY8iOf8Yzs1VfpfktaPsLZrz-Lcq8iN2 "smartCard-inline")
-
-![FurSmoothie Footpaw Pattern](<attachments/Canine & Generic Feet Paws/FurSmoothie Footpaw Pattern/image-01.webp>)
-
-![FurSmoothie Footpaw Pattern](<attachments/Canine & Generic Feet Paws/FurSmoothie Footpaw Pattern/image-02.webp>)
-
----
-
-<a id="fursmoothie-mochi-indoor-sockpaws"></a>
-### FurSmoothie Mochi Indoor Sockpaws #cheap #other-species #any-feet #canine #feline #sockpaw
-
-[https://www.etsy.com/ca/listing/1133033536/mochi-indoor-sockpaws](https://www.etsy.com/ca/listing/1133033536/mochi-indoor-sockpaws "smartCard-inline")
-
-![FurSmoothie Mochi Indoor Sockpaws](<attachments/Canine & Generic Feet Paws/FurSmoothie Mochi Indoor Sockpaws/image-01.png>)
-
-![FurSmoothie Mochi Indoor Sockpaws](<attachments/Canine & Generic Feet Paws/FurSmoothie Mochi Indoor Sockpaws/image-02.png>)
-
----
-
-<a id="kemocube-slim-mochi-sockpaw"></a>
-### KemoCube Slim Mochi Sockpaw #moderately #other-species #any-feet #canine #feline #sockpaw
-
-[https://www.etsy.com/ca/listing/852343056/kemocubes-fursuit-slim-sock-paws-pattern](https://www.etsy.com/ca/listing/852343056/kemocubes-fursuit-slim-sock-paws-pattern "smartCard-inline")
-
-![KemoCube Slim Mochi Sockpaw](<attachments/Canine & Generic Feet Paws/KemoCube Slim Mochi Sockpaw/image-01.png>)
-
-![KemoCube Slim Mochi Sockpaw](<attachments/Canine & Generic Feet Paws/KemoCube Slim Mochi Sockpaw/image-02.png>)
-
----
-
-<a id="neffertity-digi-paws"></a>
-### Neffertity Digi Paws #moderately #other-species #any-feet #canine #feline #video-tutorials
-
-[https://www.artbyneffertity.com/store/pattern-digifeet](https://www.artbyneffertity.com/store/pattern-digifeet "smartCard-inline")
-
-[https://www.youtube.com/watch?v=N9V1Z4zKZSc](https://www.youtube.com/watch?v=N9V1Z4zKZSc "smartCard-inline")
-
-![Neffertity Digi Paws](<attachments/Canine & Generic Feet Paws/Neffertity Digi Paws/image-01.png>)
-
-![Neffertity Digi Paws](<attachments/Canine & Generic Feet Paws/Neffertity Digi Paws/image-02.png>)
-
-![Neffertity Digi Paws](<attachments/Canine & Generic Feet Paws/Neffertity Digi Paws/image-03.png>)
-
----
-
-<a id="mugiwara-stompy-sock-paws"></a>
-### Mugiwara Stompy Sock Paws #moderately #any-feet #other-species #canine #feline #video-tutorials #sockpaw
-
-[https://mugiwara-cosplay.sellfy.store/p/digital-stompy-sock-paws-pattern-for-fursuits-pdf-download/](https://mugiwara-cosplay.sellfy.store/p/digital-stompy-sock-paws-pattern-for-fursuits-pdf-download/ "smartCard-inline")
-
-[https://www.etsy.com/ca/listing/646657292/digital-stompy-sock-paws-pattern-for](https://www.etsy.com/ca/listing/646657292/digital-stompy-sock-paws-pattern-for "smartCard-inline")
-
-[https://www.youtube.com/watch?v=5h5b1grqWFk](https://www.youtube.com/watch?v=5h5b1grqWFk "smartCard-inline")
-
-![Mugiwara Stompy Sock Paws](<attachments/Canine & Generic Feet Paws/Mugiwara Stompy Sock Paws/image-01.png>)
-
----
-
-<a id="mugiwara-v2-stompy-sock-paws"></a>
-### Mugiwara V2 Stompy Sock Paws #moderately #any-feet #other-species #canine #feline #video-tutorials #sockpaw
-
-[https://mugiwara-cosplay.sellfy.store/p/digital-stompy-sock-paws-pattern-for-fursuits-pdf-download/](https://mugiwara-cosplay.sellfy.store/p/digital-stompy-sock-paws-pattern-for-fursuits-pdf-download/ "smartCard-inline")
-
-[https://www.etsy.com/ca/listing/646657292/digital-stompy-sock-paws-pattern-for](https://www.etsy.com/ca/listing/646657292/digital-stompy-sock-paws-pattern-for "smartCard-inline")
-
-[https://www.youtube.com/watch?v=5h5b1grqWFk](https://www.youtube.com/watch?v=5h5b1grqWFk "smartCard-inline")
-
-![Mugiwara V2 Stompy Sock Paws](<attachments/Canine & Generic Feet Paws/Mugiwara V2 Stompy Sock Paws/image-01.webp>)
-
----
-
-<a id="mugiwara-sock-paws"></a>
-### Mugiwara Sock Paws #moderately #any-feet #other-species #canine #feline #video-tutorials #sockpaw
-
-[https://mugiwara-cosplay.sellfy.store/p/digital-sock-paws-pattern-for-fursuits-pdf-download/](https://mugiwara-cosplay.sellfy.store/p/digital-sock-paws-pattern-for-fursuits-pdf-download/ "smartCard-inline")
-
-[https://www.etsy.com/ca/listing/673087531/digital-sock-paws-pattern-for-fursuits](https://www.etsy.com/ca/listing/673087531/digital-sock-paws-pattern-for-fursuits "smartCard-inline")
-
-[https://www.youtube.com/watch?v=5h5b1grqWFk](https://www.youtube.com/watch?v=5h5b1grqWFk "smartCard-inline")
-
-![Mugiwara Sock Paws](<attachments/Canine & Generic Feet Paws/Mugiwara Sock Paws/image-01.png>)
-
----
-
-<a id="twilightknights-digi-sockpaws"></a>
-### TwilightKnights Digi Sockpaws #moderately #any-species #any-feet #canine #feline #multipack #sockpaw
-
-[https://www.etsy.com/ca/listing/1669107831/digitgrade-sockpaw-tutorial-pattern-pdf](https://www.etsy.com/ca/listing/1669107831/digitgrade-sockpaw-tutorial-pattern-pdf "smartCard-inline")
-
-comes with 2 toe styles
-
-![TwilightKnights Digi Sockpaws](<attachments/Canine & Generic Feet Paws/TwilightKnights Digi Sockpaws/image-01.jpg>)
-
----
-
-<a id="twilightknights-foam-feetpaws"></a>
-### TwilightKnights Foam Feetpaws #any-feet #other-species #feline #canine #foam-only #moderately
-
-NO FUR PATTERN, just inner liner and foam patterns
-
-[https://www.etsy.com/ca/listing/1509221547/foam-feetpaw-tutorial-pattern-pdf](https://www.etsy.com/ca/listing/1509221547/foam-feetpaw-tutorial-pattern-pdf "smartCard-inline")
-
-![TwilightKnights Foam Feetpaws](<attachments/Canine & Generic Feet Paws/TwilightKnights Foam Feetpaws/image-01.png>)
-
----
-
-<a id="saberwolfstudio-digi-foam-feet-pattern"></a>
-### SaberWolfStudio Digi Foam Feet Pattern #moderately #other-species #any-feet #feline #canine #foam-only
-
-[https://www.etsy.com/ca/listing/1348480068/digi-feet-base-pattern](https://www.etsy.com/ca/listing/1348480068/digi-feet-base-pattern "smartCard-inline")
-
-![SaberWolfStudio Digi Foam Feet Pattern](<attachments/Canine & Generic Feet Paws/SaberWolfStudio Digi Foam Feet Pattern/image-01.png>)
-
----
-
-<a id="lobitoworks-footpaw-straps"></a>
-### LobitoWorks Footpaw STRAPS #cheap #other-species #any-feet #foam-only
-
-[https://www.etsy.com/ca/listing/1198683632/one-size-fits-most-fursuit-feet-straps](https://www.etsy.com/ca/listing/1198683632/one-size-fits-most-fursuit-feet-straps "smartCard-inline")
-
-![LobitoWorks Footpaw STRAPS](<attachments/Canine & Generic Feet Paws/LobitoWorks Footpaw STRAPS/image-01.png>)
-
----
-
-<a id="lobitoworks-footpaw-liner"></a>
-### LobitoWorks Footpaw LINER #cheap #other-species #any-feet
-
-[https://www.etsy.com/ca/listing/889677544/fursuit-paw-liner-pattern-tutorial](https://www.etsy.com/ca/listing/889677544/fursuit-paw-liner-pattern-tutorial "smartCard-inline")
-
-![LobitoWorks Footpaw LINER](<attachments/Canine & Generic Feet Paws/LobitoWorks Footpaw LINER/image-01.png>)
-
----
-
-<a id="missrars-creatures-foundation-foot-liner-10-sizes"></a>
-### Missrars Creatures Foundation Foot Liner (10 sizes) #moderately #other-species #any-feet
-
-[https://www.etsy.com/ca/listing/1107961401/pdf-pattern-foundation-foot-liner-for](https://www.etsy.com/ca/listing/1107961401/pdf-pattern-foundation-foot-liner-for "smartCard-inline")
-
-![Missrars Creatures Foundation Foot Liner 10 sizes](<attachments/Canine & Generic Feet Paws/Missrars Creatures Foundation Foot Liner (10 sizes)/image-01.png>)
-
----
-
-<a id="matrices-tutorial-liners-and-soles-for-stuffed-feetpaws"></a>
-### Matrices Tutorial Liners and Soles for Stuffed Feetpaws #video-tutorials #cheap #any-feet #tutorial-no-pattern-incl
-
-[https://matrices.gumroad.com/l/liners](https://matrices.gumroad.com/l/liners "smartCard-inline")
-
-[https://www.etsy.com/ca/listing/653709457/premium-tutorial-creating-liners-and](https://www.etsy.com/ca/listing/653709457/premium-tutorial-creating-liners-and "smartCard-inline")
-
-![Matrices Tutorial Liners and Soles for Stuffed Feetpaws](<attachments/Canine & Generic Feet Paws/Matrices Tutorial Liners and Soles for Stuffed Feetpaws/image-01.png>)
-
----
-
-<a id="ricochetxcrafts-digi-toes"></a>
-### Ricochetxcrafts Digi Toes #foam-only #any-species #any-feet #cheap
-
-[https://www.etsy.com/ca/listing/1591350139/digi-toes-pattern](https://www.etsy.com/ca/listing/1591350139/digi-toes-pattern "smartCard-inline")
-
-![Ricochetxcrafts Digi Toes](<attachments/Canine & Generic Feet Paws/Ricochetxcrafts Digi Toes/image-01.png>)
-
----
-
-<a id="ollyfur-digi-feet-paw-pattern"></a>
-### OllyFur Digi Feet Paw Pattern #video-tutorials #cheap #any-species #any-feet
-
-[https://www.etsy.com/ca/listing/1637982449/digital-download-fursuit-digitigrade](https://www.etsy.com/ca/listing/1637982449/digital-download-fursuit-digitigrade "smartCard-inline")
-
-[https://www.youtube.com/watch?v=JI0ZZYt3fKk](https://www.youtube.com/watch?v=JI0ZZYt3fKk "smartCard-inline")
-
-![OllyFur Digi Feet Paw Pattern](<attachments/Canine & Generic Feet Paws/OllyFur Digi Feet Paw Pattern/image-01.png>)
-
----
-
-<a id="tes-feetpaws"></a>
-### Tes Feetpaws #any-feet #any-species #cheap
-
-[https://musingwolfdog.gumroad.com/l/feetpawpattern](https://musingwolfdog.gumroad.com/l/feetpawpattern "smartCard-inline")
-
-![Tes Feetpaws](<attachments/Canine & Generic Feet Paws/Tes Feetpaws/image-01.png>)
-
----
-
-<a id="oktaviascreatures-indoor-feetpaws"></a>
-### OktaviasCreatures Indoor Feetpaws #moderately #any-feet #any-species
-
-[https://www.etsy.com/ca/listing/1612971861/indoor-fursuit-feet-paws-pattern-digital](https://www.etsy.com/ca/listing/1612971861/indoor-fursuit-feet-paws-pattern-digital)
-
-![OktaviasCreatures Indoor Feetpaws](<attachments/Canine & Generic Feet Paws/OktaviasCreatures Indoor Feetpaws/image-01.jpg>)
-
----
-
-<a id="mugiwara-stompy-feet-paws"></a>
-### Mugiwara Stompy Feet Paws #any-feet #video-tutorials #foam-only #expensive #canine #feline
-
-[https://mugiwara-cosplay.sellfy.store/p/digital-stompy-fursuit-feet-paws-pattern-for-fursuits-pdf-download/](https://mugiwara-cosplay.sellfy.store/p/digital-stompy-fursuit-feet-paws-pattern-for-fursuits-pdf-download/ "smartCard-inline")
-
-[https://www.etsy.com/ca/listing/1551549366/digital-stompy-fursuit-feet-paws-pattern?click_key=bf1cedd895fd9634d4b79f777dbd43658791e087%3A1551549366&click_sum=e38e13a2&ref=shop_home_active_8&pro=1](https://www.etsy.com/ca/listing/1551549366/digital-stompy-fursuit-feet-paws-pattern?click_key=bf1cedd895fd9634d4b79f777dbd43658791e087%3A1551549366&click_sum=e38e13a2&ref=shop_home_active_8&pro=1 "smartCard-inline") [https://www.youtube.com/watch?v=0wFsKW_v77Q](https://www.youtube.com/watch?v=0wFsKW_v77Q "smartCard-inline")
-
-![Mugiwara Stompy Feet Paws](<attachments/Canine & Generic Feet Paws/Mugiwara Stompy Feet Paws/image-01.jpg>)
-
----
-
-<a id="mugiwara-digi-feetpaws"></a>
-### Mugiwara Digi Feetpaws #any-feet #video-tutorials #foam-only #expensive #canine #feline
-
-[https://mugiwara-cosplay.sellfy.store/p/digital-digitigrade-fursuit-feet-paws-pattern-for-fursuits-pdf-download/](https://mugiwara-cosplay.sellfy.store/p/digital-digitigrade-fursuit-feet-paws-pattern-for-fursuits-pdf-download/ "smartCard-inline")
-
-[https://www.etsy.com/ca/listing/1615225917/digital-digitigrade-fursuit-feet-paws](https://www.etsy.com/ca/listing/1615225917/digital-digitigrade-fursuit-feet-paws "smartCard-inline")
-
-[https://youtu.be/ydUnEkX9o7Q](https://youtu.be/ydUnEkX9o7Q "smartCard-inline")
-
-![Mugiwara Digi Feetpaws](<attachments/Canine & Generic Feet Paws/Mugiwara Digi Feetpaws/image-01.jpg>)
-
----
-
-<a id="trinestreasures-foam-feet-paws"></a>
-### TrinesTreasures Foam Feet Paws #foam-only #cheap #any-feet #any-species
-
-[https://www.etsy.com/ca/listing/1651131817/paw-foot-pattern-for-eva-foam-a4-and-us](https://www.etsy.com/ca/listing/1651131817/paw-foot-pattern-for-eva-foam-a4-and-us "smartCard-inline")
-
-![TrinesTreasures Foam Feet Paws](<attachments/Canine & Generic Feet Paws/TrinesTreasures Foam Feet Paws/image-01.jpg>)
-
----
-
-<a id="mugiwara-foam-feetpaws"></a>
-### Mugiwara Foam Feetpaws #any-species #any-feet #cheap #video-tutorials #foam-only
-
-[https://mugiwara-cosplay.sellfy.store/p/digital-foam-feet-base-template-for-fursuits-pdf-download/](https://mugiwara-cosplay.sellfy.store/p/digital-foam-feet-base-template-for-fursuits-pdf-download/ "smartCard-inline")
-
-[https://www.etsy.com/ca/listing/1075347854/digital-foam-feet-base-template-for](https://www.etsy.com/ca/listing/1075347854/digital-foam-feet-base-template-for "smartCard-inline")
-
-[https://www.youtube.com/watch?v=SGfuphAGgi8](https://www.youtube.com/watch?v=SGfuphAGgi8 "smartCard-inline")
-
-![Mugiwara Foam Feetpaws](<attachments/Canine & Generic Feet Paws/Mugiwara Foam Feetpaws/image-01.jpg>)
-
----
-
-<a id="mugiwara-4-toed-digi-foam-feet"></a>
-### Mugiwara 4 Toed Digi Foam Feet #any-species #any-feet #cheap #video-tutorials #foam-only
-
-[https://www.etsy.com/ca/listing/1162833866/digital-4-toed-digitigrade-foam-feet](https://www.etsy.com/ca/listing/1162833866/digital-4-toed-digitigrade-foam-feet "smartCard-inline")
-
-[https://youtu.be/jPWX4di-Lhk](https://youtu.be/jPWX4di-Lhk "smartCard-inline")
-
-![Mugiwara 4 Toed Digi Foam Feet](<attachments/Canine & Generic Feet Paws/Mugiwara 4 Toed Digi Foam Feet/image-01.jpg>)
-
----
-
-<a id="plexicosplay-paw-shoe-cover"></a>
-### PlexiCosplay Paw Shoe Cover #any-species #any-feet #cheap
-
-[https://www.etsy.com/ca/listing/1752574811/paw-shoe-cover-pattern-eva-foam-cosplay](https://www.etsy.com/ca/listing/1752574811/paw-shoe-cover-pattern-eva-foam-cosplay)
-
-![PlexiCosplay Paw Shoe Cover](<attachments/Canine & Generic Feet Paws/PlexiCosplay Paw Shoe Cover/image-01.webp>)
-
----
-
-<a id="redsewsshop-digi-feetpaws"></a>
-### RedSewsShop Digi Feetpaws #moderately #any-feet #any-species
-
-[https://www.etsy.com/ca/listing/1782946115/digital-download-slim-digitigrade](https://www.etsy.com/ca/listing/1782946115/digital-download-slim-digitigrade "smartCard-inline")
-
-![RedSewsShop Digi Feetpaws](<attachments/Canine & Generic Feet Paws/RedSewsShop Digi Feetpaws/image-01.png>)
-
----
-
-<a id="charred-fursuits-foot-paw"></a>
-### Charred Fursuits Foot Paw #any-species #moderately #any-feet
-
-Comes in 3 sizes
-
-[https://charredfursuits.com/product/charred-fursuits-slim-foot-paw-pattern-and-tutorial](https://charredfursuits.com/product/charred-fursuits-slim-foot-paw-pattern-and-tutorial "smartCard-inline")
-
-[https://www.etsy.com/ca/listing/1519885189/fursuit-foot-paw-pattern-and-tutorial](https://www.etsy.com/ca/listing/1519885189/fursuit-foot-paw-pattern-and-tutorial "smartCard-inline")
-
-![Charred Fursuits Foot Paw](<attachments/Canine & Generic Feet Paws/Charred Fursuits Foot Paw/image-01.webp>)
-
----
-
-<a id="thistlecrux-digi-feet-paw"></a>
-### Thistlecrux Digi Feet Paw #any-species #moderately #any-feet
-
-[https://www.etsy.com/ca/listing/1903779709/pattern-full-digi-fursuit-feet](https://www.etsy.com/ca/listing/1903779709/pattern-full-digi-fursuit-feet "smartCard-inline")
-
-![Thistlecrux Digi Feet Paw](<attachments/Canine & Generic Feet Paws/Thistlecrux Digi Feet Paw/image-01.png>)
-
----
-
-<a id="ritafoxfursuits-ultraslim-paws"></a>
-### RitaFoxFursuits UltraSlim Paws #cheap #any-species #sockpaw #any-feet
-
-[https://www.etsy.com/ca/listing/1833830702/ultra-slim-fursuit-sock-paw-pattern-and](https://www.etsy.com/ca/listing/1833830702/ultra-slim-fursuit-sock-paw-pattern-and "smartCard-inline")
-
-![RitaFoxFursuits UltraSlim Paws](<attachments/Canine & Generic Feet Paws/RitaFoxFursuits UltraSlim Paws/image-01.png>)
-
----
-
-<a id="teacuplion-feet-paws"></a>
-### TeacupLion Feet Paws #any-feet #sockpaw #any-species #expensive
-
-[https://www.etsy.com/ca/listing/4322183595/fursuit-sewing-pattern-slim-digigrade](https://www.etsy.com/ca/listing/4322183595/fursuit-sewing-pattern-slim-digigrade "smartCard-inline")
-
-Includes material list
-
-![TeacupLion Feet Paws](<attachments/Canine & Generic Feet Paws/TeacupLion Feet Paws/image-01.png>)
-
----
-
-<a id="flower-fur-studio-feet-paws"></a>
-### Flower Fur Studio Feet Paws #any-species #any-feet #moderately
-
-[https://www.flowerfurstudio.com/p/fursuit-feet-paws-pattern/](https://www.flowerfurstudio.com/p/fursuit-feet-paws-pattern/ "smartCard-inline")
-
-![Flower Fur Studio Feet Paws](<attachments/Canine & Generic Feet Paws/Flower Fur Studio Feet Paws/image-01.png>)
-
----
-
-<a id="etherealfursuits-digi-feetpaws"></a>
-### EtherealFursuits Digi Feetpaws #any-species #foam-only #any-feet
-
-[https://www.etsy.com/ca/listing/4448434913/digigrade-feetpaw-foam-base-pattern](https://www.etsy.com/ca/listing/4448434913/digigrade-feetpaw-foam-base-pattern "smartCard-inline")
-
-Made to match this thigh padding:
-
-[https://www.etsy.com/ca/listing/4438634426/digigrade-leg-foam-padding-pattern](https://www.etsy.com/ca/listing/4438634426/digigrade-leg-foam-padding-pattern "smartCard-inline")
-
-![EtherealFursuits Digi Feetpaws](<attachments/Canine & Generic Feet Paws/EtherealFursuits Digi Feetpaws/image-01.webp>)
-
----
-
-<a id="geknome-slim-plantigrade-feet-paws"></a>
-### Geknome Slim Plantigrade Feet Paws #any-feet #any-species #expensive
-
-[https://www.etsy.com/ca/listing/1867168737/slim-plantigrade-fursuit-feetpaw-pattern](https://www.etsy.com/ca/listing/1867168737/slim-plantigrade-fursuit-feetpaw-pattern "smartCard-inline")
-
-![Geknome Slim Plantigrade Feet Paws](<attachments/Canine & Generic Feet Paws/Geknome Slim Plantigrade Feet Paws/image-01.webp>)
-
----
-
-<a id="nicosfurryfriends-v1-slim-foot-paw"></a>
-### NicosFurryFriends V1 Slim Foot Paw #any-feet #any-species #foam-only #cheap
-
-[https://www.etsy.com/ca/listing/1904794173/old-version-slim-footpaw-pattern-with](https://www.etsy.com/ca/listing/1904794173/old-version-slim-footpaw-pattern-with "smartCard-inline")
-
-![NicosFurryFriends V1 Slim Foot Paw](<attachments/Canine & Generic Feet Paws/NicosFurryFriends V1 Slim Foot Paw/image-01.webp>)
-
----
-
-<a id="nicosfurryfriends-v2-slim-footpaw"></a>
-### NicosFurryFriends V2 Slim Footpaw #foam-only #any-species #any-feet #cheap
-
-[https://www.etsy.com/ca/listing/4353842344/20-new-and-improved-revised-slim-footpaw](https://www.etsy.com/ca/listing/4353842344/20-new-and-improved-revised-slim-footpaw "smartCard-inline")
-
-![NicosFurryFriends V2 Slim Footpaw](<attachments/Canine & Generic Feet Paws/NicosFurryFriends V2 Slim Footpaw/image-01.webp>)
-
----
-
-<a id="wingleafworkshop-2-foam-feet"></a>
-### WingLeafWorkshop 2 Foam Feet #foam-only #any-species #any-feet #canine #feline #other-species #moderately
-
-Digi Feet: [https://www.etsy.com/ca/listing/1824468276/digitigrade-fursuit-feetpaws-base-pdf](https://www.etsy.com/ca/listing/1824468276/digitigrade-fursuit-feetpaws-base-pdf "smartCard-inline")
-
-Slim Feet: [https://www.etsy.com/ca/listing/1880654333/slim-digitigrade-fursuit-feetpaws-base](https://www.etsy.com/ca/listing/1880654333/slim-digitigrade-fursuit-feetpaws-base "smartCard-inline")
-
-![WingLeafWorkshop 2 Foam Feet](<attachments/Canine & Generic Feet Paws/WingLeafWorkshop 2 Foam Feet/image-01.png>)
-
-![WingLeafWorkshop 2 Foam Feet](<attachments/Canine & Generic Feet Paws/WingLeafWorkshop 2 Foam Feet/image-02.png>)
-
----
-
-<a id="canine-hyena-tails"></a>
-
-</details>
-
-<details>
-<summary>Canine/Hyena Tails</summary>
-
-
-[↑ Contents](#contents)
-
----
-
-<a id="free-foxfire-fantasy-canine-tail"></a>
-### (FREE) FoxFire Fantasy Canine Tail #free #any-tails #canine
-
-[https://ko-fi.com/s/d74abe5d39](https://ko-fi.com/s/d74abe5d39 "smartCard-inline")
-
-Feel free to tip for the pattern!
-
-![FREE FoxFire Fantasy Canine Tail](<attachments/CanineHyena Tails/(FREE) FoxFire Fantasy Canine Tail/image-01.png>)
-
----
-
-<a id="fur-smoothie-4-tail-pattern-pack"></a>
-### Fur Smoothie 4 Tail Pattern Pack #cheap #other-species #canine #any-tails #equine-cervine #multipack
-
-[https://www.etsy.com/ca/listing/975540385/pdf-pattern-tail-pattern-pack-4](https://www.etsy.com/ca/listing/975540385/pdf-pattern-tail-pattern-pack-4 "smartCard-inline")
-
-![Fur Smoothie 4 Tail Pattern Pack](<attachments/CanineHyena Tails/Fur Smoothie 4 Tail Pattern Pack/image-01.png>)
-
----
-
-<a id="oktavia-s-creatures-hyena-tail"></a>
-### Oktavia's Creatures Hyena Tail #moderately #canine #any-tails #other-species
-
-(I know they’re not technically canines.)
-
-[https://www.etsy.com/ca/listing/1415846962/hyena-tail-for-fursuits-cosplay-and](https://www.etsy.com/ca/listing/1415846962/hyena-tail-for-fursuits-cosplay-and "smartCard-inline")
-
-![Oktavia's Creatures Hyena Tail](<attachments/CanineHyena Tails/Oktavia's Creatures Hyena Tail/image-01.png>)
-
-![Oktavia's Creatures Hyena Tail](<attachments/CanineHyena Tails/Oktavia's Creatures Hyena Tail/image-02.png>)
-
----
-
-<a id="neffertity-super-motion-canine-tail"></a>
-### Neffertity Super Motion Canine Tail #moderately #any-tails #canine #video-tutorials
-
-[https://www.artbyneffertity.com/store/pattern-caninetail](https://www.artbyneffertity.com/store/pattern-caninetail "smartCard-inline")
-
-[https://youtu.be/vFkfsAU17KQ?list=PLRIT0XO_NdobD28aCtz_89mHTngtO-HyE](https://youtu.be/vFkfsAU17KQ?list=PLRIT0XO_NdobD28aCtz_89mHTngtO-HyE "smartCard-inline")
-
-![Neffertity Super Motion Canine Tail](<attachments/CanineHyena Tails/Neffertity Super Motion Canine Tail/image-01.png>)
-
-![Neffertity Super Motion Canine Tail](<attachments/CanineHyena Tails/Neffertity Super Motion Canine Tail/image-02.png>)
-
----
-
-<a id="spiltgrapesoda-large-canine-tail"></a>
-### Spiltgrapesoda Large Canine Tail #cheap #canine #any-tails
-
-[https://shop.spiltgrapesoda.com/spiltgrapesoda/p/large-canine-tail-pattern-pdf-download](https://shop.spiltgrapesoda.com/spiltgrapesoda/p/large-canine-tail-pattern-pdf-download "smartCard-inline")
-
-[https://www.etsy.com/ca/listing/1522230396/large-canine-tail-pattern-pdf-download](https://www.etsy.com/ca/listing/1522230396/large-canine-tail-pattern-pdf-download "smartCard-inline")
-
-![Spiltgrapesoda Large Canine Tail](<attachments/CanineHyena Tails/Spiltgrapesoda Large Canine Tail/image-01.png>)
-
----
-
-<a id="spiltgrapesoda-fox-tail"></a>
-### Spiltgrapesoda Fox Tail #cheap #canine #any-tails
-
-[https://shop.spiltgrapesoda.com/spiltgrapesoda/p/fox-tail-pattern-pdf-download](https://shop.spiltgrapesoda.com/spiltgrapesoda/p/fox-tail-pattern-pdf-download "smartCard-inline")
-
-[https://www.etsy.com/ca/listing/1610112088/fox-tail-pattern-pdf-download](https://www.etsy.com/ca/listing/1610112088/fox-tail-pattern-pdf-download)
-
-![Spiltgrapesoda Fox Tail](<attachments/CanineHyena Tails/Spiltgrapesoda Fox Tail/image-01.jpg>)
-
----
-
-<a id="ybl-suits-canine-tail"></a>
-### YBL Suits Canine Tail #moderately #any-tails #canine #any-species
-
-YaBoiLuke Suits
-
-[https://www.yblsuits.com/shop/p/canine-tail-pattern-pdf-download](https://www.yblsuits.com/shop/p/canine-tail-pattern-pdf-download "smartCard-inline")
-
-[https://www.etsy.com/ca/listing/905422987/canine-tail-pattern-pdf-download](https://www.etsy.com/ca/listing/905422987/canine-tail-pattern-pdf-download "smartCard-inline")
-
-![YBL Suits Canine Tail](<attachments/CanineHyena Tails/YBL Suits Canine Tail/image-01.png>)
-
----
-
-<a id="mugiwara-canine-tail"></a>
-### Mugiwara Canine Tail #cheap #any-tails #canine #video-tutorials #any-species
-
-[https://mugiwara-cosplay.sellfy.store/p/digital-canine-tail-pattern-for-fursuits-pdf-download/](https://mugiwara-cosplay.sellfy.store/p/digital-canine-tail-pattern-for-fursuits-pdf-download/ "smartCard-inline")
-
-[https://www.etsy.com/ca/listing/648409906/digital-canine-tail-pattern-for-fursuits](https://www.etsy.com/ca/listing/648409906/digital-canine-tail-pattern-for-fursuits "smartCard-inline")
-
-[https://www.youtube.com/watch?v=nM4VrN3Ukgs](https://www.youtube.com/watch?v=nM4VrN3Ukgs "smartCard-inline")
-
-![Mugiwara Canine Tail](<attachments/CanineHyena Tails/Mugiwara Canine Tail/image-01.png>)
-
----
-
-<a id="skunky-designs-large-nub-tail"></a>
-### Skunky Designs Large Nub Tail #cheap #any-tails #canine #any-species
-
-[https://www.skunkydesigns.com/collections/patterns-and-tutorials/products/pattern-large-nub-tail](https://www.skunkydesigns.com/collections/patterns-and-tutorials/products/pattern-large-nub-tail)
-
-![Skunky Designs Large Nub Tail](<attachments/CanineHyena Tails/Skunky Designs Large Nub Tail/image-01.png>)
-
----
-
-<a id="koifishycostumes-mini-canine-tail"></a>
-### KoiFishyCostumes Mini Canine Tail #cheap #any-tails #canine #any-species
-
-[https://www.etsy.com/ca/listing/1471439154/mini-canine-tail-digital-pattern-and](https://www.etsy.com/ca/listing/1471439154/mini-canine-tail-digital-pattern-and "smartCard-inline")
-
-![KoiFishyCostumes Mini Canine Tail](<attachments/CanineHyena Tails/KoiFishyCostumes Mini Canine Tail/image-01.png>)
-
----
-
-<a id="howlingdragonstudios-canine-tail"></a>
-### HowlingDragonStudios Canine Tail #cheap #any-tails #canine #any-species
-
-[https://www.etsy.com/ca/listing/1384636361/tail-pattern-digital-download](https://www.etsy.com/ca/listing/1384636361/tail-pattern-digital-download "smartCard-inline")
-
-![HowlingDragonStudios Canine Tail](<attachments/CanineHyena Tails/HowlingDragonStudios Canine Tail/image-01.png>)
-
----
-
-<a id="werewolfprince666-wolf-tail"></a>
-### werewolfprince666 Wolf Tail #any-tails #canine #any-species #cheap
-
-[https://www.etsy.com/ca/listing/1401070076/waggy-fursuit-tail-pattern-and](https://www.etsy.com/ca/listing/1401070076/waggy-fursuit-tail-pattern-and "smartCard-inline")
-
-![werewolfprince666 Wolf Tail](<attachments/CanineHyena Tails/werewolfprince666 Wolf Tail/image-01.jpg>)
-
----
-
-<a id="werewolfprince666-waggy-tail"></a>
-### werewolfprince666 Waggy Tail #any-tails #canine #any-species #cheap
-
-[https://www.etsy.com/ca/listing/1401070076/waggy-fursuit-tail-pattern-and](https://www.etsy.com/ca/listing/1401070076/waggy-fursuit-tail-pattern-and "smartCard-inline")
-
-![werewolfprince666 Waggy Tail](<attachments/CanineHyena Tails/werewolfprince666 Waggy Tail/image-01.png>)
-
-![werewolfprince666 Waggy Tail](<attachments/CanineHyena Tails/werewolfprince666 Waggy Tail/image-02.png>)
-
----
-
-<a id="werewolfprince666-fox-tail"></a>
-### werewolfprince666 Fox Tail #cheap #any-tails #canine #any-species
-
-[https://www.etsy.com/ca/listing/1435948453/fox-fursuit-tail-pattern-and](https://www.etsy.com/ca/listing/1435948453/fox-fursuit-tail-pattern-and "smartCard-inline")
-
-![werewolfprince666 Fox Tail](<attachments/CanineHyena Tails/werewolfprince666 Fox Tail/image-01.png>)
-
-![werewolfprince666 Fox Tail](<attachments/CanineHyena Tails/werewolfprince666 Fox Tail/image-02.png>)
-
----
-
-<a id="werewolfprince666-hyena-tail"></a>
-### werewolfprince666 Hyena Tail #cheap #any-tails #canine #any-species
-
-[https://www.etsy.com/ca/listing/1396982813/hyena-fursuit-tail-pattern-and](https://www.etsy.com/ca/listing/1396982813/hyena-fursuit-tail-pattern-and "smartCard-inline")
-
-![werewolfprince666 Hyena Tail](<attachments/CanineHyena Tails/werewolfprince666 Hyena Tail/image-01.png>)
-
----
-
-<a id="pawsandmaws-bluey-tail"></a>
-### PawsAndMaws Bluey Tail #cheap #any-tails #canine
-
-[https://www.etsy.com/listing/1379118904/pdf-pattern-download-bluey-style-cosplay](https://www.etsy.com/listing/1379118904/pdf-pattern-download-bluey-style-cosplay "smartCard-inline")
-
-![PawsAndMaws Bluey Tail](<attachments/CanineHyena Tails/PawsAndMaws Bluey Tail/image-01.png>)
-
----
-
-<a id="wormyfur-hyena-tail"></a>
-### wormyfur Hyena Tail #cheap #other-species #canine #any-tails
-
-[https://www.etsy.com/ca/listing/1515527417/hyena-fursuit-tail-pattern-pdf-with](https://www.etsy.com/ca/listing/1515527417/hyena-fursuit-tail-pattern-pdf-with "smartCard-inline")
-
-![wormyfur Hyena Tail](<attachments/CanineHyena Tails/wormyfur Hyena Tail/image-01.jpg>)
-
----
-
-<a id="pinkuscraftycottage-relaxed-dog-tail"></a>
-### PinkusCraftyCottage Relaxed Dog Tail #any-tails #canine #cheap
-
-[https://www.etsy.com/ca/listing/1001264314/diy-relaxed-dog-tail-pdf-pattern](https://www.etsy.com/ca/listing/1001264314/diy-relaxed-dog-tail-pdf-pattern "smartCard-inline")
-
-![PinkusCraftyCottage Relaxed Dog Tail](<attachments/CanineHyena Tails/PinkusCraftyCottage Relaxed Dog Tail/image-01.jpg>)
-
----
-
-<a id="pinkuscraftycottage-fox-tail"></a>
-### PinkusCraftyCottage Fox Tail #any-tails #canine #cheap #any-species #video-tutorials
-
-[https://www.etsy.com/ca/listing/944339643/diy-small-fox-tail-pdf-pattern](https://www.etsy.com/ca/listing/944339643/diy-small-fox-tail-pdf-pattern "smartCard-inline")
-
-Video: [https://twitter.com/PinkuShikaArt/status/1363674475166900230?s=20](https://twitter.com/PinkuShikaArt/status/1363674475166900230?s=20 "smartCard-inline")
-
-![PinkusCraftyCottage Fox Tail](<attachments/CanineHyena Tails/PinkusCraftyCottage Fox Tail/image-01.webp>)
-
----
-
-<a id="pinkuscraftycottage-wolf-tail"></a>
-### PinkusCraftyCottage Wolf Tail #cheap #canine #any-tails
-
-[https://www.etsy.com/ca/listing/779895598/diy-wolf-tail-pdf-pattern](https://www.etsy.com/ca/listing/779895598/diy-wolf-tail-pdf-pattern "smartCard-inline")
-
-![PinkusCraftyCottage Wolf Tail](<attachments/CanineHyena Tails/PinkusCraftyCottage Wolf Tail/image-01.webp>)
-
----
-
-<a id="pinkuscraftycottage-wagging-tail"></a>
-### PinkusCraftyCottage Wagging Tail #cheap #any-species #canine #any-tails
-
-[https://www.etsy.com/ca/listing/1567733108/diy-wagging-tail-pdf-pattern](https://www.etsy.com/ca/listing/1567733108/diy-wagging-tail-pdf-pattern "smartCard-inline")
-
-![PinkusCraftyCottage Wagging Tail](<attachments/CanineHyena Tails/PinkusCraftyCottage Wagging Tail/image-01.webp>)
-
----
-
-<a id="saberwolfstudio-canine-tail"></a>
-### Saberwolfstudio Canine Tail #cheap #canine #any-tails #any-species
-
-[https://www.etsy.com/ca/listing/1526612480/canine-tail-pattern](https://www.etsy.com/ca/listing/1526612480/canine-tail-pattern "smartCard-inline")
-
-![Saberwolfstudio Canine Tail](<attachments/CanineHyena Tails/Saberwolfstudio Canine Tail/image-01.webp>)
-
----
-
-<a id="faroutfursuits-short-waggy-tail"></a>
-### FarOutFursuits Short Waggy Tail #any-tails #canine #cheap #any-species
-
-[https://www.etsy.com/ca/listing/1649338098/short-waggy-tail-pattern](https://www.etsy.com/ca/listing/1649338098/short-waggy-tail-pattern "smartCard-inline")
-
-![FarOutFursuits Short Waggy Tail](<attachments/CanineHyena Tails/FarOutFursuits Short Waggy Tail/image-01.jpg>)
-
-![FarOutFursuits Short Waggy Tail](<attachments/CanineHyena Tails/FarOutFursuits Short Waggy Tail/image-02.jpg>)
-
----
-
-<a id="mikomikawaii-canine-tail"></a>
-### MikomiKawaii Canine Tail #canine #any-tails #cheap
-
-[https://www.etsy.com/ca/listing/1111195370/canine-fursuit-tail-pattern-and-tutorial](https://www.etsy.com/ca/listing/1111195370/canine-fursuit-tail-pattern-and-tutorial "smartCard-inline")
-
-![MikomiKawaii Canine Tail](<attachments/CanineHyena Tails/MikomiKawaii Canine Tail/image-01.webp>)
-
----
-
-<a id="sweetcidercreation-large-canine-tail-pattern"></a>
-### SweetCiderCreation Large Canine Tail Pattern #canine #any-tails #cheap #any-species #other-species
-
-[https://www.etsy.com/ca/listing/1649463086/fursuit-tail-pattern-large-canine](https://www.etsy.com/ca/listing/1649463086/fursuit-tail-pattern-large-canine "smartCard-inline")
-
-![SweetCiderCreation Large Canine Tail Pattern](<attachments/CanineHyena Tails/SweetCiderCreation Large Canine Tail Pattern/image-01.jpg>)
-
----
-
-<a id="figfur-canine-tail-pattern"></a>
-### FigFur Canine Tail Pattern #cheap #any-tails #canine #video-tutorials
-
-[https://www.etsy.com/ca/listing/1611170045/diy-canine-tail-pattern-pdf-download](https://www.etsy.com/ca/listing/1611170045/diy-canine-tail-pattern-pdf-download "smartCard-inline")
-
-[https://youtu.be/V0F7fUydXdI?si=wLduYPRYQwQLmgu-](https://youtu.be/V0F7fUydXdI?si=wLduYPRYQwQLmgu- "smartCard-inline")
-
-![FigFur Canine Tail Pattern](<attachments/CanineHyena Tails/FigFur Canine Tail Pattern/image-01.jpg>)
-
----
-
-<a id="missrars-creatures-kitsune-fox-tail"></a>
-### Missrars Creatures Kitsune Fox Tail #video-tutorials #cheap #any-species #canine #any-tails
-
-[https://www.etsy.com/ca/listing/1556059102/pdf-pattern-kitsune-fox-fursuit-tail](https://www.etsy.com/ca/listing/1556059102/pdf-pattern-kitsune-fox-fursuit-tail "smartCard-inline")
-
-[https://www.youtube.com/watch?v=STAjPntQFTU](https://www.youtube.com/watch?v=STAjPntQFTU "smartCard-inline")
-
-![Missrars Creatures Kitsune Fox Tail](<attachments/CanineHyena Tails/Missrars Creatures Kitsune Fox Tail/image-01.jpg>)
-
----
-
-<a id="geknome-canine-tail"></a>
-### Geknome Canine Tail #cheap #canine #any-tails
-
-[https://www.etsy.com/ca/listing/1748068107/fursuit-canine-dog-tail-pattern-tutorial](https://www.etsy.com/ca/listing/1748068107/fursuit-canine-dog-tail-pattern-tutorial "smartCard-inline")
-
-![Geknome Canine Tail](<attachments/CanineHyena Tails/Geknome Canine Tail/image-01.webp>)
-
----
-
-<a id="redsewsshop-wolf-tail"></a>
-### RedSewsShop Wolf Tail #cheap #any-tails #canine
-
-[https://www.etsy.com/ca/listing/1755644269/digital-wolf-dog-fursuit-tail-pattern](https://www.etsy.com/ca/listing/1755644269/digital-wolf-dog-fursuit-tail-pattern "smartCard-inline")
-
-![RedSewsShop Wolf Tail](<attachments/CanineHyena Tails/RedSewsShop Wolf Tail/image-01.webp>)
-
----
-
-<a id="highvalleycreation-canine-tail"></a>
-### HighValleyCreation Canine Tail #canine #any-tails #cheap
-
-[https://www.etsy.com/ca/listing/1759939427/canine-tail-pattern](https://www.etsy.com/ca/listing/1759939427/canine-tail-pattern)
-
-![HighValleyCreation Canine Tail](<attachments/CanineHyena Tails/HighValleyCreation Canine Tail/image-01.webp>)
-
----
-
-<a id="punkyiggy-canine-shepard-tail"></a>
-### PunkyIggy Canine/Shepard Tail #cheap #canine #any-tails
-
-[https://www.etsy.com/ca/listing/1777463171/shepherd-canine-tail-with-hidden-belt?click_key=02c0c2356400e51ad3f470da0bd120410f8e6c72%3A1777463171&click_sum=a3c9c92a&ref=shop_home_recs_1&crt=1](https://www.etsy.com/ca/listing/1777463171/shepherd-canine-tail-with-hidden-belt?click_key=02c0c2356400e51ad3f470da0bd120410f8e6c72%3A1777463171&click_sum=a3c9c92a&ref=shop_home_recs_1&crt=1 "smartCard-inline")
-
-![PunkyIggy Canine/Shepard Tail](<attachments/CanineHyena Tails/PunkyIggy CanineShepard Tail/image-01.webp>)
-
----
-
-<a id="kodasuits-canine-tail"></a>
-### KodaSuits Canine Tail #cheap #any-tails #canine #any-species
-
-[https://www.etsy.com/ca/listing/1670706786/easy-canine-tail-pattern-fursuit-pattern](https://www.etsy.com/ca/listing/1670706786/easy-canine-tail-pattern-fursuit-pattern "smartCard-inline")
-
-![KodaSuits Canine Tail](<attachments/CanineHyena Tails/KodaSuits Canine Tail/image-01.webp>)
-
----
-
-<a id="werewolfprince666-striped-hyena-tail"></a>
-### werewolfprince666 Striped Hyena Tail #any-species #canine #any-tails #cheap
-
-[https://www.etsy.com/ca/listing/1787750078/striped-hyena-fursuit-tail-sewing](https://www.etsy.com/ca/listing/1787750078/striped-hyena-fursuit-tail-sewing "smartCard-inline")
-
-![werewolfprince666 Striped Hyena Tail](<attachments/CanineHyena Tails/werewolfprince666 Striped Hyena Tail/image-01.png>)
-
----
-
-<a id="teacuplion-xl-wolf-cat-tail"></a>
-### TeacupLion XL Wolf + Cat Tail #cheap #multipack #any-tails #canine #feline
-
-[https://www.etsy.com/ca/listing/1771873702/fursuit-sewing-pattern-tail-bundle](https://www.etsy.com/ca/listing/1771873702/fursuit-sewing-pattern-tail-bundle "smartCard-inline")
-
-![TeacupLion XL Wolf + Cat Tail](<attachments/CanineHyena Tails/TeacupLion XL Wolf + Cat Tail/image-01.jpg>)
-
-![TeacupLion XL Wolf + Cat Tail](<attachments/CanineHyena Tails/TeacupLion XL Wolf + Cat Tail/image-02.webp>)
-
----
-
-<a id="teacuplion-canine-tail"></a>
-### TeacupLion Canine Tail #canine #any-tails #cheap
-
-[https://www.etsy.com/ca/listing/1787058669/fursuit-sewing-pattern-tail-canine-large](https://www.etsy.com/ca/listing/1787058669/fursuit-sewing-pattern-tail-canine-large "smartCard-inline")
-
-![TeacupLion Canine Tail](<attachments/CanineHyena Tails/TeacupLion Canine Tail/image-01.webp>)
-
----
-
-<a id="kittencafestudios-fox-wolf-tail"></a>
-### KittenCafeStudios Fox/Wolf Tail #any-tails #canine #cheap
-
-[https://www.etsy.com/ca/listing/1831497300/diy-fursuit-evolution-fox-tail-pattern](https://www.etsy.com/ca/listing/1831497300/diy-fursuit-evolution-fox-tail-pattern "smartCard-inline")
-
-![KittenCafeStudios Fox/Wolf Tail](<attachments/CanineHyena Tails/KittenCafeStudios FoxWolf Tail/image-01.webp>)
-
----
-
-<a id="sonstafurs-medium-nub-tail"></a>
-### Sonstafurs Medium Nub Tail #cheap #any-tails #any-species
-
-[https://www.etsy.com/ca/listing/4299193235/medium-nub-tail-pdf-pattern-tutorial-for](https://www.etsy.com/ca/listing/4299193235/medium-nub-tail-pdf-pattern-tutorial-for)
-
-![Sonstafurs Medium Nub Tail](<attachments/CanineHyena Tails/Sonstafurs Medium Nub Tail/image-01.png>)
-
----
-
-<a id="werewolfprince666-xl-canine-tail"></a>
-### werewolfprince666 XL Canine Tail #any-species #any-tails #cheap
-
-[https://www.etsy.com/ca/listing/1382977322/xl-canine-fursuit-tail-sewing-pattern](https://www.etsy.com/ca/listing/1382977322/xl-canine-fursuit-tail-sewing-pattern "smartCard-inline")
-
-![werewolfprince666 XL Canine Tail](<attachments/CanineHyena Tails/werewolfprince666 XL Canine Tail/image-01.png>)
-
----
-
-<a id="mistyrivers-creations"></a>
-### MistyRivers Creations #cheap #canine #any-tails #any-species
-
-[https://ko-fi.com/s/c75fd4b0ec](https://ko-fi.com/s/c75fd4b0ec "smartCard-inline")
-
-![MistyRivers Creations](<attachments/CanineHyena Tails/MistyRivers Creations/image-01.png>)
-
----
-
-<a id="sweetcidercreation-hyena-tail"></a>
-### SweetCiderCreation Hyena Tail #any-tails #any-species #canine #cheap
-
-[https://www.etsy.com/ca/listing/4323235152/fursuit-tail-pattern-large-hyenacanine](https://www.etsy.com/ca/listing/4323235152/fursuit-tail-pattern-large-hyenacanine "smartCard-inline")
-
-![SweetCiderCreation Hyena Tail](<attachments/CanineHyena Tails/SweetCiderCreation Hyena Tail/image-01.png>)
-
----
-
-<a id="geknome-waggy-tail"></a>
-### Geknome Waggy Tail #cheap #other-species #any-species #any-tails
-
-[https://www.etsy.com/ca/listing/4450057963/waggy-fursuit-tail-tutorial](https://www.etsy.com/ca/listing/4450057963/waggy-fursuit-tail-tutorial "smartCard-inline")
-
-![Geknome Waggy Tail](<attachments/CanineHyena Tails/Geknome Waggy Tail/image-01.webp>)
-
----
-
-<a id="puzzlepatchworks-dog-wolf-tail"></a>
-### PuzzlePatchworks Dog/Wolf Tail #any-species #any-tails #other-species #cheap #canine
-
-[https://www.etsy.com/ca/listing/4310703861/dog-wolf-tail-pattern-pdf-download](https://www.etsy.com/ca/listing/4310703861/dog-wolf-tail-pattern-pdf-download "smartCard-inline")
-
-![PuzzlePatchworks Dog/Wolf Tail](<attachments/CanineHyena Tails/PuzzlePatchworks DogWolf Tail/image-01.webp>)
-
----
-
-<a id="puzzlepatchworks-big-wolf-tail"></a>
-### PuzzlePatchworks Big Wolf Tail #cheap #canine #other-species #any-tails #any-species
-
-[https://www.etsy.com/ca/listing/4310702216/big-wolf-tail-pattern-pdf-download](https://www.etsy.com/ca/listing/4310702216/big-wolf-tail-pattern-pdf-download "smartCard-inline")
-
-![PuzzlePatchworks Big Wolf Tail](<attachments/CanineHyena Tails/PuzzlePatchworks Big Wolf Tail/image-01.webp>)
-
----
-
-<a id="kanixstudios-canine-tail"></a>
-### KanixStudios Canine Tail #any-species #any-tails #canine #cheap
-
-[https://www.etsy.com/ca/listing/1311064743/fursuit-tail-pattern-caninefoxwolf-pdf](https://www.etsy.com/ca/listing/1311064743/fursuit-tail-pattern-caninefoxwolf-pdf "smartCard-inline")
-
-![KanixStudios Canine Tail](<attachments/CanineHyena Tails/KanixStudios Canine Tail/image-01.jpg>)
-
----
-
-<a id="yugoro-articulated-canine-tail"></a>
-### Yugoro Articulated Canine Tail #moderately #foam-only #any-tails #any-species #canine #video-tutorials
-
-[https://www.etsy.com/ca/listing/4391513063/flexible-tail-pattern-for-fox-wolf](https://www.etsy.com/ca/listing/4391513063/flexible-tail-pattern-for-fox-wolf "smartCard-inline")
-
-![Yugoro Articulated Canine Tail](<attachments/CanineHyena Tails/Yugoro Articulated Canine Tail/image-01.webp>)
-
----
-
-<a id="wingleafworkshop-foam-canine-tail"></a>
-### WingLeafWorkshop Foam Canine Tail #canine #any-tails #foam-only #cheap #any-species
-
-[https://www.etsy.com/ca/listing/1835776938/fursuit-tail-base-pdf-pattern-canine](https://www.etsy.com/ca/listing/1835776938/fursuit-tail-base-pdf-pattern-canine "smartCard-inline")
-
-![WingLeafWorkshop Foam Canine Tail](<attachments/CanineHyena Tails/WingLeafWorkshop Foam Canine Tail/image-01.png>)
-
----
-
-<a id="necks-and-dino-mask-hoods"></a>
-
-</details>
-
-<details>
-<summary>Necks & Dino Mask Hoods</summary>
-
-
-[↑ Contents](#contents)
-
----
-
-<a id="sheenitude-neck-pattern"></a>
-### Sheenitude Neck Pattern #cheap #fursuit-heads #video-tutorials #any-species
-
-[https://www.etsy.com/ca/listing/863914986/fursuit-neck-pattern-pdf](https://www.etsy.com/ca/listing/863914986/fursuit-neck-pattern-pdf "smartCard-inline")
-
-Tutorial:[https://www.youtube.com/watch?v=YkoNSAg6h-M](https://www.youtube.com/watch?v=YkoNSAg6h-M "smartCard-inline")
-
-I have used this neck pattern and it works very well, fits about 22-23 inches without modification. I find the neck a little long, but it’s easy enough to modify.
-
-![Sheenitude Neck Pattern](<attachments/Necks & Dino Mask Hoods/Sheenitude Neck Pattern/image-01.png>)
-
----
-
-<a id="ybl-neck-pattern"></a>
-### YBL Neck Pattern #cheap #canine #feline #other-species #equine-cervine #fursuit-heads #any-species
-
-[https://www.etsy.com/ca/listing/1159185920/fursuit-neck-pattern-pdf-download](https://www.etsy.com/ca/listing/1159185920/fursuit-neck-pattern-pdf-download)
-
-![YBL Neck Pattern](<attachments/Necks & Dino Mask Hoods/YBL Neck Pattern/image-01.png>)
-
----
-
-<a id="jaycostumes-fursuit-neck"></a>
-### Jaycostumes Fursuit Neck #cheap #fursuit-heads #any-species
-
-[https://www.etsy.com/ca/listing/825055884/fursuit-neck-pattern-for-head-diy-pdf](https://www.etsy.com/ca/listing/825055884/fursuit-neck-pattern-for-head-diy-pdf "smartCard-inline")
-
-![Jaycostumes Fursuit Neck](<attachments/Necks & Dino Mask Hoods/Jaycostumes Fursuit Neck/image-01.png>)
-
----
-
-<a id="jaycostumes-neck-and-ear-patterns"></a>
-### Jaycostumes Neck & Ear Patterns #other-species #moderately #fursuit-heads #any-species #multipack
-
-[https://www.etsy.com/ca/listing/1027590160/fursuit-neck-and-ears-for-head-making](https://www.etsy.com/ca/listing/1027590160/fursuit-neck-and-ears-for-head-making "smartCard-inline")
-
-![Jaycostumes Neck & Ear Patterns](<attachments/Necks & Dino Mask Hoods/Jaycostumes Neck & Ear Patterns/image-01.png>)
-
----
-
-<a id="spiltgrapesoda-raptor-mask-hood-neck-pattern"></a>
-### SpiltGrapeSoda Raptor Mask Hood/Neck Pattern #moderately #other-species #fursuit-heads #any-species
-
-[https://shop.spiltgrapesoda.com/spiltgrapesoda/p/raptor-mask-hood-and-neck-pattern-pdf-download](https://shop.spiltgrapesoda.com/spiltgrapesoda/p/raptor-mask-hood-and-neck-pattern-pdf-download "smartCard-inline")
-
-[https://www.etsy.com/ca/listing/1366827273/raptor-mask-hood-and-neck-pattern-pdf](https://www.etsy.com/ca/listing/1366827273/raptor-mask-hood-and-neck-pattern-pdf "smartCard-inline")
-
-![SpiltGrapeSoda Raptor Mask Hood/Neck Pattern](<attachments/Necks & Dino Mask Hoods/SpiltGrapeSoda Raptor Mask HoodNeck Pattern/image-01.png>)
-
----
-
-<a id="hiero-crafts-creations-dvc-skull-hood"></a>
-### Hiero Crafts Creations DVC Skull Hood #other-species #fursuit-heads #moderately #canine #any-species
-
-Fits the Dream Vision Creations Canine Skull
-
-Comes with an ear pattern
-
-[https://hierocraftcreations.com/shop/ols/products/hiero-craft-creations-skull-dog-fursuit-head-hood-pattern](https://hierocraftcreations.com/shop/ols/products/hiero-craft-creations-skull-dog-fursuit-head-hood-pattern "smartCard-inline")
-
-![Hiero Crafts Creations DVC Skull Hood](<attachments/Necks & Dino Mask Hoods/Hiero Crafts Creations DVC Skull Hood/image-01.png>)
-
----
-
-<a id="geknome-neck-pattern-v1-v2"></a>
-### Geknome Neck Pattern V1 + V2 #cheap #other-species #fursuit-heads #any-species
-
-[https://www.etsy.com/ca/listing/1308227957/fursuit-neck-pattern-pdf-download](https://www.etsy.com/ca/listing/1308227957/fursuit-neck-pattern-pdf-download "smartCard-inline")
-
-![Geknome Neck Pattern V1 + V2](<attachments/Necks & Dino Mask Hoods/Geknome Neck Pattern V1 + V2/image-01.png>)
-
----
-
-<a id="furgetfulfaefursuits-neck-pattern"></a>
-### FurgetfulFaeFursuits Neck Pattern #cheap #other-species #fursuit-heads #any-species
-
-[https://www.etsy.com/ca/listing/997288842/fursuit-neck-pattern-furgetful-fae](https://www.etsy.com/ca/listing/997288842/fursuit-neck-pattern-furgetful-fae "smartCard-inline")
-
-![FurgetfulFaeFursuits Neck Pattern](<attachments/Necks & Dino Mask Hoods/FurgetfulFaeFursuits Neck Pattern/image-01.png>)
-
----
-
-<a id="twinklesartstudio-dino-mask-hood"></a>
-### TwinklesArtStudio Dino Mask Hood #other-species #moderately #fursuit-heads
-
-[https://www.etsy.com/ca/listing/1468148794/twinkles-dino-mask-hood-template-pdf](https://www.etsy.com/ca/listing/1468148794/twinkles-dino-mask-hood-template-pdf "smartCard-inline")
-
-![TwinklesArtStudio Dino Mask Hood](<attachments/Necks & Dino Mask Hoods/TwinklesArtStudio Dino Mask Hood/image-01.png>)
-
-![TwinklesArtStudio Dino Mask Hood](<attachments/Necks & Dino Mask Hoods/TwinklesArtStudio Dino Mask Hood/image-02.png>)
-
----
-
-<a id="formidablefriends-dino-mask-hood"></a>
-### FormidableFriends Dino Mask Hood #other-species #moderately #fursuit-heads
-
-[https://www.etsy.com/ca/listing/1024935821/raptor-and-dino-mask-fur-pattern-digital](https://www.etsy.com/ca/listing/1024935821/raptor-and-dino-mask-fur-pattern-digital "smartCard-inline")
-
-![FormidableFriends Dino Mask Hood](<attachments/Necks & Dino Mask Hoods/FormidableFriends Dino Mask Hood/image-01.png>)
-
----
-
-<a id="twilightknights-lined-fursuit-hood"></a>
-### TwilightKnights Lined Fursuit Hood #other-species #cheap #fursuit-heads #any-species
-
-[https://www.etsy.com/ca/listing/1553220451/lined-fursuit-hood-tutorial](https://www.etsy.com/ca/listing/1553220451/lined-fursuit-hood-tutorial "smartCard-inline")
-
-![TwilightKnights Lined Fursuit Hood](<attachments/Necks & Dino Mask Hoods/TwilightKnights Lined Fursuit Hood/image-01.jpg>)
-
----
-
-<a id="mayingfatasy-dino-hood"></a>
-### Mayingfatasy Dino Hood #moderately #other-species #fursuit-heads
-
-[https://mayingfantasycreations.com/product/dinomask-hood-neck-pattern/](https://mayingfantasycreations.com/product/dinomask-hood-neck-pattern/ "smartCard-inline")
-
-[https://www.etsy.com/ca/listing/1479494174/dinomask-hood-and-neck-pattern-digital](https://www.etsy.com/ca/listing/1479494174/dinomask-hood-and-neck-pattern-digital)
-
-![Mayingfatasy Dino Hood](<attachments/Necks & Dino Mask Hoods/Mayingfatasy Dino Hood/image-01.jpg>)
-
-![Mayingfatasy Dino Hood](<attachments/Necks & Dino Mask Hoods/Mayingfatasy Dino Hood/image-02.jpg>)
-
----
-
-<a id="geknome-dino-mask-hood-ear-pattern"></a>
-### Geknome Dino Mask Hood + Ear Pattern #other-species #moderately #fursuit-heads #any-species
-
-[https://www.etsy.com/ca/listing/1818605879/customizable-dino-mask-hood-pattern-with](https://www.etsy.com/ca/listing/1818605879/customizable-dino-mask-hood-pattern-with "smartCard-inline")
-
-hood pattern
-chin pattern
-
-2 ear patterns
-
-![Geknome Dino Mask Hood + Ear Pattern](<attachments/Necks & Dino Mask Hoods/Geknome Dino Mask Hood + Ear Pattern/image-01.webp>)
-
----
-
-<a id="splitsharkstudios-dino-hood"></a>
-### SplitSharkStudios Dino Hood #other-species #moderately #any-species #fursuit-heads
-
-[https://www.etsy.com/ca/listing/4406500650/dinomask-hood-pattern-dinomask-neck](https://www.etsy.com/ca/listing/4406500650/dinomask-hood-pattern-dinomask-neck "smartCard-inline")
-
-![SplitSharkStudios Dino Hood](<attachments/Necks & Dino Mask Hoods/SplitSharkStudios Dino Hood/image-01.webp>)
-
----
-
-<a id="north-cat-creations-fursuit-neck-pattern"></a>
-### North Cat Creations Fursuit Neck Pattern #fursuit-heads #any-species #cheap #video-tutorials
-
-[https://www.etsy.com/ca/listing/1782549534/fursuit-neck-pattern-pdf](https://www.etsy.com/ca/listing/1782549534/fursuit-neck-pattern-pdf)
-
-![North Cat Creations Fursuit Neck Pattern](<attachments/Necks & Dino Mask Hoods/North Cat Creations Fursuit Neck Pattern/image-01.webp>)
-
----
-
-<a id="teacuplion-neck-pattern"></a>
-### TeacupLion Neck Pattern #moderately #fursuit-heads #any-species #video-tutorials
-
-[https://www.etsy.com/ca/listing/1789657049/fursuit-sewing-pattern-deluxe-slim-neck](https://www.etsy.com/ca/listing/1789657049/fursuit-sewing-pattern-deluxe-slim-neck "smartCard-inline")
-
-![TeacupLion Neck Pattern](<attachments/Necks & Dino Mask Hoods/TeacupLion Neck Pattern/image-01.webp>)
-
----
-
-<a id="teacuplion-neck-and-head-back"></a>
-### TeacupLion Neck & Head Back #moderately #any-species #other-species #fursuit-heads #video-tutorials
-
-[https://www.etsy.com/ca/listing/4343928842/fursuit-sewing-pattern-slip-on-neck-and](https://www.etsy.com/ca/listing/4343928842/fursuit-sewing-pattern-slip-on-neck-and "smartCard-inline")
-
-![TeacupLion Neck & Head Back](<attachments/Necks & Dino Mask Hoods/TeacupLion Neck & Head Back/image-01.png>)
-
----
-
-<a id="wings-feathers"></a>
-
-</details>
-
-<details>
-<summary>Wings/Feathers</summary>
-
-
-[↑ Contents](#contents)
-
----
-
-<a id="pseudocanid-bird-wings-arms"></a>
-### Pseudocanid Bird Wings/Arms #moderately #feathers-birds #any-hand-paws #video-tutorials
-
-[https://www.etsy.com/ca/listing/1111695171/bird-wingswing-arm-pattern-digital?click_key=ff6aaac1aaf6adbbd82e40d7d591b9b46f824722%3A1111695171&click_sum=cae0db58&ref=shop_home_active_3&crt=1](https://www.etsy.com/ca/listing/1111695171/bird-wingswing-arm-pattern-digital?click_key=ff6aaac1aaf6adbbd82e40d7d591b9b46f824722%3A1111695171&click_sum=cae0db58&ref=shop_home_active_3&crt=1 "smartCard-inline")
-
-[https://youtu.be/TiUGvxzBjyc](https://youtu.be/TiUGvxzBjyc "smartCard-inline")
-
-![Pseudocanid Bird Wings/Arms](<attachments/WingsFeathers/Pseudocanid Bird WingsArms/image-01.png>)
-
-![Pseudocanid Bird Wings/Arms](<attachments/WingsFeathers/Pseudocanid Bird WingsArms/image-02.png>)
-
-![Pseudocanid Bird Wings/Arms](<attachments/WingsFeathers/Pseudocanid Bird WingsArms/image-03.png>)
-
----
-
-<a id="oktavia-s-creatures-fabric-feathers"></a>
-### Oktavia's Creatures Fabric Feathers #cheap #feathers-birds #other-species #fursuit-heads
-
-[https://www.etsy.com/ca/listing/1453760737/fabric-feathers-for-fursuits-cosplay](https://www.etsy.com/ca/listing/1453760737/fabric-feathers-for-fursuits-cosplay "smartCard-inline")
-
-![Oktavia's Creatures Fabric Feathers](<attachments/WingsFeathers/Oktavia's Creatures Fabric Feathers/image-01.png>)
-
-![Oktavia's Creatures Fabric Feathers](<attachments/WingsFeathers/Oktavia's Creatures Fabric Feathers/image-02.png>)
-
----
-
-<a id="mugiwara-tail-feathers"></a>
-### Mugiwara Tail Feathers #cheap #feathers-birds #other-species #any-tails #video-tutorials
-
-[https://mugiwara-cosplay.sellfy.store/p/digital-tail-feathers-pattern-for-fursuits-pdf-download/](https://mugiwara-cosplay.sellfy.store/p/digital-tail-feathers-pattern-for-fursuits-pdf-download/ "smartCard-inline")
-
-[https://www.etsy.com/ca/listing/671851805/digital-tail-feathers-pattern-for](https://www.etsy.com/ca/listing/671851805/digital-tail-feathers-pattern-for "smartCard-inline")
-
-[https://www.youtube.com/watch?v=gOsm-CHuOrQ](https://www.youtube.com/watch?v=gOsm-CHuOrQ "smartCard-inline")
-
-![Mugiwara Tail Feathers](<attachments/WingsFeathers/Mugiwara Tail Feathers/image-01.png>)
-
----
-
-<a id="mugiwara-feather-patterns"></a>
-### Mugiwara Feather Patterns #cheap #feathers-birds #video-tutorials #other-species
-
-[https://mugiwara-cosplay.sellfy.store/p/digital-fabric-feather-patterns-for-fursuits-and-cosplay-pdf-download/](https://mugiwara-cosplay.sellfy.store/p/digital-fabric-feather-patterns-for-fursuits-and-cosplay-pdf-download/ "smartCard-inline")
-
-[https://www.etsy.com/ca/listing/723805416/digital-fabric-feather-patterns-for](https://www.etsy.com/ca/listing/723805416/digital-fabric-feather-patterns-for "smartCard-inline")
-
-[https://www.youtube.com/watch?v=hq9Zk2EIYnI](https://www.youtube.com/watch?v=hq9Zk2EIYnI "smartCard-inline")
-
-![Mugiwara Feather Patterns](<attachments/WingsFeathers/Mugiwara Feather Patterns/image-01.png>)
-
----
-
-<a id="mugiwara-bird-arm-wings"></a>
-### Mugiwara Bird Arm Wings #cheap #feathers-birds #any-hand-paws #video-tutorials
-
-[https://mugiwara-cosplay.sellfy.store/p/digital-bird-wings-pattern-for-partial-fursuits-pdf-download/](https://mugiwara-cosplay.sellfy.store/p/digital-bird-wings-pattern-for-partial-fursuits-pdf-download/ "smartCard-inline")
-
-[https://www.etsy.com/ca/listing/717601353/digital-bird-wings-pattern-for-partial](https://www.etsy.com/ca/listing/717601353/digital-bird-wings-pattern-for-partial "smartCard-inline")
-
-[https://www.youtube.com/watch?v=I2_NHOGRLs8](https://www.youtube.com/watch?v=I2_NHOGRLs8 "smartCard-inline")
-
-![Mugiwara Bird Arm Wings](<attachments/WingsFeathers/Mugiwara Bird Arm Wings/image-01.png>)
-
----
-
-<a id="mugiwara-angel-dragon-wings"></a>
-### Mugiwara Angel Dragon Wings #cheap #feathers-birds #video-tutorials #other-species
-
-[https://mugiwara-cosplay.sellfy.store/p/digital-angel-dragon-wing-pattern-for-fursuits-pdf-download/](https://mugiwara-cosplay.sellfy.store/p/digital-angel-dragon-wing-pattern-for-fursuits-pdf-download/ "smartCard-inline")
-
-[https://www.etsy.com/ca/listing/660650193/digital-angel-dragon-wing-pattern-for](https://www.etsy.com/ca/listing/660650193/digital-angel-dragon-wing-pattern-for "smartCard-inline")
-
-[https://www.youtube.com/watch?v=aCpSWxwf-lw](https://www.youtube.com/watch?v=aCpSWxwf-lw "smartCard-inline")
-
-![Mugiwara Angel Dragon Wings](<attachments/WingsFeathers/Mugiwara Angel Dragon Wings/image-01.png>)
-
----
-
-<a id="mugiwara-bat-dragon-wing-v1"></a>
-### Mugiwara Bat/Dragon Wing V1 #cheap #feathers-birds #other-species #video-tutorials
-
-[https://mugiwara-cosplay.sellfy.store/p/digital-dragon-wing-pattern-for-fursuits-pdf-download/](https://mugiwara-cosplay.sellfy.store/p/digital-dragon-wing-pattern-for-fursuits-pdf-download/ "smartCard-inline")
-
-[https://www.etsy.com/ca/listing/672351113/digital-dragon-wing-pattern-for-fursuits](https://www.etsy.com/ca/listing/672351113/digital-dragon-wing-pattern-for-fursuits "smartCard-inline")
-
-[https://www.youtube.com/watch?v=DbPgklNCg_M](https://www.youtube.com/watch?v=DbPgklNCg_M "smartCard-inline")
-
-![Mugiwara Bat/Dragon Wing V1](<attachments/WingsFeathers/Mugiwara BatDragon Wing V1/image-01.png>)
-
----
-
-<a id="mugiwara-bat-dragon-wing-v2"></a>
-### Mugiwara Bat/Dragon Wing V2 #cheap #feathers-birds #other-species #video-tutorials
-
-[https://mugiwara-cosplay.sellfy.store/p/digital-dragon-wing-version-2-pattern-for-fursuits-pdf-download/](https://mugiwara-cosplay.sellfy.store/p/digital-dragon-wing-version-2-pattern-for-fursuits-pdf-download/ "smartCard-inline")
-
-[https://www.etsy.com/ca/listing/1241114406/digital-dragon-wing-version-2-pattern](https://www.etsy.com/ca/listing/1241114406/digital-dragon-wing-version-2-pattern "smartCard-inline")
-
-[https://www.youtube.com/watch?v=MsRHpJGjqgw](https://www.youtube.com/watch?v=MsRHpJGjqgw "smartCard-inline")
-
-![Mugiwara Bat/Dragon Wing V2](<attachments/WingsFeathers/Mugiwara BatDragon Wing V2/image-01.jpg>)
-
----
-
-<a id="mugiwara-bird-tail"></a>
-### Mugiwara Bird Tail #cheap #any-tails #feathers-birds #video-tutorials #other-species
-
-[https://mugiwara-cosplay.sellfy.store/p/digital-bird-tail-pattern-for-fursuits-pdf-download/](https://mugiwara-cosplay.sellfy.store/p/digital-bird-tail-pattern-for-fursuits-pdf-download/ "smartCard-inline")
-
-[https://www.etsy.com/ca/listing/699181949/digital-bird-tail-pattern-for-fursuits](https://www.etsy.com/ca/listing/699181949/digital-bird-tail-pattern-for-fursuits "smartCard-inline")
-
-[https://www.youtube.com/watch?v=x-erJBZEIzU](https://www.youtube.com/watch?v=x-erJBZEIzU "smartCard-inline")
-
-![Mugiwara Bird Tail](<attachments/WingsFeathers/Mugiwara Bird Tail/image-01.png>)
-
----
-
-<a id="mugiwara-mini-arm-wings-3-lengths"></a>
-### Mugiwara Mini Arm Wings (3 Lengths) #cheap #feathers-birds #any-hand-paws #video-tutorials #other-species
-
-[https://www.youtube.com/watch?v=u-RNRohhdac](https://www.youtube.com/watch?v=u-RNRohhdac "smartCard-inline")
-
-SHORT:
-[https://mugiwara-cosplay.sellfy.store/p/digital-bat-wing-pattern-for-partial-fursuits-short-wings-pdf-download/](https://mugiwara-cosplay.sellfy.store/p/digital-bat-wing-pattern-for-partial-fursuits-short-wings-pdf-download/ "smartCard-inline")
-
-[https://www.etsy.com/ca/listing/715914559/digital-bat-wing-pattern-for-partial](https://www.etsy.com/ca/listing/715914559/digital-bat-wing-pattern-for-partial "smartCard-inline")
-
-MEDIUM:
-
-[https://mugiwara-cosplay.sellfy.store/p/digital-bat-wing-pattern-for-partial-fursuits-medium-long-wings-pdf-download/](https://mugiwara-cosplay.sellfy.store/p/digital-bat-wing-pattern-for-partial-fursuits-medium-long-wings-pdf-download/ "smartCard-inline")
-
-[https://www.etsy.com/ca/listing/702062496/digital-bat-wing-pattern-for-partial](https://www.etsy.com/ca/listing/702062496/digital-bat-wing-pattern-for-partial "smartCard-inline")
-
-LARGE:
-
-[https://mugiwara-cosplay.sellfy.store/p/digital-bat-wing-pattern-for-partial-fursuits-long-wings-pdf-download/](https://mugiwara-cosplay.sellfy.store/p/digital-bat-wing-pattern-for-partial-fursuits-long-wings-pdf-download/ "smartCard-inline")
-
-[https://www.etsy.com/ca/listing/702061758/digital-bat-wing-pattern-for-partial](https://www.etsy.com/ca/listing/702061758/digital-bat-wing-pattern-for-partial "smartCard-inline")
-
-![Mugiwara Mini Arm Wings 3 Lengths](<attachments/WingsFeathers/Mugiwara Mini Arm Wings (3 Lengths)/image-01.png>)
-
-![Mugiwara Mini Arm Wings 3 Lengths](<attachments/WingsFeathers/Mugiwara Mini Arm Wings (3 Lengths)/image-02.webp>)
-
-![Mugiwara Mini Arm Wings 3 Lengths](<attachments/WingsFeathers/Mugiwara Mini Arm Wings (3 Lengths)/image-03.webp>)
-
----
-
-<a id="north-cat-creations-wings"></a>
-### North Cat Creations Wings #cheap #feathers-birds
-
-[https://www.etsy.com/ca/listing/1240028393/bird-fursuit-wings-pattern-pdf](https://www.etsy.com/ca/listing/1240028393/bird-fursuit-wings-pattern-pdf "smartCard-inline")
-
-![North Cat Creations Wings](<attachments/WingsFeathers/North Cat Creations Wings/image-01.png>)
-
-![North Cat Creations Wings](<attachments/WingsFeathers/North Cat Creations Wings/image-02.png>)
-
----
-
-<a id="north-cat-creations-feathered-tail"></a>
-### North Cat Creations Feathered Tail #cheap #feathers-birds #any-tails
-
-[https://www.etsy.com/ca/listing/1256213346/bird-fursuit-tail-pattern-pdf](https://www.etsy.com/ca/listing/1256213346/bird-fursuit-tail-pattern-pdf "smartCard-inline")
-
-![North Cat Creations Feathered Tail](<attachments/WingsFeathers/North Cat Creations Feathered Tail/image-01.png>)
-
----
-
-<a id="twilightknights-large-fursuit-wings"></a>
-### TwilightKnights Large Fursuit Wings #moderately #feathers-birds
-
-[https://www.etsy.com/ca/listing/1473701755/fursuit-wings-tutorial](https://www.etsy.com/ca/listing/1473701755/fursuit-wings-tutorial "smartCard-inline")
-
-![TwilightKnights Large Fursuit Wings](<attachments/WingsFeathers/TwilightKnights Large Fursuit Wings/image-01.png>)
-
----
-
-<a id="pinkuscraftycottage-bird-tail"></a>
-### PinkusCraftyCottage Bird Tail #cheap #other-species #feathers-birds #any-tails
-
-[https://www.etsy.com/ca/listing/1068678264/diy-bird-tail-pdf-pattern](https://www.etsy.com/ca/listing/1068678264/diy-bird-tail-pdf-pattern "smartCard-inline")
-
-![PinkusCraftyCottage Bird Tail](<attachments/WingsFeathers/PinkusCraftyCottage Bird Tail/image-01.webp>)
-
-![PinkusCraftyCottage Bird Tail](<attachments/WingsFeathers/PinkusCraftyCottage Bird Tail/image-02.webp>)
-
----
-
-<a id="basilmintcreation-bird-wings"></a>
-### BasilMintCreation Bird Wings #feathers-birds #any-hand-paws #moderately
-
-[https://www.etsy.com/ca/listing/1547695126/fursuit-or-cosplay-wings-pdf-pattern](https://www.etsy.com/ca/listing/1547695126/fursuit-or-cosplay-wings-pdf-pattern "smartCard-inline")
-
-![BasilMintCreation Bird Wings](<attachments/WingsFeathers/BasilMintCreation Bird Wings/image-01.webp>)
-
----
-
-<a id="kazplay-diy-wing-harness"></a>
-### Kazplay DIY Wing Harness #video-tutorials #cheap #other-species #feathers-birds #any-bodysuit
-
-[https://www.etsy.com/ca/listing/1335791715/diy-large-wing-harness-digital-template](https://www.etsy.com/ca/listing/1335791715/diy-large-wing-harness-digital-template "smartCard-inline")
-
-[https://youtu.be/SN95R_n4mAI](https://youtu.be/SN95R_n4mAI "smartCard-inline")
-
-![Kazplay DIY Wing Harness](<attachments/WingsFeathers/Kazplay DIY Wing Harness/image-01.webp>)
-
----
-
-<a id="ricochetxcrafts-bird-wings"></a>
-### ricochetxcrafts Bird Wings #foam-only #other-species #feathers-birds #cheap #moderately
-
-[https://www.etsy.com/ca/listing/1738170780/bird-arm-wing-pattern](https://www.etsy.com/ca/listing/1738170780/bird-arm-wing-pattern)
-
-![ricochetxcrafts Bird Wings](<attachments/WingsFeathers/ricochetxcrafts Bird Wings/image-01.png>)
-
----
-
-<a id="ricochetxcrafts-bird-tail"></a>
-### ricochetxcrafts Bird tail #foam-only #other-species #any-tails #feathers-birds #cheap
-
-[https://www.etsy.com/ca/listing/1683882618/bird-tail-pattern](https://www.etsy.com/ca/listing/1683882618/bird-tail-pattern)
-
-![ricochetxcrafts Bird tail](<attachments/WingsFeathers/ricochetxcrafts Bird tail/image-01.png>)
-
----
-
-<a id="faetrinkets-tail-template"></a>
-### FaeTrinkets Tail Template #foam-only #cheap #feathers-birds #any-tails #other-species
-
-[https://www.etsy.com/ca/listing/1242775146/starbird-bird-tail-feathers-cosplay](https://www.etsy.com/ca/listing/1242775146/starbird-bird-tail-feathers-cosplay "smartCard-inline")
-
-![FaeTrinkets Tail Template](<attachments/WingsFeathers/FaeTrinkets Tail Template/image-01.jpg>)
-
----
-
-<a id="mossyfox-bat-wing-pattern"></a>
-### MossyFox Bat Wing Pattern #moderately #other-species #video-tutorials #multipack
-
-Just the wing pattern: [https://mossyfox.bigcartel.com/product/bat-wing-pattern](https://mossyfox.bigcartel.com/product/bat-wing-pattern "smartCard-inline")
-
-Bundle comes with bat wing + ear pattern: [https://mossyfox.bigcartel.com/product/digital-bat-eing-ear-bundle](https://mossyfox.bigcartel.com/product/digital-bat-eing-ear-bundle "smartCard-inline")
-
-![MossyFox Bat Wing Pattern](<attachments/WingsFeathers/MossyFox Bat Wing Pattern/image-01.webp>)
-
----
-
-<a id="kittencafestudios-5-styles-small-fursuit-wings"></a>
-### KittenCafeStudios 5 Styles Small Fursuit Wings #expensive #multipack #other-species #feathers-birds
-
-[https://www.etsy.com/ca/listing/1827604445/5-styles-pattern-tutorial-diy-fursuit](https://www.etsy.com/ca/listing/1827604445/5-styles-pattern-tutorial-diy-fursuit "smartCard-inline")
-
-![KittenCafeStudios 5 Styles Small Fursuit Wings](<attachments/WingsFeathers/KittenCafeStudios 5 Styles Small Fursuit Wings/image-01.webp>)
-
----
-
-<a id="thecasualfriday-wing-hands"></a>
-### TheCasualFriday Wing Hands #feathers-birds #moderately
-
-[https://www.etsy.com/ca/listing/1906261739/bird-wing-fursuit-paw-pattern](https://www.etsy.com/ca/listing/1906261739/bird-wing-fursuit-paw-pattern "smartCard-inline")
-
-![TheCasualFriday Wing Hands](<attachments/WingsFeathers/TheCasualFriday Wing Hands/image-01.png>)
-
----
-
-<a id="ricochetxcrafts-toony-bird-tail"></a>
-### ricochetxcrafts Toony Bird Tail #feathers-birds #any-tails #cheap #foam-only #other-species
-
-[https://www.etsy.com/ca/listing/1771835964/toon-bird-tail-foam-pattern](https://www.etsy.com/ca/listing/1771835964/toon-bird-tail-foam-pattern "smartCard-inline")
-
-![ricochetxcrafts Toony Bird Tail](<attachments/WingsFeathers/ricochetxcrafts Toony Bird Tail/image-01.png>)
-
----
-
-<a id="ricochetxcrafts-mini-wings-harness"></a>
-### ricochetxcrafts Mini Wings + Harness #other-species #feathers-birds #foam-only
-
-[https://www.etsy.com/ca/listing/4376220656/mini-wings-and-harness-pattern](https://www.etsy.com/ca/listing/4376220656/mini-wings-and-harness-pattern "smartCard-inline")
-
-![ricochetxcrafts Mini Wings + Harness](<attachments/WingsFeathers/ricochetxcrafts Mini Wings + Harness/image-01.png>)
-
----
-
-<a id="ricochetxcrafts-fantasy-lugia-wings"></a>
-### ricochetxcrafts Fantasy/Lugia Wings #other-species #moderately #foam-only
-
-[https://www.etsy.com/ca/listing/1842329777/fantasy-wing-foam-pattern](https://www.etsy.com/ca/listing/1842329777/fantasy-wing-foam-pattern "smartCard-inline")
-
-![ricochetxcrafts Fantasy/Lugia Wings](<attachments/WingsFeathers/ricochetxcrafts FantasyLugia Wings/image-01.png>)
-
----
-
-<a id="chevalhoof-wing-pattern"></a>
-### ChevalHoof Wing Pattern #moderately #feathers-birds #video-tutorials
-
-[https://www.etsy.com/ca/listing/4308456853/fursuit-feathered-wing-pattern](https://www.etsy.com/ca/listing/4308456853/fursuit-feathered-wing-pattern "smartCard-inline")
-
-Follows Neffertity’s tutorial:[https://youtu.be/1AV_HpCQwZ8?si=XUY6aZv9VQdvbBmx](https://youtu.be/1AV_HpCQwZ8?si=XUY6aZv9VQdvbBmx "smartCard-inline")
-
-![ChevalHoof Wing Pattern](<attachments/WingsFeathers/ChevalHoof Wing Pattern/image-01.png>)
-
----
-
-<a id="nearvalkyrie-butterfly-wings"></a>
-### NearValkyrie Butterfly Wings #other-species #cheap #multipack #free
-
-Pack 1:[https://www.etsy.com/ca/listing/1449463357/wings-patterns-set-3](https://www.etsy.com/ca/listing/1449463357/wings-patterns-set-3 "smartCard-inline")
-
-Pack 1: [https://ko-fi.com/s/f8916e12b8](https://ko-fi.com/s/f8916e12b8 "smartCard-inline")
-
-Pack 2:[https://ko-fi.com/s/f9f385289d](https://ko-fi.com/s/f9f385289d "smartCard-inline")
-
-Pack 3: [https://ko-fi.com/s/eea035e03a](https://ko-fi.com/s/eea035e03a "smartCard-inline")
-
-Free 1: [https://ko-fi.com/s/7b67069f5a](https://ko-fi.com/s/7b67069f5a "smartCard-inline")
-
-Free 2: [https://ko-fi.com/s/da48cb08e8](https://ko-fi.com/s/da48cb08e8 "smartCard-inline")
-
-![NearValkyrie Butterfly Wings](<attachments/WingsFeathers/NearValkyrie Butterfly Wings/image-01.webp>)
-
-![NearValkyrie Butterfly Wings](<attachments/WingsFeathers/NearValkyrie Butterfly Wings/image-02.png>)
-
-![NearValkyrie Butterfly Wings](<attachments/WingsFeathers/NearValkyrie Butterfly Wings/image-03.png>)
-
-![NearValkyrie Butterfly Wings](<attachments/WingsFeathers/NearValkyrie Butterfly Wings/image-04.png>)
-
-![NearValkyrie Butterfly Wings](<attachments/WingsFeathers/NearValkyrie Butterfly Wings/image-05.png>)
-
----
-
-<a id="feline-tails"></a>
-
-</details>
-
-<details>
-<summary>Feline Tails</summary>
-
-
-[↑ Contents](#contents)
-
----
-
-<a id="free-foxfire-fantasy-snow-leopard-tail"></a>
-### (FREE) FoxFire Fantasy Snow Leopard Tail #free #feline #any-tails
-
-[https://foxfirefantasy.com/shop/legacy-snow-leopard-tail-pattern](https://foxfirefantasy.com/shop/legacy-snow-leopard-tail-pattern "smartCard-inline")
-
-![FREE FoxFire Fantasy Snow Leopard Tail](<attachments/Feline Tails/(FREE) FoxFire Fantasy Snow Leopard Tail/image-01.png>)
-
----
-
-<a id="neffertity-super-motion-feline-tail"></a>
-### Neffertity Super Motion Feline Tail #moderately #any-tails #feline #video-tutorials
-
-[https://www.artbyneffertity.com/store/pattern-felinetail](https://www.artbyneffertity.com/store/pattern-felinetail "smartCard-inline")
-
-[https://youtu.be/Mlq96ojwlg8?list=PLRIT0XO_NdobD28aCtz_89mHTngtO-HyE](https://youtu.be/Mlq96ojwlg8?list=PLRIT0XO_NdobD28aCtz_89mHTngtO-HyE "smartCard-inline")
-
-![Neffertity Super Motion Feline Tail](<attachments/Feline Tails/Neffertity Super Motion Feline Tail/image-01.png>)
-
-![Neffertity Super Motion Feline Tail](<attachments/Feline Tails/Neffertity Super Motion Feline Tail/image-02.png>)
-
----
-
-<a id="mugiwara-simple-cat-tail"></a>
-### Mugiwara Simple Cat Tail #cheap #any-tails #feline #video-tutorials #any-species
-
-[https://mugiwara-cosplay.sellfy.store/p/digital-feline-tail-pattern-for-fursuits-pdf-download/](https://mugiwara-cosplay.sellfy.store/p/digital-feline-tail-pattern-for-fursuits-pdf-download/ "smartCard-inline")
-
-[https://www.etsy.com/ca/listing/666841578/digital-feline-tail-pattern-for-fursuits](https://www.etsy.com/ca/listing/666841578/digital-feline-tail-pattern-for-fursuits "smartCard-inline")
-
-[https://www.youtube.com/watch?v=CDyvxtK4KbU](https://www.youtube.com/watch?v=CDyvxtK4KbU "smartCard-inline")
-
-![Mugiwara Simple Cat Tail](<attachments/Feline Tails/Mugiwara Simple Cat Tail/image-01.png>)
-
----
-
-<a id="mugiwara-lion-tail"></a>
-### Mugiwara Lion Tail #cheap #any-tails #feline #video-tutorials
-
-[https://mugiwara-cosplay.sellfy.store/p/digital-lion-tail-pattern-for-fursuits-pdf-download/](https://mugiwara-cosplay.sellfy.store/p/digital-lion-tail-pattern-for-fursuits-pdf-download/ "smartCard-inline")
-
-[https://www.etsy.com/ca/listing/682549181/digital-lion-tail-pattern-for-fursuits](https://www.etsy.com/ca/listing/682549181/digital-lion-tail-pattern-for-fursuits "smartCard-inline")
-
-[https://www.youtube.com/watch?v=CzAjjd7j3uo](https://www.youtube.com/watch?v=CzAjjd7j3uo "smartCard-inline")
-
-![Mugiwara Lion Tail](<attachments/Feline Tails/Mugiwara Lion Tail/image-01.png>)
-
----
-
-<a id="mugiwara-tiger-tail"></a>
-### Mugiwara Tiger Tail #cheap #any-tails #feline #video-tutorials
-
-[https://mugiwara-cosplay.sellfy.store/p/digital-tiger-tail-pattern-for-fursuits-and-cosplay-pdf-download/](https://mugiwara-cosplay.sellfy.store/p/digital-tiger-tail-pattern-for-fursuits-and-cosplay-pdf-download/ "smartCard-inline")
-
-[https://www.etsy.com/ca/listing/770365491/digital-tiger-tail-pattern-for-fursuits](https://www.etsy.com/ca/listing/770365491/digital-tiger-tail-pattern-for-fursuits)
-
-[https://www.youtube.com/watch?v=cML5LlJM9Mk](https://www.youtube.com/watch?v=cML5LlJM9Mk "smartCard-inline")
-
-![Mugiwara Tiger Tail](<attachments/Feline Tails/Mugiwara Tiger Tail/image-01.png>)
-
----
-
-<a id="skunky-designs-cat-tail"></a>
-### Skunky Designs Cat Tail #cheap #any-tails #feline
-
-[https://www.skunkydesigns.com/collections/patterns-and-tutorials/products/pattern-cat-tail](https://www.skunkydesigns.com/collections/patterns-and-tutorials/products/pattern-cat-tail "smartCard-inline")
-
-![Skunky Designs Cat Tail](<attachments/Feline Tails/Skunky Designs Cat Tail/image-01.png>)
-
----
-
-<a id="saberwolfstudio-feline-tail"></a>
-### Saberwolfstudio Feline Tail #cheap #any-tails #feline
-
-[https://www.etsy.com/ca/listing/1015083517/feline-tail-pattern-digital-pdf](https://www.etsy.com/ca/listing/1015083517/feline-tail-pattern-digital-pdf "smartCard-inline")
-
-![Saberwolfstudio Feline Tail](<attachments/Feline Tails/Saberwolfstudio Feline Tail/image-01.png>)
-
-![Saberwolfstudio Feline Tail](<attachments/Feline Tails/Saberwolfstudio Feline Tail/image-02.png>)
-
----
-
-<a id="spiltgrapesoda-large-feline-tail"></a>
-### SpiltGrapeSoda Large Feline Tail #any-tails #cheap #feline
-
-[https://shop.spiltgrapesoda.com/spiltgrapesoda/p/large-feline-tail-pattern-pdf-download](https://shop.spiltgrapesoda.com/spiltgrapesoda/p/large-feline-tail-pattern-pdf-download "smartCard-inline")
-
-[https://www.etsy.com/ca/listing/1624282393/large-feline-tail-pattern-pdf-download](https://www.etsy.com/ca/listing/1624282393/large-feline-tail-pattern-pdf-download "smartCard-inline")
-
-![SpiltGrapeSoda Large Feline Tail](<attachments/Feline Tails/SpiltGrapeSoda Large Feline Tail/image-01.webp>)
-
----
-
-<a id="pinkuscraftycottage-cheetah-pattern"></a>
-### PinkusCraftyCottage Cheetah Pattern #feline #any-tails #cheap
-
-[https://www.etsy.com/ca/listing/1019148416/diy-cheetah-tail-pdf-pattern](https://www.etsy.com/ca/listing/1019148416/diy-cheetah-tail-pdf-pattern "smartCard-inline")
-
-![PinkusCraftyCottage Cheetah Pattern](<attachments/Feline Tails/PinkusCraftyCottage Cheetah Pattern/image-01.webp>)
-
----
-
-<a id="pinkuscraftycottage-3-tiger-patterns"></a>
-### PinkusCraftyCottage 3 Tiger Patterns #moderately #any-tails #feline
-
-[https://www.etsy.com/ca/listing/1425051011/diy-tiger-tail-bundle-pdf-pattern](https://www.etsy.com/ca/listing/1425051011/diy-tiger-tail-bundle-pdf-pattern "smartCard-inline")
-
-![PinkusCraftyCottage 3 Tiger Patterns](<attachments/Feline Tails/PinkusCraftyCottage 3 Tiger Patterns/image-01.webp>)
-
----
-
-<a id="koifishycostumes-cat-tail"></a>
-### KoiFishyCostumes Cat Tail #feline #cheap #any-tails #video-tutorials
-
-[https://www.etsy.com/ca/listing/1585605857/cat-tail-digital-pattern](https://www.etsy.com/ca/listing/1585605857/cat-tail-digital-pattern "smartCard-inline")
-
-[https://www.tiktok.com/@koifishycostume/video/7285332089778523394](https://www.tiktok.com/@koifishycostume/video/7285332089778523394 "smartCard-inline")
-
-![KoiFishyCostumes Cat Tail](<attachments/Feline Tails/KoiFishyCostumes Cat Tail/image-01.jpg>)
-
----
-
-<a id="knittinkittenfashion-cat-tail"></a>
-### KnittinKittenFashion Cat Tail #cheap #any-tails #feline
-
-[https://www.etsy.com/ca/listing/1788772524/cat-tail-fursuit-sewing-pattern-pdf](https://www.etsy.com/ca/listing/1788772524/cat-tail-fursuit-sewing-pattern-pdf "smartCard-inline")
-
-![KnittinKittenFashion Cat Tail](<attachments/Feline Tails/KnittinKittenFashion Cat Tail/image-01.webp>)
-
----
-
-<a id="kiafursuits-2-sizes-feline-tail"></a>
-### KiaFursuits 2 Sizes Feline Tail #feline #any-tails #cheap #multipack
-
-[https://www.etsy.com/ca/listing/1794802090/feline-tail-pattern-large-medium-options](https://www.etsy.com/ca/listing/1794802090/feline-tail-pattern-large-medium-options "smartCard-inline")
-
-![KiaFursuits 2 Sizes Feline Tail](<attachments/Feline Tails/KiaFursuits 2 Sizes Feline Tail/image-01.png>)
-
----
-
-<a id="howlingdragonstudios-big-cat-tail"></a>
-### HowlingDragonStudios Big Cat Tail #cheap #any-tails #feline
-
-[https://www.etsy.com/ca/listing/1859446675/big-cat-tail-pattern-digital-download](https://www.etsy.com/ca/listing/1859446675/big-cat-tail-pattern-digital-download "smartCard-inline")
-
-![HowlingDragonStudios Big Cat Tail](<attachments/Feline Tails/HowlingDragonStudios Big Cat Tail/image-01.webp>)
-
----
-
-<a id="geknome-floor-dragger-feline-tail"></a>
-### Geknome Floor Dragger Feline Tail #feline #any-tails #cheap #other-species
-
-[https://www.etsy.com/ca/listing/1854524247/floor-dragger-feline-tail-pattern](https://www.etsy.com/ca/listing/1854524247/floor-dragger-feline-tail-pattern "smartCard-inline")
-
-![Geknome Floor Dragger Feline Tail](<attachments/Feline Tails/Geknome Floor Dragger Feline Tail/image-01.webp>)
-
----
-
-<a id="sonstafurs-cat-tail"></a>
-### Sonstafurs Cat Tail #cheap #any-tails #feline
-
-[https://www.etsy.com/ca/listing/4348531848/cat-tail-pdf-pattern-tutorial-for](https://www.etsy.com/ca/listing/4348531848/cat-tail-pdf-pattern-tutorial-for "smartCard-inline")
-
-![Sonstafurs Cat Tail](<attachments/Feline Tails/Sonstafurs Cat Tail/image-01.png>)
-
----
-
-<a id="sonstafurs-lion-tail"></a>
-### Sonstafurs Lion Tail #feline #any-tails #cheap
-
-[https://www.etsy.com/ca/listing/4338488163/lion-tail-pdf-pattern-tutorial-for](https://www.etsy.com/ca/listing/4338488163/lion-tail-pdf-pattern-tutorial-for "smartCard-inline")
-
-![Sonstafurs Lion Tail](<attachments/Feline Tails/Sonstafurs Lion Tail/image-01.png>)
-
----
-
-<a id="highvalleycreations-cat-tail"></a>
-### HighValleyCreations Cat Tail #cheap #feline #any-tails
-
-[https://www.etsy.com/ca/listing/1822909499/cat-tail-pattern](https://www.etsy.com/ca/listing/1822909499/cat-tail-pattern "smartCard-inline")
-
-![HighValleyCreations Cat Tail](<attachments/Feline Tails/HighValleyCreations Cat Tail/image-01.png>)
-
----
-
-<a id="sweetcidercreation-large-feline-tail"></a>
-### SweetCiderCreation Large Feline Tail #other-species #any-tails #feline #cheap #any-species
-
-[https://www.etsy.com/ca/listing/4323230343/fursuit-tail-pattern-large-feline](https://www.etsy.com/ca/listing/4323230343/fursuit-tail-pattern-large-feline "smartCard-inline")
-
-![SweetCiderCreation Large Feline Tail](<attachments/Feline Tails/SweetCiderCreation Large Feline Tail/image-01.png>)
-
----
-
-<a id="kanixstudios-feline-tail"></a>
-### KanixStudios Feline Tail #cheap #feline #any-tails
-
-[https://www.etsy.com/ca/listing/1693276362/fursuit-tail-pattern-felinecatkitty-pdf](https://www.etsy.com/ca/listing/1693276362/fursuit-tail-pattern-felinecatkitty-pdf "smartCard-inline")
-
-![KanixStudios Feline Tail](<attachments/Feline Tails/KanixStudios Feline Tail/image-01.webp>)
-
----
-
-<a id="nub-tails"></a>
-
-</details>
-
-<details>
-<summary>Nub Tails</summary>
-
-
-[↑ Contents](#contents)
-
----
-
-<a id="mugiwara-bunny-deer-nub-tail"></a>
-### Mugiwara Bunny/Deer/Nub Tail #cheap #any-tails #any-species #equine-cervine #other-species #video-tutorials
-
-[https://mugiwara-cosplay.sellfy.store/p/digital-bunny-or-deer-tail-pattern-for-fursuits-pdf-download/](https://mugiwara-cosplay.sellfy.store/p/digital-bunny-or-deer-tail-pattern-for-fursuits-pdf-download/ "smartCard-inline")
-
-[https://www.etsy.com/ca/listing/662250311/digital-bunny-or-deer-tail-pattern-for](https://www.etsy.com/ca/listing/662250311/digital-bunny-or-deer-tail-pattern-for)
-
-[https://www.youtube.com/watch?v=4CQMLjUikK8](https://www.youtube.com/watch?v=4CQMLjUikK8 "smartCard-inline")
-
-![Mugiwara Bunny/Deer/Nub Tail](<attachments/Nub Tails/Mugiwara BunnyDeerNub Tail/image-01.png>)
-
----
-
-<a id="mugiwara-large-nub-tail"></a>
-### Mugiwara Large Nub Tail #cheap #any-tails #any-species #other-species #video-tutorials
-
-[https://mugiwara-cosplay.sellfy.store/p/digital-nub-tail-pattern-for-fursuits-pdf-download/](https://mugiwara-cosplay.sellfy.store/p/digital-nub-tail-pattern-for-fursuits-pdf-download/ "smartCard-inline")
-
-[https://www.etsy.com/ca/listing/1613193925/digital-nub-tail-pattern-for-fursuits](https://www.etsy.com/ca/listing/1613193925/digital-nub-tail-pattern-for-fursuits "smartCard-inline")
-
-[https://www.youtube.com/watch?v=yxvp5jGshac](https://www.youtube.com/watch?v=yxvp5jGshac "smartCard-inline")
-
-![Mugiwara Large Nub Tail](<attachments/Nub Tails/Mugiwara Large Nub Tail/image-01.jpg>)
-
----
-
-<a id="skunky-designs-nub-tail"></a>
-### Skunky Designs Nub Tail #cheap #any-tails #any-species
-
-[https://www.skunkydesigns.com/collections/patterns-and-tutorials/products/pattern-nub-tail](https://www.skunkydesigns.com/collections/patterns-and-tutorials/products/pattern-nub-tail "smartCard-inline")
-
-![Skunky Designs Nub Tail](<attachments/Nub Tails/Skunky Designs Nub Tail/image-01.png>)
-
----
-
-<a id="koifishycostumes-dino-tail"></a>
-### KoiFishyCostumes Dino Tail #cheap #other-species #any-tails
-
-[https://www.etsy.com/ca/listing/1408408839/dino-tail-digital-pattern](https://www.etsy.com/ca/listing/1408408839/dino-tail-digital-pattern "smartCard-inline")
-
-![KoiFishyCostumes Dino Tail](<attachments/Nub Tails/KoiFishyCostumes Dino Tail/image-01.png>)
-
----
-
-<a id="koifishycostumes-nub-tail-v1"></a>
-### KoiFishyCostumes Nub Tail V1 #cheap #other-species #equine-cervine #any-tails #feline #canine #any-species
-
-[https://www.etsy.com/ca/listing/1206021352/nub-tail-digital-pattern-download-only](https://www.etsy.com/ca/listing/1206021352/nub-tail-digital-pattern-download-only "smartCard-inline")
-
-![KoiFishyCostumes Nub Tail V1](<attachments/Nub Tails/KoiFishyCostumes Nub Tail V1/image-01.png>)
-
----
-
-<a id="koifishycostumes-nub-tail-v2"></a>
-### KoiFishyCostumes Nub Tail V2 #cheap #other-species #equine-cervine #any-tails #feline #canine #any-species #video-tutorials
-
-[https://www.etsy.com/ca/listing/1206021352/nub-tail-digital-pattern-download-only](https://www.etsy.com/ca/listing/1206021352/nub-tail-digital-pattern-download-only "smartCard-inline")
-
-[https://www.tiktok.com/@koifishycostume/video/7272668501242891522](https://www.tiktok.com/@koifishycostume/video/7272668501242891522 "smartCard-inline")
-
-![KoiFishyCostumes Nub Tail V2](<attachments/Nub Tails/KoiFishyCostumes Nub Tail V2/image-01.jpg>)
-
----
-
-<a id="furgetfulfaefursuits-deer-nub-tail"></a>
-### FurgetfulFaeFursuits Deer/Nub Tail #other-species #equine-cervine #any-tails #canine #any-species
-
-[https://www.etsy.com/ca/listing/1257493529/deer-fursuit-tail-pattern-furgetful-fae](https://www.etsy.com/ca/listing/1257493529/deer-fursuit-tail-pattern-furgetful-fae "smartCard-inline")
-
-![FurgetfulFaeFursuits Deer/Nub Tail](<attachments/Nub Tails/FurgetfulFaeFursuits DeerNub Tail/image-01.png>)
-
-![FurgetfulFaeFursuits Deer/Nub Tail](<attachments/Nub Tails/FurgetfulFaeFursuits DeerNub Tail/image-02.png>)
-
----
-
-<a id="locomotion-fursuits-nub-tail"></a>
-### Locomotion Fursuits Nub Tail #cheap #other-species #any-tails #equine-cervine #canine #any-species
-
-[https://www.etsy.com/ca/listing/1110635494/fursuit-nub-tail-pdf-pattern](https://www.etsy.com/ca/listing/1110635494/fursuit-nub-tail-pdf-pattern)
-
-![Locomotion Fursuits Nub Tail](<attachments/Nub Tails/Locomotion Fursuits Nub Tail/image-01.png>)
-
----
-
-<a id="werewolfprince666-nub-tail"></a>
-### werewolfprince666 Nub Tail #cheap #other-species #any-tails #equine-cervine #canine #feline #any-species
-
-[https://www.etsy.com/ca/listing/1493418159/nub-fursuit-tail-pattern-and](https://www.etsy.com/ca/listing/1493418159/nub-fursuit-tail-pattern-and "smartCard-inline")
-
-All 5 tails: [https://www.etsy.com/ca/listing/1539024111/fursuit-tail-sewing-pattern-and-tutorial](https://www.etsy.com/ca/listing/1539024111/fursuit-tail-sewing-pattern-and-tutorial "smartCard-inline")
-
-![werewolfprince666 Nub Tail](<attachments/Nub Tails/werewolfprince666 Nub Tail/image-01.png>)
-
----
-
-<a id="stuffedtailsfurs-nub-tail"></a>
-### StuffedTailsFurs Nub Tail #cheap #other-species #any-tails #equine-cervine #feline #canine #any-species
-
-[https://www.etsy.com/ca/listing/1182058578/nub-tail-digital-pattern](https://www.etsy.com/ca/listing/1182058578/nub-tail-digital-pattern "smartCard-inline")
-
-![StuffedTailsFurs Nub Tail](<attachments/Nub Tails/StuffedTailsFurs Nub Tail/image-01.png>)
-
----
-
-<a id="geknome-nub-tail"></a>
-### Geknome Nub Tail #cheap #any-tails #canine #feline #other-species #any-species
-
-[https://www.etsy.com/ca/listing/1280259051/nub-tail-fursuit-patten](https://www.etsy.com/ca/listing/1280259051/nub-tail-fursuit-patten "smartCard-inline")
-
-![Geknome Nub Tail](<attachments/Nub Tails/Geknome Nub Tail/image-01.png>)
-
-![Geknome Nub Tail](<attachments/Nub Tails/Geknome Nub Tail/image-02.png>)
-
----
-
-<a id="formidablefriends-nub-tail"></a>
-### FormidableFriends Nub Tail #canine #equine-cervine #cheap #any-tails #any-species
-
-[https://www.etsy.com/ca/listing/1016375340/bunny-doe-tail-pattern-tail-is-approx](https://www.etsy.com/ca/listing/1016375340/bunny-doe-tail-pattern-tail-is-approx "smartCard-inline")
-
-![FormidableFriends Nub Tail](<attachments/Nub Tails/FormidableFriends Nub Tail/image-01.png>)
-
----
-
-<a id="spiltgrapesoda-nub-tail"></a>
-### SpiltGrapeSoda Nub Tail #any-tails #cheap #other-species #any-species
-
-[https://shop.spiltgrapesoda.com/spiltgrapesoda/p/large-nub-tail-pattern-pdf-download](https://shop.spiltgrapesoda.com/spiltgrapesoda/p/large-nub-tail-pattern-pdf-download "smartCard-inline")
-
-[https://www.etsy.com/ca/listing/1624279221/large-nub-tail-pattern-pdf-download](https://www.etsy.com/ca/listing/1624279221/large-nub-tail-pattern-pdf-download)
-
-![SpiltGrapeSoda Nub Tail](<attachments/Nub Tails/SpiltGrapeSoda Nub Tail/image-01.jpg>)
-
----
-
-<a id="geknome-v2-nub-tail"></a>
-### Geknome V2 Nub Tail #other-species #cheap #any-tails
-
-[https://www.etsy.com/ca/listing/1623122856/fursuit-nub-tail-v2-pattern-tutorial](https://www.etsy.com/ca/listing/1623122856/fursuit-nub-tail-v2-pattern-tutorial)
-
-![Geknome V2 Nub Tail](<attachments/Nub Tails/Geknome V2 Nub Tail/image-01.webp>)
-
-![Geknome V2 Nub Tail](<attachments/Nub Tails/Geknome V2 Nub Tail/image-02.webp>)
-
----
-
-<a id="beepscreatures-nub-tail"></a>
-### BeepsCreatures Nub Tail #cheap #any-tails #any-species
-
-[https://www.etsy.com/ca/listing/1575497241/swirly-nub-fursuit-tail-pattern-pdf](https://www.etsy.com/ca/listing/1575497241/swirly-nub-fursuit-tail-pattern-pdf "smartCard-inline")
-
-![BeepsCreatures Nub Tail](<attachments/Nub Tails/BeepsCreatures Nub Tail/image-01.jpg>)
-
----
-
-<a id="pinkuscraftycottage-nub-tail"></a>
-### PinkusCraftyCottage Nub tail #any-species #any-tails #cheap
-
-[https://www.etsy.com/ca/listing/779902712/diy-small-nub-tail-pdf-pattern](https://www.etsy.com/ca/listing/779902712/diy-small-nub-tail-pdf-pattern "smartCard-inline")
-
-![PinkusCraftyCottage Nub tail](<attachments/Nub Tails/PinkusCraftyCottage Nub tail/image-01.webp>)
-
----
-
-<a id="pinkuscraftycottage-deer-tail"></a>
-### PinkusCraftyCottage Deer Tail #other-species #any-species #any-tails #cheap #equine-cervine
-
-[https://www.etsy.com/ca/listing/944154440/diy-deer-tail-pdf-pattern](https://www.etsy.com/ca/listing/944154440/diy-deer-tail-pdf-pattern "smartCard-inline")
-
-![PinkusCraftyCottage Deer Tail](<attachments/Nub Tails/PinkusCraftyCottage Deer Tail/image-01.webp>)
-
----
-
-<a id="figfur-nub-tail"></a>
-### FigFur Nub Tail #cheap #other-species #any-species #any-tails #equine-cervine
-
-[https://www.etsy.com/ca/listing/1675578753/nub-tail-pattern-pdf-download](https://www.etsy.com/ca/listing/1675578753/nub-tail-pattern-pdf-download "smartCard-inline")
-
-![FigFur Nub Tail](<attachments/Nub Tails/FigFur Nub Tail/image-01.jpg>)
-
----
-
-<a id="howlingdragonstudios-nub-tail"></a>
-### HowlingDragonStudios Nub Tail #any-tails #any-species #cheap #canine #feline
-
-[https://www.etsy.com/ca/listing/1625189515/nub-tail-pattern-digital-download](https://www.etsy.com/ca/listing/1625189515/nub-tail-pattern-digital-download "smartCard-inline")
-
-![HowlingDragonStudios Nub Tail](<attachments/Nub Tails/HowlingDragonStudios Nub Tail/image-01.jpg>)
-
----
-
-<a id="sonstafurs-nub-tail"></a>
-### Sonstafurs Nub Tail #equine-cervine #any-species #other-species #any-tails
-
-[https://www.etsy.com/ca/listing/1676544778/fursuit-nub-tail-pdf-pattern-tutorial](https://www.etsy.com/ca/listing/1676544778/fursuit-nub-tail-pdf-pattern-tutorial "smartCard-inline")
-
-![Sonstafurs Nub Tail](<attachments/Nub Tails/Sonstafurs Nub Tail/image-01.webp>)
-
----
-
-<a id="highvalleycreation-bear-tail"></a>
-### HighValleyCreation "Bear" Tail #any-tails #any-species #cheap
-
-[https://www.etsy.com/ca/listing/1737130100/bear-tail-pattern-and-instructions](https://www.etsy.com/ca/listing/1737130100/bear-tail-pattern-and-instructions)
-
-![HighValleyCreation "Bear" Tail](<attachments/Nub Tails/HighValleyCreation Bear Tail/image-01.webp>)
-
----
-
-<a id="highvalleycreation-bunny-tail"></a>
-### HighValleyCreation "Bunny" Tail #any-tails #any-species #cheap
-
-[https://www.etsy.com/ca/listing/1759945399/bunny-tail-pattern](https://www.etsy.com/ca/listing/1759945399/bunny-tail-pattern)
-
-![HighValleyCreation "Bunny" Tail](<attachments/Nub Tails/HighValleyCreation Bunny Tail/image-01.webp>)
-
----
-
-<a id="kittencafestudios-nub-tail"></a>
-### KittenCafeStudios Nub Tail #cheap #any-tails #any-species
-
-[https://www.etsy.com/ca/listing/1798732354/diy-fursuit-nub-tail-pattern-tutorial](https://www.etsy.com/ca/listing/1798732354/diy-fursuit-nub-tail-pattern-tutorial "smartCard-inline")
-
-![KittenCafeStudios Nub Tail](<attachments/Nub Tails/KittenCafeStudios Nub Tail/image-01.webp>)
-
----
-
-<a id="kiafursuits-nub-tail"></a>
-### KiaFursuits Nub Tail #any-species #any-tails #cheap
-
-[https://www.etsy.com/ca/listing/1794803788/nub-tail-pattern-pdf-download](https://www.etsy.com/ca/listing/1794803788/nub-tail-pattern-pdf-download)
-
-![KiaFursuits Nub Tail](<attachments/Nub Tails/KiaFursuits Nub Tail/image-01.png>)
-
----
-
-<a id="chevalhoof-nub-tail"></a>
-### ChevalHoof Nub Tail #cheap #any-tails #any-species
-
-[https://www.etsy.com/ca/listing/1744617645/nub-tail-pattern](https://www.etsy.com/ca/listing/1744617645/nub-tail-pattern "smartCard-inline")
-
-![ChevalHoof Nub Tail](<attachments/Nub Tails/ChevalHoof Nub Tail/image-01.webp>)
-
----
-
-<a id="kittencafestudios-deer-tail"></a>
-### KittenCafeStudios Deer Tail #any-tails #cheap #any-species #equine-cervine
-
-[https://www.etsy.com/ca/listing/4435283500/diy-fursuit-spotted-deer-nub-tail](https://www.etsy.com/ca/listing/4435283500/diy-fursuit-spotted-deer-nub-tail "smartCard-inline")
-
-![KittenCafeStudios Deer Tail](<attachments/Nub Tails/KittenCafeStudios Deer Tail/image-01.webp>)
-
----
-
-<a id="puzzlepatchworks-deer-pattern"></a>
-### PuzzlePatchworks Deer Pattern #equine-cervine #any-species #cheap #any-tails
-
-[https://www.etsy.com/ca/listing/4308772427/deer-tail-pattern-pdf-download](https://www.etsy.com/ca/listing/4308772427/deer-tail-pattern-pdf-download "smartCard-inline")
-
-![PuzzlePatchworks Deer Pattern](<attachments/Nub Tails/PuzzlePatchworks Deer Pattern/image-01.webp>)
-
----
-
-<a id="doubletroublefursuit-nub-tail"></a>
-### DoubleTroubleFursuit Nub Tail #any-tails #cheap #any-species #equine-cervine
-
-[https://www.etsy.com/ca/listing/1110635494/fursuit-nub-tail-pdf-pattern](https://www.etsy.com/ca/listing/1110635494/fursuit-nub-tail-pdf-pattern "smartCard-inline")
-
-![DoubleTroubleFursuit Nub Tail](<attachments/Nub Tails/DoubleTroubleFursuit Nub Tail/image-01.webp>)
-
----
-
-<a id="tongues"></a>
-
-</details>
-
-<details>
-<summary>Tongues</summary>
-
-
-[↑ Contents](#contents)
-
----
-
-<a id="mugiwara-7-tongue-patterns"></a>
-### Mugiwara 7 Tongue Patterns #cheap #other-species #canine #feline #equine-cervine #feathers-birds #fursuit-heads #video-tutorials #multipack #any-species
-
-[https://mugiwara-cosplay.sellfy.store/p/digital-fabric-tongue-patterns-for-fursuits-7-shapes-pdf-download/](https://mugiwara-cosplay.sellfy.store/p/digital-fabric-tongue-patterns-for-fursuits-7-shapes-pdf-download/ "smartCard-inline")
-
-[https://www.etsy.com/ca/listing/724073456/digital-fabric-tongue-patterns-for](https://www.etsy.com/ca/listing/724073456/digital-fabric-tongue-patterns-for "smartCard-inline")
-
-[https://www.youtube.com/watch?v=emC_mtjL8Ro](https://www.youtube.com/watch?v=emC_mtjL8Ro "smartCard-inline")
-
-![Mugiwara 7 Tongue Patterns](<attachments/Tongues/Mugiwara 7 Tongue Patterns/image-01.png>)
-
----
-
-<a id="koifishycostumes"></a>
-### KoiFishyCostumes #cheap #other-species #canine #feline #equine-cervine #fursuit-heads #multipack #any-species
-
-[https://www.etsy.com/ca/listing/1395782788/fursuit-tongue-pattern-9-designs-digital](https://www.etsy.com/ca/listing/1395782788/fursuit-tongue-pattern-9-designs-digital "smartCard-inline")
-
-![KoiFishyCostumes](<attachments/Tongues/KoiFishyCostumes/image-01.png>)
-
----
-
-<a id="howlingdragonstudios-3-tongue-lengths"></a>
-### HowlingDragonStudios 3 tongue lengths #cheap #other-species #canine #feline #equine-cervine #fursuit-heads #multipack #any-species
-
-[https://www.etsy.com/ca/listing/1379059559/fursuit-tongue-patterns-3-lengths](https://www.etsy.com/ca/listing/1379059559/fursuit-tongue-patterns-3-lengths "smartCard-inline")
-
-![HowlingDragonStudios 3 tongue lengths](<attachments/Tongues/HowlingDragonStudios 3 tongue lengths/image-01.png>)
-
-![HowlingDragonStudios 3 tongue lengths](<attachments/Tongues/HowlingDragonStudios 3 tongue lengths/image-02.jpg>)
-
----
-
-<a id="werewolfprince666-teeth-and-tongues"></a>
-### werewolfprince666 Teeth and Tongues #cheap #other-species #canine #feline #equine-cervine #fursuit-heads #multipack #any-species
-
-[https://www.etsy.com/ca/listing/1479225748/fursuit-tongue-and-teeth-pattern](https://www.etsy.com/ca/listing/1479225748/fursuit-tongue-and-teeth-pattern)
-
-![werewolfprince666 Teeth and Tongues](<attachments/Tongues/werewolfprince666 Teeth and Tongues/image-01.png>)
-
-![werewolfprince666 Teeth and Tongues](<attachments/Tongues/werewolfprince666 Teeth and Tongues/image-02.png>)
-
-![werewolfprince666 Teeth and Tongues](<attachments/Tongues/werewolfprince666 Teeth and Tongues/image-03.png>)
-
----
-
-<a id="matrices-sewn-teeth-tutorial"></a>
-### Matrices Sewn Teeth Tutorial #cheap #other-species #video-tutorials #fursuit-heads #any-species #tutorial-no-pattern-incl
-
-[https://www.etsy.com/ca/listing/1031252614/pattern-and-tutorial-sewn-teeth-for](https://www.etsy.com/ca/listing/1031252614/pattern-and-tutorial-sewn-teeth-for "smartCard-inline")
-
-![Matrices Sewn Teeth Tutorial](<attachments/Tongues/Matrices Sewn Teeth Tutorial/image-01.png>)
-
----
-
-<a id="matrices-tongue-tutorial"></a>
-### Matrices Tongue Tutorial #cheap #other-species #fursuit-heads #video-tutorials #any-species #tutorial-no-pattern-incl
-
-[https://www.etsy.com/ca/listing/1223590856/pattern-and-tutorial-sewn-tongues-for](https://www.etsy.com/ca/listing/1223590856/pattern-and-tutorial-sewn-tongues-for "smartCard-inline")
-
-![Matrices Tongue Tutorial](<attachments/Tongues/Matrices Tongue Tutorial/image-01.png>)
-
-![Matrices Tongue Tutorial](<attachments/Tongues/Matrices Tongue Tutorial/image-02.png>)
-
----
-
-<a id="mayingfantasy-5-tongue-patterns"></a>
-### Mayingfantasy 5 Tongue Patterns #other-species #cheap #canine #feline #equine-cervine #feathers-birds #any-species #multipack
-
-[https://mayingfantasycreations.com/product/tongue-patterns/](https://mayingfantasycreations.com/product/tongue-patterns/ "smartCard-inline")
-
-[https://www.etsy.com/ca/listing/1493220821/fursuit-tongue-pattern-digital-download](https://www.etsy.com/ca/listing/1493220821/fursuit-tongue-pattern-digital-download "smartCard-inline")
-
-![Mayingfantasy 5 Tongue Patterns](<attachments/Tongues/Mayingfantasy 5 Tongue Patterns/image-01.jpg>)
-
----
-
-<a id="frostyfurs-6-tongue-shapes"></a>
-### FrostyFurs 6 Tongue Shapes #cheap #fursuit-heads #any-species #other-species #canine #feline #equine-cervine #feathers-birds #multipack
-
-Sewing machine and hand sewing pattern:
-
-[https://www.etsy.com/ca/listing/1684174099/fursuit-tongue-pattern-bundle-6-shapes](https://www.etsy.com/ca/listing/1684174099/fursuit-tongue-pattern-bundle-6-shapes "smartCard-inline")
-
-![FrostyFurs 6 Tongue Shapes](<attachments/Tongues/FrostyFurs 6 Tongue Shapes/image-01.webp>)
-
----
-
-<a id="furrybunbun-flexible-tongue-pattern"></a>
-### FurryBunBun Flexible Tongue Pattern #any-species #cheap #fursuit-heads
-
-[https://www.etsy.com/ca/listing/1241748262/tongue-pattern-step-by-step-instructions](https://www.etsy.com/ca/listing/1241748262/tongue-pattern-step-by-step-instructions "smartCard-inline")
-
-![FurryBunBun Flexible Tongue Pattern](<attachments/Tongues/FurryBunBun Flexible Tongue Pattern/image-01.webp>)
-
----
-
-<a id="blackmarblefursuits-3-tongues"></a>
-### BlackMarbleFursuits 3 Tongues #fursuit-heads #cheap #any-species
-
-Basic tongue: [https://www.etsy.com/ca/listing/1538354936/fursuit-tongue-pattern-template-pdf](https://www.etsy.com/ca/listing/1538354936/fursuit-tongue-pattern-template-pdf "smartCard-inline")
-
-Forked Tongue: [https://www.etsy.com/ca/listing/1552581241/fursuit-forked-tongue-pattern-template](https://www.etsy.com/ca/listing/1552581241/fursuit-forked-tongue-pattern-template "smartCard-inline")
-
-Pierced Tongue (read description): [https://www.etsy.com/ca/listing/1552585503/fursuit-pierced-tongue-pattern-template](https://www.etsy.com/ca/listing/1552585503/fursuit-pierced-tongue-pattern-template "smartCard-inline")
-
-![BlackMarbleFursuits 3 Tongues](<attachments/Tongues/BlackMarbleFursuits 3 Tongues/image-01.jpg>)
-
-![BlackMarbleFursuits 3 Tongues](<attachments/Tongues/BlackMarbleFursuits 3 Tongues/image-02.jpg>)
-
-![BlackMarbleFursuits 3 Tongues](<attachments/Tongues/BlackMarbleFursuits 3 Tongues/image-03.jpg>)
-
----
-
-<a id="kittencafestudios-tongue-pattern"></a>
-### KittenCafeStudios Tongue Pattern #cheap #any-species
-
-6 tongue patterns:
-
-[https://www.etsy.com/ca/listing/1851432568/diy-fursuit-tongue-pattern-tutorial](https://www.etsy.com/ca/listing/1851432568/diy-fursuit-tongue-pattern-tutorial "smartCard-inline")
-
-![KittenCafeStudios Tongue Pattern](<attachments/Tongues/KittenCafeStudios Tongue Pattern/image-01.webp>)
-
----
-
-<a id="cactusdogstudio-velcro-bird-tongue-3-sizes"></a>
-### CactusDogStudio Velcro Bird Tongue (3 sizes) #other-species #feathers-birds #fursuit-heads #cheap
-
-[https://www.etsy.com/ca/listing/4307266611/fursuit-tongue-pattern-removable-velcro](https://www.etsy.com/ca/listing/4307266611/fursuit-tongue-pattern-removable-velcro "smartCard-inline")
-
-![CactusDogStudio Velcro Bird Tongue 3 sizes](<attachments/Tongues/CactusDogStudio Velcro Bird Tongue (3 sizes)/image-01.webp>)
-
----
-
-<a id="moondeitycrafts-tongue-templates-snake-normal"></a>
-### MoonDeityCrafts Tongue Templates (Snake + Normal) #fursuit-heads #any-species #cheap #other-species
-
-Normal:[https://www.etsy.com/ca/listing/1636986192/digital-fursuit-tongue-template](https://www.etsy.com/ca/listing/1636986192/digital-fursuit-tongue-template "smartCard-inline")
-
-Snake: [https://www.etsy.com/ca/listing/1636965878/digital-fursuit-snake-tongue-template](https://www.etsy.com/ca/listing/1636965878/digital-fursuit-snake-tongue-template "smartCard-inline")
-
-![MoonDeityCrafts Tongue Templates Snake + Normal](<attachments/Tongues/MoonDeityCrafts Tongue Templates (Snake + Normal)/image-01.png>)
-
-![MoonDeityCrafts Tongue Templates Snake + Normal](<attachments/Tongues/MoonDeityCrafts Tongue Templates (Snake + Normal)/image-02.webp>)
-
----
-
-<a id="kodasuits-forked-tongue"></a>
-### Kodasuits Forked Tongue #cheap #other-species #fursuit-heads
-
-[https://www.etsy.com/ca/listing/1866838818/forked-fursuit-tongue-pattern-furry-pdf](https://www.etsy.com/ca/listing/1866838818/forked-fursuit-tongue-pattern-furry-pdf "smartCard-inline")
-
-![Kodasuits Forked Tongue](<attachments/Tongues/Kodasuits Forked Tongue/image-01.webp>)
-
----
-
-<a id="other-species-hand-paws"></a>
-
-</details>
-
-<details>
-<summary>Other Species Hand Paws</summary>
-
-
-[↑ Contents](#contents)
-
----
-
-<a id="oktavia-s-creatures-dragon-sergal-paws"></a>
-### Oktavia's Creatures Dragon/Sergal Paws #moderately #other-species #any-hand-paws
-
-[https://www.etsy.com/ca/listing/958977582/puffy-sergaldragon-hand-paw-digital](https://www.etsy.com/ca/listing/958977582/puffy-sergaldragon-hand-paw-digital "smartCard-inline")
-
-![Oktavia's Creatures Dragon/Sergal Paws](<attachments/Other Species Hand Paws/Oktavia's Creatures DragonSergal Paws/image-01.png>)
-
-![Oktavia's Creatures Dragon/Sergal Paws](<attachments/Other Species Hand Paws/Oktavia's Creatures DragonSergal Paws/image-02.png>)
-
----
-
-<a id="soulenterprise-bird-reptile-hands"></a>
-### SoulEnterprise Bird/Reptile Hands #cheap #other-species #feathers-birds #any-hand-paws
-
-[https://www.etsy.com/ca/listing/913081410/puffy-birdreptile-handpaw-pdf-download](https://www.etsy.com/ca/listing/913081410/puffy-birdreptile-handpaw-pdf-download "smartCard-inline")
-
-![SoulEnterprise Bird/Reptile Hands](<attachments/Other Species Hand Paws/SoulEnterprise BirdReptile Hands/image-01.png>)
-
-![SoulEnterprise Bird/Reptile Hands](<attachments/Other Species Hand Paws/SoulEnterprise BirdReptile Hands/image-02.png>)
-
-![SoulEnterprise Bird/Reptile Hands](<attachments/Other Species Hand Paws/SoulEnterprise BirdReptile Hands/image-03.png>)
-
----
-
-<a id="neffertity-hand-paws"></a>
-### Neffertity Hand Paws #moderately #other-species #any-hand-paws #feline #any-5-finger-hand-paw #video-tutorials
-
-[https://www.artbyneffertity.com/store/realistichandpattern](https://www.artbyneffertity.com/store/realistichandpattern "smartCard-inline")
-
-[https://www.youtube.com/watch?v=ANUsob4Girs](https://www.youtube.com/watch?v=ANUsob4Girs "smartCard-inline")
-
-![Neffertity Hand Paws](<attachments/Other Species Hand Paws/Neffertity Hand Paws/image-01.png>)
-
-![Neffertity Hand Paws](<attachments/Other Species Hand Paws/Neffertity Hand Paws/image-02.png>)
-
-![Neffertity Hand Paws](<attachments/Other Species Hand Paws/Neffertity Hand Paws/image-03.png>)
-
----
-
-<a id="webbed-paws-tutorial"></a>
-### Webbed Paws Tutorial #cheap #other-species #any-hand-paws #any-5-finger-hand-paw #tutorial-no-pattern-incl
-
-[https://www.etsy.com/ca/listing/889213715/premium-tutorial-webbed-fingers-for](https://www.etsy.com/ca/listing/889213715/premium-tutorial-webbed-fingers-for "smartCard-inline")
-
-![Webbed Paws Tutorial](<attachments/Other Species Hand Paws/Webbed Paws Tutorial/image-01.png>)
-
----
-
-<a id="makeafur-3-finger-monster-paws"></a>
-### MakeAFur 3 Finger Monster Paws #cheap #other-species #any-hand-paws
-
-[https://ko-fi.com/s/7e12e071b1](https://ko-fi.com/s/7e12e071b1 "smartCard-inline")
-
-![MakeAFur 3 Finger Monster Paws](<attachments/Other Species Hand Paws/MakeAFur 3 Finger Monster Paws/image-01.png>)
-
----
-
-<a id="makeafur-4-finger-monster-paws"></a>
-### MakeAFur 4 Finger Monster Paws #cheap #other-species #any-hand-paws
-
-[https://ko-fi.com/s/d454932d81](https://ko-fi.com/s/d454932d81 "smartCard-inline")
-
-![MakeAFur 4 Finger Monster Paws](<attachments/Other Species Hand Paws/MakeAFur 4 Finger Monster Paws/image-01.png>)
-
----
-
-<a id="mugiwara-wickerbeast-paws"></a>
-### Mugiwara Wickerbeast Paws #moderately #other-species #any-hand-paws #video-tutorials
-
-[https://mugiwara-cosplay.sellfy.store/p/digital-wickerbeast-hand-paw-pattern-for-fursuits-pdf-download/](https://mugiwara-cosplay.sellfy.store/p/digital-wickerbeast-hand-paw-pattern-for-fursuits-pdf-download/ "smartCard-inline")
-
-[https://www.etsy.com/ca/listing/1055064799/digital-wickerbeast-hand-paw-pattern-for](https://www.etsy.com/ca/listing/1055064799/digital-wickerbeast-hand-paw-pattern-for "smartCard-inline")
-
-[https://www.youtube.com/watch?v=943q25buo1A](https://www.youtube.com/watch?v=943q25buo1A "smartCard-inline")
-
-![Mugiwara Wickerbeast Paws](<attachments/Other Species Hand Paws/Mugiwara Wickerbeast Paws/image-01.png>)
-
----
-
-<a id="mugiwara-monster-paw"></a>
-### Mugiwara Monster Paw #moderately #other-species #any-hand-paws #video-tutorials
-
-[https://mugiwara-cosplay.sellfy.store/p/digital-monster-hand-paw-pattern-for-fursuits-pdf-download/](https://mugiwara-cosplay.sellfy.store/p/digital-monster-hand-paw-pattern-for-fursuits-pdf-download/ "smartCard-inline")
-
-[https://www.etsy.com/ca/listing/648408440/digital-monster-hand-paw-pattern-for](https://www.etsy.com/ca/listing/648408440/digital-monster-hand-paw-pattern-for "smartCard-inline")
-
-[https://www.youtube.com/watch?v=943q25buo1A](https://www.youtube.com/watch?v=943q25buo1A "smartCard-inline")
-
-![Mugiwara Monster Paw](<attachments/Other Species Hand Paws/Mugiwara Monster Paw/image-01.png>)
-
----
-
-<a id="mugiwara-3-finger-paw"></a>
-### Mugiwara 3 Finger Paw #moderately #other-species #any-hand-paws #video-tutorials
-
-Could be good for a toony bird with the right materials, adding feathers, etc as seen in example below.
-
-[https://mugiwara-cosplay.sellfy.store/p/digital-3-fingered-puffy-hand-paw-pattern-for-fursuits-claw-pattern-included-pdf-download/](https://mugiwara-cosplay.sellfy.store/p/digital-3-fingered-puffy-hand-paw-pattern-for-fursuits-claw-pattern-included-pdf-download/ "smartCard-inline")
-
-[https://www.etsy.com/ca/listing/745939638/digital-3-fingered-puffy-hand-paw](https://www.etsy.com/ca/listing/745939638/digital-3-fingered-puffy-hand-paw "smartCard-inline")
-
-[https://www.youtube.com/watch?v=s7DXexmcpFs](https://www.youtube.com/watch?v=s7DXexmcpFs "smartCard-inline")
-
-![Mugiwara 3 Finger Paw](<attachments/Other Species Hand Paws/Mugiwara 3 Finger Paw/image-01.png>)
-
-![Mugiwara 3 Finger Paw](<attachments/Other Species Hand Paws/Mugiwara 3 Finger Paw/image-02.png>)
-
----
-
-<a id="thecasualfriday-toony-paws"></a>
-### TheCasualFriday Toony Paws #moderately #other-species #any-hand-paws
-
-[https://www.etsy.com/ca/listing/1282933686/toony-fursuit-paw-pattern](https://www.etsy.com/ca/listing/1282933686/toony-fursuit-paw-pattern "smartCard-inline")
-
-![TheCasualFriday Toony Paws](<attachments/Other Species Hand Paws/TheCasualFriday Toony Paws/image-01.png>)
-
----
-
-<a id="stuffedtailsfursuits-wickerbeast-paws"></a>
-### StuffedTailsFursuits Wickerbeast Paws #moderately #other-species #any-hand-paws
-
-[https://www.etsy.com/ca/listing/1194328737/wicker-beast-handpaws-digital-pattern](https://www.etsy.com/ca/listing/1194328737/wicker-beast-handpaws-digital-pattern)
-
-![StuffedTailsFursuits Wickerbeast Paws](<attachments/Other Species Hand Paws/StuffedTailsFursuits Wickerbeast Paws/image-01.png>)
-
----
-
-<a id="tlaasuitsnmore-toony-raptor-hand"></a>
-### TLAASuitsnMore Toony Raptor Hand #cheap #other-species #any-hand-paws #feathers-birds
-
-[https://www.etsy.com/ca/listing/1234612751/raptor-hand-fursuit-pattern](https://www.etsy.com/ca/listing/1234612751/raptor-hand-fursuit-pattern "smartCard-inline")
-
-![TLAASuitsnMore Toony Raptor Hand](<attachments/Other Species Hand Paws/TLAASuitsnMore Toony Raptor Hand/image-01.png>)
-
-![TLAASuitsnMore Toony Raptor Hand](<attachments/Other Species Hand Paws/TLAASuitsnMore Toony Raptor Hand/image-02.png>)
-
----
-
-<a id="softplushdigital-big-claw-paws"></a>
-### softplushdigital Big Claw Paws #moderately #any-hand-paws #other-species
-
-[https://www.etsy.com/ca/listing/1555165623/monster-claw-puffy-paws-pdf-download](https://www.etsy.com/ca/listing/1555165623/monster-claw-puffy-paws-pdf-download "smartCard-inline")
-
-![softplushdigital Big Claw Paws](<attachments/Other Species Hand Paws/softplushdigital Big Claw Paws/image-01.jpg>)
-
-![softplushdigital Big Claw Paws](<attachments/Other Species Hand Paws/softplushdigital Big Claw Paws/image-02.webp>)
-
----
-
-<a id="theraptorsshop-synth-paws-4-or-5-fingers"></a>
-### TheRaptorsShop Synth Paws 4 or 5 fingers #expensive #any-hand-paws #video-tutorials #other-species #moderately
-
-3 fingered:
-
-[https://www.etsy.com/ca/listing/1097560407/synth-paw-pattern-and-in-depth-guide](https://www.etsy.com/ca/listing/1097560407/synth-paw-pattern-and-in-depth-guide "smartCard-inline")
-
-[https://www.youtube.com/watch?v=zoVrOzsH730](https://www.youtube.com/watch?v=zoVrOzsH730 "smartCard-inline")
-
-5 fingered:
-
-[https://www.etsy.com/ca/listing/1686355389/5-finger-synth-paw-pattern-and-guide](https://www.etsy.com/ca/listing/1686355389/5-finger-synth-paw-pattern-and-guide "smartCard-inline")
-
-![TheRaptorsShop Synth Paws 4 or 5 fingers](<attachments/Other Species Hand Paws/TheRaptorsShop Synth Paws 4 or 5 fingers/image-01.jpg>)
-
-![TheRaptorsShop Synth Paws 4 or 5 fingers](<attachments/Other Species Hand Paws/TheRaptorsShop Synth Paws 4 or 5 fingers/image-02.jpg>)
-
-![TheRaptorsShop Synth Paws 4 or 5 fingers](<attachments/Other Species Hand Paws/TheRaptorsShop Synth Paws 4 or 5 fingers/image-03.jpg>)
-
----
-
-<a id="akelatakawolf-slim-4-finger-paw"></a>
-### AkelaTakaWolf Slim 4 Finger Paw #expensive #any-hand-paws #other-species #canine
-
-https://www.etsy.com/ca/listing/1794618327/diy-toony-slim-four-fingered-fox-paw-pdf
-
-![AkelaTakaWolf Slim 4 Finger Paw](<attachments/Other Species Hand Paws/AkelaTakaWolf Slim 4 Finger Paw/image-01.jpg>)
-
-![AkelaTakaWolf Slim 4 Finger Paw](<attachments/Other Species Hand Paws/AkelaTakaWolf Slim 4 Finger Paw/image-02.webp>)
-
-![AkelaTakaWolf Slim 4 Finger Paw](<attachments/Other Species Hand Paws/AkelaTakaWolf Slim 4 Finger Paw/image-03.webp>)
-
----
-
-<a id="fatunicorncosplay-finger-claws-armor-or-single-files"></a>
-### FatUnicornCosplay Finger Claws/Armor (or single files) #cheap #any-hand-paws #other-species #multipack #any-5-finger-hand-paw #foam-only
-
-Multipack:
-
-[https://www.etsy.com/ca/listing/914357230/diy-foam-claws-pattern-finger-armor](https://www.etsy.com/ca/listing/914357230/diy-foam-claws-pattern-finger-armor "smartCard-inline")
-
-Just Claws:
-
-[https://www.etsy.com/ca/listing/883161917/diy-foam-claws-pattern-finger-armor](https://www.etsy.com/ca/listing/883161917/diy-foam-claws-pattern-finger-armor "smartCard-inline")
-
-Just Armor:
-
-[https://www.etsy.com/ca/listing/883165915/diy-segmented-finger-armor-cosplay-armor](https://www.etsy.com/ca/listing/883165915/diy-segmented-finger-armor-cosplay-armor)
-
-![FatUnicornCosplay Finger Claws/Armor or single files](<attachments/Other Species Hand Paws/FatUnicornCosplay Finger ClawsArmor (or single files)/image-01.webp>)
-
-![FatUnicornCosplay Finger Claws/Armor or single files](<attachments/Other Species Hand Paws/FatUnicornCosplay Finger ClawsArmor (or single files)/image-02.webp>)
-
-![FatUnicornCosplay Finger Claws/Armor or single files](<attachments/Other Species Hand Paws/FatUnicornCosplay Finger ClawsArmor (or single files)/image-03.webp>)
-
-![FatUnicornCosplay Finger Claws/Armor or single files](<attachments/Other Species Hand Paws/FatUnicornCosplay Finger ClawsArmor (or single files)/image-04.webp>)
-
----
-
-<a id="opossumcafe-opossum-handpaw-pattern"></a>
-### OpossumCafe Opossum Handpaw Pattern #other-species #cheap #any-hand-paws
-
-[https://www.etsy.com/ca/listing/1566473402/opossum-handpaw-pattern-and-instructions](https://www.etsy.com/ca/listing/1566473402/opossum-handpaw-pattern-and-instructions "smartCard-inline")
-
-![OpossumCafe Opossum Handpaw Pattern](<attachments/Other Species Hand Paws/OpossumCafe Opossum Handpaw Pattern/image-01.jpg>)
-
----
-
-<a id="haxcreative-5-finger-webbed-paws"></a>
-### HaxCreative 5 Finger Webbed Paws #any-hand-paws #other-species #any-5-finger-hand-paw #moderately
-
-[https://www.etsy.com/ca/listing/1284713377/5-finger-webbed-handpaw-pattern](https://www.etsy.com/ca/listing/1284713377/5-finger-webbed-handpaw-pattern "smartCard-inline")
-
-see reviews, may have few instructions on how to build
-
-![HaxCreative 5 Finger Webbed Paws](<attachments/Other Species Hand Paws/HaxCreative 5 Finger Webbed Paws/image-01.jpg>)
-
----
-
-<a id="nocturnalstudioss-spider-bug-paws"></a>
-### NocturnalStudioss Spider/Bug Paws #other-species #moderately #any-hand-paws
-
-[https://www.etsy.com/ca/listing/1761900025/spiderbug-fursuit-hand-paw-pattern-png](https://www.etsy.com/ca/listing/1761900025/spiderbug-fursuit-hand-paw-pattern-png "smartCard-inline")
-
-![NocturnalStudioss Spider/Bug Paws](<attachments/Other Species Hand Paws/NocturnalStudioss SpiderBug Paws/image-01.jpg>)
-
----
-
-<a id="twilightknights-wickerbeast-handpaws"></a>
-### TwilightKnights Wickerbeast Handpaws #other-species #moderately #any-hand-paws
-
-[https://www.etsy.com/ca/listing/1684090611/wickerbeast-handpaws-pattern-tutorial](https://www.etsy.com/ca/listing/1684090611/wickerbeast-handpaws-pattern-tutorial)
-
-![TwilightKnights Wickerbeast Handpaws](<attachments/Other Species Hand Paws/TwilightKnights Wickerbeast Handpaws/image-01.webp>)
-
----
-
-<a id="sonstafurs-bird-reptile-dinosaur-paws"></a>
-### Sonstafurs Bird/Reptile/Dinosaur paws #moderately #feathers-birds #other-species #any-hand-paws
-
-[https://www.etsy.com/ca/listing/1881944335/bird-reptile-dinosaur-raptor-paw-pattern](https://www.etsy.com/ca/listing/1881944335/bird-reptile-dinosaur-raptor-paw-pattern "smartCard-inline")
-
-![Sonstafurs Bird/Reptile/Dinosaur paws](<attachments/Other Species Hand Paws/Sonstafurs BirdReptileDinosaur paws/image-01.png>)
-
-![Sonstafurs Bird/Reptile/Dinosaur paws](<attachments/Other Species Hand Paws/Sonstafurs BirdReptileDinosaur paws/image-02.png>)
-
----
-
-<a id="rudebirdstudios-mochi-bird-dragon-reptile-hand-paw-patter"></a>
-### RudeBirdStudios Mochi Bird/Dragon/Reptile Hand Paw Patter #any-hand-paws #other-species #feathers-birds #moderately
-
-[https://www.etsy.com/ca/listing/4377349259/mochi-birddragonreptile-hand-paw-pattern](https://www.etsy.com/ca/listing/4377349259/mochi-birddragonreptile-hand-paw-pattern "smartCard-inline")
-
-uses mochi minky, interfacing and applique
-
-![RudeBirdStudios Mochi Bird/Dragon/Reptile Hand Paw Patter](<attachments/Other Species Hand Paws/RudeBirdStudios Mochi BirdDragonReptile Hand Paw Patter/image-01.png>)
-
----
-
-<a id="wolfskinstudios-bear-paw-pattern"></a>
-### WolfskinStudios Bear Paw Pattern #moderately #other-species #any-hand-paws
-
-[https://www.etsy.com/ca/listing/1828340647/bear-handpaw-pattern-pdf](https://www.etsy.com/ca/listing/1828340647/bear-handpaw-pattern-pdf "smartCard-inline")
-
-![WolfskinStudios Bear Paw Pattern](<attachments/Other Species Hand Paws/WolfskinStudios Bear Paw Pattern/image-01.png>)
-
----
-
-<a id="finch-factory-bird-hands"></a>
-### Finch Factory Bird Hands #moderately #feathers-birds #any-hand-paws
-
-[https://www.patreon.com/FinchFactoryFursuits/shop/bird-hand-paw-pattern-advanced-read-1399017](https://www.patreon.com/FinchFactoryFursuits/shop/bird-hand-paw-pattern-advanced-read-1399017 "smartCard-inline")
-
-![Finch Factory Bird Hands](<attachments/Other Species Hand Paws/Finch Factory Bird Hands/image-01.png>)
-
----
-
-<a id="betweenspaceandsea-seal-hand-and-tail-pattern"></a>
-### BetweenSpace&Sea Seal Hand and Tail Pattern #cheap #other-species #any-tails #any-hand-paws #multipack
-
-[https://www.etsy.com/ca/listing/4452569232/fursuit-seal-pattern-tail-and-paws](https://www.etsy.com/ca/listing/4452569232/fursuit-seal-pattern-tail-and-paws "smartCard-inline")
-
-![BetweenSpace&Sea Seal Hand and Tail Pattern](<attachments/Other Species Hand Paws/BetweenSpace&Sea Seal Hand and Tail Pattern/image-01.webp>)
-
----
-
-<a id="other-species-feet-paws"></a>
-
-</details>
-
-<details>
-<summary>Other Species Feet Paws</summary>
-
-
-[↑ Contents](#contents)
-
----
-
-<a id="mugiwara-bird-sock-feet"></a>
-### Mugiwara Bird Sock Feet #moderately #any-feet #feathers-birds #video-tutorials #sockpaw
-
-[https://mugiwara-cosplay.sellfy.store/p/digital-bird-sock-paws-pattern-for-fursuits-pdf-download/](https://mugiwara-cosplay.sellfy.store/p/digital-bird-sock-paws-pattern-for-fursuits-pdf-download/ "smartCard-inline")
-
-[https://www.etsy.com/ca/listing/737480401/digital-bird-sock-paws-pattern-for](https://www.etsy.com/ca/listing/737480401/digital-bird-sock-paws-pattern-for "smartCard-inline")
-
-[https://www.youtube.com/watch?v=HXwdORWOeYY](https://www.youtube.com/watch?v=HXwdORWOeYY "smartCard-inline")
-
-![Mugiwara Bird Sock Feet](<attachments/Other Species Feet Paws/Mugiwara Bird Sock Feet/image-01.png>)
-
----
-
-<a id="mugiwara-3-toe-digi-feet-paws"></a>
-### Mugiwara 3 Toe Digi Feet Paws #other-species #any-feet #video-tutorials #expensive
-
-[https://mugiwara-cosplay.sellfy.store/embed/checkout/product/ksknxr/](https://mugiwara-cosplay.sellfy.store/embed/checkout/product/ksknxr/ "smartCard-inline")
-
-[https://www.etsy.com/ca/listing/1709123705/digital-digitigrade-fursuit-feet-paws](https://www.etsy.com/ca/listing/1709123705/digital-digitigrade-fursuit-feet-paws "smartCard-inline")
-
-[https://youtu.be/6uiMm-y6gig](https://youtu.be/6uiMm-y6gig "smartCard-inline")
-
-![Mugiwara 3 Toe Digi Feet Paws](<attachments/Other Species Feet Paws/Mugiwara 3 Toe Digi Feet Paws/image-01.webp>)
-
----
-
-<a id="mugiwara-3-toe-feet-paws"></a>
-### Mugiwara 3 Toe Feet Paws #moderately #other-species #any-feet #video-tutorials
-
-[https://mugiwara-cosplay.sellfy.store/p/digital-3-toed-stompy-sock-paws-pattern-for-fursuits-pdf-download/](https://mugiwara-cosplay.sellfy.store/p/digital-3-toed-stompy-sock-paws-pattern-for-fursuits-pdf-download/ "smartCard-inline")
-
-[https://www.etsy.com/ca/listing/698075476/digital-3-toed-stompy-sock-paws-pattern](https://www.etsy.com/ca/listing/698075476/digital-3-toed-stompy-sock-paws-pattern "smartCard-inline")
-
-[https://youtu.be/5h5b1grqWFk](https://youtu.be/5h5b1grqWFk "smartCard-inline")
-
-![Mugiwara 3 Toe Feet Paws](<attachments/Other Species Feet Paws/Mugiwara 3 Toe Feet Paws/image-01.png>)
-
----
-
-<a id="mugiwara-sock-raptor-feet"></a>
-### Mugiwara Sock Raptor Feet #moderately #other-species #any-feet #video-tutorials
-
-[https://mugiwara-cosplay.sellfy.store/p/digital-raptor-sock-paw-hooves-pattern-for-fursuits-pdf-download/](https://mugiwara-cosplay.sellfy.store/p/digital-raptor-sock-paw-hooves-pattern-for-fursuits-pdf-download/ "smartCard-inline")
-
-[https://www.etsy.com/ca/listing/1270394326/digital-raptor-sock-paw-hooves-pattern](https://www.etsy.com/ca/listing/1270394326/digital-raptor-sock-paw-hooves-pattern "smartCard-inline")
-
-[https://youtu.be/i0C4HIhh6GU](https://youtu.be/i0C4HIhh6GU "smartCard-inline")
-
-![Mugiwara Sock Raptor Feet](<attachments/Other Species Feet Paws/Mugiwara Sock Raptor Feet/image-01.png>)
-
----
-
-<a id="ricochetxcrafts-foam-feet-claws"></a>
-### Ricochetxcrafts FOAM Feet Claws #cheap #other-species #any-feet #feathers-birds #video-tutorials #foam-only
-
-[https://www.etsy.com/ca/listing/1278048687/hollow-foam-foot-claw-pattern](https://www.etsy.com/ca/listing/1278048687/hollow-foam-foot-claw-pattern "smartCard-inline")
-
-![Ricochetxcrafts FOAM Feet Claws](<attachments/Other Species Feet Paws/Ricochetxcrafts FOAM Feet Claws/image-01.png>)
-
----
-
-<a id="mugiwara-foam-3-toed-feetpaws"></a>
-### Mugiwara Foam 3 Toed Feetpaws #any-species #any-feet #cheap #video-tutorials #foam-only
-
-[https://mugiwara-cosplay.sellfy.store/p/digital-3-toed-foam-feet-base-template-for-fursuits-pdf-download/](https://mugiwara-cosplay.sellfy.store/p/digital-3-toed-foam-feet-base-template-for-fursuits-pdf-download/ "smartCard-inline")
-
-[https://www.etsy.com/ca/listing/1048398960/digital-3-toed-foam-feet-base-template](https://www.etsy.com/ca/listing/1048398960/digital-3-toed-foam-feet-base-template?click_key=ba18a4b51250c2d1aa46cc86ea980e48d0c15475%3A1048398960&click_sum=733908d3&ref=shop_home_active_6&pro=1)
-
-[https://www.youtube.com/watch?v=7yn-Nv4XGwc](https://www.youtube.com/watch?v=7yn-Nv4XGwc "smartCard-inline")
-
-![Mugiwara Foam 3 Toed Feetpaws](<attachments/Other Species Feet Paws/Mugiwara Foam 3 Toed Feetpaws/image-01.jpg>)
-
----
-
-<a id="mugiwara-sergal-foam-feet"></a>
-### Mugiwara Sergal Foam Feet #any-species #any-feet #cheap #video-tutorials #foam-only
-
-[https://mugiwara-cosplay.sellfy.store/p/digital-sergal-foam-feet-base-template-for-fursuits-pdf-download/](https://mugiwara-cosplay.sellfy.store/p/digital-sergal-foam-feet-base-template-for-fursuits-pdf-download/ "smartCard-inline") [https://www.etsy.com/ca/listing/853728565/digital-sergal-foam-feet-base-template](https://www.etsy.com/ca/listing/853728565/digital-sergal-foam-feet-base-template "smartCard-inline")
-
-[https://www.youtube.com/watch?v=hW-HpWSyYCs](https://www.youtube.com/watch?v=hW-HpWSyYCs "smartCard-inline")
-
-![Mugiwara Sergal Foam Feet](<attachments/Other Species Feet Paws/Mugiwara Sergal Foam Feet/image-01.jpg>)
-
----
-
-<a id="redsewsshop-bird-feet"></a>
-### RedSewsShop Bird Feet #any-feet #moderately #feathers-birds
-
-[https://www.etsy.com/ca/listing/1755596765/digital-download-bird-feet-pattern](https://www.etsy.com/ca/listing/1755596765/digital-download-bird-feet-pattern "smartCard-inline")
-
-![RedSewsShop Bird Feet](<attachments/Other Species Feet Paws/RedSewsShop Bird Feet/image-01.webp>)
-
----
-
-<a id="theraptorshop-synth-feet-paws"></a>
-### TheRaptorShop Synth Feet paws #expensive #other-species #any-feet
-
-[https://www.etsy.com/ca/listing/1856652346/synth-feetpaw-shoe-pattern-and-build](https://www.etsy.com/ca/listing/1856652346/synth-feetpaw-shoe-pattern-and-build)
-
-![TheRaptorShop Synth Feet paws](<attachments/Other Species Feet Paws/TheRaptorShop Synth Feet paws/image-01.webp>)
-
----
-
-<a id="opossumcafe-indoor-opossum-rodent-feetpaws"></a>
-### OpossumCafe Indoor Opossum/Rodent Feetpaws #any-feet #expensive #other-species
-
-Advanced pattern
-
-[https://www.etsy.com/ca/listing/4366078795/opossum-fursuit-indoor-feetpaws-pattern](https://www.etsy.com/ca/listing/4366078795/opossum-fursuit-indoor-feetpaws-pattern "smartCard-inline")
-
-![OpossumCafe Indoor Opossum/Rodent Feetpaws](<attachments/Other Species Feet Paws/OpossumCafe Indoor OpossumRodent Feetpaws/image-01.png>)
-
----
-
-<a id="rudebirdstudios-bird-dragon-dino-feet"></a>
-### RudeBirdStudios Bird/Dragon/Dino Feet #foam-only #moderately #feathers-birds #other-species #any-feet
-
-[https://www.etsy.com/ca/listing/4400859287/birddragon-hollow-foam-foot-paw-pattern](https://www.etsy.com/ca/listing/4400859287/birddragon-hollow-foam-foot-paw-pattern "smartCard-inline")
-
-![RudeBirdStudios Bird/Dragon/Dino Feet](<attachments/Other Species Feet Paws/RudeBirdStudios BirdDragonDino Feet/image-01.webp>)
-
-![RudeBirdStudios Bird/Dragon/Dino Feet](<attachments/Other Species Feet Paws/RudeBirdStudios BirdDragonDino Feet/image-02.webp>)
-
----
-
-<a id="rudebirdstudios-3-toed-paw-pattern"></a>
-### RudeBirdStudios 3 Toed Paw Pattern #any-feet #feathers-birds #other-species #moderately #foam-only
-
-[https://www.etsy.com/ca/listing/4413156853/dragondinosaur-3-toed-paw-pattern-pdf](https://www.etsy.com/ca/listing/4413156853/dragondinosaur-3-toed-paw-pattern-pdf "smartCard-inline")
-
-![RudeBirdStudios 3 Toed Paw Pattern](<attachments/Other Species Feet Paws/RudeBirdStudios 3 Toed Paw Pattern/image-01.webp>)
-
----
-
-<a id="head-liners"></a>
-
-</details>
-
-<details>
-<summary>Head Liners</summary>
-
-
-[↑ Contents](#contents)
-
----
-
-<a id="free-kloofsuits-basic-balaclava"></a>
-### (FREE) Kloofsuits Basic Balaclava #fursuit-heads #free #any-species
-
-Letter size: [https://www.kloofsuits.co.uk/_files/ugd/132978_ab62f9722aa345f7be78df5f037ddc0e.pdf](https://www.kloofsuits.co.uk/_files/ugd/132978_ab62f9722aa345f7be78df5f037ddc0e.pdf)
-
-A4 size: [https://www.kloofsuits.co.uk/_files/ugd/132978_a67ed974b46d423aa1950d7e0123b738.pdf](https://www.kloofsuits.co.uk/_files/ugd/132978_a67ed974b46d423aa1950d7e0123b738.pdf)
-
-![FREE Kloofsuits Basic Balaclava](<attachments/Head Liners/(FREE) Kloofsuits Basic Balaclava/image-01.webp>)
-
----
-
-<a id="twilightknights-head-lining-tutorial"></a>
-### TwilightKnights Head Lining Tutorial #cheap #video-tutorials #fursuit-heads #any-species #tutorial-no-pattern-incl
-
-[https://www.etsy.com/ca/listing/1369939902/fursuit-head-lining-tutorial](https://www.etsy.com/ca/listing/1369939902/fursuit-head-lining-tutorial "smartCard-inline")
-
-![TwilightKnights Head Lining Tutorial](<attachments/Head Liners/TwilightKnights Head Lining Tutorial/image-01.png>)
-
----
-
-<a id="softpawsstudios-head-and-neck-liner"></a>
-### SoftpawsStudios Head & Neck Liner #cheap #fursuit-heads #any-species
-
-Be sure to use a stretchy material like lycra or neoprene
-
-[https://www.etsy.com/ca/listing/1291347189/fully-faced-balaclavaneck-pattern](https://www.etsy.com/ca/listing/1291347189/fully-faced-balaclavaneck-pattern "smartCard-inline")
-
-![SoftpawsStudios Head & Neck Liner](<attachments/Head Liners/SoftpawsStudios Head & Neck Liner/image-01.png>)
-
----
-
-<a id="charredfursuits-head-lining"></a>
-### CharredFursuits Head Lining #moderately #fursuit-heads #any-species
-
-[https://charredfursuits.com/product/album](https://charredfursuits.com/product/album "smartCard-inline")
-
-[https://www.etsy.com/ca/listing/926689501/fursuit-head-lining-pattern-tutorial](https://www.etsy.com/ca/listing/926689501/fursuit-head-lining-pattern-tutorial "smartCard-inline")
-
-![CharredFursuits Head Lining](<attachments/Head Liners/CharredFursuits Head Lining/image-01.png>)
-
-![CharredFursuits Head Lining](<attachments/Head Liners/CharredFursuits Head Lining/image-02.png>)
-
-![CharredFursuits Head Lining](<attachments/Head Liners/CharredFursuits Head Lining/image-03.png>)
-
----
-
-<a id="oktavia-s-creatures-balaclava-pattern"></a>
-### Oktavia's Creatures Balaclava Pattern #cheap #fursuit-heads #any-species
-
-[https://www.etsy.com/ca/listing/1184928150/balaclava-pattern-for-fursuit-cosplay](https://www.etsy.com/ca/listing/1184928150/balaclava-pattern-for-fursuit-cosplay "smartCard-inline")
-
-![Oktavia's Creatures Balaclava Pattern](<attachments/Head Liners/Oktavia's Creatures Balaclava Pattern/image-01.png>)
-
----
-
-<a id="missrarscreatures-hood-pattern"></a>
-### MissrarsCreatures Hood Pattern #cheap #any-species #fursuit-heads
-
-[https://www.etsy.com/ca/listing/962451155/pdf-pattern-faceplate-foundation-fursuit](https://www.etsy.com/ca/listing/962451155/pdf-pattern-faceplate-foundation-fursuit "smartCard-inline")
-
-Made to be used with their bucket pattern here:
-
-[https://www.etsy.com/ca/listing/881423718/pdf-pattern-faceplate-foundation-fursuit](https://www.etsy.com/ca/listing/881423718/pdf-pattern-faceplate-foundation-fursuit "smartCard-inline")
-
-![MissrarsCreatures Hood Pattern](<attachments/Head Liners/MissrarsCreatures Hood Pattern/image-01.png>)
-
----
-
-<a id="geknome-head-base-lining"></a>
-### Geknome Head Base Lining #cheap #fursuit-heads #any-species
-
-[https://www.etsy.com/ca/listing/1564438305/fursuit-head-base-lining-pattern](https://www.etsy.com/ca/listing/1564438305/fursuit-head-base-lining-pattern "smartCard-inline")
-
-![Geknome Head Base Lining](<attachments/Head Liners/Geknome Head Base Lining/image-01.webp>)
-
-![Geknome Head Base Lining](<attachments/Head Liners/Geknome Head Base Lining/image-02.jpg>)
-
----
-
-<a id="kiefercat-balaclava-with-optional-zipper"></a>
-### KieferCat Balaclava with Optional Zipper #any-species #fursuit-heads #cheap
-
-[https://kiefercat.gumroad.com/l/IdkAW](https://kiefercat.gumroad.com/l/IdkAW "smartCard-inline")
-
-![KieferCat Balaclava with Optional Zipper](<attachments/Head Liners/KieferCat Balaclava with Optional Zipper/image-01.webp>)
-
----
-
-<a id="drachen-katze-fursuit-head-liner-with-zipper"></a>
-### Drachen_katze Fursuit Head Liner with Zipper #cheap #fursuit-heads #any-species
-
-[https://drachenkatze.gumroad.com/l/GdTUc](https://drachenkatze.gumroad.com/l/GdTUc "smartCard-inline")
-
-![Drachen_katze Fursuit Head Liner with Zipper](<attachments/Head Liners/Drachen_katze Fursuit Head Liner with Zipper/image-01.png>)
-
-![Drachen_katze Fursuit Head Liner with Zipper](<attachments/Head Liners/Drachen_katze Fursuit Head Liner with Zipper/image-02.png>)
-
----
-
-<a id="softpawsstudios-head-liner-and-balaclava"></a>
-### SoftPawsStudios Head Liner & Balaclava #any-species #fursuit-heads #cheap
-
-[https://www.etsy.com/ca/listing/1291347189/20-fully-faced-balaclavaneck-pattern](https://www.etsy.com/ca/listing/1291347189/20-fully-faced-balaclavaneck-pattern)
-
-![SoftPawsStudios Head Liner & Balaclava](<attachments/Head Liners/SoftPawsStudios Head Liner & Balaclava/image-01.jpg>)
-
----
-
-<a id="skunky-designs-head-liner"></a>
-### Skunky Designs Head Liner #cheap #fursuit-heads #any-species
-
-[https://www.etsy.com/ca/listing/1280918764/fursuit-head-lining-snail-boi-pattern](https://www.etsy.com/ca/listing/1280918764/fursuit-head-lining-snail-boi-pattern)
-
-![Skunky Designs Head Liner](<attachments/Head Liners/Skunky Designs Head Liner/image-01.jpg>)
-
----
-
-<a id="oblestudios-head-lining-pattern"></a>
-### ObleStudios Head Lining Pattern #cheap #fursuit-heads #any-species
-
-[https://www.etsy.com/ca/listing/839748406/fursuit-head-lining-pattern](https://www.etsy.com/ca/listing/839748406/fursuit-head-lining-pattern "smartCard-inline")
-
-![ObleStudios Head Lining Pattern](<attachments/Head Liners/ObleStudios Head Lining Pattern/image-01.webp>)
-
----
-
-<a id="werewolfprincess666-head-liner-pattern-tutorial"></a>
-### werewolfprincess666 Head Liner Pattern + Tutorial #any-species #fursuit-heads #cheap #tutorial-no-pattern-incl
-
-[https://www.etsy.com/ca/listing/1453076149/fursuit-head-liner-sewing-pattern-and](https://www.etsy.com/ca/listing/1453076149/fursuit-head-liner-sewing-pattern-and "smartCard-inline")
-
-![werewolfprincess666 Head Liner Pattern + Tutorial](<attachments/Head Liners/werewolfprincess666 Head Liner Pattern + Tutorial/image-01.png>)
-
----
-
-<a id="plaidpawsbymaus-neck-pattern"></a>
-### PlaidPawsbyMaus Neck Pattern #cheap #fursuit-heads #any-species
-
-[https://www.etsy.com/ca/listing/1686019081/toony-costume-head-neck-pattern](https://www.etsy.com/ca/listing/1686019081/toony-costume-head-neck-pattern)
-
-![PlaidPawsbyMaus Neck Pattern](<attachments/Head Liners/PlaidPawsbyMaus Neck Pattern/image-01.webp>)
-
----
-
-<a id="highvalleycreation-head-liner"></a>
-### HighValleyCreation Head Liner #cheap #fursuit-heads #any-species
-
-[https://www.etsy.com/ca/listing/1717311589/digital-fursuit-lining-and-instructions](https://www.etsy.com/ca/listing/1717311589/digital-fursuit-lining-and-instructions "smartCard-inline")
-
-![HighValleyCreation Head Liner](<attachments/Head Liners/HighValleyCreation Head Liner/image-01.webp>)
-
----
-
-<a id="goldenreliic-head-and-neck-liner"></a>
-### GoldenReliic Head and Neck Liner #fursuit-heads #any-species #cheap
-
-[https://www.etsy.com/ca/listing/1776862224/fursuit-head-liner-pattern](https://www.etsy.com/ca/listing/1776862224/fursuit-head-liner-pattern "smartCard-inline")
-
-![GoldenReliic Head and Neck Liner](<attachments/Head Liners/GoldenReliic Head and Neck Liner/image-01.webp>)
-
----
-
-<a id="werewolfprince666-expanding-foam-head-base-pattern"></a>
-### werewolfprince666 Expanding Foam Head Base Pattern #foam-only #fursuit-heads #cheap #any-species #other-species
-
-[https://www.etsy.com/ca/listing/1823913717/expanding-foam-fursuit-head-base-helmut](https://www.etsy.com/ca/listing/1823913717/expanding-foam-fursuit-head-base-helmut "smartCard-inline")
-
-![werewolfprince666 Expanding Foam Head Base Pattern](<attachments/Head Liners/werewolfprince666 Expanding Foam Head Base Pattern/image-01.png>)
-
----
-
-<a id="werewolfprince666-head-liner-tutorial"></a>
-### werewolfprince666 Head Liner Tutorial #fursuit-heads #moderately #any-species #other-species #tutorial-no-pattern-incl
-
-[https://www.etsy.com/ca/listing/1746404156/deluxe-fursuit-head-lining-tutorial](https://www.etsy.com/ca/listing/1746404156/deluxe-fursuit-head-lining-tutorial "smartCard-inline")
-
-![werewolfprince666 Head Liner Tutorial](<attachments/Head Liners/werewolfprince666 Head Liner Tutorial/image-01.png>)
-
----
-
-<a id="bloodngoold-fursuit-neck-hood"></a>
-### BloodngOOld Fursuit Neck + Hood #other-species #any-species #fursuit-heads #moderately
-
-[https://www.etsy.com/ca/listing/1868807585/fursuit-neck-hood-pdf-pattern-a4](https://www.etsy.com/ca/listing/1868807585/fursuit-neck-hood-pdf-pattern-a4 "smartCard-inline")
-
-![BloodngOOld Fursuit Neck + Hood](<attachments/Head Liners/BloodngOOld Fursuit Neck + Hood/image-01.png>)
-
----
-
-<a id="otterhalfcostumes-lined-neck-w-zipper"></a>
-### OtterHalfCostumes Lined Neck w/Zipper #any-species #moderately #fursuit-heads #tutorial-no-pattern-incl #video-tutorials
-
-[https://www.etsy.com/ca/listing/4447786060/lined-fursuit-neck-with-zipper-tutorial](https://www.etsy.com/ca/listing/4447786060/lined-fursuit-neck-with-zipper-tutorial "smartCard-inline")
-
-Made to work with this:
-
-[https://www.etsy.com/ca/listing/1873100551/adjustable-fursuit-head-lining-tutorial](https://www.etsy.com/ca/listing/1873100551/adjustable-fursuit-head-lining-tutorial "smartCard-inline")
-
-![OtterHalfCostumes Lined Neck w/Zipper](<attachments/Head Liners/OtterHalfCostumes Lined Neck wZipper/image-01.webp>)
-
----
-
-<a id="otterhalfcostumes-adjustable-head-base-liner"></a>
-### OtterHalfCostumes Adjustable Head Base Liner #fursuit-heads #moderately #any-species #video-tutorials #tutorial-no-pattern-incl
-
-[https://www.etsy.com/ca/listing/1873100551/adjustable-fursuit-head-lining-tutorial](https://www.etsy.com/ca/listing/1873100551/adjustable-fursuit-head-lining-tutorial "smartCard-inline")
-
-Made to work with this:
-
-[https://www.etsy.com/ca/listing/4447786060/lined-fursuit-neck-with-zipper-tutorial](https://www.etsy.com/ca/listing/4447786060/lined-fursuit-neck-with-zipper-tutorial "smartCard-inline")
-
-![OtterHalfCostumes Adjustable Head Base Liner](<attachments/Head Liners/OtterHalfCostumes Adjustable Head Base Liner/image-01.webp>)
-
----
-
-<a id="horns"></a>
-
-</details>
-
-<details>
-<summary>Horns</summary>
-
-
-[↑ Contents](#contents)
-
----
-
-<a id="mugiwara-horns"></a>
-### Mugiwara Horns #cheap #other-species #equine-cervine #fursuit-heads #video-tutorials #multipack
-
-[https://mugiwara-cosplay.sellfy.store/p/digital-horn-sewing-patterns-for-fursuits-and-cosplay-pdf-download/](https://mugiwara-cosplay.sellfy.store/p/digital-horn-sewing-patterns-for-fursuits-and-cosplay-pdf-download/ "smartCard-inline")
-
-[https://www.etsy.com/ca/listing/731328433/digital-horn-sewing-patterns-for](https://www.etsy.com/ca/listing/731328433/digital-horn-sewing-patterns-for "smartCard-inline")
-
-[https://www.youtube.com/watch?v=NKakGSz9WCs](https://www.youtube.com/watch?v=NKakGSz9WCs "smartCard-inline")
-
-![Mugiwara Horns](<attachments/Horns/Mugiwara Horns/image-01.png>)
-
----
-
-<a id="kivovissuits-plush-curled-horns"></a>
-### KivovisSuits Plush Curled Horns #cheap #other-species #fursuit-heads
-
-[https://www.etsy.com/ca/listing/1148154168/plush-horn-tutorial-and-pattern-horns](https://www.etsy.com/ca/listing/1148154168/plush-horn-tutorial-and-pattern-horns "smartCard-inline")
-
-![KivovisSuits Plush Curled Horns](<attachments/Horns/KivovisSuits Plush Curled Horns/image-01.png>)
-
-![KivovisSuits Plush Curled Horns](<attachments/Horns/KivovisSuits Plush Curled Horns/image-02.png>)
-
----
-
-<a id="rockyrainbowstudios-curved-plush-horn"></a>
-### RockyRainbowStudios Curved Plush Horn #cheap #other-species #fursuit-heads
-
-[https://www.etsy.com/ca/listing/1268153736/horn-pattern-digital-download](https://www.etsy.com/ca/listing/1268153736/horn-pattern-digital-download "smartCard-inline")
-
-![RockyRainbowStudios Curved Plush Horn](<attachments/Horns/RockyRainbowStudios Curved Plush Horn/image-01.png>)
-
-![RockyRainbowStudios Curved Plush Horn](<attachments/Horns/RockyRainbowStudios Curved Plush Horn/image-02.png>)
-
----
-
-<a id="fishpishstudios-plush-unicorn-horn"></a>
-### FishPishStudios Plush Unicorn Horn #fursuit-heads #other-species #cheap
-
-[https://www.etsy.com/ca/listing/1148515254/fabric-unicorn-horn-tutorial-and-pattern](https://www.etsy.com/ca/listing/1148515254/fabric-unicorn-horn-tutorial-and-pattern "smartCard-inline")
-
-![FishPishStudios Plush Unicorn Horn](<attachments/Horns/FishPishStudios Plush Unicorn Horn/image-01.webp>)
-
----
-
-<a id="lostwax-12-eva-horns"></a>
-### LostWax 12 EVA Horns #other-species #cheap #video-tutorials #multipack #fursuit-heads #foam-only
-
-[https://lostwaxoz.gumroad.com/l/Horns?layout=profile](https://lostwaxoz.gumroad.com/l/Horns?layout=profile "smartCard-inline")
-
-[https://www.youtube.com/watch?v=jIOvwL7yIyk](https://www.youtube.com/watch?v=jIOvwL7yIyk "smartCard-inline")
-
-[https://www.youtube.com/watch?v=Nt0Md8yHjqs](https://www.youtube.com/watch?v=Nt0Md8yHjqs "smartCard-inline")
-
-![LostWax 12 EVA Horns](<attachments/Horns/LostWax 12 EVA Horns/image-01.jpeg>)
-
----
-
-<a id="kamuicosplay-horn-multipack-v1-5-styles-or-sold-individually"></a>
-### KamuiCosplay Horn Multipack V1 (5 styles, or sold individually) #moderately #multipack #other-species #fursuit-heads #foam-only
-
-Multipack: [https://www.kamuicosplay.com/product/horncollection/](https://www.kamuicosplay.com/product/horncollection/ "smartCard-inline")
-
-Singles:
-Ram's Horn: [https://www.kamuicosplay.com/product/ramhorn/](https://www.kamuicosplay.com/product/ramhorn/ "smartCard-inline")
-
-Thick Horn: [https://www.kamuicosplay.com/product/thickhorn/](https://www.kamuicosplay.com/product/thickhorn/ "smartCard-inline")
-
-Long Horn: [https://www.kamuicosplay.com/product/longhorn/](https://www.kamuicosplay.com/product/longhorn/ "smartCard-inline")
-
-Curved Horn: [https://www.kamuicosplay.com/product/curvedhorn/](https://www.kamuicosplay.com/product/curvedhorn/ "smartCard-inline")
-
-Spiky Horn: [https://www.kamuicosplay.com/product/spikyhorn/](https://www.kamuicosplay.com/product/spikyhorn/ "smartCard-inline")
-
-![KamuiCosplay Horn Multipack V1 5 styles, or sold individually](<attachments/Horns/KamuiCosplay Horn Multipack V1 (5 styles, or sold individually)/image-01.jpg>)
-
-![KamuiCosplay Horn Multipack V1 5 styles, or sold individually](<attachments/Horns/KamuiCosplay Horn Multipack V1 (5 styles, or sold individually)/image-02.jpg>)
-
-![KamuiCosplay Horn Multipack V1 5 styles, or sold individually](<attachments/Horns/KamuiCosplay Horn Multipack V1 (5 styles, or sold individually)/image-03.jpg>)
-
-![KamuiCosplay Horn Multipack V1 5 styles, or sold individually](<attachments/Horns/KamuiCosplay Horn Multipack V1 (5 styles, or sold individually)/image-04.jpg>)
-
-![KamuiCosplay Horn Multipack V1 5 styles, or sold individually](<attachments/Horns/KamuiCosplay Horn Multipack V1 (5 styles, or sold individually)/image-05.jpg>)
-
-![KamuiCosplay Horn Multipack V1 5 styles, or sold individually](<attachments/Horns/KamuiCosplay Horn Multipack V1 (5 styles, or sold individually)/image-06.jpg>)
-
----
-
-<a id="kamuicosplay-horn-multipack-v2-7-styles-or-sold-individually"></a>
-### KamuiCosplay Horn Multipack V2 (7 styles, or sold individually) #moderately #multipack #other-species #fursuit-heads #foam-only
-
-Multipack: [https://www.kamuicosplay.com/product/horncollection2/](https://www.kamuicosplay.com/product/horncollection2/ "smartCard-inline")
-
-Single:
-
-Epic Ram’s Horns: [https://www.kamuicosplay.com/product/epicramhorn/](https://www.kamuicosplay.com/product/epicramhorn/ "smartCard-inline")
-
-Devil’s Horns: [https://www.kamuicosplay.com/product/devilhorns/](https://www.kamuicosplay.com/product/devilhorns/ "smartCard-inline")
-
-Imp Horns: [https://www.kamuicosplay.com/product/imphorn/](https://www.kamuicosplay.com/product/imphorn/ "smartCard-inline")
-
-Demon Horn: [https://www.kamuicosplay.com/product/demonhorns/](https://www.kamuicosplay.com/product/demonhorns/ "smartCard-inline")
-
-Twisted Horns: [https://www.kamuicosplay.com/product/twistedhorns/](https://www.kamuicosplay.com/product/twistedhorns/ "smartCard-inline")
-
-Fairy Horns: [https://www.kamuicosplay.com/product/fairyhorns/](https://www.kamuicosplay.com/product/fairyhorns/ "smartCard-inline")
-
-Bull Horns: [https://www.kamuicosplay.com/product/bullhorns/](https://www.kamuicosplay.com/product/bullhorns/ "smartCard-inline")
-
-![KamuiCosplay Horn Multipack V2 7 styles, or sold individually](<attachments/Horns/KamuiCosplay Horn Multipack V2 (7 styles, or sold individually)/image-01.jpg>)
-
-![KamuiCosplay Horn Multipack V2 7 styles, or sold individually](<attachments/Horns/KamuiCosplay Horn Multipack V2 (7 styles, or sold individually)/image-02.jpg>)
-
-![KamuiCosplay Horn Multipack V2 7 styles, or sold individually](<attachments/Horns/KamuiCosplay Horn Multipack V2 (7 styles, or sold individually)/image-03.jpg>)
-
-![KamuiCosplay Horn Multipack V2 7 styles, or sold individually](<attachments/Horns/KamuiCosplay Horn Multipack V2 (7 styles, or sold individually)/image-04.jpg>)
-
-![KamuiCosplay Horn Multipack V2 7 styles, or sold individually](<attachments/Horns/KamuiCosplay Horn Multipack V2 (7 styles, or sold individually)/image-05.jpg>)
-
----
-
-<a id="sayakat-cosplay-7-foam-oni-horns"></a>
-### Sayakat Cosplay 7 Foam Oni Horns #cheap #fursuit-heads #other-species #multipack #foam-only #video-tutorials
-
-[https://sayakatcosplay.storenvy.com/products/31350910-foam-oni-horn-patterns-and-tutorial](https://sayakatcosplay.storenvy.com/products/31350910-foam-oni-horn-patterns-and-tutorial "smartCard-inline")
-
-[https://www.etsy.com/ca/listing/901809040/foam-oni-horn-patterns-and-tutorial](https://www.etsy.com/ca/listing/901809040/foam-oni-horn-patterns-and-tutorial "smartCard-inline")
-
-![Sayakat Cosplay 7 Foam Oni Horns](<attachments/Horns/Sayakat Cosplay 7 Foam Oni Horns/image-01.jpg>)
-
----
-
-<a id="trinestreasury-ram-s-horn-pack-5-in-pack-or-singles"></a>
-### TrinesTreasury Ram's Horn Pack (5 in pack or singles) #multipack #cheap #moderately #fursuit-heads #other-species #foam-only
-
-Multipack:
-
-[https://www.etsy.com/ca/listing/1397594701/ram-horn-pattern-collection-for-eva-foam](https://www.etsy.com/ca/listing/1397594701/ram-horn-pattern-collection-for-eva-foam "smartCard-inline")
-
-Small Ram Horn: [https://www.etsy.com/ca/listing/1397601675/small-ram-horn-pattern-for-eva-foam-a4](https://www.etsy.com/ca/listing/1397601675/small-ram-horn-pattern-for-eva-foam-a4?click_key=3f9b350ebfb330063f862ba3dcdedc80e1c5efde%3A1397601675&click_sum=a760d266&ref=shop_home_active_2&sts=1)
-
-Twisted Ram Horn: [https://www.etsy.com/ca/listing/1397603813/twisted-ram-horn-pattern-for-eva-foam-a4](https://www.etsy.com/ca/listing/1397603813/twisted-ram-horn-pattern-for-eva-foam-a4?click_key=0c5d6f298a1030cda556fb2232174ff9fc3fccc8%3A1397603813&click_sum=3ea90e24&ref=shop_home_active_3&sts=1)
-
-Straight Ram Horn: [https://www.etsy.com/ca/listing/1383601232/straight-ram-horn-pattern-for-eva-foam](https://www.etsy.com/ca/listing/1383601232/straight-ram-horn-pattern-for-eva-foam "smartCard-inline")
-
-Big Ram Horn: [https://www.etsy.com/ca/listing/1397600183/big-ram-horn-pattern-for-eva-foam-a4-and](https://www.etsy.com/ca/listing/1397600183/big-ram-horn-pattern-for-eva-foam-a4-and)
-
-Round Ram Horn: [https://www.etsy.com/ca/listing/1397607821/round-ram-horn-pattern-for-eva-foam-a4](https://www.etsy.com/ca/listing/1397607821/round-ram-horn-pattern-for-eva-foam-a4 "smartCard-inline")
-
-![TrinesTreasury Ram's Horn Pack 5 in pack or singles](<attachments/Horns/TrinesTreasury Ram's Horn Pack (5 in pack or singles)/image-01.webp>)
-
-![TrinesTreasury Ram's Horn Pack 5 in pack or singles](<attachments/Horns/TrinesTreasury Ram's Horn Pack (5 in pack or singles)/image-02.webp>)
-
----
-
-<a id="trinestreasury-single-horns-antler-sold-seperately"></a>
-### TrinesTreasury Single Horns + Antler Sold Seperately #cheap #fursuit-heads #other-species #foam-only
-
-Albedo Horns: [https://www.etsy.com/ca/listing/1388202902/albedo-horn-pattern-for-eva-foam-a4-and](https://www.etsy.com/ca/listing/1388202902/albedo-horn-pattern-for-eva-foam-a4-and "smartCard-inline")
-
-Stygian Horns: [https://www.etsy.com/ca/listing/1388202000/ganyu-horn-pattern-for-eva-foam-a4-and](https://www.etsy.com/ca/listing/1388202000/ganyu-horn-pattern-for-eva-foam-a4-and "smartCard-inline")
-
-Layered Dragon Horns: [https://www.etsy.com/ca/listing/1393612538/layered-dragon-horn-pattern-for-eva-foam](https://www.etsy.com/ca/listing/1393612538/layered-dragon-horn-pattern-for-eva-foam "smartCard-inline")
-
-Dragon Horns: [https://www.etsy.com/ca/listing/1388204304/dragon-horn-pattern-for-eva-foam-a4-and](https://www.etsy.com/ca/listing/1388204304/dragon-horn-pattern-for-eva-foam-a4-and)
-
-Antlers: [https://www.etsy.com/ca/listing/1659093636/deer-antlers-pattern-for-eva-foam-a4-and](https://www.etsy.com/ca/listing/1659093636/deer-antlers-pattern-for-eva-foam-a4-and "smartCard-inline")
-
-Tiefling Horns: [https://www.etsy.com/ca/listing/1597438078/ruin-curves-tiefling-horn-pattern-for](https://www.etsy.com/ca/listing/1597438078/ruin-curves-tiefling-horn-pattern-for "smartCard-inline")
-
-Ox Horns: [https://www.etsy.com/ca/listing/1659090812/ox-horn-pattern-for-eva-foam-a4-and-us](https://www.etsy.com/ca/listing/1659090812/ox-horn-pattern-for-eva-foam-a4-and-us)
-
-![TrinesTreasury Single Horns + Antler Sold Seperately](<attachments/Horns/TrinesTreasury Single Horns + Antler Sold Seperately/image-01.webp>)
-
-![TrinesTreasury Single Horns + Antler Sold Seperately](<attachments/Horns/TrinesTreasury Single Horns + Antler Sold Seperately/image-02.webp>)
-
-![TrinesTreasury Single Horns + Antler Sold Seperately](<attachments/Horns/TrinesTreasury Single Horns + Antler Sold Seperately/image-03.webp>)
-
-![TrinesTreasury Single Horns + Antler Sold Seperately](<attachments/Horns/TrinesTreasury Single Horns + Antler Sold Seperately/image-04.png>)
-
-![TrinesTreasury Single Horns + Antler Sold Seperately](<attachments/Horns/TrinesTreasury Single Horns + Antler Sold Seperately/image-05.jpg>)
-
-![TrinesTreasury Single Horns + Antler Sold Seperately](<attachments/Horns/TrinesTreasury Single Horns + Antler Sold Seperately/image-06.jpg>)
-
-![TrinesTreasury Single Horns + Antler Sold Seperately](<attachments/Horns/TrinesTreasury Single Horns + Antler Sold Seperately/image-07.jpg>)
-
----
-
-<a id="fatunicorncosplay-horn-multipacks-and-singles-12-patterns-to"></a>
-### FatUnicornCosplay Horn Multipacks & Singles (12 Patterns Total) #cheap #moderately #other-species #fursuit-heads #multipack #foam-only
-
-Multipack 1 + 2 (12 patterns):
-
-[https://www.etsy.com/ca/listing/1195459322/diy-foam-horn-pattern-collection-12](https://www.etsy.com/ca/listing/1195459322/diy-foam-horn-pattern-collection-12 "smartCard-inline")
-
-Multipack 1 (6 patterns):
-
-[https://www.etsy.com/ca/listing/1032457204/diy-foam-horn-pattern-collection-cosplay](https://www.etsy.com/ca/listing/1032457204/diy-foam-horn-pattern-collection-cosplay "smartCard-inline")
-
-Multipack 2 (6 patterns):
-
-[https://www.etsy.com/ca/listing/1167783897/diy-foam-horn-pattern-collection-2](https://www.etsy.com/ca/listing/1167783897/diy-foam-horn-pattern-collection-2 "smartCard-inline")
-
-Mini Pack (3 patterns):
-
-[https://www.etsy.com/ca/listing/895894463/diy-rams-horns-cosplay-horns-dragon](https://www.etsy.com/ca/listing/895894463/diy-rams-horns-cosplay-horns-dragon "smartCard-inline")
-
-‌
-
-Singles:
-
-Dragon Horns v1:
-
-[https://www.etsy.com/ca/listing/880124154/diy-dragon-horns-cosplay-horns-costume](https://www.etsy.com/ca/listing/880124154/diy-dragon-horns-cosplay-horns-costume "smartCard-inline")
-
-Dragon Horns v2:
-
-[https://www.etsy.com/ca/listing/1431734055/diy-dragon-horns-cosplay-horns-costume](https://www.etsy.com/ca/listing/1431734055/diy-dragon-horns-cosplay-horns-costume "smartCard-inline")
-
-Ram’s Horns:
-
-[https://www.etsy.com/ca/listing/883138525/diy-rams-horns-cosplay-horns-costume](https://www.etsy.com/ca/listing/883138525/diy-rams-horns-cosplay-horns-costume "smartCard-inline")
-
-Satyr Horns:
-
-[https://www.etsy.com/ca/listing/1305754198/diy-eva-foam-horn-pattern-ram-horn](https://www.etsy.com/ca/listing/1305754198/diy-eva-foam-horn-pattern-ram-horn)
-
-![FatUnicornCosplay Horn Multipacks & Singles 12 Patterns Total](<attachments/Horns/FatUnicornCosplay Horn Multipacks & Singles (12 Patterns Total)/image-01.webp>)
-
-![FatUnicornCosplay Horn Multipacks & Singles 12 Patterns Total](<attachments/Horns/FatUnicornCosplay Horn Multipacks & Singles (12 Patterns Total)/image-02.webp>)
-
-![FatUnicornCosplay Horn Multipacks & Singles 12 Patterns Total](<attachments/Horns/FatUnicornCosplay Horn Multipacks & Singles (12 Patterns Total)/image-03.webp>)
-
-![FatUnicornCosplay Horn Multipacks & Singles 12 Patterns Total](<attachments/Horns/FatUnicornCosplay Horn Multipacks & Singles (12 Patterns Total)/image-04.webp>)
-
-![FatUnicornCosplay Horn Multipacks & Singles 12 Patterns Total](<attachments/Horns/FatUnicornCosplay Horn Multipacks & Singles (12 Patterns Total)/image-05.webp>)
-
-![FatUnicornCosplay Horn Multipacks & Singles 12 Patterns Total](<attachments/Horns/FatUnicornCosplay Horn Multipacks & Singles (12 Patterns Total)/image-06.webp>)
-
-![FatUnicornCosplay Horn Multipacks & Singles 12 Patterns Total](<attachments/Horns/FatUnicornCosplay Horn Multipacks & Singles (12 Patterns Total)/image-07.webp>)
-
-![FatUnicornCosplay Horn Multipacks & Singles 12 Patterns Total](<attachments/Horns/FatUnicornCosplay Horn Multipacks & Singles (12 Patterns Total)/image-08.webp>)
-
----
-
-<a id="kittencafestudios-3-plush-horns-and-antlers"></a>
-### KittenCafeStudios 3 Plush Horns and Antlers #fursuit-heads #cheap #equine-cervine
-
-[https://www.etsy.com/ca/listing/1851433176/diy-fursuit-horns-and-antlers-pattern](https://www.etsy.com/ca/listing/1851433176/diy-fursuit-horns-and-antlers-pattern "smartCard-inline")
-
-![KittenCafeStudios 3 Plush Horns and Antlers](<attachments/Horns/KittenCafeStudios 3 Plush Horns and Antlers/image-01.webp>)
-
----
-
-<a id="atd-fursuits-pleated-horn-tutorial"></a>
-### ATD Fursuits Pleated Horn TUTORIAL #cheap #tutorial-no-pattern-incl #video-tutorials #other-species #fursuit-heads
-
-[https://ko-fi.com/s/3595aec21b](https://ko-fi.com/s/3595aec21b "smartCard-inline")
-
-![ATD Fursuits Pleated Horn TUTORIAL](<attachments/Horns/ATD Fursuits Pleated Horn TUTORIAL/image-01.png>)
-
----
-
-<a id="chillicosplay-14-horn-patterns"></a>
-### ChilliCosplay 14 Horn Patterns #other-species #cheap #foam-only #fursuit-heads
-
-[https://www.etsy.com/ca/shop/ChilliCosplay?ref=shop-header-name&listing_id=733761246&from_page=listing&section_id=27442499](https://www.etsy.com/ca/shop/ChilliCosplay?ref=shop-header-name&listing_id=733761246&from_page=listing&section_id=27442499 "smartCard-inline")
-
-Dutch Angel Dragon:
-
-[https://www.etsy.com/ca/listing/776625367/dutch-angel-fursuit-horns-eva-foam](https://www.etsy.com/ca/listing/776625367/dutch-angel-fursuit-horns-eva-foam "smartCard-inline")
-
-Small Devil Horns:
-
-[https://www.etsy.com/ca/listing/642440657/small-devil-horns-pattern-costume](https://www.etsy.com/ca/listing/642440657/small-devil-horns-pattern-costume "smartCard-inline")
-
-Hellboy Devil Horns:
-
-[https://www.etsy.com/ca/listing/689057350/hellboy-devil-horns-template-eva-foam](https://www.etsy.com/ca/listing/689057350/hellboy-devil-horns-template-eva-foam "smartCard-inline")
-
-Dragon Beast:
-
-[https://www.etsy.com/ca/listing/642372133/dragon-beast-horns-pattern-diy-cosplay](https://www.etsy.com/ca/listing/642372133/dragon-beast-horns-pattern-diy-cosplay "smartCard-inline")
-
-Rams Horns:
-[https://www.etsy.com/ca/listing/592707349/rams-horns-eva-foam-cosplay-horn](https://www.etsy.com/ca/listing/592707349/rams-horns-eva-foam-cosplay-horn "smartCard-inline")
-
-Mercy Imp:
-
-[https://www.etsy.com/ca/listing/642614085/mercy-imp-horns-devil-cosplay-template](https://www.etsy.com/ca/listing/642614085/mercy-imp-horns-devil-cosplay-template "smartCard-inline")
-
-Satyr Horns:
-
-[https://www.etsy.com/ca/listing/631398902/satyr-horns-template-eva-foam-devil](https://www.etsy.com/ca/listing/631398902/satyr-horns-template-eva-foam-devil "smartCard-inline")
-
-Large Devil Horns:
-
-[https://www.etsy.com/ca/listing/733761088/large-devil-horns-template-eva-foam](https://www.etsy.com/ca/listing/733761088/large-devil-horns-template-eva-foam "smartCard-inline")
-
-Maleficent Horns:
-[https://www.etsy.com/ca/listing/592793591/maleficent-horns-template-eva-foam](https://www.etsy.com/ca/listing/592793591/maleficent-horns-template-eva-foam "smartCard-inline")
-
-Mt. Lady Horns:
-
-[https://www.etsy.com/ca/listing/605387711/mt-lady-horns-eva-foam-horn-cosplay](https://www.etsy.com/ca/listing/605387711/mt-lady-horns-eva-foam-horn-cosplay "smartCard-inline")
-
-Bull Ox Horns:
-
-[https://www.etsy.com/ca/listing/642385189/bull-ox-horns-template-eva-foam-cosplay](https://www.etsy.com/ca/listing/642385189/bull-ox-horns-template-eva-foam-cosplay "smartCard-inline")
-
-Dragon/Minotaur Horns:
-
-[https://www.etsy.com/ca/listing/764976178/dragon-minotaur-horns-template-eva-foam](https://www.etsy.com/ca/listing/764976178/dragon-minotaur-horns-template-eva-foam "smartCard-inline")
-
-Dragon Horns:
-
-[https://www.etsy.com/ca/listing/732498814/dragon-horns-cosplay-template-digital](https://www.etsy.com/ca/listing/732498814/dragon-horns-cosplay-template-digital "smartCard-inline")
-
-Curly Twist Demon:
-[https://www.etsy.com/ca/listing/624905450/curly-twist-demon-horns-pattern-eva-foam](https://www.etsy.com/ca/listing/624905450/curly-twist-demon-horns-pattern-eva-foam "smartCard-inline")
-
-![ChilliCosplay 14 Horn Patterns](<attachments/Horns/ChilliCosplay 14 Horn Patterns/image-01.webp>)
-
-![ChilliCosplay 14 Horn Patterns](<attachments/Horns/ChilliCosplay 14 Horn Patterns/image-02.png>)
-
-![ChilliCosplay 14 Horn Patterns](<attachments/Horns/ChilliCosplay 14 Horn Patterns/image-03.png>)
-
-![ChilliCosplay 14 Horn Patterns](<attachments/Horns/ChilliCosplay 14 Horn Patterns/image-04.png>)
-
-![ChilliCosplay 14 Horn Patterns](<attachments/Horns/ChilliCosplay 14 Horn Patterns/image-05.png>)
-
-![ChilliCosplay 14 Horn Patterns](<attachments/Horns/ChilliCosplay 14 Horn Patterns/image-06.png>)
-
-![ChilliCosplay 14 Horn Patterns](<attachments/Horns/ChilliCosplay 14 Horn Patterns/image-07.png>)
-
-![ChilliCosplay 14 Horn Patterns](<attachments/Horns/ChilliCosplay 14 Horn Patterns/image-08.png>)
-
-![ChilliCosplay 14 Horn Patterns](<attachments/Horns/ChilliCosplay 14 Horn Patterns/image-09.png>)
-
-![ChilliCosplay 14 Horn Patterns](<attachments/Horns/ChilliCosplay 14 Horn Patterns/image-10.png>)
-
-![ChilliCosplay 14 Horn Patterns](<attachments/Horns/ChilliCosplay 14 Horn Patterns/image-11.png>)
-
-![ChilliCosplay 14 Horn Patterns](<attachments/Horns/ChilliCosplay 14 Horn Patterns/image-12.png>)
-
-![ChilliCosplay 14 Horn Patterns](<attachments/Horns/ChilliCosplay 14 Horn Patterns/image-13.png>)
-
-![ChilliCosplay 14 Horn Patterns](<attachments/Horns/ChilliCosplay 14 Horn Patterns/image-14.png>)
-
----
-
-<a id="siwencosplaypatterns-5-horn-patterns"></a>
-### Siwencosplaypatterns 5 Horn Patterns #foam-only #cheap #other-species #fursuit-heads #multipack
-
-All 5:[https://www.etsy.com/ca/listing/1794760298/5-pdf-horns-pattern-set](https://www.etsy.com/ca/listing/1794760298/5-pdf-horns-pattern-set "smartCard-inline")
-
-1 Swept Back: [https://www.etsy.com/ca/listing/1854007084/pdf-fantasy-horn-cosplay-pattern-1](https://www.etsy.com/ca/listing/1854007084/pdf-fantasy-horn-cosplay-pattern-1 "smartCard-inline")
-
-2 Smooth Back: [https://www.etsy.com/ca/listing/1854008754/pdf-fantasy-horn-cosplay-pattern-2](https://www.etsy.com/ca/listing/1854008754/pdf-fantasy-horn-cosplay-pattern-2 "smartCard-inline")
-
-3 Curved Upwards: [https://www.etsy.com/ca/listing/1854009140/pdf-fantasy-horn-cosplay-pattern-3](https://www.etsy.com/ca/listing/1854009140/pdf-fantasy-horn-cosplay-pattern-3 "smartCard-inline")
-
-4 Thin Horns: [https://www.etsy.com/ca/listing/1868209775/pdf-fantasy-horn-cosplay-pattern-4](https://www.etsy.com/ca/listing/1868209775/pdf-fantasy-horn-cosplay-pattern-4 "smartCard-inline")
-
-5 Devil Horns: [https://www.etsy.com/ca/listing/1868209935/pdf-fantasy-horn-cosplay-pattern-5](https://www.etsy.com/ca/listing/1868209935/pdf-fantasy-horn-cosplay-pattern-5 "smartCard-inline")
-
-![Siwencosplaypatterns 5 Horn Patterns](<attachments/Horns/Siwencosplaypatterns 5 Horn Patterns/image-01.webp>)
-
-![Siwencosplaypatterns 5 Horn Patterns](<attachments/Horns/Siwencosplaypatterns 5 Horn Patterns/image-02.png>)
-
-![Siwencosplaypatterns 5 Horn Patterns](<attachments/Horns/Siwencosplaypatterns 5 Horn Patterns/image-03.png>)
-
-![Siwencosplaypatterns 5 Horn Patterns](<attachments/Horns/Siwencosplaypatterns 5 Horn Patterns/image-04.png>)
-
-![Siwencosplaypatterns 5 Horn Patterns](<attachments/Horns/Siwencosplaypatterns 5 Horn Patterns/image-05.png>)
-
-![Siwencosplaypatterns 5 Horn Patterns](<attachments/Horns/Siwencosplaypatterns 5 Horn Patterns/image-06.png>)
-
----
-
-<a id="noses"></a>
-
-</details>
-
-<details>
-<summary>Noses</summary>
-
-
-[↑ Contents](#contents)
-
----
-
-<a id="curlworks-pickable-canine-feline-nose-free"></a>
-### Curlworks Pickable Canine + Feline Nose (FREE) #canine #fursuit-heads #free #feline
-
-[https://www.curlworks.net/extras/curlworks-diy-pickable-fursuit-nose-patterns](https://www.curlworks.net/extras/curlworks-diy-pickable-fursuit-nose-patterns "smartCard-inline")
-
-![Curlworks Pickable Canine + Feline Nose FREE](<attachments/Noses/Curlworks Pickable Canine + Feline Nose (FREE)/image-01.png>)
-
----
-
-<a id="free-doubletroublefursuit-ferret-nose"></a>
-### (FREE) DoubleTroubleFursuit Ferret Nose #other-species #fursuit-heads #free
-
-[https://doubletroublefursuit.wixsite.com/patterns/blank](https://doubletroublefursuit.wixsite.com/patterns/blank "smartCard-inline")
-
-![FREE DoubleTroubleFursuit Ferret Nose](<attachments/Noses/(FREE) DoubleTroubleFursuit Ferret Nose/image-01.png>)
-
----
-
-<a id="mugiwara-canine-noses"></a>
-### Mugiwara Canine Noses #cheap #canine #fursuit-heads #video-tutorials
-
-[https://mugiwara-cosplay.sellfy.store/p/digital-canine-nose-pattern-for-fursuits-pdf-download/](https://mugiwara-cosplay.sellfy.store/p/digital-canine-nose-pattern-for-fursuits-pdf-download/ "smartCard-inline")
-
-[https://www.etsy.com/ca/listing/1389659955/digital-canine-nose-pattern-for-fursuits](https://www.etsy.com/ca/listing/1389659955/digital-canine-nose-pattern-for-fursuits "smartCard-inline")
-
-[https://youtu.be/YD9dzsxPRoA](https://youtu.be/YD9dzsxPRoA "smartCard-inline")
-
-![Mugiwara Canine Noses](<attachments/Noses/Mugiwara Canine Noses/image-01.png>)
-
----
-
-<a id="twilightknights-canine-nose"></a>
-### TwilightKnights Canine Nose #cheap #canine #video-tutorials #fursuit-heads
-
-[https://www.etsy.com/ca/listing/1282775676/fursuit-nose-sewing-pattern-tutorial](https://www.etsy.com/ca/listing/1282775676/fursuit-nose-sewing-pattern-tutorial "smartCard-inline")
-
-![TwilightKnights Canine Nose](<attachments/Noses/TwilightKnights Canine Nose/image-01.png>)
-
-![TwilightKnights Canine Nose](<attachments/Noses/TwilightKnights Canine Nose/image-02.png>)
-
----
-
-<a id="frostihadasundae-pickable-nose-pattern"></a>
-### FrostiHadaSundae Pickable Nose Pattern #cheap #fursuit-heads #canine
-
-[https://www.etsy.com/ca/listing/1781512456/fhs-caninenosepatterninstructions](https://www.etsy.com/ca/listing/1781512456/fhs-caninenosepatterninstructions "smartCard-inline")
-
-![FrostiHadaSundae Pickable Nose Pattern](<attachments/Noses/FrostiHadaSundae Pickable Nose Pattern/image-01.webp>)
-
-![FrostiHadaSundae Pickable Nose Pattern](<attachments/Noses/FrostiHadaSundae Pickable Nose Pattern/image-02.webp>)
-
----
-
-<a id="teacuplion-cat-and-dog-nose"></a>
-### TeacupLion Cat and Dog Nose #any-species #multipack #feline #canine #cheap #video-tutorials #fursuit-heads
-
-[https://www.etsy.com/ca/listing/1799757467/fursuit-nose-sewing-pattern-pdf-bundle](https://www.etsy.com/ca/listing/1799757467/fursuit-nose-sewing-pattern-pdf-bundle)
-
-![TeacupLion Cat and Dog Nose](<attachments/Noses/TeacupLion Cat and Dog Nose/image-01.webp>)
-
----
-
-<a id="kittencafestudios-fursuit-nose"></a>
-### KittenCafeStudios Fursuit Nose #fursuit-heads #cheap #any-species #canine #feline
-
-[https://www.etsy.com/ca/listing/1851417454/diy-fursuit-nose-pattern-tutorial](https://www.etsy.com/ca/listing/1851417454/diy-fursuit-nose-pattern-tutorial "smartCard-inline")
-
-![KittenCafeStudios Fursuit Nose](<attachments/Noses/KittenCafeStudios Fursuit Nose/image-01.webp>)
-
----
-
-<a id="frostihadasundae-bat-nose-pattern"></a>
-### FrostiHadaSundae Bat Nose Pattern #cheap #fursuit-heads #other-species
-
-[https://www.etsy.com/ca/listing/1881019380/fhsbatnosepatterninstructions](https://www.etsy.com/ca/listing/1881019380/fhsbatnosepatterninstructions "smartCard-inline")
-
-![FrostiHadaSundae Bat Nose Pattern](<attachments/Noses/FrostiHadaSundae Bat Nose Pattern/image-01.webp>)
-
----
-
-<a id="kaiyuwolfart-pickabable-nose-pattern"></a>
-### KaiyuWolfArt Pickabable Nose Pattern #cheap #canine #fursuit-heads
-
-[https://www.etsy.com/ca/listing/1877783108/pickable-canine-fursuit-nose-pattern](https://www.etsy.com/ca/listing/1877783108/pickable-canine-fursuit-nose-pattern)
-
-![KaiyuWolfArt Pickabable Nose Pattern](<attachments/Noses/KaiyuWolfArt Pickabable Nose Pattern/image-01.webp>)
-
----
-
-<a id="feet-hooves"></a>
-
-</details>
-
-<details>
-<summary>Feet Hooves</summary>
-
-
-[↑ Contents](#contents)
-
----
-
-<a id="apoxon-industries-fleece-hooves"></a>
-### Apoxon Industries Fleece Hooves #moderately #equine-cervine #any-feet
-
-[https://www.etsy.com/ca/listing/1105034719/fleece-sockhoof-pattern-and-tutorial](https://www.etsy.com/ca/listing/1105034719/fleece-sockhoof-pattern-and-tutorial "smartCard-inline")
-
-![Apoxon Industries Fleece Hooves](<attachments/Feet Hooves/Apoxon Industries Fleece Hooves/image-01.png>)
-
-![Apoxon Industries Fleece Hooves](<attachments/Feet Hooves/Apoxon Industries Fleece Hooves/image-02.png>)
-
----
-
-<a id="apoxon-industries-fleece-cloven-hooves"></a>
-### Apoxon Industries Fleece Cloven Hooves #moderately #any-feet #equine-cervine
-
-[https://www.etsy.com/ca/listing/1351604095/fleece-cloven-sockhoof-pattern-and](https://www.etsy.com/ca/listing/1351604095/fleece-cloven-sockhoof-pattern-and)
-
-![Apoxon Industries Fleece Cloven Hooves](<attachments/Feet Hooves/Apoxon Industries Fleece Cloven Hooves/image-01.png>)
-
----
-
-<a id="fursmoothie-foam-cloven-hooves"></a>
-### FurSmoothie FOAM Cloven Hooves #cheap #equine-cervine #any-feet #foam-only
-
-Includes liner but NOT fur pattern!
-
-[https://www.etsy.com/ca/listing/995477740/feet-hooves-foam-base-pattern](https://www.etsy.com/ca/listing/995477740/feet-hooves-foam-base-pattern "smartCard-inline")
-
-![FurSmoothie FOAM Cloven Hooves](<attachments/Feet Hooves/FurSmoothie FOAM Cloven Hooves/image-01.png>)
-
-![FurSmoothie FOAM Cloven Hooves](<attachments/Feet Hooves/FurSmoothie FOAM Cloven Hooves/image-02.png>)
-
-![FurSmoothie FOAM Cloven Hooves](<attachments/Feet Hooves/FurSmoothie FOAM Cloven Hooves/image-03.png>)
-
----
-
-<a id="ricochetxcrafts-foam-feet-hooves"></a>
-### Ricochetxcrafts FOAM feet hooves #any-feet #equine-cervine #cheap #foam-only
-
-[https://www.etsy.com/ca/listing/1292590535/hollow-foam-foot-hoof-pattern](https://www.etsy.com/ca/listing/1292590535/hollow-foam-foot-hoof-pattern "smartCard-inline")
-
-![Ricochetxcrafts FOAM feet hooves](<attachments/Feet Hooves/Ricochetxcrafts FOAM feet hooves/image-01.png>)
-
----
-
-<a id="mugiwara-cloven-sock-hooves"></a>
-### Mugiwara Cloven Sock Hooves #moderately #any-feet #equine-cervine #video-tutorials
-
-[https://mugiwara-cosplay.sellfy.store/p/digital-sock-paw-hooves-pattern-for-fursuits-pdf-download/](https://mugiwara-cosplay.sellfy.store/p/digital-sock-paw-hooves-pattern-for-fursuits-pdf-download/ "smartCard-inline")
-
-[https://www.etsy.com/ca/listing/673302481/digital-sock-paw-hooves-pattern-for](https://www.etsy.com/ca/listing/673302481/digital-sock-paw-hooves-pattern-for "smartCard-inline")
-
-[https://www.youtube.com/watch?v=XumxclUeB_U](https://www.youtube.com/watch?v=XumxclUeB_U "smartCard-inline")
-
-![Mugiwara Cloven Sock Hooves](<attachments/Feet Hooves/Mugiwara Cloven Sock Hooves/image-01.png>)
-
----
-
-<a id="skyehighstudios-feet-hooves"></a>
-### SkyehighStudios Feet Hooves #cheap #equine-cervine #any-feet #video-tutorials
-
-[https://www.skyehighstudios.com/store/p/fursuit-digitigrade-hoof-foot-pattern](https://www.skyehighstudios.com/store/p/fursuit-digitigrade-hoof-foot-pattern)
-
-[https://www.youtube.com/watch?v=dX8AY5O8_Z4](https://www.youtube.com/watch?v=dX8AY5O8_Z4 "smartCard-inline")
-
-![SkyehighStudios Feet Hooves](<attachments/Feet Hooves/SkyehighStudios Feet Hooves/image-01.png>)
-
----
-
-<a id="spiltgrapesoda-planti-hoof-pattern"></a>
-### Spiltgrapesoda Planti Hoof Pattern #equine-cervine #any-feet #expensive
-
-https://shop.spiltgrapesoda.com/spiltgrapesoda/p/plantigrade-feet-hoof-indoor-and-outdoor-pattern-pdf-download
-
-![Spiltgrapesoda Planti Hoof Pattern](<attachments/Feet Hooves/Spiltgrapesoda Planti Hoof Pattern/image-01.jpg>)
-
-![Spiltgrapesoda Planti Hoof Pattern](<attachments/Feet Hooves/Spiltgrapesoda Planti Hoof Pattern/image-02.jpg>)
-
----
-
-<a id="spiltgrapesoda-digi-hoof-pattern"></a>
-### Spiltgrapesoda Digi Hoof Pattern #moderately #equine-cervine #any-feet
-
-https://shop.spiltgrapesoda.com/spiltgrapesoda/p/digigrade-feet-hoof-indoor-and-outdoor-pattern-pdf-download
-
-https://www.etsy.com/ca/listing/1601282095/digigrade-feet-hoof-indoor-and-outdoor
-
-![Spiltgrapesoda Digi Hoof Pattern](<attachments/Feet Hooves/Spiltgrapesoda Digi Hoof Pattern/image-01.jpg>)
-
-![Spiltgrapesoda Digi Hoof Pattern](<attachments/Feet Hooves/Spiltgrapesoda Digi Hoof Pattern/image-02.jpg>)
-
----
-
-<a id="premiumfauntent-eva-hoof-template"></a>
-### PremiumFauntent EVA Hoof Template #equine-cervine #cheap #video-tutorials #any-bodysuit
-
-[https://www.premiumfauntent.com/shop/p/faun-hoof-template](https://www.premiumfauntent.com/shop/p/faun-hoof-template "smartCard-inline")
-
-[https://www.etsy.com/ca/listing/1292024782/faun-hoof-digital-template](https://www.etsy.com/ca/listing/1292024782/faun-hoof-digital-template "smartCard-inline")
-
-[https://www.youtube.com/watch?v=YLQfrOfEcjk&t=1832s&ab_channel=PremiumFauntent](https://www.youtube.com/watch?v=YLQfrOfEcjk&t=1832s&ab_channel=PremiumFauntent "smartCard-inline")
-
-![PremiumFauntent EVA Hoof Template](<attachments/Feet Hooves/PremiumFauntent EVA Hoof Template/image-01.webp>)
-
----
-
-<a id="mugiwara-digi-horse-hoof"></a>
-### Mugiwara Digi Horse Hoof #expensive #video-tutorials #equine-cervine #any-feet
-
-[https://mugiwara-cosplay.sellfy.store/p/digital-digitigrade-fursuit-feet-hooves-pattern-for-fursuits-pdf-download-vqyoqe/](https://mugiwara-cosplay.sellfy.store/p/digital-digitigrade-fursuit-feet-hooves-pattern-for-fursuits-pdf-download-vqyoqe/ "smartCard-inline")
-
-[https://www.etsy.com/ca/listing/1704656811/digital-digitigrade-fursuit-horse-feet](https://www.etsy.com/ca/listing/1704656811/digital-digitigrade-fursuit-horse-feet "smartCard-inline")
-
-[https://www.youtube.com/watch?v=3l7uRu1sMDM](https://www.youtube.com/watch?v=3l7uRu1sMDM "smartCard-inline")
-
-![Mugiwara Digi Horse Hoof](<attachments/Feet Hooves/Mugiwara Digi Horse Hoof/image-01.jpg>)
-
----
-
-<a id="mugiwara-digi-cloven-hoof"></a>
-### Mugiwara Digi Cloven Hoof #any-feet #equine-cervine #video-tutorials #expensive
-
-[https://mugiwara-cosplay.sellfy.store/p/digital-digitigrade-fursuit-feet-paws-pattern-for-fursuits-pdf-download-iu54mt/](https://mugiwara-cosplay.sellfy.store/p/digital-digitigrade-fursuit-feet-paws-pattern-for-fursuits-pdf-download-iu54mt/ "smartCard-inline")
-
-[https://www.etsy.com/ca/listing/1687300530/digital-digitigrade-fursuit-feet-hooves](https://www.etsy.com/ca/listing/1687300530/digital-digitigrade-fursuit-feet-hooves "smartCard-inline")
-
-[https://www.youtube.com/watch?v=vYUKbWiZtvc](https://www.youtube.com/watch?v=vYUKbWiZtvc "smartCard-inline")
-
-![Mugiwara Digi Cloven Hoof](<attachments/Feet Hooves/Mugiwara Digi Cloven Hoof/image-01.webp>)
-
-![Mugiwara Digi Cloven Hoof](<attachments/Feet Hooves/Mugiwara Digi Cloven Hoof/image-02.jpg>)
-
----
-
-<a id="sonstafurs-horse-feethooves"></a>
-### Sonstafurs Horse Feethooves #expensive #equine-cervine #any-feet
-
-[https://www.etsy.com/ca/listing/4362448512/fursuit-hoof-feet-pattern-equine-horse](https://www.etsy.com/ca/listing/4362448512/fursuit-hoof-feet-pattern-equine-horse "smartCard-inline")
-
-![Sonstafurs Horse Feethooves](<attachments/Feet Hooves/Sonstafurs Horse Feethooves/image-01.png>)
-
----
-
-<a id="feral-canine-paws"></a>
-
-</details>
-
-<details>
-<summary>Feral Canine Paws</summary>
-
-
-[↑ Contents](#contents)
-
----
-
-<a id="free-foxfire-fantasy-feral-canine"></a>
-### (FREE) Foxfire Fantasy Feral Canine #free #any-hand-paws #any-5-finger-hand-paw #canine
-
-[https://ko-fi.com/s/1138814bd6](https://ko-fi.com/s/1138814bd6 "smartCard-inline")
-
-Feel free to leave a tip!
-
-Just the pattern, NO INSTRUCTIONS:
-
-[https://ko-fi.com/s/b11eb3e09b](https://ko-fi.com/s/b11eb3e09b "smartCard-inline")
-
-![FREE Foxfire Fantasy Feral Canine](<attachments/Feral Canine Paws/(FREE) Foxfire Fantasy Feral Canine/image-01.png>)
-
-![FREE Foxfire Fantasy Feral Canine](<attachments/Feral Canine Paws/(FREE) Foxfire Fantasy Feral Canine/image-02.png>)
-
-![FREE Foxfire Fantasy Feral Canine](<attachments/Feral Canine Paws/(FREE) Foxfire Fantasy Feral Canine/image-03.png>)
-
----
-
-<a id="free-foxfire-fantasy-fox-slim-canine"></a>
-### (FREE) Foxfire Fantasy "Fox" Slim Canine #any-hand-paws #canine #any-5-finger-hand-paw #moderately #free #video-tutorials
-
-[https://foxfirefantasy.com/shop/fox-hand-pattern](https://foxfirefantasy.com/shop/fox-hand-pattern "smartCard-inline")
-
-Assembly video:
-
-[https://ko-fi.com/s/72f0863028](https://ko-fi.com/s/72f0863028 "smartCard-inline")
-
-Intermediate to advanced pattern!
-
-![FREE Foxfire Fantasy "Fox" Slim Canine](<attachments/Feral Canine Paws/(FREE) Foxfire Fantasy Fox Slim Canine/image-01.jpg>)
-
----
-
-<a id="freakhound-feral-paw"></a>
-### Freakhound Feral Paw #cheap #any-hand-paws #canine
-
-[https://yellowfr3ak.gumroad.com/l/LoSul](https://yellowfr3ak.gumroad.com/l/LoSul "smartCard-inline")
-
-![Freakhound Feral Paw](<attachments/Feral Canine Paws/Freakhound Feral Paw/image-01.png>)
-
----
-
-<a id="mugiwara-simple-feral-paw"></a>
-### Mugiwara Simple Feral Paw #cheap #any-hand-paws #canine #video-tutorials #any-species
-
-[https://mugiwara-cosplay.sellfy.store/p/digital-feral-hand-paw-pattern-for-fursuits-pdf-download/](https://mugiwara-cosplay.sellfy.store/p/digital-feral-hand-paw-pattern-for-fursuits-pdf-download/ "smartCard-inline")
-
-[https://www.etsy.com/ca/listing/691221653/digital-feral-hand-paw-pattern-for](https://www.etsy.com/ca/listing/691221653/digital-feral-hand-paw-pattern-for "smartCard-inline")
-
-[https://www.youtube.com/watch?v=x6yYytDshjw](https://www.youtube.com/watch?v=x6yYytDshjw "smartCard-inline")
-
-![Mugiwara Simple Feral Paw](<attachments/Feral Canine Paws/Mugiwara Simple Feral Paw/image-01.png>)
-
----
-
-<a id="missrars-creatures-feral-canine"></a>
-### Missrars Creatures Feral Canine #moderately #canine #any-hand-paws
-
-[https://www.etsy.com/ca/listing/930893122/pdf-pattern-4-finger-feral-puffy-fursuit](https://www.etsy.com/ca/listing/930893122/pdf-pattern-4-finger-feral-puffy-fursuit "smartCard-inline")
-
-![Missrars Creatures Feral Canine](<attachments/Feral Canine Paws/Missrars Creatures Feral Canine/image-01.png>)
-
-![Missrars Creatures Feral Canine](<attachments/Feral Canine Paws/Missrars Creatures Feral Canine/image-02.png>)
-
----
-
-<a id="wolfskinstudios-feral-puffy-paw"></a>
-### WolfskinStudios Feral Puffy Paw #moderately #any-hand-paws #canine
-
-[https://www.etsy.com/ca/listing/1272450471/wolfskinstudios-feral-paw-pattern](https://www.etsy.com/ca/listing/1272450471/wolfskinstudios-feral-paw-pattern)
-
-![WolfskinStudios Feral Puffy Paw](<attachments/Feral Canine Paws/WolfskinStudios Feral Puffy Paw/image-01.png>)
-
----
-
-<a id="skyehighstudios-feral-paws"></a>
-### SkyehighStudios Feral Paws #video-tutorials #cheap #canine #any-hand-paws #any-species
-
-[https://www.skyehighstudios.com/store/p/hmz8gnsjxn4mk8zygoocxdrznl4co5](https://www.skyehighstudios.com/store/p/hmz8gnsjxn4mk8zygoocxdrznl4co5 "smartCard-inline")
-
-[https://www.youtube.com/watch?v=MXiYc9-fLNM](https://www.youtube.com/watch?v=MXiYc9-fLNM "smartCard-inline")
-
-![SkyehighStudios Feral Paws](<attachments/Feral Canine Paws/SkyehighStudios Feral Paws/image-01.png>)
-
----
-
-<a id="spiltgrape-feral-paws"></a>
-### SpiltGrape Feral Paws #moderately #video-tutorials #any-hand-paws
-
-[https://www.etsy.com/ca/listing/1709621644/feral-style-puffy-hand-paw-pattern-with](https://www.etsy.com/ca/listing/1709621644/feral-style-puffy-hand-paw-pattern-with "smartCard-inline")
-
-[https://shop.spiltgrapesoda.com/spiltgrapesoda/p/feral-style-puffy-hand-paw-pattern-with-optional-dewclaw-pdf-download-1](https://shop.spiltgrapesoda.com/spiltgrapesoda/p/feral-style-puffy-hand-paw-pattern-with-optional-dewclaw-pdf-download-1 "smartCard-inline")
-
-[https://www.youtube.com/watch?v=OEm1-GqDgPs](https://www.youtube.com/watch?v=OEm1-GqDgPs "smartCard-inline")
-
-![SpiltGrape Feral Paws](<attachments/Feral Canine Paws/SpiltGrape Feral Paws/image-01.webp>)
-
----
-
-<a id="mitten-paws"></a>
-
-</details>
-
-<details>
-<summary>Mitten Paws</summary>
-
-
-[↑ Contents](#contents)
-
----
-
-<a id="spiltgrapesoda-v2-mittens"></a>
-### SpiltGrapeSoda V2 Mittens #moderately #any-hand-paws #any-species #video-tutorials
-
-[https://shop.spiltgrapesoda.com/spiltgrapesoda/p/mitten-paw-20-pattern-pdf-download](https://shop.spiltgrapesoda.com/spiltgrapesoda/p/mitten-paw-20-pattern-pdf-download "smartCard-inline")
-
-[https://www.etsy.com/ca/listing/1727674540/mitten-paw-20-pattern-pdf-download](https://www.etsy.com/ca/listing/1727674540/mitten-paw-20-pattern-pdf-download)
-
-[https://www.youtube.com/watch?v=08YZHaN-yIE](https://www.youtube.com/watch?v=08YZHaN-yIE "smartCard-inline")
-
-![SpiltGrapeSoda V2 Mittens](<attachments/Mitten Paws/SpiltGrapeSoda V2 Mittens/image-01.webp>)
-
----
-
-<a id="spiltgrapesoda-v1-mittens"></a>
-### SpiltGrapeSoda V1 Mittens #moderately #any-hand-paws #any-species
-
-[https://shop.spiltgrapesoda.com/spiltgrapesoda/p/mitten-paw-pattern-pdf-download](https://shop.spiltgrapesoda.com/spiltgrapesoda/p/mitten-paw-pattern-pdf-download "smartCard-inline")
-
-[https://www.etsy.com/ca/listing/1122876913/mitten-paw-pattern-pdf-download](https://www.etsy.com/ca/listing/1122876913/mitten-paw-pattern-pdf-download)
-
-![SpiltGrapeSoda V1 Mittens](<attachments/Mitten Paws/SpiltGrapeSoda V1 Mittens/image-01.png>)
-
----
-
-<a id="wittlestudios-mittens"></a>
-### WittleStudios Mittens #cheap #any-hand-paws #any-species
-
-[https://wittlestudios.gumroad.com/l/bappypaws?layout=profile](https://wittlestudios.gumroad.com/l/bappypaws?layout=profile "smartCard-inline")
-
-[https://www.etsy.com/ca/listing/1293862166/wittles-chibi-paws-pattern](https://www.etsy.com/ca/listing/1293862166/wittles-chibi-paws-pattern)
-
-![WittleStudios Mittens](<attachments/Mitten Paws/WittleStudios Mittens/image-01.png>)
-
-![WittleStudios Mittens](<attachments/Mitten Paws/WittleStudios Mittens/image-02.png>)
-
-![WittleStudios Mittens](<attachments/Mitten Paws/WittleStudios Mittens/image-03.png>)
-
----
-
-<a id="the-manic-macaw-mitten-paws"></a>
-### The Manic Macaw Mitten Paws #cheap #any-hand-paws #any-species
-
-[https://www.etsy.com/ca/listing/759494264/fursuit-hand-paw-glove-pattern](https://www.etsy.com/ca/listing/759494264/fursuit-hand-paw-glove-pattern "smartCard-inline")
-
-![The Manic Macaw Mitten Paws](<attachments/Mitten Paws/The Manic Macaw Mitten Paws/image-01.png>)
-
----
-
-<a id="breezy-akita-mitten-paws-w-thumb-v1"></a>
-### Breezy Akita Mitten Paws w/thumb V1 #cheap #any-hand-paws #any-species
-
-[https://breezyakita.com/product/mochi-mitten-paw-pattern/](https://breezyakita.com/product/mochi-mitten-paw-pattern/ "smartCard-inline")
-
-[https://www.etsy.com/listing/1261256646/mochi-mitten-paw-pattern-pattern-only](https://www.etsy.com/listing/1261256646/mochi-mitten-paw-pattern-pattern-only "smartCard-inline")
-
-![Breezy Akita Mitten Paws w/thumb V1](<attachments/Mitten Paws/Breezy Akita Mitten Paws wthumb V1/image-01.png>)
-
----
-
-<a id="breezy-akita-mitten-paws-w-thumb-v2"></a>
-### Breezy Akita Mitten Paws w/Thumb V2 #cheap #any-hand-paws #any-species
-
-Comes with 3 sizes
-
-[https://www.etsy.com/ca/listing/1646700798/mochi-mitten-paw-20-pattern-and](https://www.etsy.com/ca/listing/1646700798/mochi-mitten-paw-20-pattern-and "smartCard-inline")
-
-![Breezy Akita Mitten Paws w/Thumb V2](<attachments/Mitten Paws/Breezy Akita Mitten Paws wThumb V2/image-01.webp>)
-
-![Breezy Akita Mitten Paws w/Thumb V2](<attachments/Mitten Paws/Breezy Akita Mitten Paws wThumb V2/image-02.jpg>)
-
----
-
-<a id="birchdoesworks-mitten-paws"></a>
-### BirchDoesWorks Mitten Paws #moderately #any-hand-paws #any-species
-
-[https://www.etsy.com/ca/listing/1584566293/pdf-pattern-download-fursuit-mitten-paws](https://www.etsy.com/ca/listing/1584566293/pdf-pattern-download-fursuit-mitten-paws "smartCard-inline")
-
-![BirchDoesWorks Mitten Paws](<attachments/Mitten Paws/BirchDoesWorks Mitten Paws/image-01.webp>)
-
-![BirchDoesWorks Mitten Paws](<attachments/Mitten Paws/BirchDoesWorks Mitten Paws/image-02.webp>)
-
----
-
-<a id="geknome-mitten-paws"></a>
-### Geknome Mitten Paws #moderately #any-hand-paws #any-species
-
-[https://www.etsy.com/ca/listing/1734034998/fursuit-mitten-handpaw-pattern-tutorial](https://www.etsy.com/ca/listing/1734034998/fursuit-mitten-handpaw-pattern-tutorial "smartCard-inline")
-
-![Geknome Mitten Paws](<attachments/Mitten Paws/Geknome Mitten Paws/image-01.jpg>)
-
----
-
-<a id="sonstafurs-mitten-paws"></a>
-### Sonstafurs Mitten Paws #any-species #any-hand-paws #cheap
-
-[https://www.etsy.com/ca/listing/1829858159/fursuit-mitten-paws-pattern-furry-paws](https://www.etsy.com/ca/listing/1829858159/fursuit-mitten-paws-pattern-furry-paws "smartCard-inline")
-
-![Sonstafurs Mitten Paws](<attachments/Mitten Paws/Sonstafurs Mitten Paws/image-01.png>)
-
----
-
-<a id="list-6490f8"></a>
-
-</details>
-
-<details>
-<summary>List-6490f8</summary>
-
-
-[↑ Contents](#contents)
-
----
-
-<a id="free-freakhound-curly-tail"></a>
-### (FREE) Freakhound Curly Tail #free #canine #any-tails
-
-[http://freakhoundstudios.com/curlytail](http://freakhoundstudios.com/curlytail "smartCard-inline")
-
-![FREE Freakhound Curly Tail](<attachments/List-6490f8/(FREE) Freakhound Curly Tail/image-01.png>)
-
----
-
-<a id="pseudocanid-curly-tail-v1"></a>
-### Pseudocanid Curly Tail V1 #cheap #any-tails #canine
-
-[https://www.etsy.com/ca/listing/810062318/curly-tail-v1-pattern-digital](https://www.etsy.com/ca/listing/810062318/curly-tail-v1-pattern-digital "smartCard-inline")
-
-![Pseudocanid Curly Tail V1](<attachments/List-6490f8/Pseudocanid Curly Tail V1/image-01.png>)
-
----
-
-<a id="pseudocanid-curly-tail-v2"></a>
-### Pseudocanid Curly Tail V2 #cheap #any-tails #canine #video-tutorials
-
-[https://www.etsy.com/ca/listing/810062318/curly-tail-v1-pattern-digital](https://www.etsy.com/ca/listing/810062318/curly-tail-v1-pattern-digital "smartCard-inline")
-
-[https://www.youtube.com/watch?v=aLBqhB6OD-Y](https://www.youtube.com/watch?v=aLBqhB6OD-Y "smartCard-inline")
-
-![Pseudocanid Curly Tail V2](<attachments/List-6490f8/Pseudocanid Curly Tail V2/image-01.png>)
-
-![Pseudocanid Curly Tail V2](<attachments/List-6490f8/Pseudocanid Curly Tail V2/image-02.png>)
-
----
-
-<a id="ybl-suits-perky-tail"></a>
-### YBL Suits Perky Tail #moderately #any-tails #canine
-
-YaBoiLuke Suits
-
-[https://www.yblsuits.com/shop/p/huskytail](https://www.yblsuits.com/shop/p/huskytail)
-
-[https://www.etsy.com/ca/listing/1383333381/perky-tail-pattern-pdf-download](https://www.etsy.com/ca/listing/1383333381/perky-tail-pattern-pdf-download "smartCard-inline")
-
-![YBL Suits Perky Tail](<attachments/List-6490f8/YBL Suits Perky Tail/image-01.png>)
-
-![YBL Suits Perky Tail](<attachments/List-6490f8/YBL Suits Perky Tail/image-02.png>)
-
----
-
-<a id="ybl-suits-husky-tail"></a>
-### YBL Suits Husky Tail #moderately #any-tails #canine
-
-YaBoiLuke Suits
-
-[https://www.yblsuits.com/shop/p/huskytail](https://www.yblsuits.com/shop/p/huskytail)
-
-[https://www.etsy.com/ca/listing/942056618/husky-tail-pattern-pdf-download](https://www.etsy.com/ca/listing/942056618/husky-tail-pattern-pdf-download "smartCard-inline")
-
-![YBL Suits Husky Tail](<attachments/List-6490f8/YBL Suits Husky Tail/image-01.png>)
-
----
-
-<a id="mugiwara-curl-tail"></a>
-### Mugiwara Curl Tail #cheap #any-tails #canine #video-tutorials
-
-[https://mugiwara-cosplay.sellfy.store/p/digital-curled-tail-pattern-for-fursuits-pdf-download/](https://mugiwara-cosplay.sellfy.store/p/digital-curled-tail-pattern-for-fursuits-pdf-download/ "smartCard-inline")
-
-[https://www.etsy.com/ca/listing/662247829/digital-curled-tail-pattern-for-fursuits](https://www.etsy.com/ca/listing/662247829/digital-curled-tail-pattern-for-fursuits "smartCard-inline")
-
-[https://www.youtube.com/watch?v=oqxf3L9cWDM](https://www.youtube.com/watch?v=oqxf3L9cWDM "smartCard-inline")
-
-![Mugiwara Curl Tail](<attachments/List-6490f8/Mugiwara Curl Tail/image-01.png>)
-
----
-
-<a id="north-cat-creations-curly-tail"></a>
-### North Cat Creations Curly Tail #cheap #canine #any-tails
-
-[https://www.etsy.com/ca/listing/1237918219/curly-husky-fursuit-tail-pattern-pdf](https://www.etsy.com/ca/listing/1237918219/curly-husky-fursuit-tail-pattern-pdf "smartCard-inline")
-
-![North Cat Creations Curly Tail](<attachments/List-6490f8/North Cat Creations Curly Tail/image-01.png>)
-
-![North Cat Creations Curly Tail](<attachments/List-6490f8/North Cat Creations Curly Tail/image-02.png>)
-
----
-
-<a id="fennecfemme-long-curly-tail"></a>
-### FennecFemme Long Curly Tail #cheap #any-tails #canine
-
-[https://www.etsy.com/ca/listing/1408348960/digital-puppy-tail-pattern-for-fursuits](https://www.etsy.com/ca/listing/1408348960/digital-puppy-tail-pattern-for-fursuits "smartCard-inline")
-
-![FennecFemme Long Curly Tail](<attachments/List-6490f8/FennecFemme Long Curly Tail/image-01.png>)
-
----
-
-<a id="direcreatures-curly-tail"></a>
-### DireCreatures Curly Tail #moderately #any-tails #canine
-
-[https://www.etsy.com/ca/listing/1036253546/pdf-pattern-husky-tail-by-direcreatures](https://www.etsy.com/ca/listing/1036253546/pdf-pattern-husky-tail-by-direcreatures "smartCard-inline")
-
-![DireCreatures Curly Tail](<attachments/List-6490f8/DireCreatures Curly Tail/image-01.png>)
-
----
-
-<a id="goatygoods-husky-curly-tail"></a>
-### GoatyGoods Husky Curly Tail #cheap #any-tails #canine
-
-[https://payhip.com/b/JUkAq](https://payhip.com/b/JUkAq "smartCard-inline")
-
-![GoatyGoods Husky Curly Tail](<attachments/List-6490f8/GoatyGoods Husky Curly Tail/image-01.png>)
-
----
-
-<a id="furrytimecreations-long-curly-tail"></a>
-### FurryTimeCreations Long Curly Tail #cheap #any-tails #canine #other-species
-
-[https://www.etsy.com/ca/listing/1102168514/curly-tail-pattern-for-fursuits-and](https://www.etsy.com/ca/listing/1102168514/curly-tail-pattern-for-fursuits-and "smartCard-inline")
-
-![FurryTimeCreations Long Curly Tail](<attachments/List-6490f8/FurryTimeCreations Long Curly Tail/image-01.png>)
-
----
-
-<a id="pinkuscraftycottage-tight-curl-tail"></a>
-### PinkusCraftyCottage Tight Curl Tail #cheap #any-tails #canine
-
-[https://www.etsy.com/ca/listing/983640355/diy-tight-curl-tail-pdf-pattern](https://www.etsy.com/ca/listing/983640355/diy-tight-curl-tail-pdf-pattern "smartCard-inline")
-
-![PinkusCraftyCottage Tight Curl Tail](<attachments/List-6490f8/PinkusCraftyCottage Tight Curl Tail/image-01.webp>)
-
-![PinkusCraftyCottage Tight Curl Tail](<attachments/List-6490f8/PinkusCraftyCottage Tight Curl Tail/image-02.jpg>)
-
----
-
-<a id="missrars-creatures-husky-tail"></a>
-### Missrars Creatures Husky Tail #cheap #any-tails #canine
-
-[https://www.etsy.com/ca/listing/1559775982/pdf-pattern-husky-fursuit-tail-digital](https://www.etsy.com/ca/listing/1559775982/pdf-pattern-husky-fursuit-tail-digital "smartCard-inline")
-
-![Missrars Creatures Husky Tail](<attachments/List-6490f8/Missrars Creatures Husky Tail/image-01.jpg>)
-
----
-
-<a id="kiafursuits-2-sizes-canine-tail"></a>
-### KiaFursuits 2 Sizes Canine Tail #any-species #any-tails #multipack #cheap
-
-[https://www.etsy.com/ca/listing/1809007139/canine-tail-pattern-large-medium-options](https://www.etsy.com/ca/listing/1809007139/canine-tail-pattern-large-medium-options "smartCard-inline")
-
-![KiaFursuits 2 Sizes Canine Tail](<attachments/List-6490f8/KiaFursuits 2 Sizes Canine Tail/image-01.webp>)
-
----
-
-<a id="spiltgrapesoda-standard-curly-tail-pattern"></a>
-### SpiltGrapeSoda Standard Curly Tail Pattern #any-tails #canine #video-tutorials #cheap
-
-[https://www.etsy.com/ca/listing/1777560329/standard-curly-tail-pattern-pdf-download](https://www.etsy.com/ca/listing/1777560329/standard-curly-tail-pattern-pdf-download "smartCard-inline")
-
-![SpiltGrapeSoda Standard Curly Tail Pattern](<attachments/List-6490f8/SpiltGrapeSoda Standard Curly Tail Pattern/image-01.webp>)
-
----
-
-<a id="spiltgrapesoda-upright-curly-tail-pattern"></a>
-### SpiltGrapeSoda Upright Curly Tail Pattern #any-tails #canine #video-tutorials #cheap
-
-[https://www.etsy.com/ca/listing/1763362398/upright-curly-tail-pattern-pdf-download](https://www.etsy.com/ca/listing/1763362398/upright-curly-tail-pattern-pdf-download)
-
-![SpiltGrapeSoda Upright Curly Tail Pattern](<attachments/List-6490f8/SpiltGrapeSoda Upright Curly Tail Pattern/image-01.webp>)
-
----
-
-<a id="spiltgrapesoda-relaxed-curly-tail-pattern"></a>
-### SpiltGrapeSoda Relaxed Curly Tail Pattern #any-tails #canine #video-tutorials #cheap
-
-[https://www.etsy.com/ca/listing/1763364120/relaxed-curly-tail-pattern-pdf-download](https://www.etsy.com/ca/listing/1763364120/relaxed-curly-tail-pattern-pdf-download)
-
-![SpiltGrapeSoda Relaxed Curly Tail Pattern](<attachments/List-6490f8/SpiltGrapeSoda Relaxed Curly Tail Pattern/image-01.webp>)
-
----
-
-<a id="list-64aae0"></a>
-
-</details>
-
-<details>
-<summary>List-64aae0</summary>
-
-
-[↑ Contents](#contents)
-
----
-
-<a id="free-maim-back-of-head-shell"></a>
-### (FREE) Maim Back of Head Shell #free #foam-only #any-species #fursuit-heads
-
-[https://drive.google.com/file/d/1NiPiICBp5_3_QQan6655nesO_S5MrjHp/view](https://drive.google.com/file/d/1NiPiICBp5_3_QQan6655nesO_S5MrjHp/view "smartCard-inline")
-
-![FREE Maim Back of Head Shell](<attachments/List-64aae0/(FREE) Maim Back of Head Shell/image-01.png>)
-
----
-
-<a id="free-freakhound-foam-sphere"></a>
-### (Free) Freakhound Foam Sphere #free #fursuit-heads #foam-only #any-species
-
-[https://freakhoundstudios.com/sphere](https://freakhoundstudios.com/sphere "smartCard-inline")
-
-![Free Freakhound Foam Sphere](<attachments/List-64aae0/(Free) Freakhound Foam Sphere/image-01.png>)
-
----
-
-<a id="corgileg-crafts-bucket-base"></a>
-### Corgileg Crafts Bucket Base #cheap #fursuit-heads #foam-only #any-species
-
-[https://www.etsy.com/ca/listing/839351180/bucket-style-foam-fursuit-head-base-and](https://www.etsy.com/ca/listing/839351180/bucket-style-foam-fursuit-head-base-and "smartCard-inline")
-
-![Corgileg Crafts Bucket Base](<attachments/List-64aae0/Corgileg Crafts Bucket Base/image-01.png>)
-
----
-
-<a id="ybl-bucket-head"></a>
-### YBL Bucket Head #cheap #fursuit-heads #foam-only #any-species
-
-[https://www.etsy.com/ca/listing/1026257375/fursuit-bucket-head-pattern-pdf-download](https://www.etsy.com/ca/listing/1026257375/fursuit-bucket-head-pattern-pdf-download "smartCard-inline")
-
-![YBL Bucket Head](<attachments/List-64aae0/YBL Bucket Head/image-01.png>)
-
-![YBL Bucket Head](<attachments/List-64aae0/YBL Bucket Head/image-02.png>)
-
----
-
-<a id="missrarscreatures-foam-base"></a>
-### MissrarsCreatures Foam Base #cheap #fursuit-heads #foam-only #any-species #video-tutorials
-
-[https://www.etsy.com/ca/listing/881423718/pdf-pattern-faceplate-foundation-fursuit](https://www.etsy.com/ca/listing/881423718/pdf-pattern-faceplate-foundation-fursuit)
-
-[https://www.youtube.com/watch?v=B-bPwzIbrVQ](https://www.youtube.com/watch?v=B-bPwzIbrVQ "smartCard-inline")
-
-![MissrarsCreatures Foam Base](<attachments/List-64aae0/MissrarsCreatures Foam Base/image-01.png>)
-
----
-
-<a id="soulenterprise-bucket-pattern"></a>
-### SoulEnterprise Bucket Pattern #cheap #fursuit-heads #any-species #foam-only
-
-[https://www.etsy.com/ca/listing/1421973375/fursuit-bucket-head-pattern-pdf-download](https://www.etsy.com/ca/listing/1421973375/fursuit-bucket-head-pattern-pdf-download)
-
-![SoulEnterprise Bucket Pattern](<attachments/List-64aae0/SoulEnterprise Bucket Pattern/image-01.png>)
-
----
-
-<a id="skyehighstudios-bucket-head-base"></a>
-### SkyehighStudios Bucket Head Base #fursuit-heads #cheap #video-tutorials #any-species #foam-only
-
-[https://www.skyehighstudios.com/store/p/bucket-head-base-pattern](https://www.skyehighstudios.com/store/p/bucket-head-base-pattern)
-
-[https://www.youtube.com/watch?v=Fn-NNR4u6XI](https://www.youtube.com/watch?v=Fn-NNR4u6XI "smartCard-inline")
-
-![SkyehighStudios Bucket Head Base](<attachments/List-64aae0/SkyehighStudios Bucket Head Base/image-01.png>)
-
----
-
-<a id="doubletroublefursuit-head-dome"></a>
-### DoubleTroubleFursuit Head Dome #cheap #fursuit-heads #video-tutorials #any-species #foam-only
-
-One review recommends 1/2 inch foam instead
-
-[https://www.etsy.com/ca/listing/1199154360/fursuit-dome-base](https://www.etsy.com/ca/listing/1199154360/fursuit-dome-base "smartCard-inline")
-
-[https://youtu.be/5avMoQ1wypE](https://youtu.be/5avMoQ1wypE "smartCard-inline")
-
-![DoubleTroubleFursuit Head Dome](<attachments/List-64aae0/DoubleTroubleFursuit Head Dome/image-01.png>)
-
----
-
-<a id="fatunicorncosplay-basic-helmet"></a>
-### FatUnicornCosplay Basic Helmet #cheap #fursuit-heads #any-species #foam-only
-
-[https://www.etsy.com/ca/listing/903231325/diy-basic-helmet-pattern-larp-pattern](https://www.etsy.com/ca/listing/903231325/diy-basic-helmet-pattern-larp-pattern)
-
-![FatUnicornCosplay Basic Helmet](<attachments/List-64aae0/FatUnicornCosplay Basic Helmet/image-01.jpg>)
-
-![FatUnicornCosplay Basic Helmet](<attachments/List-64aae0/FatUnicornCosplay Basic Helmet/image-02.webp>)
-
----
-
-<a id="geknome-bucket-head"></a>
-### Geknome Bucket Head #fursuit-heads #foam-only #any-species #cheap
-
-[https://www.etsy.com/ca/listing/1553664112/fursuit-bucket-head-base-pattern](https://www.etsy.com/ca/listing/1553664112/fursuit-bucket-head-base-pattern)
-
-![Geknome Bucket Head](<attachments/List-64aae0/Geknome Bucket Head/image-01.webp>)
-
----
-
-<a id="list-65dd11"></a>
-
-</details>
-
-<details>
-<summary>List-65dd11</summary>
-
-
-[↑ Contents](#contents)
-
----
-
-<a id="skunky-designs-embroidery-file-for-claws"></a>
-### Skunky Designs Embroidery File for Claws #cheap #any-species #any-hand-paws #multipack
-
-[https://www.etsy.com/ca/listing/1278611014/claw-embroidery-file-for-fursuit-hand](https://www.etsy.com/ca/listing/1278611014/claw-embroidery-file-for-fursuit-hand "smartCard-inline")
-
-2 sizes of claws
-
-![Skunky Designs Embroidery File for Claws](<attachments/List-65dd11/Skunky Designs Embroidery File for Claws/image-01.jpg>)
-
----
-
-<a id="frostyfurs-ith-6-claw-files"></a>
-### FrostyFurs ITH 6 Claw Files #any-species #cheap #any-hand-paws #multipack
-
-[https://www.etsy.com/ca/listing/1656193736/ith-fursuit-claws-machine-embroidery](https://www.etsy.com/ca/listing/1656193736/ith-fursuit-claws-machine-embroidery "smartCard-inline")
-
-![FrostyFurs ITH 6 Claw Files](<attachments/List-65dd11/FrostyFurs ITH 6 Claw Files/image-01.webp>)
-
----
-
-<a id="frostyfurs-6-tongue-files"></a>
-### FrostyFurs 6 Tongue Files #cheap #fursuit-heads #any-species #other-species #canine #feline #equine-cervine #feathers-birds #multipack
-
-[https://www.etsy.com/ca/listing/1679820105/ith-fursuit-tongues-machine-embroidery](https://www.etsy.com/ca/listing/1679820105/ith-fursuit-tongues-machine-embroidery "smartCard-inline")
-
-![FrostyFurs 6 Tongue Files](<attachments/List-65dd11/FrostyFurs 6 Tongue Files/image-01.webp>)
-
----
-
-<a id="frostihadasundae-hand-paw-files"></a>
-### FrostiHadaSundae Hand Paw Files #cheap #any-species #any-hand-paws
-
-[https://www.etsy.com/ca/listing/1651263286/handpaw-embroidery-design](https://www.etsy.com/ca/listing/1651263286/handpaw-embroidery-design "smartCard-inline")
-
-![FrostiHadaSundae Hand Paw Files](<attachments/List-65dd11/FrostiHadaSundae Hand Paw Files/image-01.jpg>)
-
----
-
-<a id="frostihadasundae-foot-paw-files"></a>
-### FrostiHadaSundae Foot Paw Files #cheap #any-species #any-feet
-
-[https://www.etsy.com/ca/listing/1665468193/foot-paw-embroidery-design](https://www.etsy.com/ca/listing/1665468193/foot-paw-embroidery-design "smartCard-inline")
-
-![FrostiHadaSundae Foot Paw Files](<attachments/List-65dd11/FrostiHadaSundae Foot Paw Files/image-01.jpg>)
-
----
-
-<a id="list-64a883"></a>
-
-</details>
-
-<details>
-<summary>List-64a883</summary>
-
-
-[↑ Contents](#contents)
+## Foam Head Patterns
 
 ---
 
 <a id="kloofsuits-canine-v1-pattern"></a>
 ### Kloofsuits Canine V1 Pattern
 
-![Kloofsuits Canine V1 Pattern](<attachments/List-64a883/Kloofsuits Canine V1 Pattern/image-01.png>)
+![Kloofsuits Canine V1 Pattern](<attachments/Foam Head Patterns/Kloofsuits Canine V1 Pattern/image-01.png>)
 
 ---
 
@@ -8849,7 +8118,7 @@ One review recommends 1/2 inch foam instead
 
 [https://www.etsy.com/ca/listing/829573256/pdf-template-fursuit-head-base-canine-v2](https://www.etsy.com/ca/listing/829573256/pdf-template-fursuit-head-base-canine-v2)
 
-![Kloofsuits Canine V2 Pattern](<attachments/List-64a883/Kloofsuits Canine V2 Pattern/image-01.png>)
+![Kloofsuits Canine V2 Pattern](<attachments/Foam Head Patterns/Kloofsuits Canine V2 Pattern/image-01.png>)
 
 ---
 
@@ -8858,7 +8127,7 @@ One review recommends 1/2 inch foam instead
 
 [https://www.etsy.com/ca/listing/733219940/pdf-template-fursuit-head-base-fox](https://www.etsy.com/ca/listing/733219940/pdf-template-fursuit-head-base-fox "smartCard-inline")
 
-![Kloofsuits Fox Base Pattern](<attachments/List-64a883/Kloofsuits Fox Base Pattern/image-01.png>)
+![Kloofsuits Fox Base Pattern](<attachments/Foam Head Patterns/Kloofsuits Fox Base Pattern/image-01.png>)
 
 ---
 
@@ -8867,7 +8136,7 @@ One review recommends 1/2 inch foam instead
 
 [https://www.etsy.com/ca/listing/716296464/pdf-template-fursuit-head-base-deer](https://www.etsy.com/ca/listing/716296464/pdf-template-fursuit-head-base-deer "smartCard-inline")
 
-![Kloofsuits Deer Base Pattern](<attachments/List-64a883/Kloofsuits Deer Base Pattern/image-01.png>)
+![Kloofsuits Deer Base Pattern](<attachments/Foam Head Patterns/Kloofsuits Deer Base Pattern/image-01.png>)
 
 ---
 
@@ -8876,7 +8145,7 @@ One review recommends 1/2 inch foam instead
 
 [https://www.etsy.com/ca/listing/705275210/pdf-template-fursuit-head-base-domestic](https://www.etsy.com/ca/listing/705275210/pdf-template-fursuit-head-base-domestic "smartCard-inline")
 
-![Kloofsuits Domestic Cat Pattern](<attachments/List-64a883/Kloofsuits Domestic Cat Pattern/image-01.png>)
+![Kloofsuits Domestic Cat Pattern](<attachments/Foam Head Patterns/Kloofsuits Domestic Cat Pattern/image-01.png>)
 
 ---
 
@@ -8885,9 +8154,6 @@ One review recommends 1/2 inch foam instead
 
 [https://www.etsy.com/ca/listing/687141489/pdf-template-fursuit-head-base-big-cat](https://www.etsy.com/ca/listing/687141489/pdf-template-fursuit-head-base-big-cat "smartCard-inline")
 
-![Kloofsuits Big Cat Pattern](<attachments/List-64a883/Kloofsuits Big Cat Pattern/image-01.png>)
+![Kloofsuits Big Cat Pattern](<attachments/Foam Head Patterns/Kloofsuits Big Cat Pattern/image-01.png>)
 
 ---
-
-
-</details>
