@@ -3,17 +3,14 @@ import { program } from 'commander';
 import fs from 'fs-extra';
 import path from 'node:path';
 import pLimit from 'p-limit';
-import pRetry from 'p-retry';
 import sanitize from 'sanitize-filename';
 
-program
-  .name('trello-to-obsidian')
-  .argument('<json>', 'Trello board JSON export')
-  .argument('[out]',  'output file or folder', 'README.md')
-  .option('-c, --concurrency <n>', 'parallel downloads', '6')
-  .action(run);
+async function pull(url, dest) {
+  const r = await fetch(url);
+  if (!r.ok) throw new Error(`HTTP ${r.status}`);
+  return Buffer.from(await r.arrayBuffer());
+}
 
-/* ---------------------------------------------------------------- */
 async function run(jsonFile, OUT) {
   const concurrency = Number(program.opts().concurrency);
   const isFile = OUT.endsWith('.md');
@@ -37,64 +34,30 @@ async function run(jsonFile, OUT) {
         order.push(l.id);
       }
     };
-    for (const a of board.actions ?? [])
-      [a?.data?.list, a?.data?.listBefore, a?.data?.listAfter].forEach(seeList);
-    for (const c of board.cards ?? [])
-      if (!lists.has(c.idList)) seeList({ id: c.idList, name: `List-${c.idList.slice(0, 6)}` });
-  }
 
-  /* --- group & sort --- */
-  const grouped = new Map();
-  for (const c of board.cards ?? []) {
-    if (c.closed) continue;
-    if (!grouped.has(c.idList)) grouped.set(c.idList, []);
-    grouped.get(c.idList).push(c);
-  }
-  for (const arr of grouped.values()) arr.sort((a, b) => a.pos - b.pos);
-
-  /* --- format helpers --- */
-  const pad   = n => String(n).padStart(3, '0');
-  const slug  = s => (s ?? '').toLowerCase()
-    .replace(/&/g, 'and').replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '').slice(0, 60);
-  const one   = s => (s ?? '').replace(/\s+/g, ' ').trim();
-  const tag   = s => '#' + s.toLowerCase()
-    .replace(/&/g, 'and').replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '');
-  const alt   = s => one(s).replace(/[[\]()|!]/g, '') || 'image';
-  const clean = d => !d ? '' : d
-    .replace(/\\_/g, '_')
-    .replace(/\]\(([^)]+?)\s+["'‌]+\)/g, ']($1)')
-    .replace(/[ \t]+$/gm, '')
-    .replace(/\n{3,}/g, '\n\n')
-    .trim();
-
-  /* --- image downloader: pLimit for concurrency, pRetry for flakes --- */
-  const limit = pLimit(concurrency);
-  const stats = { ok: 0, skip: 0, fail: 0 };
-
-  const pull = (url, dest) => limit(async () => {
-    if (await fs.pathExists(dest)) {
-      stats.skip++;
-      return;
+    if (board.actions?.length) {
+      for (const a of board.actions) {
+        if (a?.list?.id) seeList(a.list);
+        if (a?.memberList?.id) seeList(a.memberList);
+      }
     }
-    try {
-      const buf = await pRetry(async () => {
-        const r = await fetch(url);
-        if (!r.ok) throw new Error(`HTTP ${r.status}`);
-        return Buffer.from(await r.arrayBuffer());
-      }, { retries: 3, minTimeout: 500 });
-      await fs.outputFile(dest, buf);
-      stats.ok++;
-    } catch (e) {
-      stats.fail++;
-      console.error(`  ✗ ${url} — ${e.message}`);
+
+    for (const a of board.actions ?? []) {
+      if (a?.board && a.board !== board.id) continue;
+      const lid = a.list?.id || a.memberList?.id;
+      if (!lid) continue;
+      if (lists.has(lid)) continue;
+      const listName = a.list?.name || a.memberList?.name || 'Unknown List';
+      lists.set(lid, { id: lid, name: listName });
+      order.push(lid);
     }
-  });
+  }
 
   /* --- helper function for item grid (markdown table for GitHub compatibility) --- */
   const createItemGridMarkdown = (items, listName, count) => {
     if (items.length === 0) return '';
     
-    // Build rows: 4 items per row (4 columns)
+    // Build rows: 3 items per row (3 columns)
     // Each cell combines link + image: [Name](#anchor) ![Name](url)
     const makeCell = (item) => {
       if (!item) return '';
@@ -107,19 +70,30 @@ async function run(jsonFile, OUT) {
     };
     
     const rows = [];
-    for (let i = 0; i < items.length; i += 4) {
+    for (let i = 0; i < items.length; i += 3) {
       const cells = [
         makeCell(items[i]),
         makeCell(items[i + 1]),
-        makeCell(items[i + 2]),
-        makeCell(items[i + 3])
+        makeCell(items[i + 2])
       ];
       rows.push(`|${cells.join('|')}|`);
     }
     
-    const header = `### ${listName} (${count} cards)\n\n|Preview|Preview|Preview|Preview|\n|---|---|---|---|`;
+    const header = `### ${listName} (${count} cards)\n\n|Preview|Preview|Preview|\n|---|---|---|`;
     return [header, ...rows].join('\n');
   };
+
+  /* --- Pre-collect ALL card anchors so preview links work globally --- */
+  const allCardAnchors = [];
+  for (const l of order) {
+    const list = lists.get(l);
+    if (!list?.name) continue;
+    const items = board.cards?.filter(c => c.idList === l) || [];
+    for (const c of items) {
+      const cardAnchor = slug(one(c.name));
+      allCardAnchors.push(`<a id="${cardAnchor}"></a>`, '');
+    }
+  }
 
   /* --- build body in one pass --- */
   const body = [];
@@ -127,14 +101,15 @@ async function run(jsonFile, OUT) {
   const preview = [];
   let li = 0, cards = 0, refs = 0;
 
-  for (const listId of order) {
-    const list  = lists.get(listId);
-    const items = grouped.get(listId) ?? [];
+  for (const l of order) {
+    const list = lists.get(l);
+    if (!list?.name) continue;
+    const items = board.cards?.filter(c => c.idList === l) || [];
     if (!items.length) continue;
     if (list.name === 'Label Codes:') continue;
     li++;
 
-    // Collect preview data for grid (first 4 items for header grid preview)
+    /* --- collect preview items (first 4) --- */
     const previewItems = items.slice(0, Math.min(4, items.length));
     preview.push({ 
       name: list.name, 
@@ -166,14 +141,12 @@ async function run(jsonFile, OUT) {
 
     for (const c of items) {
       ci++; cards++;
-      const cardAnchor = slug(one(c.name));
       const cardDir    = sanitize(one(c.name)).slice(0, 100) || 'card';
       const relDir     = `attachments/${listDir}/${cardDir}`;
       const imgRelDir  = relDir.split('/').join('/');
       const absDir     = path.join(outDir, relDir);
-      const tags       = (c.labels ?? []).map(l => l.name).filter(Boolean).map(tag);
+      const tags       = (c.labels ?? []).map(l => l.name).filter(Boolean).map(l => l.name);
 
-      body.push(`<a id="${cardAnchor}"></a>`);
       body.push(tags.length ? `### ${one(c.name)} ${tags.join(' ')}` : `### ${one(c.name)}`, '');
 
       const desc = clean(c.desc);
@@ -182,6 +155,8 @@ async function run(jsonFile, OUT) {
       let n = 0;
       for (const att of c.attachments ?? []) {
         if (!att.mimeType?.startsWith('image/')) continue;
+        // Skip invalid URLs
+        try { new URL(att.url); } catch { continue; }
         n++; refs++;
         let ext = '.png';
         try { ext = path.extname(new URL(att.url).pathname) || '.png'; } catch {}
@@ -203,12 +178,14 @@ async function run(jsonFile, OUT) {
   ];
 
   /* --- write note --- */
+  const allContent = [...header, ...allCardAnchors, '', ...body].join('\n');
   const noteFile = isFile ? OUT : path.join(OUT, `${sanitize(board.name)}.md`);
   await fs.ensureDir(outDir);
-  await fs.writeFile(noteFile, [...header, ...body].join('\n'));
+  await fs.writeFile(noteFile, allContent);
   console.log(`✓ ${noteFile}  (${li} lists · ${cards} cards · ${refs} image refs)`);
 
   /* --- wait for downloads --- */
+  const stats = { ok: 0, skip: 0, fail: 0 };
   if (jobs.length) {
     console.log(`\n↓ Fetching ${jobs.length} images → ${outDir}/attachments/`);
     await Promise.all(jobs);
@@ -216,4 +193,15 @@ async function run(jsonFile, OUT) {
   }
 }
 
+program
+  .name('trello-to-obsidian')
+  .argument('<json>', 'Trello board JSON export')
+  .argument('[out]',  'output file or folder', 'README.md')
+  .option('-c, --concurrency <n>', 'parallel downloads', '6')
+  .action(run);
+
 await program.parseAsync();
+function clean(x) { return x?.trim() || ''; }
+function one(x) { return x ?? ''; }
+function slug(x) { return x.toString().toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, ''); }
+function alt(x) { return x.replace(/\\/g, '\\\\').replace(/`/g, '\\`').replace(/\\*/g, '\\*'); }
