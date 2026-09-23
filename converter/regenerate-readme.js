@@ -1,23 +1,16 @@
-#!/usr/bin/env node
+// Readme regeneration script - only generates markdown, skips image downloads
 import { program } from 'commander';
 import fs from 'fs-extra';
 import path from 'node:path';
-import pLimit from 'p-limit';
-import pRetry from 'p-retry';
 import sanitize from 'sanitize-filename';
 
 program
-  .name('trello-to-obsidian')
+  .name('regenerate-readme')
   .argument('<json>', 'Trello board JSON export')
-  .argument('[out]',  'output file or folder', 'README.md')
-  .option('-c, --concurrency <n>', 'parallel downloads', '6')
+  .argument('[out]',  'output folder', 'Fursuit Patterns')
   .action(run);
 
-/* ---------------------------------------------------------------- */
 async function run(jsonFile, OUT) {
-  const concurrency = Number(program.opts().concurrency);
-  const isFile = OUT.endsWith('.md');
-  const outDir = isFile ? path.dirname(OUT) : OUT;
   const board = await fs.readJson(jsonFile);
 
   /* --- lists (prefer board.lists, fallback to actions if export has no `lists`) --- */
@@ -30,7 +23,6 @@ async function run(jsonFile, OUT) {
       }
     }
   } else {
-    // Recover lists from actions if the export has no `lists`
     const seeList = l => {
       if (l?.id && l?.name && !lists.has(l.id)) {
         lists.set(l.id, { id: l.id, name: l.name });
@@ -53,7 +45,6 @@ async function run(jsonFile, OUT) {
   for (const arr of grouped.values()) arr.sort((a, b) => a.pos - b.pos);
 
   /* --- format helpers --- */
-  const pad   = n => String(n).padStart(3, '0');
   const slug  = s => (s ?? '').toLowerCase()
     .replace(/&/g, 'and').replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '').slice(0, 60);
   const one   = s => (s ?? '').replace(/\s+/g, ' ').trim();
@@ -67,53 +58,30 @@ async function run(jsonFile, OUT) {
     .replace(/\n{3,}/g, '\n\n')
     .trim();
 
-  /* --- image downloader: pLimit for concurrency, pRetry for flakes --- */
-  const limit = pLimit(concurrency);
-  const stats = { ok: 0, skip: 0, fail: 0 };
-
-  const pull = (url, dest) => limit(async () => {
-    if (await fs.pathExists(dest)) {
-      stats.skip++;
-      return;
-    }
-    try {
-      const buf = await pRetry(async () => {
-        const r = await fetch(url);
-        if (!r.ok) throw new Error(`HTTP ${r.status}`);
-        return Buffer.from(await r.arrayBuffer());
-      }, { retries: 3, minTimeout: 500 });
-      await fs.outputFile(dest, buf);
-      stats.ok++;
-    } catch (e) {
-      stats.fail++;
-      console.error(`  ✗ ${url} — ${e.message}`);
-    }
-  });
-
-  /* --- helper function for item grid (markdown table for GitHub compatibility) --- */
-  const createItemGridMarkdown = (items) => {
-    const displayItems = items.slice(0, Math.min(4, items.length));
-    if (displayItems.length === 0) return '';
-    
-    const rows = displayItems.map(item => {
+  /* --- helper function for item grid --- */
+  const createItemGridHTML = (items) => {
+    return items.slice(0, Math.min(5, items.length)).map(item => {
       const itemAnchor = slug(one(item.name));
       const firstItemImg = (item.attachments?.find(a => a?.mimeType?.startsWith('image/'))?.url) || '';
-      const imgCount = (item.attachments?.filter(a => a?.mimeType?.startsWith('image/')).length || 0);
       
-      const imageMd = firstItemImg 
-        ? `![${one(item.name)}](${firstItemImg})`
-        : '*No image*';
+      const imageSection = firstItemImg 
+        ? `<div style="text-align:center;"><img src="${firstItemImg}" alt="${one(item.name)}" style="max-width:100%;height:auto;border-radius:4px;object-fit:cover;max-height:80px;" loading="lazy" /></div>`
+        : '<div style="height:60px;background:#ddd;border-radius:4px;display:flex;align-items:center;justify-content:center;color:#999;font-size:11px;">No image</div>';
       
-      return `|[${one(item.name)}](${itemAnchor})|${imageMd}|`;
-    });
-    
-    const header = '|Item|Preview|\n|---|---|';
-    return [header, ...rows].join('\n');
+      return `
+        <div style="border:1px solid #e0e0e0;border-radius:6px;padding:8px;background:#fafafa;">
+          <a href="#${itemAnchor}" style="text-decoration:none;color:inherit;display:block;">
+            <div style="font-size:12px;font-weight:500;margin-bottom:4px;line-height:1.2;">${one(item.name)}</div>
+            <div style="font-size:10px;color:#666;margin-bottom:6px;">${(item.attachments?.filter(a => a?.mimeType?.startsWith('image/')).length || 0)} images</div>
+            ${imageSection}
+          </a>
+        </div>
+      `;
+    }).join('');
   };
 
   /* --- build body in one pass --- */
   const body = [];
-  const jobs = [];
   const preview = [];
   let li = 0, cards = 0, refs = 0;
 
@@ -124,25 +92,12 @@ async function run(jsonFile, OUT) {
     if (list.name === 'Label Codes:') continue;
     li++;
 
-    // Collect preview data for grid (first 4 items for header grid preview)
-    const previewItems = items.slice(0, Math.min(4, items.length));
-    preview.push({ 
-      name: list.name, 
-      count: items.length, 
-      items: previewItems 
-    });
+    // Collect preview data for grid (first image per list)
+    const firstCard = items[0];
+    const firstImgUrl = (firstCard?.attachments?.find(a => a?.mimeType?.startsWith('image/'))?.url) || '';
+    preview.push({ name: list.name, count: items.length, firstImgUrl });
 
     const listAnchor = slug(list.name);
-
-    /* --- Preview grid OUTSIDE spoiler (visible by default) --- */
-    if (items.length > 0) {
-      body.push('### Preview Grid - First Items', '');
-      body.push(createItemGridMarkdown(items));
-      body.push('');
-    }
-
-    const listDir = sanitize(list.name).slice(0, 80) || 'list';
-
     body.push(
       `<details>`,
       `  <summary>${list.name} (${items.length} cards)</summary>`,
@@ -152,6 +107,17 @@ async function run(jsonFile, OUT) {
       `## ${list.name}`, '',
       '---', '',
     );
+
+    /* --- Enhanced section preview grid with item previews --- */
+    if (items.length > 0) {
+      body.push('### Preview Grid - First Items', '');
+      body.push('<div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:8px;margin:16px 0;">');
+      body.push(createItemGridHTML(items));
+      body.push('</div>');
+      body.push('');
+    }
+
+    const listDir = sanitize(list.name).slice(0, 80) || 'list';
     let ci = 0;
 
     for (const c of items) {
@@ -160,7 +126,7 @@ async function run(jsonFile, OUT) {
       const cardDir    = sanitize(one(c.name)).slice(0, 100) || 'card';
       const relDir     = `attachments/${listDir}/${cardDir}`;
       const imgRelDir  = relDir.split('/').join('/');
-      const absDir     = path.join(outDir, relDir);
+      const absDir     = path.join(OUT, relDir);
       const tags       = (c.labels ?? []).map(l => l.name).filter(Boolean).map(tag);
 
       body.push(`<a id="${cardAnchor}"></a>`);
@@ -177,33 +143,31 @@ async function run(jsonFile, OUT) {
         try { ext = path.extname(new URL(att.url).pathname) || '.png'; } catch {}
         if (ext.length > 6) ext = '.png';
         const file = `image-${String(n).padStart(2, '0')}${ext}`;
-        jobs.push(pull(att.url, path.join(absDir, file)));
+        // Just add the markdown reference - don't download
         body.push(`![${alt(c.name)}](<${imgRelDir}/${file}>)`, '');
       }
       body.push('---', '');
     }
-    body.push('</details>', '');
   }
 
-  /* --- header (no Quick Navigate grid) --- */
+  /* --- header + preview grid --- */
+  const grid = preview.length ? ['## Quick Navigate', '', '<div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:12px;margin-top:16px;">', ...preview.map(p =>
+    `<div style="border:1px solid #ddd;border-radius:8px;padding:12px;"><strong><a href="#${slug(p.name)}">${p.name}</a></strong><br>${p.count} cards${p.firstImgUrl ? `<br><img src="${p.firstImgUrl}" style="max-width:100%;border-radius:4px;margin-top:8px;" loading="lazy">` : ''}</div>`
+  ), '</div>', ''] : [];
+
   const header = [
     `# Rangerkatt's Creations Fursuit Patterns (Trello Board)`, '',
     `**Original Board Source board:** <${board.url}>`,
     'This repo goal is to make Rangerkatt\'s Creations easy to access, as my laptop struggle to open original page.', '',
+    ...grid,
+    '',
   ];
 
   /* --- write note --- */
-  const noteFile = isFile ? OUT : path.join(OUT, `${sanitize(board.name)}.md`);
-  await fs.ensureDir(outDir);
+  await fs.ensureDir(OUT);
+  const noteFile = path.join(OUT, `${sanitize(board.name)}.md`);
   await fs.writeFile(noteFile, [...header, ...body].join('\n'));
   console.log(`✓ ${noteFile}  (${li} lists · ${cards} cards · ${refs} image refs)`);
-
-  /* --- wait for downloads --- */
-  if (jobs.length) {
-    console.log(`\n↓ Fetching ${jobs.length} images → ${outDir}/attachments/`);
-    await Promise.all(jobs);
-    console.log(`  ✓ ${stats.ok} downloaded  ·  ${stats.skip} cached  ·  ${stats.fail} failed`);
-  }
 }
 
 await program.parseAsync();
