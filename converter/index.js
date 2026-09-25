@@ -158,13 +158,14 @@ async function run(jsonFile, OUT) {
     for (const c of items) {
       const cardAnchor = slug(one(c.name));
       const cardDir    = sanitize(one(c.name)).slice(0, 100) || 'card';
-      const relDir     = `attachments/${listDir}/${cardDir}`;
-      const imgRelDir  = relDir.split('\\').join('/');
+      const readmeRel  = `attachments/${listDir}/${cardDir}`.split('\\').join('/');   // for README (at root)
+      const sectionRel = `../attachments/${listDir}/${cardDir}`.split('\\').join('/'); // for section files (in patterns/)
       const absDir     = path.join(outDir, 'attachments', listDir, cardDir);
       
       await fs.ensureDir(absDir);
       
-      const localPaths = [];
+      const readmePaths = [];
+      const sectionPaths = [];
       let n = 0;
 
       // 1. Download attachment images
@@ -177,12 +178,13 @@ async function run(jsonFile, OUT) {
         if (ext.length > 6) ext = '.png';
         const file = `image-${String(n).padStart(2, '0')}${ext}`;
         const destPath = path.join(absDir, file);
-        localPaths.push(`${imgRelDir}/${file}`);
+        readmePaths.push(`${readmeRel}/${file}`);
+        sectionPaths.push(`${sectionRel}/${file}`);
         downloadJobs.push({ url: att.url, destPath, cardId: c.id });
       }
 
       // 2. If no attachment images, try external URLs from description
-      if (localPaths.length === 0 && c.desc) {
+      if (readmePaths.length === 0 && c.desc) {
         const urls = c.desc.match(/https?:\/\/[^\s)]+/g) || [];
         for (const url of urls) {
           // Skip non-product URLs (trello, etc.)
@@ -196,7 +198,8 @@ async function run(jsonFile, OUT) {
             if (ext.length > 6) ext = '.png';
             const file = `image-${String(n).padStart(2, '0')}${ext}`;
             const destPath = path.join(absDir, file);
-            localPaths.push(`${imgRelDir}/${file}`);
+            readmePaths.push(`${readmeRel}/${file}`);
+            sectionPaths.push(`${sectionRel}/${file}`);
             downloadJobs.push({ url, destPath, cardId: c.id });
             break;
           }
@@ -210,14 +213,15 @@ async function run(jsonFile, OUT) {
             if (ext.length > 6) ext = '.png';
             const file = `image-${String(n).padStart(2, '0')}${ext}`;
             const destPath = path.join(absDir, file);
-            localPaths.push(`${imgRelDir}/${file}`);
+            readmePaths.push(`${readmeRel}/${file}`);
+            sectionPaths.push(`${sectionRel}/${file}`);
             downloadJobs.push({ url: pageImage, destPath, cardId: c.id });
             break;
           }
         }
       }
 
-      cardImageMap.set(c.id, localPaths);
+      cardImageMap.set(c.id, { readme: readmePaths, section: sectionPaths });
     }
   }
 
@@ -277,8 +281,6 @@ async function run(jsonFile, OUT) {
       totalCards++;
       const cardAnchor = slug(one(c.name));
       const cardDir    = sanitize(one(c.name)).slice(0, 100) || 'card';
-      const relDir     = `attachments/${listDir}/${cardDir}`;
-      const imgRelDir  = relDir.split('\\').join('/');
       const tags       = (c.labels ?? []).map(l => l.name).filter(Boolean).map(l => l.name);
 
       lines.push(`<a id="${cardAnchor}"></a>`, '');
@@ -287,13 +289,13 @@ async function run(jsonFile, OUT) {
       const desc = clean(c.desc);
       if (desc) lines.push(desc, '');
 
-      // Use local downloaded images
-      const localImgs = cardImageMap.get(c.id) || [];
-      for (const localPath of localImgs) {
+      // Use local downloaded images (section paths)
+      const paths = cardImageMap.get(c.id) || { section: [] };
+      for (const localPath of paths.section) {
         lines.push(`${mdImg(alt(c.name), localPath)}`, '');
       }
       // If still no images, note it
-      if (localImgs.length === 0) {
+      if (paths.section.length === 0) {
         lines.push('*No images available*', '');
       }
       lines.push('---', '');
@@ -314,9 +316,9 @@ async function run(jsonFile, OUT) {
     // Build localImages map for this section
     const localImages = new Map();
     for (const item of items) {
-      const paths = cardImageMap.get(item.id) || [];
-      if (paths.length > 0) {
-        localImages.set(item.id, paths[0]); // first image for preview
+      const paths = cardImageMap.get(item.id) || { readme: [] };
+      if (paths.readme.length > 0) {
+        localImages.set(item.id, paths.readme[0]); // first image for preview
       }
     }
     readmeLines.push(createItemGridMarkdown(items, list.name, items.length, `patterns/${sectionFile}`, localImages));

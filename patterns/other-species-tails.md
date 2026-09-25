@@ -12,7 +12,7 @@
 
 Feel free to leave a tip!
 
-![\*(\*F\*R\*E\*E\*)\* \*F\*o\*x\*F\*i\*r\*e\*F\*a\*n\*t\*a\*s\*y\* \*S\*k\*u\*n\*k\* \*T\*a\*i\*l\*](<attachments/Other Species Tails/(FREE) FoxFireFantasy Skunk Tail/image-01.png>)
+![\*(\*F\*R\*E\*E\*)\* \*F\*o\*x\*F\*i\*r\*e\*F\*a\*n\*t\*a\*s\*y\* \*S\*k\*u\*n\*k\* \*T\*a\*i\*l\*](<../attachments/Other Species Tails/(FREE) FoxFireFantasy Skunk Tail/image-01.png>)
 
 ---
 
@@ -24,7 +24,7 @@ Feel free to leave a tip!
 
 Feel free to leave a tip!
 
-![\*(\*F\*R\*E\*E\*)\* \*F\*o\*x\*F\*i\*r\*e\*F\*a\*n\*t\*a\*s\*y\* \*R\*e\*d\* \*P\*a\*n\*d\*a\*/\*R\*a\*c\*o\*o\*n\*/\*L\*e\*m\*u\*r\* \*T\*a\*i\*l\*](<attachments/Other Species Tails/(FREE) FoxFireFantasy Red PandaRacoonLemur Tail/image-01.png>)
+![\*(\*F\*R\*E\*E\*)\* \*F\*o\*x\*F\*i\*r\*e\*F\*a\*n\*t\*a\*s\*y\* \*R\*e\*d\* \*P\*a\*n\*d\*a\*/\*R\*a\*c\*o\*o\*n\*/\*L\*e\*m\*u\*r\* \*T\*a\*i\*l\*](<../attachments/Other Species Tails/(FREE) FoxFireFantasy Red PandaRacoonLemur Tail/image-01.png>)
 
 ---
 
@@ -36,11 +36,11 @@ Feel free to leave a tip!
 
 [https://www.youtube.com/watch?v=zH0lE83shC8](https://www.youtube.com/watch?v=zH0lE83shC8 "smartCard-inline")
 
-![\*P\*s\*e\*u\*d\*o\*c\*a\*n\*i\*d\* \*U\*p\*r\*i\*g\*h\*t\* \*S\*h\*a\*r\*k\* \*T\*a\*i\*l\*](<attachments/Other Species Tails/Pseudocanid Upright Shark Tail/image-01.png>)
+![\*P\*s\*e\*u\*d\*o\*c\*a\*n\*i\*d\* \*U\*p\*r\*i\*g\*h\*t\* \*S\*h\*a\*r\*k\* \*T\*a\*i\*l\*](<../attachments/Other Species Tails/Pseudocanid Upright Shark Tail/image-01.png>)
 
-![\*P\*s\*e\*u\*d\*o\*c\*a\*n\*i\*d\* \*U\*p\*r\*i\*g\*h\*t\* \*S\*h\*a\*r\*k\* \*T\*a\*i\*l\*](<attachments/Other Species Tails/Pseudocanid Upright Shark Tail/image-02.png>)
+![\*P\*s\*e\*u\*d\*o\*c\*a\*n\*i\*d\* \*U\*p\*r\*i\*g\*h\*t\* \*S\*h\*a\*r\*k\* \*T\*a\*i\*l\*](<../attachments/Other Species Tails/Pseudocanid Upright Shark Tail/image-02.png>)
 
-![\*P\*s\*e\*u\*d\*o\*c\*a\*n\*i\*d\* \*U\*p\*r\*i\*g\*h\*t\* \*S\*h\*a\*r\*k\* \*T\*a\*i\*l\*](<attachments/Other Species Tails/Pseudocanid Upright Shark Tail/image-03.png>)
+![\*P\*s\*e\*u\*d\*o\*c\*a\*n\*i\*d\* \*U\*p\*r\*i\*g\*h\*t\* \*S\*h\*a\*r\*k\* \*T\*a\*i\*l\*](<../attachments/Other Species Tails/Pseudocanid Upright Shark Tail/image-03.png>)
 
 ---
 
@@ -52,11 +52,11 @@ Feel free to leave a tip!
 
 [https://www.youtube.com/watch?v=zH0lE83shC8](https://www.youtube.com/watch?v=zH0lE83shC8 "smartCard-inline")
 
-![\*P\*s\*e\*u\*d\*o\*c\*a\*n\*i\*d\* \*F\*l\*o\*p\*p\*y\* \*S\*h\*a\*r\*k\* \*T\*a\*i\*l\*](<attachments/Other Species Tails/Pseudocanid Floppy Shark Tail/image-01.png>)
+![\*P\*s\*e\*u\*d\*o\*c\*a\*n\*i\*d\* \*F\*l\*o\*p\*p\*y\* \*S\*h\*a\*r\*k\* \*T\*a\*i\*l\*](<../attachments/Other Species Tails/Pseudocanid Floppy Shark Tail/image-01.png>)
 
-![\*P\*s\*e\*u\*d\*o\*c\*a\*n\*i\*d\* \*F\*l\*o\*p\*p\*y\* \*S\*h\*a\*r\*k\* \*T\*a\*i\*l\*](<attachments/Other Species Tails/Pseudocanid Floppy Shark Tail/image-02.png>)
+![\*P\*s\*e\*u\*d\*o\*c\*a\*n\*i\*d\* \*F\*l\*o\*p\*p\*y\* \*S\*h\*a\*r\*k\* \*T\*a\*i\*l\*](<../attachments/Other Species Tails/Pseudocanid Floppy Shark Tail/image-02.png>)
 
-![\*P\*s\*e\*u\*d\*o\*c\*a\*n\*i\*d\* \*F\*l\*o\*p\*p\*y\* \*S\*h\*a\*r\*k\* \*T\*a\*i\*l\*](<attachments/Other Species Tails/Pseudocanid Floppy Shark Tail/image-03.png>)
+![\*P\*s\*e\*u\*d\*o\*c\*a\*n\*i\*d\* \*F\*l\*o\*p\*p\*y\* \*S\*h\*a\*r\*k\* \*T\*a\*i\*l\*](<../attachments/Other Species Tails/Pseudocanid Floppy Shark Tail/image-03.png>)
 
 ---
 
@@ -70,7 +70,7 @@ Feel free to leave a tip!
 
 [https://www.youtube.com/watch?v=YK08qVhn6Ao](https://www.youtube.com/watch?v=YK08qVhn6Ao "smartCard-inline")
 
-![\*M\*u\*g\*i\*w\*a\*r\*a\* \*R\*a\*t\*/\*O\*p\*o\*s\*s\*u\*m\* \*T\*a\*i\*l\*](<attachments/Other Species Tails/Mugiwara RatOpossum Tail/image-01.png>)
+![\*M\*u\*g\*i\*w\*a\*r\*a\* \*R\*a\*t\*/\*O\*p\*o\*s\*s\*u\*m\* \*T\*a\*i\*l\*](<../attachments/Other Species Tails/Mugiwara RatOpossum Tail/image-01.png>)
 
 ---
 
@@ -84,7 +84,7 @@ Feel free to leave a tip!
 
 [https://www.youtube.com/watch?v=CDyvxtK4KbU](https://www.youtube.com/watch?v=CDyvxtK4KbU "smartCard-inline")
 
-![\*M\*u\*g\*i\*w\*a\*r\*a\* \*S\*e\*r\*g\*a\*l\*/\*L\*o\*n\*g\* \*T\*a\*i\*l\*](<attachments/Other Species Tails/Mugiwara SergalLong Tail/image-01.png>)
+![\*M\*u\*g\*i\*w\*a\*r\*a\* \*S\*e\*r\*g\*a\*l\*/\*L\*o\*n\*g\* \*T\*a\*i\*l\*](<../attachments/Other Species Tails/Mugiwara SergalLong Tail/image-01.png>)
 
 ---
 
@@ -98,7 +98,7 @@ Feel free to leave a tip!
 
 [https://youtu.be/xPhJebCrtuU](https://youtu.be/xPhJebCrtuU "smartCard-inline")
 
-![\*M\*u\*g\*i\*w\*a\*r\*a\* \*G\*i\*a\*n\*t\* \*T\*H\*I\*C\*C\* \*T\*a\*i\*l\*](<attachments/Other Species Tails/Mugiwara Giant THICC Tail/image-01.png>)
+![\*M\*u\*g\*i\*w\*a\*r\*a\* \*G\*i\*a\*n\*t\* \*T\*H\*I\*C\*C\* \*T\*a\*i\*l\*](<../attachments/Other Species Tails/Mugiwara Giant THICC Tail/image-01.png>)
 
 ---
 
@@ -112,7 +112,7 @@ Feel free to leave a tip!
 
 [https://www.youtube.com/watch?v=CzAjjd7j3uo](https://www.youtube.com/watch?v=CzAjjd7j3uo "smartCard-inline")
 
-![\*M\*u\*g\*i\*w\*a\*r\*a\* \*D\*e\*m\*o\*n\*/\*T\*u\*f\*t\*e\*d\* \*T\*a\*i\*l\*](<attachments/Other Species Tails/Mugiwara DemonTufted Tail/image-01.png>)
+![\*M\*u\*g\*i\*w\*a\*r\*a\* \*D\*e\*m\*o\*n\*/\*T\*u\*f\*t\*e\*d\* \*T\*a\*i\*l\*](<../attachments/Other Species Tails/Mugiwara DemonTufted Tail/image-01.png>)
 
 ---
 
@@ -126,7 +126,7 @@ Feel free to leave a tip!
 
 [https://www.youtube.com/watch?v=ujXp47SZCFk](https://www.youtube.com/watch?v=ujXp47SZCFk "smartCard-inline")
 
-![\*M\*u\*g\*i\*w\*a\*r\*a\* \*S\*i\*m\*p\*l\*e\* \*S\*h\*a\*r\*k\* \*T\*a\*i\*l\*](<attachments/Other Species Tails/Mugiwara Simple Shark Tail/image-01.png>)
+![\*M\*u\*g\*i\*w\*a\*r\*a\* \*S\*i\*m\*p\*l\*e\* \*S\*h\*a\*r\*k\* \*T\*a\*i\*l\*](<../attachments/Other Species Tails/Mugiwara Simple Shark Tail/image-01.png>)
 
 ---
 
@@ -140,7 +140,7 @@ Feel free to leave a tip!
 
 [https://www.youtube.com/watch?v=sY8pEughQqs](https://www.youtube.com/watch?v=sY8pEughQqs "smartCard-inline")
 
-![\*M\*u\*g\*i\*w\*a\*r\*a\* \*D\*r\*a\*g\*o\*n\*/\*L\*o\*n\*g\* \*T\*a\*i\*l\*](<attachments/Other Species Tails/Mugiwara DragonLong Tail/image-01.png>)
+![\*M\*u\*g\*i\*w\*a\*r\*a\* \*D\*r\*a\*g\*o\*n\*/\*L\*o\*n\*g\* \*T\*a\*i\*l\*](<../attachments/Other Species Tails/Mugiwara DragonLong Tail/image-01.png>)
 
 ---
 
@@ -154,7 +154,7 @@ Feel free to leave a tip!
 
 [https://www.youtube.com/watch?v=Fgz6dKuu11A](https://www.youtube.com/watch?v=Fgz6dKuu11A "smartCard-inline")
 
-![\*M\*u\*g\*i\*w\*a\*r\*a\* \*B\*o\*n\*e\* \*T\*a\*i\*l\*](<attachments/Other Species Tails/Mugiwara Bone Tail/image-01.png>)
+![\*M\*u\*g\*i\*w\*a\*r\*a\* \*B\*o\*n\*e\* \*T\*a\*i\*l\*](<../attachments/Other Species Tails/Mugiwara Bone Tail/image-01.png>)
 
 ---
 
@@ -164,7 +164,7 @@ Feel free to leave a tip!
 
 [https://www.etsy.com/ca/listing/759968736/digital-pattern-fursuit-cosplay-canine](https://www.etsy.com/ca/listing/759968736/digital-pattern-fursuit-cosplay-canine "smartCard-inline")
 
-![\*N\*y\*x\*i\*a\* \*C\*r\*e\*a\*t\*i\*o\*n\*s\* \*F\*u\*r\*s\*u\*i\*t\* \*T\*a\*i\*l\*](<attachments/Other Species Tails/Nyxia Creations Fursuit Tail/image-01.png>)
+![\*N\*y\*x\*i\*a\* \*C\*r\*e\*a\*t\*i\*o\*n\*s\* \*F\*u\*r\*s\*u\*i\*t\* \*T\*a\*i\*l\*](<../attachments/Other Species Tails/Nyxia Creations Fursuit Tail/image-01.png>)
 
 ---
 
@@ -174,7 +174,7 @@ Feel free to leave a tip!
 
 [https://www.etsy.com/ca/listing/869285399/digital-pattern-fursuit-cosplay-feline](https://www.etsy.com/ca/listing/869285399/digital-pattern-fursuit-cosplay-feline "smartCard-inline")
 
-![\*N\*y\*x\*i\*a\* \*C\*r\*e\*a\*t\*i\*o\*n\*s\* \*F\*u\*r\*s\*u\*i\*t\* \*T\*a\*i\*l\*](<attachments/Other Species Tails/Nyxia Creations Fursuit Tail/image-01.png>)
+![\*N\*y\*x\*i\*a\* \*C\*r\*e\*a\*t\*i\*o\*n\*s\* \*F\*u\*r\*s\*u\*i\*t\* \*T\*a\*i\*l\*](<../attachments/Other Species Tails/Nyxia Creations Fursuit Tail/image-01.png>)
 
 ---
 
@@ -186,9 +186,9 @@ Feel free to leave a tip!
 
 All 5 tails: [https://www.etsy.com/ca/listing/1539024111/fursuit-tail-sewing-pattern-and-tutorial](https://www.etsy.com/ca/listing/1539024111/fursuit-tail-sewing-pattern-and-tutorial "smartCard-inline")
 
-![\*w\*e\*r\*e\*w\*o\*l\*f\*p\*r\*i\*n\*c\*e\*6\*6\*6\* \*M\*e\*d\*i\*u\*m\* \*L\*e\*n\*g\*t\*h\* \*T\*a\*i\*l\*](<attachments/Other Species Tails/werewolfprince666 Medium Length Tail/image-01.png>)
+![\*w\*e\*r\*e\*w\*o\*l\*f\*p\*r\*i\*n\*c\*e\*6\*6\*6\* \*M\*e\*d\*i\*u\*m\* \*L\*e\*n\*g\*t\*h\* \*T\*a\*i\*l\*](<../attachments/Other Species Tails/werewolfprince666 Medium Length Tail/image-01.png>)
 
-![\*w\*e\*r\*e\*w\*o\*l\*f\*p\*r\*i\*n\*c\*e\*6\*6\*6\* \*M\*e\*d\*i\*u\*m\* \*L\*e\*n\*g\*t\*h\* \*T\*a\*i\*l\*](<attachments/Other Species Tails/werewolfprince666 Medium Length Tail/image-02.png>)
+![\*w\*e\*r\*e\*w\*o\*l\*f\*p\*r\*i\*n\*c\*e\*6\*6\*6\* \*M\*e\*d\*i\*u\*m\* \*L\*e\*n\*g\*t\*h\* \*T\*a\*i\*l\*](<../attachments/Other Species Tails/werewolfprince666 Medium Length Tail/image-02.png>)
 
 ---
 
@@ -200,9 +200,9 @@ All 5 tails: [https://www.etsy.com/ca/listing/1539024111/fursuit-tail-sewing-pat
 
 [https://www.etsy.com/ca/listing/985468900/premium-tutorial-prehensile-tail](https://www.etsy.com/ca/listing/985468900/premium-tutorial-prehensile-tail "smartCard-inline")
 
-![\*M\*a\*t\*r\*i\*c\*e\*s\* \*M\*o\*v\*a\*b\*l\*e\*/\*P\*r\*e\*h\*e\*n\*s\*i\*l\*e\* \*T\*a\*i\*l\* \*T\*u\*t\*o\*r\*i\*a\*l\*](<attachments/Other Species Tails/Matrices MovablePrehensile Tail Tutorial/image-01.png>)
+![\*M\*a\*t\*r\*i\*c\*e\*s\* \*M\*o\*v\*a\*b\*l\*e\*/\*P\*r\*e\*h\*e\*n\*s\*i\*l\*e\* \*T\*a\*i\*l\* \*T\*u\*t\*o\*r\*i\*a\*l\*](<../attachments/Other Species Tails/Matrices MovablePrehensile Tail Tutorial/image-01.png>)
 
-![\*M\*a\*t\*r\*i\*c\*e\*s\* \*M\*o\*v\*a\*b\*l\*e\*/\*P\*r\*e\*h\*e\*n\*s\*i\*l\*e\* \*T\*a\*i\*l\* \*T\*u\*t\*o\*r\*i\*a\*l\*](<attachments/Other Species Tails/Matrices MovablePrehensile Tail Tutorial/image-02.png>)
+![\*M\*a\*t\*r\*i\*c\*e\*s\* \*M\*o\*v\*a\*b\*l\*e\*/\*P\*r\*e\*h\*e\*n\*s\*i\*l\*e\* \*T\*a\*i\*l\* \*T\*u\*t\*o\*r\*i\*a\*l\*](<../attachments/Other Species Tails/Matrices MovablePrehensile Tail Tutorial/image-02.png>)
 
 ---
 
@@ -212,7 +212,7 @@ All 5 tails: [https://www.etsy.com/ca/listing/1539024111/fursuit-tail-sewing-pat
 
 [https://www.etsy.com/ca/listing/1371550269/pdf-pattern-sergal-tail-by-direcreatures](https://www.etsy.com/ca/listing/1371550269/pdf-pattern-sergal-tail-by-direcreatures "smartCard-inline")
 
-![\*D\*i\*r\*e\*C\*r\*e\*a\*t\*u\*r\*e\*s\* \*S\*e\*r\*g\*a\*l\* \*T\*a\*i\*l\*](<attachments/Other Species Tails/DireCreatures Sergal Tail/image-01.png>)
+![\*D\*i\*r\*e\*C\*r\*e\*a\*t\*u\*r\*e\*s\* \*S\*e\*r\*g\*a\*l\* \*T\*a\*i\*l\*](<../attachments/Other Species Tails/DireCreatures Sergal Tail/image-01.png>)
 
 ---
 
@@ -224,9 +224,9 @@ All 5 tails: [https://www.etsy.com/ca/listing/1539024111/fursuit-tail-sewing-pat
 
 NO INSTRUCTIONS should have knowledge of patterns before purchase!
 
-![\*H\*o\*w\*l\*i\*n\*g\*D\*r\*a\*g\*o\*n\*S\*t\*u\*d\*i\*o\*s\* \*R\*a\*p\*t\*o\*r\* \*T\*a\*i\*l\*](<attachments/Other Species Tails/HowlingDragonStudios Raptor Tail/image-01.jpg>)
+![\*H\*o\*w\*l\*i\*n\*g\*D\*r\*a\*g\*o\*n\*S\*t\*u\*d\*i\*o\*s\* \*R\*a\*p\*t\*o\*r\* \*T\*a\*i\*l\*](<../attachments/Other Species Tails/HowlingDragonStudios Raptor Tail/image-01.jpg>)
 
-![\*H\*o\*w\*l\*i\*n\*g\*D\*r\*a\*g\*o\*n\*S\*t\*u\*d\*i\*o\*s\* \*R\*a\*p\*t\*o\*r\* \*T\*a\*i\*l\*](<attachments/Other Species Tails/HowlingDragonStudios Raptor Tail/image-02.jpg>)
+![\*H\*o\*w\*l\*i\*n\*g\*D\*r\*a\*g\*o\*n\*S\*t\*u\*d\*i\*o\*s\* \*R\*a\*p\*t\*o\*r\* \*T\*a\*i\*l\*](<../attachments/Other Species Tails/HowlingDragonStudios Raptor Tail/image-02.jpg>)
 
 ---
 
@@ -238,7 +238,7 @@ Not meant for a fursuit tail but you could probably scale it up and add a solid 
 
 [https://www.etsy.com/ca/listing/1395595361/pdf-pattern-shrimp-tail](https://www.etsy.com/ca/listing/1395595361/pdf-pattern-shrimp-tail "smartCard-inline")
 
-![\*B\*e\*e\*p\*s\*C\*r\*e\*a\*t\*u\*r\*e\*s\* \*S\*h\*r\*i\*m\*p\* \*T\*a\*i\*l\*](<attachments/Other Species Tails/BeepsCreatures Shrimp Tail/image-01.png>)
+![\*B\*e\*e\*p\*s\*C\*r\*e\*a\*t\*u\*r\*e\*s\* \*S\*h\*r\*i\*m\*p\* \*T\*a\*i\*l\*](<../attachments/Other Species Tails/BeepsCreatures Shrimp Tail/image-01.png>)
 
 ---
 
@@ -250,7 +250,7 @@ Not meant for a fursuit tail but you could probably scale it up and add a solid 
 
 [https://www.etsy.com/ca/listing/1298553346/red-panda-tail-pattern-pdf-download](https://www.etsy.com/ca/listing/1298553346/red-panda-tail-pattern-pdf-download "smartCard-inline")
 
-![\*S\*p\*i\*l\*t\*g\*r\*a\*p\*e\*s\*o\*d\*a\* \*R\*e\*d\* \*P\*a\*n\*d\*a\* \*T\*a\*i\*l\*](<attachments/Other Species Tails/Spiltgrapesoda Red Panda Tail/image-01.png>)
+![\*S\*p\*i\*l\*t\*g\*r\*a\*p\*e\*s\*o\*d\*a\* \*R\*e\*d\* \*P\*a\*n\*d\*a\* \*T\*a\*i\*l\*](<../attachments/Other Species Tails/Spiltgrapesoda Red Panda Tail/image-01.png>)
 
 ---
 
@@ -260,7 +260,7 @@ Not meant for a fursuit tail but you could probably scale it up and add a solid 
 
 [https://www.etsy.com/ca/listing/1366008090/feline-dragger-tail-pattern](https://www.etsy.com/ca/listing/1366008090/feline-dragger-tail-pattern "smartCard-inline")
 
-![\*S\*a\*b\*e\*r\*w\*o\*l\*f\*s\*t\*u\*d\*i\*o\* \*F\*l\*o\*o\*r\* \*D\*r\*a\*g\*g\*e\*r\*](<attachments/Other Species Tails/Saberwolfstudio Floor Dragger/image-01.png>)
+![\*S\*a\*b\*e\*r\*w\*o\*l\*f\*s\*t\*u\*d\*i\*o\* \*F\*l\*o\*o\*r\* \*D\*r\*a\*g\*g\*e\*r\*](<../attachments/Other Species Tails/Saberwolfstudio Floor Dragger/image-01.png>)
 
 ---
 
@@ -270,9 +270,9 @@ Not meant for a fursuit tail but you could probably scale it up and add a solid 
 
 [https://www.etsy.com/ca/listing/1268957795/synth-tail-patterns-and-build-guide](https://www.etsy.com/ca/listing/1268957795/synth-tail-patterns-and-build-guide "smartCard-inline")
 
-![\*T\*h\*e\*R\*a\*p\*t\*o\*r\*s\*S\*h\*o\*p\* \*S\*y\*n\*t\*h\* \*T\*a\*i\*l\*](<attachments/Other Species Tails/TheRaptorsShop Synth Tail/image-01.jpg>)
+![\*T\*h\*e\*R\*a\*p\*t\*o\*r\*s\*S\*h\*o\*p\* \*S\*y\*n\*t\*h\* \*T\*a\*i\*l\*](<../attachments/Other Species Tails/TheRaptorsShop Synth Tail/image-01.jpg>)
 
-![\*T\*h\*e\*R\*a\*p\*t\*o\*r\*s\*S\*h\*o\*p\* \*S\*y\*n\*t\*h\* \*T\*a\*i\*l\*](<attachments/Other Species Tails/TheRaptorsShop Synth Tail/image-02.jpg>)
+![\*T\*h\*e\*R\*a\*p\*t\*o\*r\*s\*S\*h\*o\*p\* \*S\*y\*n\*t\*h\* \*T\*a\*i\*l\*](<../attachments/Other Species Tails/TheRaptorsShop Synth Tail/image-02.jpg>)
 
 ---
 
@@ -284,7 +284,7 @@ Not meant for a fursuit tail but you could probably scale it up and add a solid 
 
 One review mentions that the patterns are spread out and take 27 pages.
 
-![\*R\*i\*c\*o\*c\*h\*e\*t\*x\*c\*r\*a\*f\*t\*s\* \*H\*o\*l\*l\*o\*w\* \*F\*O\*A\*M\* \*D\*r\*a\*g\*o\*n\* \*T\*a\*i\*l\*](<attachments/Other Species Tails/Ricochetxcrafts Hollow FOAM Dragon Tail/image-01.png>)
+![\*R\*i\*c\*o\*c\*h\*e\*t\*x\*c\*r\*a\*f\*t\*s\* \*H\*o\*l\*l\*o\*w\* \*F\*O\*A\*M\* \*D\*r\*a\*g\*o\*n\* \*T\*a\*i\*l\*](<../attachments/Other Species Tails/Ricochetxcrafts Hollow FOAM Dragon Tail/image-01.png>)
 
 ---
 
@@ -294,9 +294,9 @@ One review mentions that the patterns are spread out and take 27 pages.
 
 [https://www.etsy.com/ca/listing/1623212908/fursuit-dragon-tail-pattern-tutorial](https://www.etsy.com/ca/listing/1623212908/fursuit-dragon-tail-pattern-tutorial "smartCard-inline")
 
-![\*G\*e\*k\*n\*o\*m\*e\* \*D\*r\*a\*g\*o\*n\* \*T\*a\*i\*l\* \*P\*a\*t\*t\*e\*r\*n\*](<attachments/Other Species Tails/Geknome Dragon Tail Pattern/image-01.webp>)
+![\*G\*e\*k\*n\*o\*m\*e\* \*D\*r\*a\*g\*o\*n\* \*T\*a\*i\*l\* \*P\*a\*t\*t\*e\*r\*n\*](<../attachments/Other Species Tails/Geknome Dragon Tail Pattern/image-01.webp>)
 
-![\*G\*e\*k\*n\*o\*m\*e\* \*D\*r\*a\*g\*o\*n\* \*T\*a\*i\*l\* \*P\*a\*t\*t\*e\*r\*n\*](<attachments/Other Species Tails/Geknome Dragon Tail Pattern/image-02.webp>)
+![\*G\*e\*k\*n\*o\*m\*e\* \*D\*r\*a\*g\*o\*n\* \*T\*a\*i\*l\* \*P\*a\*t\*t\*e\*r\*n\*](<../attachments/Other Species Tails/Geknome Dragon Tail Pattern/image-02.webp>)
 
 ---
 
@@ -306,7 +306,7 @@ One review mentions that the patterns are spread out and take 27 pages.
 
 [https://www.etsy.com/ca/listing/996004499/diy-cow-tail-pdf-pattern](https://www.etsy.com/ca/listing/996004499/diy-cow-tail-pdf-pattern "smartCard-inline")
 
-![\*P\*i\*n\*k\*u\*s\*C\*r\*a\*f\*t\*y\*C\*o\*t\*t\*a\*g\*e\* \*C\*o\*w\*/\*B\*o\*v\*i\*n\*e\* \*T\*a\*i\*l\*](<attachments/Other Species Tails/PinkusCraftyCottage CowBovine Tail/image-01.webp>)
+![\*P\*i\*n\*k\*u\*s\*C\*r\*a\*f\*t\*y\*C\*o\*t\*t\*a\*g\*e\* \*C\*o\*w\*/\*B\*o\*v\*i\*n\*e\* \*T\*a\*i\*l\*](<../attachments/Other Species Tails/PinkusCraftyCottage CowBovine Tail/image-01.webp>)
 
 ---
 
@@ -314,7 +314,7 @@ One review mentions that the patterns are spread out and take 27 pages.
 
 ### PinkusCraftyCottage Sheep/Lamb/Bunny Tail    
 
-![\*P\*i\*n\*k\*u\*s\*C\*r\*a\*f\*t\*y\*C\*o\*t\*t\*a\*g\*e\* \*S\*h\*e\*e\*p\*/\*L\*a\*m\*b\*/\*B\*u\*n\*n\*y\* \*T\*a\*i\*l\*](<attachments/Other Species Tails/PinkusCraftyCottage SheepLambBunny Tail/image-01.webp>)
+![\*P\*i\*n\*k\*u\*s\*C\*r\*a\*f\*t\*y\*C\*o\*t\*t\*a\*g\*e\* \*S\*h\*e\*e\*p\*/\*L\*a\*m\*b\*/\*B\*u\*n\*n\*y\* \*T\*a\*i\*l\*](<../attachments/Other Species Tails/PinkusCraftyCottage SheepLambBunny Tail/image-01.webp>)
 
 ---
 
@@ -324,7 +324,7 @@ One review mentions that the patterns are spread out and take 27 pages.
 
 [https://www.etsy.com/ca/listing/1080700294/diy-raccoon-tail-pdf-pattern](https://www.etsy.com/ca/listing/1080700294/diy-raccoon-tail-pdf-pattern "smartCard-inline")
 
-![\*P\*i\*n\*k\*u\*s\*C\*r\*a\*f\*t\*y\*C\*o\*t\*t\*a\*g\*e\* \*R\*a\*c\*c\*o\*o\*n\*](<attachments/Other Species Tails/PinkusCraftyCottage Raccoon/image-01.webp>)
+![\*P\*i\*n\*k\*u\*s\*C\*r\*a\*f\*t\*y\*C\*o\*t\*t\*a\*g\*e\* \*R\*a\*c\*c\*o\*o\*n\*](<../attachments/Other Species Tails/PinkusCraftyCottage Raccoon/image-01.webp>)
 
 ---
 
@@ -334,7 +334,7 @@ One review mentions that the patterns are spread out and take 27 pages.
 
 [https://www.etsy.com/ca/listing/1040842242/diy-dino-tail-pdf-pattern](https://www.etsy.com/ca/listing/1040842242/diy-dino-tail-pdf-pattern "smartCard-inline")
 
-![\*P\*i\*n\*k\*u\*s\*C\*r\*a\*f\*t\*y\*C\*o\*t\*t\*a\*g\*e\* \*D\*i\*n\*o\* \*T\*a\*i\*l\*](<attachments/Other Species Tails/PinkusCraftyCottage Dino Tail/image-01.webp>)
+![\*P\*i\*n\*k\*u\*s\*C\*r\*a\*f\*t\*y\*C\*o\*t\*t\*a\*g\*e\* \*D\*i\*n\*o\* \*T\*a\*i\*l\*](<../attachments/Other Species Tails/PinkusCraftyCottage Dino Tail/image-01.webp>)
 
 ---
 
@@ -344,7 +344,7 @@ One review mentions that the patterns are spread out and take 27 pages.
 
 [https://www.etsy.com/ca/listing/1581921187/diy-stego-dino-tail-pdf-pattern](https://www.etsy.com/ca/listing/1581921187/diy-stego-dino-tail-pdf-pattern "smartCard-inline")
 
-![\*P\*i\*n\*k\*u\*s\*C\*r\*a\*f\*t\*y\*C\*o\*t\*t\*a\*g\*e\* \*S\*t\*e\*g\*o\* \*T\*a\*i\*l\*](<attachments/Other Species Tails/PinkusCraftyCottage Stego Tail/image-01.webp>)
+![\*P\*i\*n\*k\*u\*s\*C\*r\*a\*f\*t\*y\*C\*o\*t\*t\*a\*g\*e\* \*S\*t\*e\*g\*o\* \*T\*a\*i\*l\*](<../attachments/Other Species Tails/PinkusCraftyCottage Stego Tail/image-01.webp>)
 
 ---
 
@@ -356,7 +356,7 @@ One review mentions that the patterns are spread out and take 27 pages.
 
 [https://www.tiktok.com/@koifishycostume/video/7275269500252048641](https://www.tiktok.com/@koifishycostume/video/7275269500252048641 "smartCard-inline")
 
-![\*K\*o\*i\*F\*i\*s\*h\*y\*C\*o\*s\*t\*u\*m\*e\*s\* \*M\*i\*n\*i\* \*S\*h\*a\*r\*k\* \*T\*a\*i\*l\*](<attachments/Other Species Tails/KoiFishyCostumes Mini Shark Tail/image-01.jpg>)
+![\*K\*o\*i\*F\*i\*s\*h\*y\*C\*o\*s\*t\*u\*m\*e\*s\* \*M\*i\*n\*i\* \*S\*h\*a\*r\*k\* \*T\*a\*i\*l\*](<../attachments/Other Species Tails/KoiFishyCostumes Mini Shark Tail/image-01.jpg>)
 
 ---
 
@@ -366,7 +366,7 @@ One review mentions that the patterns are spread out and take 27 pages.
 
 [https://www.etsy.com/ca/listing/1692318773/equine-fursuit-tail-pattern-tutorial-pdf](https://www.etsy.com/ca/listing/1692318773/equine-fursuit-tail-pattern-tutorial-pdf "smartCard-inline")
 
-![\*G\*e\*k\*n\*o\*m\*e\* \*U\*n\*i\*c\*o\*r\*n\*/\*E\*q\*u\*i\*n\*e\* \*T\*a\*i\*l\*](<attachments/Other Species Tails/Geknome UnicornEquine Tail/image-01.webp>)
+![\*G\*e\*k\*n\*o\*m\*e\* \*U\*n\*i\*c\*o\*r\*n\*/\*E\*q\*u\*i\*n\*e\* \*T\*a\*i\*l\*](<../attachments/Other Species Tails/Geknome UnicornEquine Tail/image-01.webp>)
 
 ---
 
@@ -376,7 +376,7 @@ One review mentions that the patterns are spread out and take 27 pages.
 
 [https://www.etsy.com/ca/listing/1739661162/diy-fursuit-evolution-fox-tail-pattern](https://www.etsy.com/ca/listing/1739661162/diy-fursuit-evolution-fox-tail-pattern "smartCard-inline")
 
-![\*K\*i\*t\*t\*e\*n\*C\*a\*f\*e\*S\*t\*u\*d\*i\*o\*s\* \*E\*e\*v\*e\*e\* \*T\*a\*i\*l\* \*P\*a\*t\*t\*e\*r\*n\*](<attachments/Other Species Tails/KittenCafeStudios Eevee Tail Pattern/image-01.webp>)
+![\*K\*i\*t\*t\*e\*n\*C\*a\*f\*e\*S\*t\*u\*d\*i\*o\*s\* \*E\*e\*v\*e\*e\* \*T\*a\*i\*l\* \*P\*a\*t\*t\*e\*r\*n\*](<../attachments/Other Species Tails/KittenCafeStudios Eevee Tail Pattern/image-01.webp>)
 
 ---
 
@@ -386,7 +386,7 @@ One review mentions that the patterns are spread out and take 27 pages.
 
 [https://www.etsy.com/ca/listing/1784709018/shark-tail-fursuit-sewing-pattern](https://www.etsy.com/ca/listing/1784709018/shark-tail-fursuit-sewing-pattern "‌")
 
-![\*K\*n\*i\*t\*t\*i\*n\*K\*i\*t\*t\*e\*n\*F\*a\*s\*h\*i\*o\*n\* \*S\*h\*a\*r\*k\* \*T\*a\*i\*l\*](<attachments/Other Species Tails/KnittinKittenFashion Shark Tail/image-01.webp>)
+![\*K\*n\*i\*t\*t\*i\*n\*K\*i\*t\*t\*e\*n\*F\*a\*s\*h\*i\*o\*n\* \*S\*h\*a\*r\*k\* \*T\*a\*i\*l\*](<../attachments/Other Species Tails/KnittinKittenFashion Shark Tail/image-01.webp>)
 
 ---
 
@@ -396,7 +396,7 @@ One review mentions that the patterns are spread out and take 27 pages.
 
 [https://www.etsy.com/ca/listing/1788771644/raptor-tail-fursuit-sewing-patternpdf](https://www.etsy.com/ca/listing/1788771644/raptor-tail-fursuit-sewing-patternpdf "‌")
 
-![\*K\*n\*i\*t\*t\*i\*n\*K\*i\*t\*t\*e\*n\*F\*a\*s\*h\*i\*o\*n\* \*R\*a\*p\*t\*o\*r\* \*T\*a\*i\*l\*](<attachments/Other Species Tails/KnittinKittenFashion Raptor Tail/image-01.webp>)
+![\*K\*n\*i\*t\*t\*i\*n\*K\*i\*t\*t\*e\*n\*F\*a\*s\*h\*i\*o\*n\* \*R\*a\*p\*t\*o\*r\* \*T\*a\*i\*l\*](<../attachments/Other Species Tails/KnittinKittenFashion Raptor Tail/image-01.webp>)
 
 ---
 
@@ -406,7 +406,7 @@ One review mentions that the patterns are spread out and take 27 pages.
 
 [https://www.etsy.com/ca/listing/733761246/dragon-tail-eva-foam-pattern-template](https://www.etsy.com/ca/listing/733761246/dragon-tail-eva-foam-pattern-template "smartCard-inline")
 
-![\*C\*h\*i\*l\*l\*i\*C\*o\*s\*p\*l\*a\*y\* \*E\*V\*A\* \*D\*r\*a\*g\*o\*n\* \*T\*a\*i\*l\*](<attachments/Other Species Tails/ChilliCosplay EVA Dragon Tail/image-01.webp>)
+![\*C\*h\*i\*l\*l\*i\*C\*o\*s\*p\*l\*a\*y\* \*E\*V\*A\* \*D\*r\*a\*g\*o\*n\* \*T\*a\*i\*l\*](<../attachments/Other Species Tails/ChilliCosplay EVA Dragon Tail/image-01.webp>)
 
 ---
 
@@ -416,7 +416,7 @@ One review mentions that the patterns are spread out and take 27 pages.
 
 [https://www.etsy.com/ca/listing/1813605969/dragon-fursuit-tail-sewing-pattern-and](https://www.etsy.com/ca/listing/1813605969/dragon-fursuit-tail-sewing-pattern-and "smartCard-inline")
 
-![\*w\*e\*r\*e\*w\*o\*l\*f\*p\*r\*i\*n\*c\*e\*6\*6\*6\* \*D\*r\*a\*g\*o\*n\* \*T\*a\*i\*l\*](<attachments/Other Species Tails/werewolfprince666 Dragon Tail/image-01.png>)
+![\*w\*e\*r\*e\*w\*o\*l\*f\*p\*r\*i\*n\*c\*e\*6\*6\*6\* \*D\*r\*a\*g\*o\*n\* \*T\*a\*i\*l\*](<../attachments/Other Species Tails/werewolfprince666 Dragon Tail/image-01.png>)
 
 ---
 
@@ -426,7 +426,7 @@ One review mentions that the patterns are spread out and take 27 pages.
 
 [https://www.etsy.com/ca/listing/1781419578/fursuit-tail-pattern-large](https://www.etsy.com/ca/listing/1781419578/fursuit-tail-pattern-large "smartCard-inline")
 
-![\*S\*w\*e\*e\*t\*C\*i\*d\*e\*r\*C\*r\*e\*a\*t\*i\*o\*n\* \*O\*p\*o\*s\*s\*u\*m\*/\*R\*o\*d\*e\*n\*t\* \*T\*a\*i\*l\*](<attachments/Other Species Tails/SweetCiderCreation OpossumRodent Tail/image-01.webp>)
+![\*S\*w\*e\*e\*t\*C\*i\*d\*e\*r\*C\*r\*e\*a\*t\*i\*o\*n\* \*O\*p\*o\*s\*s\*u\*m\*/\*R\*o\*d\*e\*n\*t\* \*T\*a\*i\*l\*](<../attachments/Other Species Tails/SweetCiderCreation OpossumRodent Tail/image-01.webp>)
 
 ---
 
@@ -436,7 +436,7 @@ One review mentions that the patterns are spread out and take 27 pages.
 
 [https://www.etsy.com/ca/listing/1809601052/floor-dragger-tail-digital-download](https://www.etsy.com/ca/listing/1809601052/floor-dragger-tail-digital-download "‌")
 
-![\*M\*u\*n\*c\*h\*M\*u\*n\*c\*h\*S\*t\*u\*d\*i\*o\* \*F\*l\*o\*o\*r\* \*D\*r\*a\*g\*g\*e\*r\* \*T\*a\*i\*l\*](<attachments/Other Species Tails/MunchMunchStudio Floor Dragger Tail/image-01.webp>)
+![\*M\*u\*n\*c\*h\*M\*u\*n\*c\*h\*S\*t\*u\*d\*i\*o\* \*F\*l\*o\*o\*r\* \*D\*r\*a\*g\*g\*e\*r\* \*T\*a\*i\*l\*](<../attachments/Other Species Tails/MunchMunchStudio Floor Dragger Tail/image-01.webp>)
 
 ---
 
@@ -452,7 +452,7 @@ Curly: [https://www.etsy.com/ca/listing/1887738483/curled-possum-tail-pattern-pd
 
 Kinked: [https://www.etsy.com/ca/listing/1873553580/scrunchy-possum-tail-pattern-pdf](https://www.etsy.com/ca/listing/1873553580/scrunchy-possum-tail-pattern-pdf "smartCard-inline")
 
-![\*S\*p\*i\*l\*t\*G\*r\*a\*p\*e\*S\*o\*d\*a\* \*R\*o\*d\*e\*n\*t\* \*T\*a\*i\*l\*s\* \*(\*3\* \*v\*e\*r\*s\*i\*o\*n\*s\*)\*](<attachments/Other Species Tails/SpiltGrapeSoda Rodent Tails (3 versions)/image-01.png>)
+![\*S\*p\*i\*l\*t\*G\*r\*a\*p\*e\*S\*o\*d\*a\* \*R\*o\*d\*e\*n\*t\* \*T\*a\*i\*l\*s\* \*(\*3\* \*v\*e\*r\*s\*i\*o\*n\*s\*)\*](<../attachments/Other Species Tails/SpiltGrapeSoda Rodent Tails (3 versions)/image-01.png>)
 
 ---
 
@@ -462,7 +462,7 @@ Kinked: [https://www.etsy.com/ca/listing/1873553580/scrunchy-possum-tail-pattern
 
 [https://www.etsy.com/ca/listing/4369649022/fabric-dragon-tail-and-harness-pattern](https://www.etsy.com/ca/listing/4369649022/fabric-dragon-tail-and-harness-pattern "smartCard-inline")
 
-![\*r\*i\*c\*o\*c\*h\*e\*t\*x\*c\*r\*a\*f\*t\*s\* \*D\*r\*a\*g\*o\*n\* \*T\*a\*i\*l\*](<attachments/Other Species Tails/ricochetxcrafts Dragon Tail/image-01.png>)
+![\*r\*i\*c\*o\*c\*h\*e\*t\*x\*c\*r\*a\*f\*t\*s\* \*D\*r\*a\*g\*o\*n\* \*T\*a\*i\*l\*](<../attachments/Other Species Tails/ricochetxcrafts Dragon Tail/image-01.png>)
 
 ---
 
@@ -470,7 +470,7 @@ Kinked: [https://www.etsy.com/ca/listing/1873553580/scrunchy-possum-tail-pattern
 
 ### SweetCiderCreation Large Floor Dragger    
 
-![\*S\*w\*e\*e\*t\*C\*i\*d\*e\*r\*C\*r\*e\*a\*t\*i\*o\*n\* \*L\*a\*r\*g\*e\* \*F\*l\*o\*o\*r\* \*D\*r\*a\*g\*g\*e\*r\*](<attachments/Other Species Tails/SweetCiderCreation Large Floor Dragger/image-01.png>)
+![\*S\*w\*e\*e\*t\*C\*i\*d\*e\*r\*C\*r\*e\*a\*t\*i\*o\*n\* \*L\*a\*r\*g\*e\* \*F\*l\*o\*o\*r\* \*D\*r\*a\*g\*g\*e\*r\*](<../attachments/Other Species Tails/SweetCiderCreation Large Floor Dragger/image-01.png>)
 
 ---
 
@@ -480,7 +480,7 @@ Kinked: [https://www.etsy.com/ca/listing/1873553580/scrunchy-possum-tail-pattern
 
 [https://www.etsy.com/ca/listing/4450389950/spiked-tail-pattern-fursuit-cosplay](https://www.etsy.com/ca/listing/4450389950/spiked-tail-pattern-fursuit-cosplay "smartCard-inline")
 
-![\*H\*o\*w\*l\*i\*n\*g\*D\*r\*a\*g\*o\*n\*S\*t\*u\*d\*i\*o\*s\* \*S\*p\*i\*k\*e\*d\* \*T\*a\*i\*l\* \*P\*a\*t\*t\*e\*r\*n\*](<attachments/Other Species Tails/HowlingDragonStudios Spiked Tail Pattern/image-01.webp>)
+![\*H\*o\*w\*l\*i\*n\*g\*D\*r\*a\*g\*o\*n\*S\*t\*u\*d\*i\*o\*s\* \*S\*p\*i\*k\*e\*d\* \*T\*a\*i\*l\* \*P\*a\*t\*t\*e\*r\*n\*](<../attachments/Other Species Tails/HowlingDragonStudios Spiked Tail Pattern/image-01.webp>)
 
 ---
 
@@ -490,7 +490,7 @@ Kinked: [https://www.etsy.com/ca/listing/1873553580/scrunchy-possum-tail-pattern
 
 [https://www.etsy.com/ca/listing/1822660110/orca-tail-pattern](https://www.etsy.com/ca/listing/1822660110/orca-tail-pattern "smartCard-inline")
 
-![\*G\*o\*l\*d\*e\*n\*R\*e\*l\*i\*i\*c\* \*O\*r\*c\*a\* \*T\*a\*i\*l\* \*P\*a\*t\*t\*e\*r\*n\*](<attachments/Other Species Tails/GoldenReliic Orca Tail Pattern/image-01.webp>)
+![\*G\*o\*l\*d\*e\*n\*R\*e\*l\*i\*i\*c\* \*O\*r\*c\*a\* \*T\*a\*i\*l\* \*P\*a\*t\*t\*e\*r\*n\*](<../attachments/Other Species Tails/GoldenReliic Orca Tail Pattern/image-01.webp>)
 
 ---
 
@@ -500,7 +500,7 @@ Kinked: [https://www.etsy.com/ca/listing/1873553580/scrunchy-possum-tail-pattern
 
 [https://www.etsy.com/ca/listing/4307439881/protogen-tail-pattern-pdf-download](https://www.etsy.com/ca/listing/4307439881/protogen-tail-pattern-pdf-download "smartCard-inline")
 
-![\*P\*u\*z\*z\*l\*e\*P\*a\*t\*c\*h\*w\*o\*r\*k\*s\* \*P\*r\*o\*t\*o\*g\*e\*n\* \*T\*a\*i\*l\*](<attachments/Other Species Tails/PuzzlePatchworks Protogen Tail/image-01.webp>)
+![\*P\*u\*z\*z\*l\*e\*P\*a\*t\*c\*h\*w\*o\*r\*k\*s\* \*P\*r\*o\*t\*o\*g\*e\*n\* \*T\*a\*i\*l\*](<../attachments/Other Species Tails/PuzzlePatchworks Protogen Tail/image-01.webp>)
 
 ---
 
@@ -522,19 +522,19 @@ Deer: [https://www.etsy.com/ca/listing/1854980794/pdf-deer-tail-pattern](https:/
 
 Lizard: [https://www.etsy.com/ca/listing/1854978420/pdf-lizard-tail-pattern](https://www.etsy.com/ca/listing/1854978420/pdf-lizard-tail-pattern "smartCard-inline")
 
-![\*S\*i\*w\*e\*n\*c\*o\*s\*p\*l\*a\*y\*p\*a\*t\*t\*e\*r\*n\*s\* \*6\* \*E\*V\*A\* \*T\*a\*i\*l\* \*P\*a\*t\*t\*e\*r\*n\*s\*](<attachments/Other Species Tails/Siwencosplaypatterns 6 EVA Tail Patterns/image-01.png>)
+![\*S\*i\*w\*e\*n\*c\*o\*s\*p\*l\*a\*y\*p\*a\*t\*t\*e\*r\*n\*s\* \*6\* \*E\*V\*A\* \*T\*a\*i\*l\* \*P\*a\*t\*t\*e\*r\*n\*s\*](<../attachments/Other Species Tails/Siwencosplaypatterns 6 EVA Tail Patterns/image-01.png>)
 
-![\*S\*i\*w\*e\*n\*c\*o\*s\*p\*l\*a\*y\*p\*a\*t\*t\*e\*r\*n\*s\* \*6\* \*E\*V\*A\* \*T\*a\*i\*l\* \*P\*a\*t\*t\*e\*r\*n\*s\*](<attachments/Other Species Tails/Siwencosplaypatterns 6 EVA Tail Patterns/image-02.png>)
+![\*S\*i\*w\*e\*n\*c\*o\*s\*p\*l\*a\*y\*p\*a\*t\*t\*e\*r\*n\*s\* \*6\* \*E\*V\*A\* \*T\*a\*i\*l\* \*P\*a\*t\*t\*e\*r\*n\*s\*](<../attachments/Other Species Tails/Siwencosplaypatterns 6 EVA Tail Patterns/image-02.png>)
 
-![\*S\*i\*w\*e\*n\*c\*o\*s\*p\*l\*a\*y\*p\*a\*t\*t\*e\*r\*n\*s\* \*6\* \*E\*V\*A\* \*T\*a\*i\*l\* \*P\*a\*t\*t\*e\*r\*n\*s\*](<attachments/Other Species Tails/Siwencosplaypatterns 6 EVA Tail Patterns/image-03.webp>)
+![\*S\*i\*w\*e\*n\*c\*o\*s\*p\*l\*a\*y\*p\*a\*t\*t\*e\*r\*n\*s\* \*6\* \*E\*V\*A\* \*T\*a\*i\*l\* \*P\*a\*t\*t\*e\*r\*n\*s\*](<../attachments/Other Species Tails/Siwencosplaypatterns 6 EVA Tail Patterns/image-03.webp>)
 
-![\*S\*i\*w\*e\*n\*c\*o\*s\*p\*l\*a\*y\*p\*a\*t\*t\*e\*r\*n\*s\* \*6\* \*E\*V\*A\* \*T\*a\*i\*l\* \*P\*a\*t\*t\*e\*r\*n\*s\*](<attachments/Other Species Tails/Siwencosplaypatterns 6 EVA Tail Patterns/image-04.webp>)
+![\*S\*i\*w\*e\*n\*c\*o\*s\*p\*l\*a\*y\*p\*a\*t\*t\*e\*r\*n\*s\* \*6\* \*E\*V\*A\* \*T\*a\*i\*l\* \*P\*a\*t\*t\*e\*r\*n\*s\*](<../attachments/Other Species Tails/Siwencosplaypatterns 6 EVA Tail Patterns/image-04.webp>)
 
-![\*S\*i\*w\*e\*n\*c\*o\*s\*p\*l\*a\*y\*p\*a\*t\*t\*e\*r\*n\*s\* \*6\* \*E\*V\*A\* \*T\*a\*i\*l\* \*P\*a\*t\*t\*e\*r\*n\*s\*](<attachments/Other Species Tails/Siwencosplaypatterns 6 EVA Tail Patterns/image-05.webp>)
+![\*S\*i\*w\*e\*n\*c\*o\*s\*p\*l\*a\*y\*p\*a\*t\*t\*e\*r\*n\*s\* \*6\* \*E\*V\*A\* \*T\*a\*i\*l\* \*P\*a\*t\*t\*e\*r\*n\*s\*](<../attachments/Other Species Tails/Siwencosplaypatterns 6 EVA Tail Patterns/image-05.webp>)
 
-![\*S\*i\*w\*e\*n\*c\*o\*s\*p\*l\*a\*y\*p\*a\*t\*t\*e\*r\*n\*s\* \*6\* \*E\*V\*A\* \*T\*a\*i\*l\* \*P\*a\*t\*t\*e\*r\*n\*s\*](<attachments/Other Species Tails/Siwencosplaypatterns 6 EVA Tail Patterns/image-06.webp>)
+![\*S\*i\*w\*e\*n\*c\*o\*s\*p\*l\*a\*y\*p\*a\*t\*t\*e\*r\*n\*s\* \*6\* \*E\*V\*A\* \*T\*a\*i\*l\* \*P\*a\*t\*t\*e\*r\*n\*s\*](<../attachments/Other Species Tails/Siwencosplaypatterns 6 EVA Tail Patterns/image-06.webp>)
 
-![\*S\*i\*w\*e\*n\*c\*o\*s\*p\*l\*a\*y\*p\*a\*t\*t\*e\*r\*n\*s\* \*6\* \*E\*V\*A\* \*T\*a\*i\*l\* \*P\*a\*t\*t\*e\*r\*n\*s\*](<attachments/Other Species Tails/Siwencosplaypatterns 6 EVA Tail Patterns/image-07.webp>)
+![\*S\*i\*w\*e\*n\*c\*o\*s\*p\*l\*a\*y\*p\*a\*t\*t\*e\*r\*n\*s\* \*6\* \*E\*V\*A\* \*T\*a\*i\*l\* \*P\*a\*t\*t\*e\*r\*n\*s\*](<../attachments/Other Species Tails/Siwencosplaypatterns 6 EVA Tail Patterns/image-07.webp>)
 
 ---
 
@@ -544,7 +544,7 @@ Lizard: [https://www.etsy.com/ca/listing/1854978420/pdf-lizard-tail-pattern](htt
 
 [https://www.etsy.com/ca/listing/4452569232/fursuit-seal-pattern-tail-and-paws](https://www.etsy.com/ca/listing/4452569232/fursuit-seal-pattern-tail-and-paws "smartCard-inline")
 
-![\*B\*e\*t\*w\*e\*e\*n\*S\*p\*a\*c\*e\*&\*S\*e\*a\* \*S\*e\*a\*l\* \*H\*a\*n\*d\* \*a\*n\*d\* \*T\*a\*i\*l\* \*P\*a\*t\*t\*e\*r\*n\*](<attachments/Other Species Tails/BetweenSpace&Sea Seal Hand and Tail Pattern/image-01.webp>)
+![\*B\*e\*t\*w\*e\*e\*n\*S\*p\*a\*c\*e\*&\*S\*e\*a\* \*S\*e\*a\*l\* \*H\*a\*n\*d\* \*a\*n\*d\* \*T\*a\*i\*l\* \*P\*a\*t\*t\*e\*r\*n\*](<../attachments/Other Species Tails/BetweenSpace&Sea Seal Hand and Tail Pattern/image-01.webp>)
 
 ---
 
@@ -554,7 +554,7 @@ Lizard: [https://www.etsy.com/ca/listing/1854978420/pdf-lizard-tail-pattern](htt
 
 [https://www.etsy.com/ca/listing/1498830777/fursuit-tail-pattern-big-fluffy-tail](https://www.etsy.com/ca/listing/1498830777/fursuit-tail-pattern-big-fluffy-tail "smartCard-inline")
 
-![\*K\*a\*n\*i\*x\*S\*t\*u\*d\*i\*o\*s\* \*L\*a\*r\*g\*e\* \*R\*a\*c\*o\*o\*n\* \*T\*a\*i\*l\*](<attachments/Other Species Tails/KanixStudios Large Racoon Tail/image-01.jpg>)
+![\*K\*a\*n\*i\*x\*S\*t\*u\*d\*i\*o\*s\* \*L\*a\*r\*g\*e\* \*R\*a\*c\*o\*o\*n\* \*T\*a\*i\*l\*](<../attachments/Other Species Tails/KanixStudios Large Racoon Tail/image-01.jpg>)
 
 ---
 
@@ -566,9 +566,9 @@ Lizard: [https://www.etsy.com/ca/listing/1854978420/pdf-lizard-tail-pattern](htt
 
 [https://ko-fi.com/s/6fc85095bd](https://ko-fi.com/s/6fc85095bd "smartCard-inline")
 
-![\*N\*e\*a\*r\*V\*a\*l\*k\*y\*r\*i\*e\* \*4\* \*F\*o\*a\*m\* \*T\*a\*i\*l\*s\*](<attachments/Other Species Tails/NearValkyrie 4 Foam Tails/image-01.webp>)
+![\*N\*e\*a\*r\*V\*a\*l\*k\*y\*r\*i\*e\* \*4\* \*F\*o\*a\*m\* \*T\*a\*i\*l\*s\*](<../attachments/Other Species Tails/NearValkyrie 4 Foam Tails/image-01.webp>)
 
-![\*N\*e\*a\*r\*V\*a\*l\*k\*y\*r\*i\*e\* \*4\* \*F\*o\*a\*m\* \*T\*a\*i\*l\*s\*](<attachments/Other Species Tails/NearValkyrie 4 Foam Tails/image-02.webp>)
+![\*N\*e\*a\*r\*V\*a\*l\*k\*y\*r\*i\*e\* \*4\* \*F\*o\*a\*m\* \*T\*a\*i\*l\*s\*](<../attachments/Other Species Tails/NearValkyrie 4 Foam Tails/image-02.webp>)
 
 ---
 
@@ -578,6 +578,6 @@ Lizard: [https://www.etsy.com/ca/listing/1854978420/pdf-lizard-tail-pattern](htt
 
 [https://www.etsy.com/ca/listing/4540921827/monster-mouth-tail-pattern-diy-fursuit](https://www.etsy.com/ca/listing/4540921827/monster-mouth-tail-pattern-diy-fursuit "smartCard-inline")
 
-![\*S\*a\*b\*e\*r\*W\*o\*l\*f\*S\*t\*u\*d\*i\*o\* \*M\*o\*n\*s\*t\*e\*r\* \*M\*o\*u\*t\*h\* \*T\*a\*i\*l\*](<attachments/Other Species Tails/SaberWolfStudio Monster Mouth Tail/image-01.png>)
+![\*S\*a\*b\*e\*r\*W\*o\*l\*f\*S\*t\*u\*d\*i\*o\* \*M\*o\*n\*s\*t\*e\*r\* \*M\*o\*u\*t\*h\* \*T\*a\*i\*l\*](<../attachments/Other Species Tails/SaberWolfStudio Monster Mouth Tail/image-01.png>)
 
 ---

@@ -12,7 +12,7 @@
 
 Not a feetpaw pattern, it’s how to add removable, zippered feetpaws
 
-![\*A\*s\*h\*e\*s\*N\*N\*e\*e\*d\*l\*e\*s\* \*Z\*i\*p\*-\*O\*n\* \*F\*e\*e\*t\*](<attachments/Faun or Digitigrade legs & Bodysuits/AshesNNeedles Zip-On Feet/image-01.jpg>)
+![\*A\*s\*h\*e\*s\*N\*N\*e\*e\*d\*l\*e\*s\* \*Z\*i\*p\*-\*O\*n\* \*F\*e\*e\*t\*](<../attachments/Faun or Digitigrade legs & Bodysuits/AshesNNeedles Zip-On Feet/image-01.jpg>)
 
 ---
 
@@ -22,11 +22,11 @@ Not a feetpaw pattern, it’s how to add removable, zippered feetpaws
 
 [https://x.com/7V0B0DY/status/2031554120448909491](https://x.com/7V0B0DY/status/2031554120448909491 "smartCard-inline")
 
-![\*(\*F\*R\*E\*E\*)\* \*@\*7\*V\*0\*B\*0\*D\*y\* \*L\*e\*g\* \*P\*a\*d\*d\*i\*n\*g\*](<attachments/Faun or Digitigrade legs & Bodysuits/(FREE) @7V0B0Dy Leg Padding/image-01.png>)
+![\*(\*F\*R\*E\*E\*)\* \*@\*7\*V\*0\*B\*0\*D\*y\* \*L\*e\*g\* \*P\*a\*d\*d\*i\*n\*g\*](<../attachments/Faun or Digitigrade legs & Bodysuits/(FREE) @7V0B0Dy Leg Padding/image-01.png>)
 
-![\*(\*F\*R\*E\*E\*)\* \*@\*7\*V\*0\*B\*0\*D\*y\* \*L\*e\*g\* \*P\*a\*d\*d\*i\*n\*g\*](<attachments/Faun or Digitigrade legs & Bodysuits/(FREE) @7V0B0Dy Leg Padding/image-02.png>)
+![\*(\*F\*R\*E\*E\*)\* \*@\*7\*V\*0\*B\*0\*D\*y\* \*L\*e\*g\* \*P\*a\*d\*d\*i\*n\*g\*](<../attachments/Faun or Digitigrade legs & Bodysuits/(FREE) @7V0B0Dy Leg Padding/image-02.png>)
 
-![\*(\*F\*R\*E\*E\*)\* \*@\*7\*V\*0\*B\*0\*D\*y\* \*L\*e\*g\* \*P\*a\*d\*d\*i\*n\*g\*](<attachments/Faun or Digitigrade legs & Bodysuits/(FREE) @7V0B0Dy Leg Padding/image-03.png>)
+![\*(\*F\*R\*E\*E\*)\* \*@\*7\*V\*0\*B\*0\*D\*y\* \*L\*e\*g\* \*P\*a\*d\*d\*i\*n\*g\*](<../attachments/Faun or Digitigrade legs & Bodysuits/(FREE) @7V0B0Dy Leg Padding/image-03.png>)
 
 ---
 
@@ -36,7 +36,7 @@ Not a feetpaw pattern, it’s how to add removable, zippered feetpaws
 
 [https://www.etsy.com/ca/listing/1399209332/skypro-donkey-faun-legs-pattern](https://www.etsy.com/ca/listing/1399209332/skypro-donkey-faun-legs-pattern "smartCard-inline")
 
-![\*S\*k\*y\*p\*r\*o\* \*D\*o\*n\*k\*y\* \*F\*a\*u\*n\* \*l\*e\*g\*s\*](<attachments/Faun or Digitigrade legs & Bodysuits/Skypro Donky Faun legs/image-01.jpg>)
+![\*S\*k\*y\*p\*r\*o\* \*D\*o\*n\*k\*y\* \*F\*a\*u\*n\* \*l\*e\*g\*s\*](<../attachments/Faun or Digitigrade legs & Bodysuits/Skypro Donky Faun legs/image-01.jpg>)
 
 ---
 
@@ -50,7 +50,7 @@ Not a feetpaw pattern, it’s how to add removable, zippered feetpaws
 
 [https://www.youtube.com/watch?v=4E7v4ZHqyuc](https://www.youtube.com/watch?v=4E7v4ZHqyuc "smartCard-inline")
 
-![\*M\*u\*g\*i\*w\*a\*r\*a\* \*M\*e\*d\*i\*u\*m\* \*F\*e\*m\*a\*l\*e\* \*D\*i\*g\*i\* \*B\*o\*d\*y\*s\*u\*i\*t\*](<attachments/Faun or Digitigrade legs & Bodysuits/Mugiwara Medium Female Digi Bodysuit/image-01.jpg>)
+![\*M\*u\*g\*i\*w\*a\*r\*a\* \*M\*e\*d\*i\*u\*m\* \*F\*e\*m\*a\*l\*e\* \*D\*i\*g\*i\* \*B\*o\*d\*y\*s\*u\*i\*t\*](<../attachments/Faun or Digitigrade legs & Bodysuits/Mugiwara Medium Female Digi Bodysuit/image-01.jpg>)
 
 ---
 
@@ -64,7 +64,7 @@ Not a feetpaw pattern, it’s how to add removable, zippered feetpaws
 
 [https://www.youtube.com/watch?v=4E7v4ZHqyuc](https://www.youtube.com/watch?v=4E7v4ZHqyuc "smartCard-inline")
 
-![\*M\*u\*g\*i\*w\*a\*r\*a\* \*S\*m\*a\*l\*l\* \*M\*a\*l\*e\* \*D\*i\*g\*i\* \*B\*o\*d\*y\*s\*u\*i\*t\*](<attachments/Faun or Digitigrade legs & Bodysuits/Mugiwara Small Male Digi Bodysuit/image-01.jpg>)
+![\*M\*u\*g\*i\*w\*a\*r\*a\* \*S\*m\*a\*l\*l\* \*M\*a\*l\*e\* \*D\*i\*g\*i\* \*B\*o\*d\*y\*s\*u\*i\*t\*](<../attachments/Faun or Digitigrade legs & Bodysuits/Mugiwara Small Male Digi Bodysuit/image-01.jpg>)
 
 ---
 
@@ -78,7 +78,7 @@ Not a feetpaw pattern, it’s how to add removable, zippered feetpaws
 
 [https://www.youtube.com/watch?v=B6DmcuOP8Vw](https://www.youtube.com/watch?v=B6DmcuOP8Vw "smartCard-inline")
 
-![\*M\*u\*g\*i\*w\*a\*r\*a\* \*S\*m\*a\*l\*l\* \*M\*a\*l\*e\* \*P\*l\*a\*n\*t\*i\* \*B\*o\*d\*y\*s\*u\*i\*t\*](<attachments/Faun or Digitigrade legs & Bodysuits/Mugiwara Small Male Planti Bodysuit/image-01.jpg>)
+![\*M\*u\*g\*i\*w\*a\*r\*a\* \*S\*m\*a\*l\*l\* \*M\*a\*l\*e\* \*P\*l\*a\*n\*t\*i\* \*B\*o\*d\*y\*s\*u\*i\*t\*](<../attachments/Faun or Digitigrade legs & Bodysuits/Mugiwara Small Male Planti Bodysuit/image-01.jpg>)
 
 ---
 
@@ -92,7 +92,7 @@ Not a feetpaw pattern, it’s how to add removable, zippered feetpaws
 
 [https://youtu.be/UQDU2brOOos](https://youtu.be/UQDU2brOOos "smartCard-inline")
 
-![\*M\*u\*g\*i\*w\*a\*r\*a\* \*P\*r\*o\*t\*o\*g\*e\*n\* \*B\*o\*d\*y\* \*A\*r\*m\*o\*r\*](<attachments/Faun or Digitigrade legs & Bodysuits/Mugiwara Protogen Body Armor/image-01.webp>)
+![\*M\*u\*g\*i\*w\*a\*r\*a\* \*P\*r\*o\*t\*o\*g\*e\*n\* \*B\*o\*d\*y\* \*A\*r\*m\*o\*r\*](<../attachments/Faun or Digitigrade legs & Bodysuits/Mugiwara Protogen Body Armor/image-01.webp>)
 
 ---
 
@@ -114,9 +114,9 @@ Leg liner (to be used with foam pattern): [https://mugiwara-cosplay.sellfy.store
 
 [https://youtu.be/mlMV-YFR0IE](https://youtu.be/mlMV-YFR0IE "smartCard-inline")
 
-![\*M\*u\*g\*i\*w\*a\*r\*a\* \*D\*i\*g\*i\* \*L\*e\*g\* \*P\*a\*t\*t\*e\*r\*n\* \*+\* \*L\*i\*n\*i\*n\*g\*](<attachments/Faun or Digitigrade legs & Bodysuits/Mugiwara Digi Leg Pattern + Lining/image-01.webp>)
+![\*M\*u\*g\*i\*w\*a\*r\*a\* \*D\*i\*g\*i\* \*L\*e\*g\* \*P\*a\*t\*t\*e\*r\*n\* \*+\* \*L\*i\*n\*i\*n\*g\*](<../attachments/Faun or Digitigrade legs & Bodysuits/Mugiwara Digi Leg Pattern + Lining/image-01.webp>)
 
-![\*M\*u\*g\*i\*w\*a\*r\*a\* \*D\*i\*g\*i\* \*L\*e\*g\* \*P\*a\*t\*t\*e\*r\*n\* \*+\* \*L\*i\*n\*i\*n\*g\*](<attachments/Faun or Digitigrade legs & Bodysuits/Mugiwara Digi Leg Pattern + Lining/image-02.webp>)
+![\*M\*u\*g\*i\*w\*a\*r\*a\* \*D\*i\*g\*i\* \*L\*e\*g\* \*P\*a\*t\*t\*e\*r\*n\* \*+\* \*L\*i\*n\*i\*n\*g\*](<../attachments/Faun or Digitigrade legs & Bodysuits/Mugiwara Digi Leg Pattern + Lining/image-02.webp>)
 
 ---
 
@@ -130,7 +130,7 @@ Leg liner (to be used with foam pattern): [https://mugiwara-cosplay.sellfy.store
 
 [https://www.youtube.com/watch?v=mD38LTZRVFM](https://www.youtube.com/watch?v=mD38LTZRVFM "smartCard-inline")
 
-![\*M\*u\*g\*i\*w\*a\*r\*a\* \*B\*i\*g\* \*F\*o\*a\*m\* \*B\*o\*d\*y\* \*w\*/\*S\*h\*e\*l\*l\* \*T\*e\*m\*p\*l\*a\*t\*e\*](<attachments/Faun or Digitigrade legs & Bodysuits/Mugiwara Big Foam Body wShell Template/image-01.webp>)
+![\*M\*u\*g\*i\*w\*a\*r\*a\* \*B\*i\*g\* \*F\*o\*a\*m\* \*B\*o\*d\*y\* \*w\*/\*S\*h\*e\*l\*l\* \*T\*e\*m\*p\*l\*a\*t\*e\*](<../attachments/Faun or Digitigrade legs & Bodysuits/Mugiwara Big Foam Body wShell Template/image-01.webp>)
 
 ---
 
@@ -140,7 +140,7 @@ Leg liner (to be used with foam pattern): [https://mugiwara-cosplay.sellfy.store
 
 [https://www.etsy.com/ca/listing/1418834413/hollow-foam-pant-leg-pattern](https://www.etsy.com/ca/listing/1418834413/hollow-foam-pant-leg-pattern "smartCard-inline")
 
-![\*r\*i\*c\*o\*c\*h\*e\*t\*x\*c\*r\*a\*f\*t\*s\* \*H\*o\*l\*l\*o\*w\* \*F\*o\*a\*m\* \*P\*a\*n\*t\* \*L\*e\*g\* \*P\*a\*t\*t\*e\*r\*n\*](<attachments/Faun or Digitigrade legs & Bodysuits/ricochetxcrafts Hollow Foam Pant Leg Pattern/image-01.png>)
+![\*r\*i\*c\*o\*c\*h\*e\*t\*x\*c\*r\*a\*f\*t\*s\* \*H\*o\*l\*l\*o\*w\* \*F\*o\*a\*m\* \*P\*a\*n\*t\* \*L\*e\*g\* \*P\*a\*t\*t\*e\*r\*n\*](<../attachments/Faun or Digitigrade legs & Bodysuits/ricochetxcrafts Hollow Foam Pant Leg Pattern/image-01.png>)
 
 ---
 
@@ -148,9 +148,9 @@ Leg liner (to be used with foam pattern): [https://mugiwara-cosplay.sellfy.store
 
 ### ricochetxcrafts Hollow Digi Legs    
 
-![\*r\*i\*c\*o\*c\*h\*e\*t\*x\*c\*r\*a\*f\*t\*s\* \*H\*o\*l\*l\*o\*w\* \*D\*i\*g\*i\* \*L\*e\*g\*s\*](<attachments/Faun or Digitigrade legs & Bodysuits/ricochetxcrafts Hollow Digi Legs/image-01.jpg>)
+![\*r\*i\*c\*o\*c\*h\*e\*t\*x\*c\*r\*a\*f\*t\*s\* \*H\*o\*l\*l\*o\*w\* \*D\*i\*g\*i\* \*L\*e\*g\*s\*](<../attachments/Faun or Digitigrade legs & Bodysuits/ricochetxcrafts Hollow Digi Legs/image-01.jpg>)
 
-![\*r\*i\*c\*o\*c\*h\*e\*t\*x\*c\*r\*a\*f\*t\*s\* \*H\*o\*l\*l\*o\*w\* \*D\*i\*g\*i\* \*L\*e\*g\*s\*](<attachments/Faun or Digitigrade legs & Bodysuits/ricochetxcrafts Hollow Digi Legs/image-02.jpg>)
+![\*r\*i\*c\*o\*c\*h\*e\*t\*x\*c\*r\*a\*f\*t\*s\* \*H\*o\*l\*l\*o\*w\* \*D\*i\*g\*i\* \*L\*e\*g\*s\*](<../attachments/Faun or Digitigrade legs & Bodysuits/ricochetxcrafts Hollow Digi Legs/image-02.jpg>)
 
 ---
 
@@ -160,9 +160,9 @@ Leg liner (to be used with foam pattern): [https://mugiwara-cosplay.sellfy.store
 
 [https://www.etsy.com/ca/listing/1564605122/hollow-foam-straight-digitigrade-leg](https://www.etsy.com/ca/listing/1564605122/hollow-foam-straight-digitigrade-leg "smartCard-inline")
 
-![\*r\*i\*c\*o\*c\*h\*e\*t\*x\*c\*r\*a\*f\*t\*s\* \*S\*t\*r\*a\*i\*g\*h\*t\* \*D\*i\*g\*i\* \*L\*e\*g\*s\*](<attachments/Faun or Digitigrade legs & Bodysuits/ricochetxcrafts Straight Digi Legs/image-01.jpg>)
+![\*r\*i\*c\*o\*c\*h\*e\*t\*x\*c\*r\*a\*f\*t\*s\* \*S\*t\*r\*a\*i\*g\*h\*t\* \*D\*i\*g\*i\* \*L\*e\*g\*s\*](<../attachments/Faun or Digitigrade legs & Bodysuits/ricochetxcrafts Straight Digi Legs/image-01.jpg>)
 
-![\*r\*i\*c\*o\*c\*h\*e\*t\*x\*c\*r\*a\*f\*t\*s\* \*S\*t\*r\*a\*i\*g\*h\*t\* \*D\*i\*g\*i\* \*L\*e\*g\*s\*](<attachments/Faun or Digitigrade legs & Bodysuits/ricochetxcrafts Straight Digi Legs/image-02.jpg>)
+![\*r\*i\*c\*o\*c\*h\*e\*t\*x\*c\*r\*a\*f\*t\*s\* \*S\*t\*r\*a\*i\*g\*h\*t\* \*D\*i\*g\*i\* \*L\*e\*g\*s\*](<../attachments/Faun or Digitigrade legs & Bodysuits/ricochetxcrafts Straight Digi Legs/image-02.jpg>)
 
 ---
 
@@ -172,7 +172,7 @@ Leg liner (to be used with foam pattern): [https://mugiwara-cosplay.sellfy.store
 
 [https://www.etsy.com/ca/listing/1338561296/hollow-foam-dragon-leg-pattern](https://www.etsy.com/ca/listing/1338561296/hollow-foam-dragon-leg-pattern "smartCard-inline")
 
-![\*r\*i\*c\*o\*c\*h\*e\*t\*x\*c\*r\*a\*f\*t\*s\* \*D\*r\*a\*g\*o\*n\* \*D\*i\*g\*i\* \*L\*e\*g\*s\*](<attachments/Faun or Digitigrade legs & Bodysuits/ricochetxcrafts Dragon Digi Legs/image-01.png>)
+![\*r\*i\*c\*o\*c\*h\*e\*t\*x\*c\*r\*a\*f\*t\*s\* \*D\*r\*a\*g\*o\*n\* \*D\*i\*g\*i\* \*L\*e\*g\*s\*](<../attachments/Faun or Digitigrade legs & Bodysuits/ricochetxcrafts Dragon Digi Legs/image-01.png>)
 
 ---
 
@@ -184,7 +184,7 @@ Leg liner (to be used with foam pattern): [https://mugiwara-cosplay.sellfy.store
 
 [https://www.youtube.com/shorts/pb6-voDTX38](https://www.youtube.com/shorts/pb6-voDTX38 "smartCard-inline")
 
-![\*N\*o\*r\*t\*h\* \*C\*a\*t\* \*C\*r\*e\*a\*t\*i\*o\*n\*s\* \*F\*u\*r\*s\*u\*i\*t\* \*P\*a\*d\*d\*i\*n\*g\* \*P\*a\*t\*t\*e\*r\*n\*](<attachments/Faun or Digitigrade legs & Bodysuits/North Cat Creations Fursuit Padding Pattern/image-01.jpg>)
+![\*N\*o\*r\*t\*h\* \*C\*a\*t\* \*C\*r\*e\*a\*t\*i\*o\*n\*s\* \*F\*u\*r\*s\*u\*i\*t\* \*P\*a\*d\*d\*i\*n\*g\* \*P\*a\*t\*t\*e\*r\*n\*](<../attachments/Faun or Digitigrade legs & Bodysuits/North Cat Creations Fursuit Padding Pattern/image-01.jpg>)
 
 ---
 
@@ -196,9 +196,9 @@ Read description! Pattern is old and harder to follow if you have no experience
 
 [https://www.etsy.com/ca/listing/1249639843/slim-digigrade-leg-pattern](https://www.etsy.com/ca/listing/1249639843/slim-digigrade-leg-pattern "smartCard-inline")
 
-![\*Z\*a\*b\*a\*C\*o\*s\*t\*u\*m\*e\*s\* \*S\*l\*i\*m\* \*D\*i\*g\*i\* \*L\*e\*g\* \*P\*a\*t\*t\*e\*r\*n\*](<attachments/Faun or Digitigrade legs & Bodysuits/ZabaCostumes Slim Digi Leg Pattern/image-01.jpg>)
+![\*Z\*a\*b\*a\*C\*o\*s\*t\*u\*m\*e\*s\* \*S\*l\*i\*m\* \*D\*i\*g\*i\* \*L\*e\*g\* \*P\*a\*t\*t\*e\*r\*n\*](<../attachments/Faun or Digitigrade legs & Bodysuits/ZabaCostumes Slim Digi Leg Pattern/image-01.jpg>)
 
-![\*Z\*a\*b\*a\*C\*o\*s\*t\*u\*m\*e\*s\* \*S\*l\*i\*m\* \*D\*i\*g\*i\* \*L\*e\*g\* \*P\*a\*t\*t\*e\*r\*n\*](<attachments/Faun or Digitigrade legs & Bodysuits/ZabaCostumes Slim Digi Leg Pattern/image-02.jpg>)
+![\*Z\*a\*b\*a\*C\*o\*s\*t\*u\*m\*e\*s\* \*S\*l\*i\*m\* \*D\*i\*g\*i\* \*L\*e\*g\* \*P\*a\*t\*t\*e\*r\*n\*](<../attachments/Faun or Digitigrade legs & Bodysuits/ZabaCostumes Slim Digi Leg Pattern/image-02.jpg>)
 
 ---
 
@@ -208,7 +208,7 @@ Read description! Pattern is old and harder to follow if you have no experience
 
 [https://www.etsy.com/ca/listing/1501119795/hollow-digi-leg-fursuit-pattern](https://www.etsy.com/ca/listing/1501119795/hollow-digi-leg-fursuit-pattern "smartCard-inline")
 
-![\*S\*a\*b\*e\*r\*w\*o\*l\*f\*s\*t\*u\*d\*i\*o\* \*H\*o\*l\*l\*o\*w\* \*D\*i\*g\*i\* \*L\*e\*g\* \*P\*a\*t\*t\*e\*r\*n\*](<attachments/Faun or Digitigrade legs & Bodysuits/Saberwolfstudio Hollow Digi Leg Pattern/image-01.jpg>)
+![\*S\*a\*b\*e\*r\*w\*o\*l\*f\*s\*t\*u\*d\*i\*o\* \*H\*o\*l\*l\*o\*w\* \*D\*i\*g\*i\* \*L\*e\*g\* \*P\*a\*t\*t\*e\*r\*n\*](<../attachments/Faun or Digitigrade legs & Bodysuits/Saberwolfstudio Hollow Digi Leg Pattern/image-01.jpg>)
 
 ---
 
@@ -220,9 +220,9 @@ Read description! Pattern is old and harder to follow if you have no experience
 
 [https://www.etsy.com/ca/listing/1639327286/digigrade-leg-fursuit-pattern](https://www.etsy.com/ca/listing/1639327286/digigrade-leg-fursuit-pattern "smartCard-inline")
 
-![\*F\*a\*r\*O\*u\*t\*F\*u\*r\*s\*u\*i\*t\*s\* \*D\*i\*g\*i\* \*L\*e\*g\* \*F\*u\*r\*s\*u\*i\*t\* \*P\*a\*t\*t\*e\*r\*n\*](<attachments/Faun or Digitigrade legs & Bodysuits/FarOutFursuits Digi Leg Fursuit Pattern/image-01.jpg>)
+![\*F\*a\*r\*O\*u\*t\*F\*u\*r\*s\*u\*i\*t\*s\* \*D\*i\*g\*i\* \*L\*e\*g\* \*F\*u\*r\*s\*u\*i\*t\* \*P\*a\*t\*t\*e\*r\*n\*](<../attachments/Faun or Digitigrade legs & Bodysuits/FarOutFursuits Digi Leg Fursuit Pattern/image-01.jpg>)
 
-![\*F\*a\*r\*O\*u\*t\*F\*u\*r\*s\*u\*i\*t\*s\* \*D\*i\*g\*i\* \*L\*e\*g\* \*F\*u\*r\*s\*u\*i\*t\* \*P\*a\*t\*t\*e\*r\*n\*](<attachments/Faun or Digitigrade legs & Bodysuits/FarOutFursuits Digi Leg Fursuit Pattern/image-02.jpg>)
+![\*F\*a\*r\*O\*u\*t\*F\*u\*r\*s\*u\*i\*t\*s\* \*D\*i\*g\*i\* \*L\*e\*g\* \*F\*u\*r\*s\*u\*i\*t\* \*P\*a\*t\*t\*e\*r\*n\*](<../attachments/Faun or Digitigrade legs & Bodysuits/FarOutFursuits Digi Leg Fursuit Pattern/image-02.jpg>)
 
 ---
 
@@ -240,7 +240,7 @@ Read description! Pattern is old and harder to follow if you have no experience
 
 [https://www.youtube.com/watch?v=9wd3yuGIId0](https://www.youtube.com/watch?v=9wd3yuGIId0 "smartCard-inline")
 
-![\*P\*r\*e\*m\*i\*u\*m\*F\*a\*u\*n\*t\*e\*n\*t\* \*L\*e\*g\* \*P\*a\*d\* \*T\*e\*m\*p\*l\*a\*t\*e\*](<attachments/Faun or Digitigrade legs & Bodysuits/PremiumFauntent Leg Pad Template/image-01.png>)
+![\*P\*r\*e\*m\*i\*u\*m\*F\*a\*u\*n\*t\*e\*n\*t\* \*L\*e\*g\* \*P\*a\*d\* \*T\*e\*m\*p\*l\*a\*t\*e\*](<../attachments/Faun or Digitigrade legs & Bodysuits/PremiumFauntent Leg Pad Template/image-01.png>)
 
 ---
 
@@ -250,7 +250,7 @@ Read description! Pattern is old and harder to follow if you have no experience
 
 [https://www.etsy.com/ca/listing/1753347044/fursuit-digitigrade-leg-padding-pattern](https://www.etsy.com/ca/listing/1753347044/fursuit-digitigrade-leg-padding-pattern "smartCard-inline")
 
-![\*G\*e\*k\*n\*o\*m\*e\* \*D\*i\*g\*i\*g\*r\*a\*d\*e\* \*L\*e\*g\* \*P\*a\*d\*d\*i\*n\*g\*](<attachments/Faun or Digitigrade legs & Bodysuits/Geknome Digigrade Leg Padding/image-01.jpg>)
+![\*G\*e\*k\*n\*o\*m\*e\* \*D\*i\*g\*i\*g\*r\*a\*d\*e\* \*L\*e\*g\* \*P\*a\*d\*d\*i\*n\*g\*](<../attachments/Faun or Digitigrade legs & Bodysuits/Geknome Digigrade Leg Padding/image-01.jpg>)
 
 ---
 
@@ -264,7 +264,7 @@ Read description! Pattern is old and harder to follow if you have no experience
 
 [Part 2 of video tutorial](https://www.tiktok.com/@mayingfantasycreations/video/7348733611958439200 "‌")
 
-![\*M\*a\*y\*i\*n\*g\*f\*a\*n\*t\*a\*s\*y\* \*D\*i\*g\*i\* \*B\*o\*d\*y\*s\*u\*i\*t\* \*P\*a\*d\*d\*i\*n\*g\*](<attachments/Faun or Digitigrade legs & Bodysuits/Mayingfantasy Digi Bodysuit Padding/image-01.webp>)
+![\*M\*a\*y\*i\*n\*g\*f\*a\*n\*t\*a\*s\*y\* \*D\*i\*g\*i\* \*B\*o\*d\*y\*s\*u\*i\*t\* \*P\*a\*d\*d\*i\*n\*g\*](<../attachments/Faun or Digitigrade legs & Bodysuits/Mayingfantasy Digi Bodysuit Padding/image-01.webp>)
 
 ---
 
@@ -274,7 +274,7 @@ Read description! Pattern is old and harder to follow if you have no experience
 
 [https://www.etsy.com/ca/listing/1732008266/digitigrade-fursuit-foamlegs-pattern](https://www.etsy.com/ca/listing/1732008266/digitigrade-fursuit-foamlegs-pattern "‌")
 
-![\*T\*h\*a\*t\*B\*i\*r\*b\*s\*C\*r\*e\*a\*t\*i\*o\*n\* \*F\*o\*a\*m\* \*D\*i\*g\*i\* \*L\*e\*g\*s\*](<attachments/Faun or Digitigrade legs & Bodysuits/ThatBirbsCreation Foam Digi Legs/image-01.webp>)
+![\*T\*h\*a\*t\*B\*i\*r\*b\*s\*C\*r\*e\*a\*t\*i\*o\*n\* \*F\*o\*a\*m\* \*D\*i\*g\*i\* \*L\*e\*g\*s\*](<../attachments/Faun or Digitigrade legs & Bodysuits/ThatBirbsCreation Foam Digi Legs/image-01.webp>)
 
 ---
 
@@ -284,7 +284,7 @@ Read description! Pattern is old and harder to follow if you have no experience
 
 [https://www.etsy.com/ca/listing/1868008523/fursuit-digi-leg-pattern-digital](https://www.etsy.com/ca/listing/1868008523/fursuit-digi-leg-pattern-digital "smartCard-inline")
 
-![\*M\*u\*n\*c\*h\*M\*u\*n\*c\*h\*S\*t\*u\*d\*i\*o\* \*D\*i\*g\*i\* \*T\*h\*i\*g\*h\* \*P\*a\*t\*t\*e\*r\*n\*](<attachments/Faun or Digitigrade legs & Bodysuits/MunchMunchStudio Digi Thigh Pattern/image-01.webp>)
+![\*M\*u\*n\*c\*h\*M\*u\*n\*c\*h\*S\*t\*u\*d\*i\*o\* \*D\*i\*g\*i\* \*T\*h\*i\*g\*h\* \*P\*a\*t\*t\*e\*r\*n\*](<../attachments/Faun or Digitigrade legs & Bodysuits/MunchMunchStudio Digi Thigh Pattern/image-01.webp>)
 
 ---
 
@@ -294,7 +294,7 @@ Read description! Pattern is old and harder to follow if you have no experience
 
 [https://www.etsy.com/ca/listing/1889594362/pattern-digigrade-knee-padding](https://www.etsy.com/ca/listing/1889594362/pattern-digigrade-knee-padding "smartCard-inline")
 
-![\*T\*h\*i\*s\*t\*l\*e\*c\*r\*u\*x\* \*D\*i\*g\*i\* \*K\*n\*e\*e\* \*P\*a\*t\*t\*e\*r\*n\*](<attachments/Faun or Digitigrade legs & Bodysuits/Thistlecrux Digi Knee Pattern/image-01.png>)
+![\*T\*h\*i\*s\*t\*l\*e\*c\*r\*u\*x\* \*D\*i\*g\*i\* \*K\*n\*e\*e\* \*P\*a\*t\*t\*e\*r\*n\*](<../attachments/Faun or Digitigrade legs & Bodysuits/Thistlecrux Digi Knee Pattern/image-01.png>)
 
 ---
 
@@ -304,7 +304,7 @@ Read description! Pattern is old and harder to follow if you have no experience
 
 [https://www.etsy.com/ca/listing/1703804272/hollow-foam-bird-digi-leg-pattern](https://www.etsy.com/ca/listing/1703804272/hollow-foam-bird-digi-leg-pattern "smartCard-inline")
 
-![\*r\*i\*c\*o\*c\*h\*e\*t\*x\*c\*r\*a\*f\*t\*s\* \*B\*i\*r\*d\* \*D\*i\*g\*i\* \*L\*e\*g\*s\*](<attachments/Faun or Digitigrade legs & Bodysuits/ricochetxcrafts Bird Digi Legs/image-01.png>)
+![\*r\*i\*c\*o\*c\*h\*e\*t\*x\*c\*r\*a\*f\*t\*s\* \*B\*i\*r\*d\* \*D\*i\*g\*i\* \*L\*e\*g\*s\*](<../attachments/Faun or Digitigrade legs & Bodysuits/ricochetxcrafts Bird Digi Legs/image-01.png>)
 
 ---
 
@@ -314,7 +314,7 @@ Read description! Pattern is old and harder to follow if you have no experience
 
 [https://www.etsy.com/ca/listing/1855811403/hollow-foam-slim-toon-digi-leg-pattern](https://www.etsy.com/ca/listing/1855811403/hollow-foam-slim-toon-digi-leg-pattern "smartCard-inline")
 
-![\*r\*i\*c\*o\*c\*h\*e\*t\*x\*c\*r\*a\*f\*t\*s\* \*S\*l\*i\*m\* \*T\*o\*o\*n\*y\* \*L\*e\*g\*s\*](<attachments/Faun or Digitigrade legs & Bodysuits/ricochetxcrafts Slim Toony Legs/image-01.png>)
+![\*r\*i\*c\*o\*c\*h\*e\*t\*x\*c\*r\*a\*f\*t\*s\* \*S\*l\*i\*m\* \*T\*o\*o\*n\*y\* \*L\*e\*g\*s\*](<../attachments/Faun or Digitigrade legs & Bodysuits/ricochetxcrafts Slim Toony Legs/image-01.png>)
 
 ---
 
@@ -324,7 +324,7 @@ Read description! Pattern is old and harder to follow if you have no experience
 
 [https://www.etsy.com/ca/listing/1169276586/hollow-foam-large-toon-digi-leg-pattern](https://www.etsy.com/ca/listing/1169276586/hollow-foam-large-toon-digi-leg-pattern "smartCard-inline")
 
-![\*r\*i\*c\*o\*c\*h\*e\*t\*x\*c\*r\*a\*f\*t\*s\* \*L\*a\*r\*g\*e\* \*T\*o\*o\*n\*y\* \*D\*i\*g\*i\* \*L\*e\*g\*s\* \*w\*/\*t\*o\*e\* \*o\*p\*t\*i\*o\*n\*s\*](<attachments/Faun or Digitigrade legs & Bodysuits/ricochetxcrafts Large Toony Digi Legs wtoe options/image-01.png>)
+![\*r\*i\*c\*o\*c\*h\*e\*t\*x\*c\*r\*a\*f\*t\*s\* \*L\*a\*r\*g\*e\* \*T\*o\*o\*n\*y\* \*D\*i\*g\*i\* \*L\*e\*g\*s\* \*w\*/\*t\*o\*e\* \*o\*p\*t\*i\*o\*n\*s\*](<../attachments/Faun or Digitigrade legs & Bodysuits/ricochetxcrafts Large Toony Digi Legs wtoe options/image-01.png>)
 
 ---
 
@@ -334,7 +334,7 @@ Read description! Pattern is old and harder to follow if you have no experience
 
 [https://www.etsy.com/ca/listing/1779359524/hollow-foam-large-body-suit-pattern](https://www.etsy.com/ca/listing/1779359524/hollow-foam-large-body-suit-pattern "smartCard-inline")
 
-![\*r\*i\*c\*o\*c\*h\*e\*t\*x\*c\*r\*a\*f\*t\*s\* \*L\*a\*r\*g\*e\* \*B\*o\*d\*y\* \*S\*u\*i\*t\*](<attachments/Faun or Digitigrade legs & Bodysuits/ricochetxcrafts Large Body Suit/image-01.png>)
+![\*r\*i\*c\*o\*c\*h\*e\*t\*x\*c\*r\*a\*f\*t\*s\* \*L\*a\*r\*g\*e\* \*B\*o\*d\*y\* \*S\*u\*i\*t\*](<../attachments/Faun or Digitigrade legs & Bodysuits/ricochetxcrafts Large Body Suit/image-01.png>)
 
 ---
 
@@ -348,7 +348,7 @@ Made to work with these feetpaws:
 
 [https://www.etsy.com/ca/listing/4448434913/digigrade-feetpaw-foam-base-pattern](https://www.etsy.com/ca/listing/4448434913/digigrade-feetpaw-foam-base-pattern "smartCard-inline")
 
-![\*E\*t\*h\*e\*r\*e\*a\*l\*F\*u\*r\*s\*u\*i\*t\*s\* \*T\*h\*i\*g\*h\* \*P\*a\*d\*d\*i\*n\*g\*](<attachments/Faun or Digitigrade legs & Bodysuits/EtherealFursuits Thigh Padding/image-01.webp>)
+![\*E\*t\*h\*e\*r\*e\*a\*l\*F\*u\*r\*s\*u\*i\*t\*s\* \*T\*h\*i\*g\*h\* \*P\*a\*d\*d\*i\*n\*g\*](<../attachments/Faun or Digitigrade legs & Bodysuits/EtherealFursuits Thigh Padding/image-01.webp>)
 
 ---
 
@@ -360,9 +360,9 @@ V1: [https://www.etsy.com/ca/listing/1834354920/digitigrade-knees-base-fursuit-p
 
 V2/Slim: [https://www.etsy.com/ca/listing/1866514822/digitigrade-knees-fursuit-base-pdf](https://www.etsy.com/ca/listing/1866514822/digitigrade-knees-fursuit-base-pdf "smartCard-inline")
 
-![\*W\*i\*n\*g\*L\*e\*a\*f\*W\*o\*r\*k\*s\*h\*o\*p\* \*T\*h\*i\*g\*h\* \*B\*a\*s\*e\* \*2\* \*V\*e\*r\*s\*i\*o\*n\*s\*](<attachments/Faun or Digitigrade legs & Bodysuits/WingLeafWorkshop Thigh Base 2 Versions/image-01.png>)
+![\*W\*i\*n\*g\*L\*e\*a\*f\*W\*o\*r\*k\*s\*h\*o\*p\* \*T\*h\*i\*g\*h\* \*B\*a\*s\*e\* \*2\* \*V\*e\*r\*s\*i\*o\*n\*s\*](<../attachments/Faun or Digitigrade legs & Bodysuits/WingLeafWorkshop Thigh Base 2 Versions/image-01.png>)
 
-![\*W\*i\*n\*g\*L\*e\*a\*f\*W\*o\*r\*k\*s\*h\*o\*p\* \*T\*h\*i\*g\*h\* \*B\*a\*s\*e\* \*2\* \*V\*e\*r\*s\*i\*o\*n\*s\*](<attachments/Faun or Digitigrade legs & Bodysuits/WingLeafWorkshop Thigh Base 2 Versions/image-02.png>)
+![\*W\*i\*n\*g\*L\*e\*a\*f\*W\*o\*r\*k\*s\*h\*o\*p\* \*T\*h\*i\*g\*h\* \*B\*a\*s\*e\* \*2\* \*V\*e\*r\*s\*i\*o\*n\*s\*](<../attachments/Faun or Digitigrade legs & Bodysuits/WingLeafWorkshop Thigh Base 2 Versions/image-02.png>)
 
 ---
 
@@ -374,9 +374,9 @@ V1: [https://www.etsy.com/ca/listing/1834348638/digitigrade-legs-base-fursuit-pd
 
 V2/Slim: [https://www.etsy.com/ca/listing/1880698455/slim-digitigrade-legs-base-fursuit-pdf](https://www.etsy.com/ca/listing/1880698455/slim-digitigrade-legs-base-fursuit-pdf "smartCard-inline")
 
-![\*W\*i\*n\*g\*L\*e\*a\*f\*W\*o\*r\*k\*s\*h\*o\*p\* \*F\*o\*a\*m\* \*D\*i\*g\*i\* \*L\*e\*g\*s\*](<attachments/Faun or Digitigrade legs & Bodysuits/WingLeafWorkshop Foam Digi Legs/image-01.png>)
+![\*W\*i\*n\*g\*L\*e\*a\*f\*W\*o\*r\*k\*s\*h\*o\*p\* \*F\*o\*a\*m\* \*D\*i\*g\*i\* \*L\*e\*g\*s\*](<../attachments/Faun or Digitigrade legs & Bodysuits/WingLeafWorkshop Foam Digi Legs/image-01.png>)
 
-![\*W\*i\*n\*g\*L\*e\*a\*f\*W\*o\*r\*k\*s\*h\*o\*p\* \*F\*o\*a\*m\* \*D\*i\*g\*i\* \*L\*e\*g\*s\*](<attachments/Faun or Digitigrade legs & Bodysuits/WingLeafWorkshop Foam Digi Legs/image-02.png>)
+![\*W\*i\*n\*g\*L\*e\*a\*f\*W\*o\*r\*k\*s\*h\*o\*p\* \*F\*o\*a\*m\* \*D\*i\*g\*i\* \*L\*e\*g\*s\*](<../attachments/Faun or Digitigrade legs & Bodysuits/WingLeafWorkshop Foam Digi Legs/image-02.png>)
 
 ---
 
@@ -388,9 +388,9 @@ V2/Slim: [https://www.etsy.com/ca/listing/1880698455/slim-digitigrade-legs-base-
 
 [https://youtube.com/shorts/KVW90oq-hJI](https://youtube.com/shorts/KVW90oq-hJI "smartCard-inline")
 
-![\*T\*e\*a\*c\*u\*p\*l\*i\*o\*n\* \*W\*o\*m\*e\*n\*'\*s\* \*B\*o\*d\*y\*s\*u\*i\*t\*](<attachments/Faun or Digitigrade legs & Bodysuits/Teacuplion Women's Bodysuit/image-01.png>)
+![\*T\*e\*a\*c\*u\*p\*l\*i\*o\*n\* \*W\*o\*m\*e\*n\*'\*s\* \*B\*o\*d\*y\*s\*u\*i\*t\*](<../attachments/Faun or Digitigrade legs & Bodysuits/Teacuplion Women's Bodysuit/image-01.png>)
 
-![\*T\*e\*a\*c\*u\*p\*l\*i\*o\*n\* \*W\*o\*m\*e\*n\*'\*s\* \*B\*o\*d\*y\*s\*u\*i\*t\*](<attachments/Faun or Digitigrade legs & Bodysuits/Teacuplion Women's Bodysuit/image-02.png>)
+![\*T\*e\*a\*c\*u\*p\*l\*i\*o\*n\* \*W\*o\*m\*e\*n\*'\*s\* \*B\*o\*d\*y\*s\*u\*i\*t\*](<../attachments/Faun or Digitigrade legs & Bodysuits/Teacuplion Women's Bodysuit/image-02.png>)
 
 ---
 
@@ -400,6 +400,6 @@ V2/Slim: [https://www.etsy.com/ca/listing/1880698455/slim-digitigrade-legs-base-
 
 [https://www.etsy.com/ca/listing/4504618771/slim-open-leg-digitigrade-padding](https://www.etsy.com/ca/listing/4504618771/slim-open-leg-digitigrade-padding "smartCard-inline")
 
-![\*T\*e\*c\*h\*n\*o\*C\*h\*e\*e\*s\*e\* \*S\*l\*i\*m\* \*O\*p\*e\*n\* \*L\*E\*g\* \*D\*i\*g\*i\* \*P\*a\*d\*d\*i\*n\*g\*](<attachments/Faun or Digitigrade legs & Bodysuits/TechnoCheese Slim Open LEg Digi Padding/image-01.png>)
+![\*T\*e\*c\*h\*n\*o\*C\*h\*e\*e\*s\*e\* \*S\*l\*i\*m\* \*O\*p\*e\*n\* \*L\*E\*g\* \*D\*i\*g\*i\* \*P\*a\*d\*d\*i\*n\*g\*](<../attachments/Faun or Digitigrade legs & Bodysuits/TechnoCheese Slim Open LEg Digi Padding/image-01.png>)
 
 ---

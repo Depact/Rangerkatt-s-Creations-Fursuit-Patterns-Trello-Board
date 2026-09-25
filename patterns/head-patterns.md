@@ -16,19 +16,19 @@ Donate: [https://ko-fi.com/E1E83ZFBO](https://ko-fi.com/E1E83ZFBO "smartCard-inl
 
 V1 Tutorial:[https://www.instagram.com/p/C4JpiuRPCMA/](https://www.instagram.com/p/C4JpiuRPCMA/ "smartCard-inline")
 
-![\*(\*F\*R\*E\*E\*)\* \*I\*n\*-\*A\*-\*J\*i\*f\*f\*y\*!\*C\*r\*e\*a\*t\*i\*o\*n\*s\* \*P\*u\*p\*p\*y\* \*H\*e\*a\*d\* \*P\*a\*t\*t\*e\*r\*n\* \*V\*1\* \*+\* \*V\*2\*](<attachments/Head Patterns/(FREE) In-A-Jiffy!Creations Puppy Head Pattern V1 + V2/image-01.png>)
+![\*(\*F\*R\*E\*E\*)\* \*I\*n\*-\*A\*-\*J\*i\*f\*f\*y\*!\*C\*r\*e\*a\*t\*i\*o\*n\*s\* \*P\*u\*p\*p\*y\* \*H\*e\*a\*d\* \*P\*a\*t\*t\*e\*r\*n\* \*V\*1\* \*+\* \*V\*2\*](<../attachments/Head Patterns/(FREE) In-A-Jiffy!Creations Puppy Head Pattern V1 + V2/image-01.png>)
 
-![\*(\*F\*R\*E\*E\*)\* \*I\*n\*-\*A\*-\*J\*i\*f\*f\*y\*!\*C\*r\*e\*a\*t\*i\*o\*n\*s\* \*P\*u\*p\*p\*y\* \*H\*e\*a\*d\* \*P\*a\*t\*t\*e\*r\*n\* \*V\*1\* \*+\* \*V\*2\*](<attachments/Head Patterns/(FREE) In-A-Jiffy!Creations Puppy Head Pattern V1 + V2/image-02.png>)
+![\*(\*F\*R\*E\*E\*)\* \*I\*n\*-\*A\*-\*J\*i\*f\*f\*y\*!\*C\*r\*e\*a\*t\*i\*o\*n\*s\* \*P\*u\*p\*p\*y\* \*H\*e\*a\*d\* \*P\*a\*t\*t\*e\*r\*n\* \*V\*1\* \*+\* \*V\*2\*](<../attachments/Head Patterns/(FREE) In-A-Jiffy!Creations Puppy Head Pattern V1 + V2/image-02.png>)
 
-![\*(\*F\*R\*E\*E\*)\* \*I\*n\*-\*A\*-\*J\*i\*f\*f\*y\*!\*C\*r\*e\*a\*t\*i\*o\*n\*s\* \*P\*u\*p\*p\*y\* \*H\*e\*a\*d\* \*P\*a\*t\*t\*e\*r\*n\* \*V\*1\* \*+\* \*V\*2\*](<attachments/Head Patterns/(FREE) In-A-Jiffy!Creations Puppy Head Pattern V1 + V2/image-03.png>)
+![\*(\*F\*R\*E\*E\*)\* \*I\*n\*-\*A\*-\*J\*i\*f\*f\*y\*!\*C\*r\*e\*a\*t\*i\*o\*n\*s\* \*P\*u\*p\*p\*y\* \*H\*e\*a\*d\* \*P\*a\*t\*t\*e\*r\*n\* \*V\*1\* \*+\* \*V\*2\*](<../attachments/Head Patterns/(FREE) In-A-Jiffy!Creations Puppy Head Pattern V1 + V2/image-03.png>)
 
-![\*(\*F\*R\*E\*E\*)\* \*I\*n\*-\*A\*-\*J\*i\*f\*f\*y\*!\*C\*r\*e\*a\*t\*i\*o\*n\*s\* \*P\*u\*p\*p\*y\* \*H\*e\*a\*d\* \*P\*a\*t\*t\*e\*r\*n\* \*V\*1\* \*+\* \*V\*2\*](<attachments/Head Patterns/(FREE) In-A-Jiffy!Creations Puppy Head Pattern V1 + V2/image-04.png>)
+![\*(\*F\*R\*E\*E\*)\* \*I\*n\*-\*A\*-\*J\*i\*f\*f\*y\*!\*C\*r\*e\*a\*t\*i\*o\*n\*s\* \*P\*u\*p\*p\*y\* \*H\*e\*a\*d\* \*P\*a\*t\*t\*e\*r\*n\* \*V\*1\* \*+\* \*V\*2\*](<../attachments/Head Patterns/(FREE) In-A-Jiffy!Creations Puppy Head Pattern V1 + V2/image-04.png>)
 
-![\*(\*F\*R\*E\*E\*)\* \*I\*n\*-\*A\*-\*J\*i\*f\*f\*y\*!\*C\*r\*e\*a\*t\*i\*o\*n\*s\* \*P\*u\*p\*p\*y\* \*H\*e\*a\*d\* \*P\*a\*t\*t\*e\*r\*n\* \*V\*1\* \*+\* \*V\*2\*](<attachments/Head Patterns/(FREE) In-A-Jiffy!Creations Puppy Head Pattern V1 + V2/image-05.png>)
+![\*(\*F\*R\*E\*E\*)\* \*I\*n\*-\*A\*-\*J\*i\*f\*f\*y\*!\*C\*r\*e\*a\*t\*i\*o\*n\*s\* \*P\*u\*p\*p\*y\* \*H\*e\*a\*d\* \*P\*a\*t\*t\*e\*r\*n\* \*V\*1\* \*+\* \*V\*2\*](<../attachments/Head Patterns/(FREE) In-A-Jiffy!Creations Puppy Head Pattern V1 + V2/image-05.png>)
 
-![\*(\*F\*R\*E\*E\*)\* \*I\*n\*-\*A\*-\*J\*i\*f\*f\*y\*!\*C\*r\*e\*a\*t\*i\*o\*n\*s\* \*P\*u\*p\*p\*y\* \*H\*e\*a\*d\* \*P\*a\*t\*t\*e\*r\*n\* \*V\*1\* \*+\* \*V\*2\*](<attachments/Head Patterns/(FREE) In-A-Jiffy!Creations Puppy Head Pattern V1 + V2/image-06.png>)
+![\*(\*F\*R\*E\*E\*)\* \*I\*n\*-\*A\*-\*J\*i\*f\*f\*y\*!\*C\*r\*e\*a\*t\*i\*o\*n\*s\* \*P\*u\*p\*p\*y\* \*H\*e\*a\*d\* \*P\*a\*t\*t\*e\*r\*n\* \*V\*1\* \*+\* \*V\*2\*](<../attachments/Head Patterns/(FREE) In-A-Jiffy!Creations Puppy Head Pattern V1 + V2/image-06.png>)
 
-![\*(\*F\*R\*E\*E\*)\* \*I\*n\*-\*A\*-\*J\*i\*f\*f\*y\*!\*C\*r\*e\*a\*t\*i\*o\*n\*s\* \*P\*u\*p\*p\*y\* \*H\*e\*a\*d\* \*P\*a\*t\*t\*e\*r\*n\* \*V\*1\* \*+\* \*V\*2\*](<attachments/Head Patterns/(FREE) In-A-Jiffy!Creations Puppy Head Pattern V1 + V2/image-07.png>)
+![\*(\*F\*R\*E\*E\*)\* \*I\*n\*-\*A\*-\*J\*i\*f\*f\*y\*!\*C\*r\*e\*a\*t\*i\*o\*n\*s\* \*P\*u\*p\*p\*y\* \*H\*e\*a\*d\* \*P\*a\*t\*t\*e\*r\*n\* \*V\*1\* \*+\* \*V\*2\*](<../attachments/Head Patterns/(FREE) In-A-Jiffy!Creations Puppy Head Pattern V1 + V2/image-07.png>)
 
 ---
 
@@ -40,11 +40,11 @@ V1 Tutorial:[https://www.instagram.com/p/C4JpiuRPCMA/](https://www.instagram.com
 
 Scale the pattern as needed
 
-![\*(\*F\*R\*E\*E\*)\* \*T\*h\*e\*_\*P\*e\*p\*p\*e\*r\*c\*a\*t\* \*R\*a\*p\*t\*o\*r\* \*H\*e\*a\*d\*](<attachments/Head Patterns/(FREE) The_Peppercat Raptor Head/image-01.jpg>)
+![\*(\*F\*R\*E\*E\*)\* \*T\*h\*e\*_\*P\*e\*p\*p\*e\*r\*c\*a\*t\* \*R\*a\*p\*t\*o\*r\* \*H\*e\*a\*d\*](<../attachments/Head Patterns/(FREE) The_Peppercat Raptor Head/image-01.jpg>)
 
-![\*(\*F\*R\*E\*E\*)\* \*T\*h\*e\*_\*P\*e\*p\*p\*e\*r\*c\*a\*t\* \*R\*a\*p\*t\*o\*r\* \*H\*e\*a\*d\*](<attachments/Head Patterns/(FREE) The_Peppercat Raptor Head/image-02.jpeg>)
+![\*(\*F\*R\*E\*E\*)\* \*T\*h\*e\*_\*P\*e\*p\*p\*e\*r\*c\*a\*t\* \*R\*a\*p\*t\*o\*r\* \*H\*e\*a\*d\*](<../attachments/Head Patterns/(FREE) The_Peppercat Raptor Head/image-02.jpeg>)
 
-![\*(\*F\*R\*E\*E\*)\* \*T\*h\*e\*_\*P\*e\*p\*p\*e\*r\*c\*a\*t\* \*R\*a\*p\*t\*o\*r\* \*H\*e\*a\*d\*](<attachments/Head Patterns/(FREE) The_Peppercat Raptor Head/image-03.jpg>)
+![\*(\*F\*R\*E\*E\*)\* \*T\*h\*e\*_\*P\*e\*p\*p\*e\*r\*c\*a\*t\* \*R\*a\*p\*t\*o\*r\* \*H\*e\*a\*d\*](<../attachments/Head Patterns/(FREE) The_Peppercat Raptor Head/image-03.jpg>)
 
 ---
 
@@ -54,7 +54,7 @@ Scale the pattern as needed
 
 [https://www.etsy.com/ca/listing/4515241169/mask-base-and-snout-patterns](https://www.etsy.com/ca/listing/4515241169/mask-base-and-snout-patterns "smartCard-inline")
 
-![\*W\*i\*n\*n\*i\*e\*s\*W\*h\*i\*m\*s\*y\*W\*o\*n\*d\*e\*r\*s\* \*M\*a\*s\*k\* \*B\*a\*s\*e\*](<attachments/Head Patterns/WinniesWhimsyWonders Mask Base/image-01.png>)
+![\*W\*i\*n\*n\*i\*e\*s\*W\*h\*i\*m\*s\*y\*W\*o\*n\*d\*e\*r\*s\* \*M\*a\*s\*k\* \*B\*a\*s\*e\*](<../attachments/Head Patterns/WinniesWhimsyWonders Mask Base/image-01.png>)
 
 ---
 
@@ -66,7 +66,7 @@ Scale the pattern as needed
 
 [https://www.etsy.com/ca/listing/777017919/premium-tutorial-free-form-patterning-a](https://www.etsy.com/ca/listing/777017919/premium-tutorial-free-form-patterning-a?click_key=c5eafc4bf7291e32963d2fe4936cf3ec0a6cc6a1%3A777017919&click_sum=439850c8&ref=shop_home_recs_8&crt=1 "‌")
 
-![\*M\*a\*t\*r\*i\*c\*e\*s\* \*F\*r\*e\*e\*-\*F\*o\*r\*m\* \*P\*a\*t\*t\*e\*r\*n\*i\*n\*g\* \*a\* \*H\*e\*a\*d\* \*B\*a\*s\*e\* \*T\*u\*t\*o\*r\*i\*a\*l\*](<attachments/Head Patterns/Matrices Free-Form Patterning a Head Base Tutorial/image-01.png>)
+![\*M\*a\*t\*r\*i\*c\*e\*s\* \*F\*r\*e\*e\*-\*F\*o\*r\*m\* \*P\*a\*t\*t\*e\*r\*n\*i\*n\*g\* \*a\* \*H\*e\*a\*d\* \*B\*a\*s\*e\* \*T\*u\*t\*o\*r\*i\*a\*l\*](<../attachments/Head Patterns/Matrices Free-Form Patterning a Head Base Tutorial/image-01.png>)
 
 ---
 
@@ -86,17 +86,17 @@ Big Cat:[https://www.etsy.com/ca/listing/687141489/pdf-template-fursuit-head-bas
 
 Cervine:[https://www.etsy.com/ca/listing/716296464/pdf-template-fursuit-head-base-deer](https://www.etsy.com/ca/listing/716296464/pdf-template-fursuit-head-base-deer "smartCard-inline")
 
-![\*K\*l\*o\*o\*f\*S\*u\*i\*t\*s\* \*6\* \*C\*a\*n\*i\*n\*e\*,\* \*F\*e\*l\*i\*n\*e\*,\* \*C\*e\*r\*v\*i\*n\*e\* \*H\*e\*a\*d\* \*P\*a\*t\*t\*e\*r\*n\*s\*](<attachments/Head Patterns/KloofSuits 6 Canine, Feline, Cervine Head Patterns/image-01.png>)
+![\*K\*l\*o\*o\*f\*S\*u\*i\*t\*s\* \*6\* \*C\*a\*n\*i\*n\*e\*,\* \*F\*e\*l\*i\*n\*e\*,\* \*C\*e\*r\*v\*i\*n\*e\* \*H\*e\*a\*d\* \*P\*a\*t\*t\*e\*r\*n\*s\*](<../attachments/Head Patterns/KloofSuits 6 Canine, Feline, Cervine Head Patterns/image-01.png>)
 
-![\*K\*l\*o\*o\*f\*S\*u\*i\*t\*s\* \*6\* \*C\*a\*n\*i\*n\*e\*,\* \*F\*e\*l\*i\*n\*e\*,\* \*C\*e\*r\*v\*i\*n\*e\* \*H\*e\*a\*d\* \*P\*a\*t\*t\*e\*r\*n\*s\*](<attachments/Head Patterns/KloofSuits 6 Canine, Feline, Cervine Head Patterns/image-02.png>)
+![\*K\*l\*o\*o\*f\*S\*u\*i\*t\*s\* \*6\* \*C\*a\*n\*i\*n\*e\*,\* \*F\*e\*l\*i\*n\*e\*,\* \*C\*e\*r\*v\*i\*n\*e\* \*H\*e\*a\*d\* \*P\*a\*t\*t\*e\*r\*n\*s\*](<../attachments/Head Patterns/KloofSuits 6 Canine, Feline, Cervine Head Patterns/image-02.png>)
 
-![\*K\*l\*o\*o\*f\*S\*u\*i\*t\*s\* \*6\* \*C\*a\*n\*i\*n\*e\*,\* \*F\*e\*l\*i\*n\*e\*,\* \*C\*e\*r\*v\*i\*n\*e\* \*H\*e\*a\*d\* \*P\*a\*t\*t\*e\*r\*n\*s\*](<attachments/Head Patterns/KloofSuits 6 Canine, Feline, Cervine Head Patterns/image-03.png>)
+![\*K\*l\*o\*o\*f\*S\*u\*i\*t\*s\* \*6\* \*C\*a\*n\*i\*n\*e\*,\* \*F\*e\*l\*i\*n\*e\*,\* \*C\*e\*r\*v\*i\*n\*e\* \*H\*e\*a\*d\* \*P\*a\*t\*t\*e\*r\*n\*s\*](<../attachments/Head Patterns/KloofSuits 6 Canine, Feline, Cervine Head Patterns/image-03.png>)
 
-![\*K\*l\*o\*o\*f\*S\*u\*i\*t\*s\* \*6\* \*C\*a\*n\*i\*n\*e\*,\* \*F\*e\*l\*i\*n\*e\*,\* \*C\*e\*r\*v\*i\*n\*e\* \*H\*e\*a\*d\* \*P\*a\*t\*t\*e\*r\*n\*s\*](<attachments/Head Patterns/KloofSuits 6 Canine, Feline, Cervine Head Patterns/image-04.png>)
+![\*K\*l\*o\*o\*f\*S\*u\*i\*t\*s\* \*6\* \*C\*a\*n\*i\*n\*e\*,\* \*F\*e\*l\*i\*n\*e\*,\* \*C\*e\*r\*v\*i\*n\*e\* \*H\*e\*a\*d\* \*P\*a\*t\*t\*e\*r\*n\*s\*](<../attachments/Head Patterns/KloofSuits 6 Canine, Feline, Cervine Head Patterns/image-04.png>)
 
-![\*K\*l\*o\*o\*f\*S\*u\*i\*t\*s\* \*6\* \*C\*a\*n\*i\*n\*e\*,\* \*F\*e\*l\*i\*n\*e\*,\* \*C\*e\*r\*v\*i\*n\*e\* \*H\*e\*a\*d\* \*P\*a\*t\*t\*e\*r\*n\*s\*](<attachments/Head Patterns/KloofSuits 6 Canine, Feline, Cervine Head Patterns/image-05.png>)
+![\*K\*l\*o\*o\*f\*S\*u\*i\*t\*s\* \*6\* \*C\*a\*n\*i\*n\*e\*,\* \*F\*e\*l\*i\*n\*e\*,\* \*C\*e\*r\*v\*i\*n\*e\* \*H\*e\*a\*d\* \*P\*a\*t\*t\*e\*r\*n\*s\*](<../attachments/Head Patterns/KloofSuits 6 Canine, Feline, Cervine Head Patterns/image-05.png>)
 
-![\*K\*l\*o\*o\*f\*S\*u\*i\*t\*s\* \*6\* \*C\*a\*n\*i\*n\*e\*,\* \*F\*e\*l\*i\*n\*e\*,\* \*C\*e\*r\*v\*i\*n\*e\* \*H\*e\*a\*d\* \*P\*a\*t\*t\*e\*r\*n\*s\*](<attachments/Head Patterns/KloofSuits 6 Canine, Feline, Cervine Head Patterns/image-06.png>)
+![\*K\*l\*o\*o\*f\*S\*u\*i\*t\*s\* \*6\* \*C\*a\*n\*i\*n\*e\*,\* \*F\*e\*l\*i\*n\*e\*,\* \*C\*e\*r\*v\*i\*n\*e\* \*H\*e\*a\*d\* \*P\*a\*t\*t\*e\*r\*n\*s\*](<../attachments/Head Patterns/KloofSuits 6 Canine, Feline, Cervine Head Patterns/image-06.png>)
 
 ---
 
@@ -116,13 +116,13 @@ Canine Base: [https://www.etsy.com/ca/listing/848263076/hollow-canine-fursuit-he
 
 Feline Base:[https://www.etsy.com/ca/listing/932350704/hollow-big-cat-feline-fursuit-head-base](https://www.etsy.com/ca/listing/932350704/hollow-big-cat-feline-fursuit-head-base "smartCard-inline")
 
-![\*C\*o\*r\*g\*i\*l\*e\*g\*s\* \*2\* \*C\*a\*n\*i\*n\*e\* \*&\* \*F\*e\*l\*i\*n\*e\* \*P\*a\*t\*t\*e\*r\*n\*s\*](<attachments/Head Patterns/Corgilegs 2 Canine & Feline Patterns/image-01.png>)
+![\*C\*o\*r\*g\*i\*l\*e\*g\*s\* \*2\* \*C\*a\*n\*i\*n\*e\* \*&\* \*F\*e\*l\*i\*n\*e\* \*P\*a\*t\*t\*e\*r\*n\*s\*](<../attachments/Head Patterns/Corgilegs 2 Canine & Feline Patterns/image-01.png>)
 
-![\*C\*o\*r\*g\*i\*l\*e\*g\*s\* \*2\* \*C\*a\*n\*i\*n\*e\* \*&\* \*F\*e\*l\*i\*n\*e\* \*P\*a\*t\*t\*e\*r\*n\*s\*](<attachments/Head Patterns/Corgilegs 2 Canine & Feline Patterns/image-02.png>)
+![\*C\*o\*r\*g\*i\*l\*e\*g\*s\* \*2\* \*C\*a\*n\*i\*n\*e\* \*&\* \*F\*e\*l\*i\*n\*e\* \*P\*a\*t\*t\*e\*r\*n\*s\*](<../attachments/Head Patterns/Corgilegs 2 Canine & Feline Patterns/image-02.png>)
 
-![\*C\*o\*r\*g\*i\*l\*e\*g\*s\* \*2\* \*C\*a\*n\*i\*n\*e\* \*&\* \*F\*e\*l\*i\*n\*e\* \*P\*a\*t\*t\*e\*r\*n\*s\*](<attachments/Head Patterns/Corgilegs 2 Canine & Feline Patterns/image-03.png>)
+![\*C\*o\*r\*g\*i\*l\*e\*g\*s\* \*2\* \*C\*a\*n\*i\*n\*e\* \*&\* \*F\*e\*l\*i\*n\*e\* \*P\*a\*t\*t\*e\*r\*n\*s\*](<../attachments/Head Patterns/Corgilegs 2 Canine & Feline Patterns/image-03.png>)
 
-![\*C\*o\*r\*g\*i\*l\*e\*g\*s\* \*2\* \*C\*a\*n\*i\*n\*e\* \*&\* \*F\*e\*l\*i\*n\*e\* \*P\*a\*t\*t\*e\*r\*n\*s\*](<attachments/Head Patterns/Corgilegs 2 Canine & Feline Patterns/image-04.png>)
+![\*C\*o\*r\*g\*i\*l\*e\*g\*s\* \*2\* \*C\*a\*n\*i\*n\*e\* \*&\* \*F\*e\*l\*i\*n\*e\* \*P\*a\*t\*t\*e\*r\*n\*s\*](<../attachments/Head Patterns/Corgilegs 2 Canine & Feline Patterns/image-04.png>)
 
 ---
 
@@ -150,17 +150,17 @@ Sunny Kemono Pattern:
 
 [https://www.etsy.com/ca/listing/1727354625/fursuit-head-base-pattern-sunny-download](https://www.etsy.com/ca/listing/1727354625/fursuit-head-base-pattern-sunny-download "smartCard-inline")
 
-![\*M\*a\*n\*t\*a\*c\*r\*a\*f\*t\* \*3\* \*K\*e\*m\*o\*n\*o\* \*B\*a\*s\*e\*s\*](<attachments/Head Patterns/Mantacraft 3 Kemono Bases/image-01.png>)
+![\*M\*a\*n\*t\*a\*c\*r\*a\*f\*t\* \*3\* \*K\*e\*m\*o\*n\*o\* \*B\*a\*s\*e\*s\*](<../attachments/Head Patterns/Mantacraft 3 Kemono Bases/image-01.png>)
 
-![\*M\*a\*n\*t\*a\*c\*r\*a\*f\*t\* \*3\* \*K\*e\*m\*o\*n\*o\* \*B\*a\*s\*e\*s\*](<attachments/Head Patterns/Mantacraft 3 Kemono Bases/image-02.png>)
+![\*M\*a\*n\*t\*a\*c\*r\*a\*f\*t\* \*3\* \*K\*e\*m\*o\*n\*o\* \*B\*a\*s\*e\*s\*](<../attachments/Head Patterns/Mantacraft 3 Kemono Bases/image-02.png>)
 
-![\*M\*a\*n\*t\*a\*c\*r\*a\*f\*t\* \*3\* \*K\*e\*m\*o\*n\*o\* \*B\*a\*s\*e\*s\*](<attachments/Head Patterns/Mantacraft 3 Kemono Bases/image-03.png>)
+![\*M\*a\*n\*t\*a\*c\*r\*a\*f\*t\* \*3\* \*K\*e\*m\*o\*n\*o\* \*B\*a\*s\*e\*s\*](<../attachments/Head Patterns/Mantacraft 3 Kemono Bases/image-03.png>)
 
-![\*M\*a\*n\*t\*a\*c\*r\*a\*f\*t\* \*3\* \*K\*e\*m\*o\*n\*o\* \*B\*a\*s\*e\*s\*](<attachments/Head Patterns/Mantacraft 3 Kemono Bases/image-04.png>)
+![\*M\*a\*n\*t\*a\*c\*r\*a\*f\*t\* \*3\* \*K\*e\*m\*o\*n\*o\* \*B\*a\*s\*e\*s\*](<../attachments/Head Patterns/Mantacraft 3 Kemono Bases/image-04.png>)
 
-![\*M\*a\*n\*t\*a\*c\*r\*a\*f\*t\* \*3\* \*K\*e\*m\*o\*n\*o\* \*B\*a\*s\*e\*s\*](<attachments/Head Patterns/Mantacraft 3 Kemono Bases/image-05.webp>)
+![\*M\*a\*n\*t\*a\*c\*r\*a\*f\*t\* \*3\* \*K\*e\*m\*o\*n\*o\* \*B\*a\*s\*e\*s\*](<../attachments/Head Patterns/Mantacraft 3 Kemono Bases/image-05.webp>)
 
-![\*M\*a\*n\*t\*a\*c\*r\*a\*f\*t\* \*3\* \*K\*e\*m\*o\*n\*o\* \*B\*a\*s\*e\*s\*](<attachments/Head Patterns/Mantacraft 3 Kemono Bases/image-06.webp>)
+![\*M\*a\*n\*t\*a\*c\*r\*a\*f\*t\* \*3\* \*K\*e\*m\*o\*n\*o\* \*B\*a\*s\*e\*s\*](<../attachments/Head Patterns/Mantacraft 3 Kemono Bases/image-06.webp>)
 
 ---
 
@@ -198,23 +198,23 @@ Mustild: [https://ko-fi.com/s/4930bf9bb7](https://ko-fi.com/s/4930bf9bb7 "smartC
 
 [https://www.etsy.com/ca/listing/4301820559/marten-mustelid-diy-fursuit-headbase](https://www.etsy.com/ca/listing/4301820559/marten-mustelid-diy-fursuit-headbase "smartCard-inline")
 
-![\*M\*a\*n\*t\*a\*c\*r\*a\*f\*t\* \*6\* \*S\*p\*e\*c\*i\*e\*s\* \*B\*a\*s\*e\*s\*](<attachments/Head Patterns/Mantacraft 6 Species Bases/image-01.webp>)
+![\*M\*a\*n\*t\*a\*c\*r\*a\*f\*t\* \*6\* \*S\*p\*e\*c\*i\*e\*s\* \*B\*a\*s\*e\*s\*](<../attachments/Head Patterns/Mantacraft 6 Species Bases/image-01.webp>)
 
-![\*M\*a\*n\*t\*a\*c\*r\*a\*f\*t\* \*6\* \*S\*p\*e\*c\*i\*e\*s\* \*B\*a\*s\*e\*s\*](<attachments/Head Patterns/Mantacraft 6 Species Bases/image-02.webp>)
+![\*M\*a\*n\*t\*a\*c\*r\*a\*f\*t\* \*6\* \*S\*p\*e\*c\*i\*e\*s\* \*B\*a\*s\*e\*s\*](<../attachments/Head Patterns/Mantacraft 6 Species Bases/image-02.webp>)
 
-![\*M\*a\*n\*t\*a\*c\*r\*a\*f\*t\* \*6\* \*S\*p\*e\*c\*i\*e\*s\* \*B\*a\*s\*e\*s\*](<attachments/Head Patterns/Mantacraft 6 Species Bases/image-03.webp>)
+![\*M\*a\*n\*t\*a\*c\*r\*a\*f\*t\* \*6\* \*S\*p\*e\*c\*i\*e\*s\* \*B\*a\*s\*e\*s\*](<../attachments/Head Patterns/Mantacraft 6 Species Bases/image-03.webp>)
 
-![\*M\*a\*n\*t\*a\*c\*r\*a\*f\*t\* \*6\* \*S\*p\*e\*c\*i\*e\*s\* \*B\*a\*s\*e\*s\*](<attachments/Head Patterns/Mantacraft 6 Species Bases/image-04.webp>)
+![\*M\*a\*n\*t\*a\*c\*r\*a\*f\*t\* \*6\* \*S\*p\*e\*c\*i\*e\*s\* \*B\*a\*s\*e\*s\*](<../attachments/Head Patterns/Mantacraft 6 Species Bases/image-04.webp>)
 
-![\*M\*a\*n\*t\*a\*c\*r\*a\*f\*t\* \*6\* \*S\*p\*e\*c\*i\*e\*s\* \*B\*a\*s\*e\*s\*](<attachments/Head Patterns/Mantacraft 6 Species Bases/image-05.png>)
+![\*M\*a\*n\*t\*a\*c\*r\*a\*f\*t\* \*6\* \*S\*p\*e\*c\*i\*e\*s\* \*B\*a\*s\*e\*s\*](<../attachments/Head Patterns/Mantacraft 6 Species Bases/image-05.png>)
 
-![\*M\*a\*n\*t\*a\*c\*r\*a\*f\*t\* \*6\* \*S\*p\*e\*c\*i\*e\*s\* \*B\*a\*s\*e\*s\*](<attachments/Head Patterns/Mantacraft 6 Species Bases/image-06.png>)
+![\*M\*a\*n\*t\*a\*c\*r\*a\*f\*t\* \*6\* \*S\*p\*e\*c\*i\*e\*s\* \*B\*a\*s\*e\*s\*](<../attachments/Head Patterns/Mantacraft 6 Species Bases/image-06.png>)
 
-![\*M\*a\*n\*t\*a\*c\*r\*a\*f\*t\* \*6\* \*S\*p\*e\*c\*i\*e\*s\* \*B\*a\*s\*e\*s\*](<attachments/Head Patterns/Mantacraft 6 Species Bases/image-07.png>)
+![\*M\*a\*n\*t\*a\*c\*r\*a\*f\*t\* \*6\* \*S\*p\*e\*c\*i\*e\*s\* \*B\*a\*s\*e\*s\*](<../attachments/Head Patterns/Mantacraft 6 Species Bases/image-07.png>)
 
-![\*M\*a\*n\*t\*a\*c\*r\*a\*f\*t\* \*6\* \*S\*p\*e\*c\*i\*e\*s\* \*B\*a\*s\*e\*s\*](<attachments/Head Patterns/Mantacraft 6 Species Bases/image-08.png>)
+![\*M\*a\*n\*t\*a\*c\*r\*a\*f\*t\* \*6\* \*S\*p\*e\*c\*i\*e\*s\* \*B\*a\*s\*e\*s\*](<../attachments/Head Patterns/Mantacraft 6 Species Bases/image-08.png>)
 
-![\*M\*a\*n\*t\*a\*c\*r\*a\*f\*t\* \*6\* \*S\*p\*e\*c\*i\*e\*s\* \*B\*a\*s\*e\*s\*](<attachments/Head Patterns/Mantacraft 6 Species Bases/image-09.png>)
+![\*M\*a\*n\*t\*a\*c\*r\*a\*f\*t\* \*6\* \*S\*p\*e\*c\*i\*e\*s\* \*B\*a\*s\*e\*s\*](<../attachments/Head Patterns/Mantacraft 6 Species Bases/image-09.png>)
 
 ---
 
@@ -238,17 +238,17 @@ Equine/Cervine: [https://www.etsy.com/ca/listing/1094586860/pdf-pattern-small-un
 
 Catexfish:[https://www.etsy.com/ca/listing/957990680/pdf-pattern-official-catexfish-fisk](https://www.etsy.com/ca/listing/957990680/pdf-pattern-official-catexfish-fisk "smartCard-inline")
 
-![\*M\*i\*s\*s\*r\*a\*r\*s\* \*C\*r\*e\*a\*t\*u\*r\*e\*s\* \*6\* \*K\*e\*m\*o\*n\*o\*/\*T\*o\*o\*n\*y\* \*B\*a\*s\*e\*s\*](<attachments/Head Patterns/Missrars Creatures 6 KemonoToony Bases/image-01.png>)
+![\*M\*i\*s\*s\*r\*a\*r\*s\* \*C\*r\*e\*a\*t\*u\*r\*e\*s\* \*6\* \*K\*e\*m\*o\*n\*o\*/\*T\*o\*o\*n\*y\* \*B\*a\*s\*e\*s\*](<../attachments/Head Patterns/Missrars Creatures 6 KemonoToony Bases/image-01.png>)
 
-![\*M\*i\*s\*s\*r\*a\*r\*s\* \*C\*r\*e\*a\*t\*u\*r\*e\*s\* \*6\* \*K\*e\*m\*o\*n\*o\*/\*T\*o\*o\*n\*y\* \*B\*a\*s\*e\*s\*](<attachments/Head Patterns/Missrars Creatures 6 KemonoToony Bases/image-02.png>)
+![\*M\*i\*s\*s\*r\*a\*r\*s\* \*C\*r\*e\*a\*t\*u\*r\*e\*s\* \*6\* \*K\*e\*m\*o\*n\*o\*/\*T\*o\*o\*n\*y\* \*B\*a\*s\*e\*s\*](<../attachments/Head Patterns/Missrars Creatures 6 KemonoToony Bases/image-02.png>)
 
-![\*M\*i\*s\*s\*r\*a\*r\*s\* \*C\*r\*e\*a\*t\*u\*r\*e\*s\* \*6\* \*K\*e\*m\*o\*n\*o\*/\*T\*o\*o\*n\*y\* \*B\*a\*s\*e\*s\*](<attachments/Head Patterns/Missrars Creatures 6 KemonoToony Bases/image-03.png>)
+![\*M\*i\*s\*s\*r\*a\*r\*s\* \*C\*r\*e\*a\*t\*u\*r\*e\*s\* \*6\* \*K\*e\*m\*o\*n\*o\*/\*T\*o\*o\*n\*y\* \*B\*a\*s\*e\*s\*](<../attachments/Head Patterns/Missrars Creatures 6 KemonoToony Bases/image-03.png>)
 
-![\*M\*i\*s\*s\*r\*a\*r\*s\* \*C\*r\*e\*a\*t\*u\*r\*e\*s\* \*6\* \*K\*e\*m\*o\*n\*o\*/\*T\*o\*o\*n\*y\* \*B\*a\*s\*e\*s\*](<attachments/Head Patterns/Missrars Creatures 6 KemonoToony Bases/image-04.png>)
+![\*M\*i\*s\*s\*r\*a\*r\*s\* \*C\*r\*e\*a\*t\*u\*r\*e\*s\* \*6\* \*K\*e\*m\*o\*n\*o\*/\*T\*o\*o\*n\*y\* \*B\*a\*s\*e\*s\*](<../attachments/Head Patterns/Missrars Creatures 6 KemonoToony Bases/image-04.png>)
 
-![\*M\*i\*s\*s\*r\*a\*r\*s\* \*C\*r\*e\*a\*t\*u\*r\*e\*s\* \*6\* \*K\*e\*m\*o\*n\*o\*/\*T\*o\*o\*n\*y\* \*B\*a\*s\*e\*s\*](<attachments/Head Patterns/Missrars Creatures 6 KemonoToony Bases/image-05.png>)
+![\*M\*i\*s\*s\*r\*a\*r\*s\* \*C\*r\*e\*a\*t\*u\*r\*e\*s\* \*6\* \*K\*e\*m\*o\*n\*o\*/\*T\*o\*o\*n\*y\* \*B\*a\*s\*e\*s\*](<../attachments/Head Patterns/Missrars Creatures 6 KemonoToony Bases/image-05.png>)
 
-![\*M\*i\*s\*s\*r\*a\*r\*s\* \*C\*r\*e\*a\*t\*u\*r\*e\*s\* \*6\* \*K\*e\*m\*o\*n\*o\*/\*T\*o\*o\*n\*y\* \*B\*a\*s\*e\*s\*](<attachments/Head Patterns/Missrars Creatures 6 KemonoToony Bases/image-06.png>)
+![\*M\*i\*s\*s\*r\*a\*r\*s\* \*C\*r\*e\*a\*t\*u\*r\*e\*s\* \*6\* \*K\*e\*m\*o\*n\*o\*/\*T\*o\*o\*n\*y\* \*B\*a\*s\*e\*s\*](<../attachments/Head Patterns/Missrars Creatures 6 KemonoToony Bases/image-06.png>)
 
 ---
 
@@ -278,27 +278,27 @@ MLP 1:[https://www.etsy.com/ca/listing/662822775/mlp-fursuit-head-base-horse-pat
 
 MLP 2: [https://www.etsy.com/ca/listing/649252461/mlp-style-fursuit-head-base-pattern](https://www.etsy.com/ca/listing/649252461/mlp-style-fursuit-head-base-pattern "smartCard-inline")
 
-![\*C\*h\*i\*l\*i\*C\*o\*s\*p\*l\*a\*y\* \*1\*1\* \*T\*o\*o\*n\*y\* \*H\*e\*a\*d\* \*B\*a\*s\*e\*s\*](<attachments/Head Patterns/ChiliCosplay 11 Toony Head Bases/image-01.png>)
+![\*C\*h\*i\*l\*i\*C\*o\*s\*p\*l\*a\*y\* \*1\*1\* \*T\*o\*o\*n\*y\* \*H\*e\*a\*d\* \*B\*a\*s\*e\*s\*](<../attachments/Head Patterns/ChiliCosplay 11 Toony Head Bases/image-01.png>)
 
-![\*C\*h\*i\*l\*i\*C\*o\*s\*p\*l\*a\*y\* \*1\*1\* \*T\*o\*o\*n\*y\* \*H\*e\*a\*d\* \*B\*a\*s\*e\*s\*](<attachments/Head Patterns/ChiliCosplay 11 Toony Head Bases/image-02.png>)
+![\*C\*h\*i\*l\*i\*C\*o\*s\*p\*l\*a\*y\* \*1\*1\* \*T\*o\*o\*n\*y\* \*H\*e\*a\*d\* \*B\*a\*s\*e\*s\*](<../attachments/Head Patterns/ChiliCosplay 11 Toony Head Bases/image-02.png>)
 
-![\*C\*h\*i\*l\*i\*C\*o\*s\*p\*l\*a\*y\* \*1\*1\* \*T\*o\*o\*n\*y\* \*H\*e\*a\*d\* \*B\*a\*s\*e\*s\*](<attachments/Head Patterns/ChiliCosplay 11 Toony Head Bases/image-03.png>)
+![\*C\*h\*i\*l\*i\*C\*o\*s\*p\*l\*a\*y\* \*1\*1\* \*T\*o\*o\*n\*y\* \*H\*e\*a\*d\* \*B\*a\*s\*e\*s\*](<../attachments/Head Patterns/ChiliCosplay 11 Toony Head Bases/image-03.png>)
 
-![\*C\*h\*i\*l\*i\*C\*o\*s\*p\*l\*a\*y\* \*1\*1\* \*T\*o\*o\*n\*y\* \*H\*e\*a\*d\* \*B\*a\*s\*e\*s\*](<attachments/Head Patterns/ChiliCosplay 11 Toony Head Bases/image-04.png>)
+![\*C\*h\*i\*l\*i\*C\*o\*s\*p\*l\*a\*y\* \*1\*1\* \*T\*o\*o\*n\*y\* \*H\*e\*a\*d\* \*B\*a\*s\*e\*s\*](<../attachments/Head Patterns/ChiliCosplay 11 Toony Head Bases/image-04.png>)
 
-![\*C\*h\*i\*l\*i\*C\*o\*s\*p\*l\*a\*y\* \*1\*1\* \*T\*o\*o\*n\*y\* \*H\*e\*a\*d\* \*B\*a\*s\*e\*s\*](<attachments/Head Patterns/ChiliCosplay 11 Toony Head Bases/image-05.png>)
+![\*C\*h\*i\*l\*i\*C\*o\*s\*p\*l\*a\*y\* \*1\*1\* \*T\*o\*o\*n\*y\* \*H\*e\*a\*d\* \*B\*a\*s\*e\*s\*](<../attachments/Head Patterns/ChiliCosplay 11 Toony Head Bases/image-05.png>)
 
-![\*C\*h\*i\*l\*i\*C\*o\*s\*p\*l\*a\*y\* \*1\*1\* \*T\*o\*o\*n\*y\* \*H\*e\*a\*d\* \*B\*a\*s\*e\*s\*](<attachments/Head Patterns/ChiliCosplay 11 Toony Head Bases/image-06.png>)
+![\*C\*h\*i\*l\*i\*C\*o\*s\*p\*l\*a\*y\* \*1\*1\* \*T\*o\*o\*n\*y\* \*H\*e\*a\*d\* \*B\*a\*s\*e\*s\*](<../attachments/Head Patterns/ChiliCosplay 11 Toony Head Bases/image-06.png>)
 
-![\*C\*h\*i\*l\*i\*C\*o\*s\*p\*l\*a\*y\* \*1\*1\* \*T\*o\*o\*n\*y\* \*H\*e\*a\*d\* \*B\*a\*s\*e\*s\*](<attachments/Head Patterns/ChiliCosplay 11 Toony Head Bases/image-07.png>)
+![\*C\*h\*i\*l\*i\*C\*o\*s\*p\*l\*a\*y\* \*1\*1\* \*T\*o\*o\*n\*y\* \*H\*e\*a\*d\* \*B\*a\*s\*e\*s\*](<../attachments/Head Patterns/ChiliCosplay 11 Toony Head Bases/image-07.png>)
 
-![\*C\*h\*i\*l\*i\*C\*o\*s\*p\*l\*a\*y\* \*1\*1\* \*T\*o\*o\*n\*y\* \*H\*e\*a\*d\* \*B\*a\*s\*e\*s\*](<attachments/Head Patterns/ChiliCosplay 11 Toony Head Bases/image-08.png>)
+![\*C\*h\*i\*l\*i\*C\*o\*s\*p\*l\*a\*y\* \*1\*1\* \*T\*o\*o\*n\*y\* \*H\*e\*a\*d\* \*B\*a\*s\*e\*s\*](<../attachments/Head Patterns/ChiliCosplay 11 Toony Head Bases/image-08.png>)
 
-![\*C\*h\*i\*l\*i\*C\*o\*s\*p\*l\*a\*y\* \*1\*1\* \*T\*o\*o\*n\*y\* \*H\*e\*a\*d\* \*B\*a\*s\*e\*s\*](<attachments/Head Patterns/ChiliCosplay 11 Toony Head Bases/image-09.png>)
+![\*C\*h\*i\*l\*i\*C\*o\*s\*p\*l\*a\*y\* \*1\*1\* \*T\*o\*o\*n\*y\* \*H\*e\*a\*d\* \*B\*a\*s\*e\*s\*](<../attachments/Head Patterns/ChiliCosplay 11 Toony Head Bases/image-09.png>)
 
-![\*C\*h\*i\*l\*i\*C\*o\*s\*p\*l\*a\*y\* \*1\*1\* \*T\*o\*o\*n\*y\* \*H\*e\*a\*d\* \*B\*a\*s\*e\*s\*](<attachments/Head Patterns/ChiliCosplay 11 Toony Head Bases/image-10.png>)
+![\*C\*h\*i\*l\*i\*C\*o\*s\*p\*l\*a\*y\* \*1\*1\* \*T\*o\*o\*n\*y\* \*H\*e\*a\*d\* \*B\*a\*s\*e\*s\*](<../attachments/Head Patterns/ChiliCosplay 11 Toony Head Bases/image-10.png>)
 
-![\*C\*h\*i\*l\*i\*C\*o\*s\*p\*l\*a\*y\* \*1\*1\* \*T\*o\*o\*n\*y\* \*H\*e\*a\*d\* \*B\*a\*s\*e\*s\*](<attachments/Head Patterns/ChiliCosplay 11 Toony Head Bases/image-11.png>)
+![\*C\*h\*i\*l\*i\*C\*o\*s\*p\*l\*a\*y\* \*1\*1\* \*T\*o\*o\*n\*y\* \*H\*e\*a\*d\* \*B\*a\*s\*e\*s\*](<../attachments/Head Patterns/ChiliCosplay 11 Toony Head Bases/image-11.png>)
 
 ---
 
@@ -378,21 +378,21 @@ Deer Skull: [https://youtu.be/4hwOTAvWopA](https://youtu.be/4hwOTAvWopA "smartCa
 
 Bird Skull: [https://youtu.be/g3Xlxat2e9A](https://youtu.be/g3Xlxat2e9A "smartCard-inline")
 
-![\*M\*u\*g\*i\*w\*a\*r\*a\* \*8\* \*E\*V\*A\* \*H\*e\*a\*d\* \*&\* \*S\*k\*u\*l\*l\* \*B\*a\*s\*e\*s\*](<attachments/Head Patterns/Mugiwara 8 EVA Head & Skull Bases/image-01.png>)
+![\*M\*u\*g\*i\*w\*a\*r\*a\* \*8\* \*E\*V\*A\* \*H\*e\*a\*d\* \*&\* \*S\*k\*u\*l\*l\* \*B\*a\*s\*e\*s\*](<../attachments/Head Patterns/Mugiwara 8 EVA Head & Skull Bases/image-01.png>)
 
-![\*M\*u\*g\*i\*w\*a\*r\*a\* \*8\* \*E\*V\*A\* \*H\*e\*a\*d\* \*&\* \*S\*k\*u\*l\*l\* \*B\*a\*s\*e\*s\*](<attachments/Head Patterns/Mugiwara 8 EVA Head & Skull Bases/image-02.png>)
+![\*M\*u\*g\*i\*w\*a\*r\*a\* \*8\* \*E\*V\*A\* \*H\*e\*a\*d\* \*&\* \*S\*k\*u\*l\*l\* \*B\*a\*s\*e\*s\*](<../attachments/Head Patterns/Mugiwara 8 EVA Head & Skull Bases/image-02.png>)
 
-![\*M\*u\*g\*i\*w\*a\*r\*a\* \*8\* \*E\*V\*A\* \*H\*e\*a\*d\* \*&\* \*S\*k\*u\*l\*l\* \*B\*a\*s\*e\*s\*](<attachments/Head Patterns/Mugiwara 8 EVA Head & Skull Bases/image-03.png>)
+![\*M\*u\*g\*i\*w\*a\*r\*a\* \*8\* \*E\*V\*A\* \*H\*e\*a\*d\* \*&\* \*S\*k\*u\*l\*l\* \*B\*a\*s\*e\*s\*](<../attachments/Head Patterns/Mugiwara 8 EVA Head & Skull Bases/image-03.png>)
 
-![\*M\*u\*g\*i\*w\*a\*r\*a\* \*8\* \*E\*V\*A\* \*H\*e\*a\*d\* \*&\* \*S\*k\*u\*l\*l\* \*B\*a\*s\*e\*s\*](<attachments/Head Patterns/Mugiwara 8 EVA Head & Skull Bases/image-04.png>)
+![\*M\*u\*g\*i\*w\*a\*r\*a\* \*8\* \*E\*V\*A\* \*H\*e\*a\*d\* \*&\* \*S\*k\*u\*l\*l\* \*B\*a\*s\*e\*s\*](<../attachments/Head Patterns/Mugiwara 8 EVA Head & Skull Bases/image-04.png>)
 
-![\*M\*u\*g\*i\*w\*a\*r\*a\* \*8\* \*E\*V\*A\* \*H\*e\*a\*d\* \*&\* \*S\*k\*u\*l\*l\* \*B\*a\*s\*e\*s\*](<attachments/Head Patterns/Mugiwara 8 EVA Head & Skull Bases/image-05.png>)
+![\*M\*u\*g\*i\*w\*a\*r\*a\* \*8\* \*E\*V\*A\* \*H\*e\*a\*d\* \*&\* \*S\*k\*u\*l\*l\* \*B\*a\*s\*e\*s\*](<../attachments/Head Patterns/Mugiwara 8 EVA Head & Skull Bases/image-05.png>)
 
-![\*M\*u\*g\*i\*w\*a\*r\*a\* \*8\* \*E\*V\*A\* \*H\*e\*a\*d\* \*&\* \*S\*k\*u\*l\*l\* \*B\*a\*s\*e\*s\*](<attachments/Head Patterns/Mugiwara 8 EVA Head & Skull Bases/image-06.png>)
+![\*M\*u\*g\*i\*w\*a\*r\*a\* \*8\* \*E\*V\*A\* \*H\*e\*a\*d\* \*&\* \*S\*k\*u\*l\*l\* \*B\*a\*s\*e\*s\*](<../attachments/Head Patterns/Mugiwara 8 EVA Head & Skull Bases/image-06.png>)
 
-![\*M\*u\*g\*i\*w\*a\*r\*a\* \*8\* \*E\*V\*A\* \*H\*e\*a\*d\* \*&\* \*S\*k\*u\*l\*l\* \*B\*a\*s\*e\*s\*](<attachments/Head Patterns/Mugiwara 8 EVA Head & Skull Bases/image-07.png>)
+![\*M\*u\*g\*i\*w\*a\*r\*a\* \*8\* \*E\*V\*A\* \*H\*e\*a\*d\* \*&\* \*S\*k\*u\*l\*l\* \*B\*a\*s\*e\*s\*](<../attachments/Head Patterns/Mugiwara 8 EVA Head & Skull Bases/image-07.png>)
 
-![\*M\*u\*g\*i\*w\*a\*r\*a\* \*8\* \*E\*V\*A\* \*H\*e\*a\*d\* \*&\* \*S\*k\*u\*l\*l\* \*B\*a\*s\*e\*s\*](<attachments/Head Patterns/Mugiwara 8 EVA Head & Skull Bases/image-08.png>)
+![\*M\*u\*g\*i\*w\*a\*r\*a\* \*8\* \*E\*V\*A\* \*H\*e\*a\*d\* \*&\* \*S\*k\*u\*l\*l\* \*B\*a\*s\*e\*s\*](<../attachments/Head Patterns/Mugiwara 8 EVA Head & Skull Bases/image-08.png>)
 
 ---
 
@@ -536,37 +536,37 @@ Videos:
 
 **Moth**: [https://www.youtube.com/watch?v=yHNxU0RbUaM](https://www.youtube.com/watch?v=yHNxU0RbUaM "smartCard-inline")
 
-![\*M\*u\*g\*i\*w\*a\*r\*a\* \*1\*6\* \*F\*o\*a\*m\* \*P\*a\*t\*t\*e\*r\*n\*s\*](<attachments/Head Patterns/Mugiwara 16 Foam Patterns/image-01.png>)
+![\*M\*u\*g\*i\*w\*a\*r\*a\* \*1\*6\* \*F\*o\*a\*m\* \*P\*a\*t\*t\*e\*r\*n\*s\*](<../attachments/Head Patterns/Mugiwara 16 Foam Patterns/image-01.png>)
 
-![\*M\*u\*g\*i\*w\*a\*r\*a\* \*1\*6\* \*F\*o\*a\*m\* \*P\*a\*t\*t\*e\*r\*n\*s\*](<attachments/Head Patterns/Mugiwara 16 Foam Patterns/image-02.png>)
+![\*M\*u\*g\*i\*w\*a\*r\*a\* \*1\*6\* \*F\*o\*a\*m\* \*P\*a\*t\*t\*e\*r\*n\*s\*](<../attachments/Head Patterns/Mugiwara 16 Foam Patterns/image-02.png>)
 
-![\*M\*u\*g\*i\*w\*a\*r\*a\* \*1\*6\* \*F\*o\*a\*m\* \*P\*a\*t\*t\*e\*r\*n\*s\*](<attachments/Head Patterns/Mugiwara 16 Foam Patterns/image-03.png>)
+![\*M\*u\*g\*i\*w\*a\*r\*a\* \*1\*6\* \*F\*o\*a\*m\* \*P\*a\*t\*t\*e\*r\*n\*s\*](<../attachments/Head Patterns/Mugiwara 16 Foam Patterns/image-03.png>)
 
-![\*M\*u\*g\*i\*w\*a\*r\*a\* \*1\*6\* \*F\*o\*a\*m\* \*P\*a\*t\*t\*e\*r\*n\*s\*](<attachments/Head Patterns/Mugiwara 16 Foam Patterns/image-04.png>)
+![\*M\*u\*g\*i\*w\*a\*r\*a\* \*1\*6\* \*F\*o\*a\*m\* \*P\*a\*t\*t\*e\*r\*n\*s\*](<../attachments/Head Patterns/Mugiwara 16 Foam Patterns/image-04.png>)
 
-![\*M\*u\*g\*i\*w\*a\*r\*a\* \*1\*6\* \*F\*o\*a\*m\* \*P\*a\*t\*t\*e\*r\*n\*s\*](<attachments/Head Patterns/Mugiwara 16 Foam Patterns/image-05.png>)
+![\*M\*u\*g\*i\*w\*a\*r\*a\* \*1\*6\* \*F\*o\*a\*m\* \*P\*a\*t\*t\*e\*r\*n\*s\*](<../attachments/Head Patterns/Mugiwara 16 Foam Patterns/image-05.png>)
 
-![\*M\*u\*g\*i\*w\*a\*r\*a\* \*1\*6\* \*F\*o\*a\*m\* \*P\*a\*t\*t\*e\*r\*n\*s\*](<attachments/Head Patterns/Mugiwara 16 Foam Patterns/image-06.png>)
+![\*M\*u\*g\*i\*w\*a\*r\*a\* \*1\*6\* \*F\*o\*a\*m\* \*P\*a\*t\*t\*e\*r\*n\*s\*](<../attachments/Head Patterns/Mugiwara 16 Foam Patterns/image-06.png>)
 
-![\*M\*u\*g\*i\*w\*a\*r\*a\* \*1\*6\* \*F\*o\*a\*m\* \*P\*a\*t\*t\*e\*r\*n\*s\*](<attachments/Head Patterns/Mugiwara 16 Foam Patterns/image-07.png>)
+![\*M\*u\*g\*i\*w\*a\*r\*a\* \*1\*6\* \*F\*o\*a\*m\* \*P\*a\*t\*t\*e\*r\*n\*s\*](<../attachments/Head Patterns/Mugiwara 16 Foam Patterns/image-07.png>)
 
-![\*M\*u\*g\*i\*w\*a\*r\*a\* \*1\*6\* \*F\*o\*a\*m\* \*P\*a\*t\*t\*e\*r\*n\*s\*](<attachments/Head Patterns/Mugiwara 16 Foam Patterns/image-08.png>)
+![\*M\*u\*g\*i\*w\*a\*r\*a\* \*1\*6\* \*F\*o\*a\*m\* \*P\*a\*t\*t\*e\*r\*n\*s\*](<../attachments/Head Patterns/Mugiwara 16 Foam Patterns/image-08.png>)
 
-![\*M\*u\*g\*i\*w\*a\*r\*a\* \*1\*6\* \*F\*o\*a\*m\* \*P\*a\*t\*t\*e\*r\*n\*s\*](<attachments/Head Patterns/Mugiwara 16 Foam Patterns/image-09.png>)
+![\*M\*u\*g\*i\*w\*a\*r\*a\* \*1\*6\* \*F\*o\*a\*m\* \*P\*a\*t\*t\*e\*r\*n\*s\*](<../attachments/Head Patterns/Mugiwara 16 Foam Patterns/image-09.png>)
 
-![\*M\*u\*g\*i\*w\*a\*r\*a\* \*1\*6\* \*F\*o\*a\*m\* \*P\*a\*t\*t\*e\*r\*n\*s\*](<attachments/Head Patterns/Mugiwara 16 Foam Patterns/image-10.png>)
+![\*M\*u\*g\*i\*w\*a\*r\*a\* \*1\*6\* \*F\*o\*a\*m\* \*P\*a\*t\*t\*e\*r\*n\*s\*](<../attachments/Head Patterns/Mugiwara 16 Foam Patterns/image-10.png>)
 
-![\*M\*u\*g\*i\*w\*a\*r\*a\* \*1\*6\* \*F\*o\*a\*m\* \*P\*a\*t\*t\*e\*r\*n\*s\*](<attachments/Head Patterns/Mugiwara 16 Foam Patterns/image-11.png>)
+![\*M\*u\*g\*i\*w\*a\*r\*a\* \*1\*6\* \*F\*o\*a\*m\* \*P\*a\*t\*t\*e\*r\*n\*s\*](<../attachments/Head Patterns/Mugiwara 16 Foam Patterns/image-11.png>)
 
-![\*M\*u\*g\*i\*w\*a\*r\*a\* \*1\*6\* \*F\*o\*a\*m\* \*P\*a\*t\*t\*e\*r\*n\*s\*](<attachments/Head Patterns/Mugiwara 16 Foam Patterns/image-12.png>)
+![\*M\*u\*g\*i\*w\*a\*r\*a\* \*1\*6\* \*F\*o\*a\*m\* \*P\*a\*t\*t\*e\*r\*n\*s\*](<../attachments/Head Patterns/Mugiwara 16 Foam Patterns/image-12.png>)
 
-![\*M\*u\*g\*i\*w\*a\*r\*a\* \*1\*6\* \*F\*o\*a\*m\* \*P\*a\*t\*t\*e\*r\*n\*s\*](<attachments/Head Patterns/Mugiwara 16 Foam Patterns/image-13.png>)
+![\*M\*u\*g\*i\*w\*a\*r\*a\* \*1\*6\* \*F\*o\*a\*m\* \*P\*a\*t\*t\*e\*r\*n\*s\*](<../attachments/Head Patterns/Mugiwara 16 Foam Patterns/image-13.png>)
 
-![\*M\*u\*g\*i\*w\*a\*r\*a\* \*1\*6\* \*F\*o\*a\*m\* \*P\*a\*t\*t\*e\*r\*n\*s\*](<attachments/Head Patterns/Mugiwara 16 Foam Patterns/image-14.png>)
+![\*M\*u\*g\*i\*w\*a\*r\*a\* \*1\*6\* \*F\*o\*a\*m\* \*P\*a\*t\*t\*e\*r\*n\*s\*](<../attachments/Head Patterns/Mugiwara 16 Foam Patterns/image-14.png>)
 
-![\*M\*u\*g\*i\*w\*a\*r\*a\* \*1\*6\* \*F\*o\*a\*m\* \*P\*a\*t\*t\*e\*r\*n\*s\*](<attachments/Head Patterns/Mugiwara 16 Foam Patterns/image-15.png>)
+![\*M\*u\*g\*i\*w\*a\*r\*a\* \*1\*6\* \*F\*o\*a\*m\* \*P\*a\*t\*t\*e\*r\*n\*s\*](<../attachments/Head Patterns/Mugiwara 16 Foam Patterns/image-15.png>)
 
-![\*M\*u\*g\*i\*w\*a\*r\*a\* \*1\*6\* \*F\*o\*a\*m\* \*P\*a\*t\*t\*e\*r\*n\*s\*](<attachments/Head Patterns/Mugiwara 16 Foam Patterns/image-16.png>)
+![\*M\*u\*g\*i\*w\*a\*r\*a\* \*1\*6\* \*F\*o\*a\*m\* \*P\*a\*t\*t\*e\*r\*n\*s\*](<../attachments/Head Patterns/Mugiwara 16 Foam Patterns/image-16.png>)
 
 ---
 
@@ -578,13 +578,13 @@ Horse/Dragon: [https://www.etsy.com/ca/listing/673485219/horse-dragon-fursuit-he
 
 Feline: [https://www.etsy.com/ca/listing/692460034/feline-fursuit-head-base-pattern-instant](https://www.etsy.com/ca/listing/692460034/feline-fursuit-head-base-pattern-instant "smartCard-inline")
 
-![\*J\*u\*d\*i\*f\*u\*r\* \*H\*o\*r\*s\*e\*/\*D\*r\*a\*g\*o\*n\* \*F\*o\*a\*m\* \*H\*e\*a\*d\* \*P\*a\*t\*t\*e\*r\*n\* \*+\* \*F\*e\*l\*i\*n\*e\*](<attachments/Head Patterns/Judifur HorseDragon Foam Head Pattern + Feline/image-01.webp>)
+![\*J\*u\*d\*i\*f\*u\*r\* \*H\*o\*r\*s\*e\*/\*D\*r\*a\*g\*o\*n\* \*F\*o\*a\*m\* \*H\*e\*a\*d\* \*P\*a\*t\*t\*e\*r\*n\* \*+\* \*F\*e\*l\*i\*n\*e\*](<../attachments/Head Patterns/Judifur HorseDragon Foam Head Pattern + Feline/image-01.webp>)
 
-![\*J\*u\*d\*i\*f\*u\*r\* \*H\*o\*r\*s\*e\*/\*D\*r\*a\*g\*o\*n\* \*F\*o\*a\*m\* \*H\*e\*a\*d\* \*P\*a\*t\*t\*e\*r\*n\* \*+\* \*F\*e\*l\*i\*n\*e\*](<attachments/Head Patterns/Judifur HorseDragon Foam Head Pattern + Feline/image-02.webp>)
+![\*J\*u\*d\*i\*f\*u\*r\* \*H\*o\*r\*s\*e\*/\*D\*r\*a\*g\*o\*n\* \*F\*o\*a\*m\* \*H\*e\*a\*d\* \*P\*a\*t\*t\*e\*r\*n\* \*+\* \*F\*e\*l\*i\*n\*e\*](<../attachments/Head Patterns/Judifur HorseDragon Foam Head Pattern + Feline/image-02.webp>)
 
-![\*J\*u\*d\*i\*f\*u\*r\* \*H\*o\*r\*s\*e\*/\*D\*r\*a\*g\*o\*n\* \*F\*o\*a\*m\* \*H\*e\*a\*d\* \*P\*a\*t\*t\*e\*r\*n\* \*+\* \*F\*e\*l\*i\*n\*e\*](<attachments/Head Patterns/Judifur HorseDragon Foam Head Pattern + Feline/image-03.webp>)
+![\*J\*u\*d\*i\*f\*u\*r\* \*H\*o\*r\*s\*e\*/\*D\*r\*a\*g\*o\*n\* \*F\*o\*a\*m\* \*H\*e\*a\*d\* \*P\*a\*t\*t\*e\*r\*n\* \*+\* \*F\*e\*l\*i\*n\*e\*](<../attachments/Head Patterns/Judifur HorseDragon Foam Head Pattern + Feline/image-03.webp>)
 
-![\*J\*u\*d\*i\*f\*u\*r\* \*H\*o\*r\*s\*e\*/\*D\*r\*a\*g\*o\*n\* \*F\*o\*a\*m\* \*H\*e\*a\*d\* \*P\*a\*t\*t\*e\*r\*n\* \*+\* \*F\*e\*l\*i\*n\*e\*](<attachments/Head Patterns/Judifur HorseDragon Foam Head Pattern + Feline/image-04.webp>)
+![\*J\*u\*d\*i\*f\*u\*r\* \*H\*o\*r\*s\*e\*/\*D\*r\*a\*g\*o\*n\* \*F\*o\*a\*m\* \*H\*e\*a\*d\* \*P\*a\*t\*t\*e\*r\*n\* \*+\* \*F\*e\*l\*i\*n\*e\*](<../attachments/Head Patterns/Judifur HorseDragon Foam Head Pattern + Feline/image-04.webp>)
 
 ---
 
@@ -594,7 +594,7 @@ Feline: [https://www.etsy.com/ca/listing/692460034/feline-fursuit-head-base-patt
 
 [https://www.etsy.com/ca/listing/1183815423/hollow-foam-fox-head-pattern](https://www.etsy.com/ca/listing/1183815423/hollow-foam-fox-head-pattern "smartCard-inline")
 
-![\*R\*i\*c\*o\*c\*h\*e\*t\*x\*c\*r\*a\*f\*t\*s\* \*F\*o\*x\* \*B\*a\*s\*e\*](<attachments/Head Patterns/Ricochetxcrafts Fox Base/image-01.png>)
+![\*R\*i\*c\*o\*c\*h\*e\*t\*x\*c\*r\*a\*f\*t\*s\* \*F\*o\*x\* \*B\*a\*s\*e\*](<../attachments/Head Patterns/Ricochetxcrafts Fox Base/image-01.png>)
 
 ---
 
@@ -610,7 +610,7 @@ Dutchie: [https://www.skyehighstudios.com/store/p/angel-dragon-fursuit-head-base
 
 [https://youtu.be/xEPfGrTCCQw](https://youtu.be/xEPfGrTCCQw "smartCard-inline")
 
-![\*S\*k\*y\*e\*h\*i\*g\*h\*S\*t\*u\*d\*i\*o\*s\* \*3\* \*H\*e\*a\*d\* \*B\*a\*s\*e\*s\*](<attachments/Head Patterns/SkyehighStudios 3 Head Bases/image-01.png>)
+![\*S\*k\*y\*e\*h\*i\*g\*h\*S\*t\*u\*d\*i\*o\*s\* \*3\* \*H\*e\*a\*d\* \*B\*a\*s\*e\*s\*](<../attachments/Head Patterns/SkyehighStudios 3 Head Bases/image-01.png>)
 
 ---
 
@@ -622,9 +622,9 @@ Kemono: [https://www.etsy.com/ca/listing/944869581/simple-kemono-fursuit-foam-he
 
 Eeveelution: [https://www.etsy.com/ca/listing/1266794998/eeveelution-fursuit-foam-head-base](https://www.etsy.com/ca/listing/1266794998/eeveelution-fursuit-foam-head-base "smartCard-inline")
 
-![\*B\*a\*s\*i\*l\*B\*i\*t\*e\*s\* \*K\*e\*m\*o\*n\*o\* \*a\*n\*d\* \*E\*e\*v\*e\*e\*l\*u\*t\*i\*o\*n\* \*H\*e\*a\*d\* \*B\*a\*s\*e\*](<attachments/Head Patterns/BasilBites Kemono and Eeveelution Head Base/image-01.png>)
+![\*B\*a\*s\*i\*l\*B\*i\*t\*e\*s\* \*K\*e\*m\*o\*n\*o\* \*a\*n\*d\* \*E\*e\*v\*e\*e\*l\*u\*t\*i\*o\*n\* \*H\*e\*a\*d\* \*B\*a\*s\*e\*](<../attachments/Head Patterns/BasilBites Kemono and Eeveelution Head Base/image-01.png>)
 
-![\*B\*a\*s\*i\*l\*B\*i\*t\*e\*s\* \*K\*e\*m\*o\*n\*o\* \*a\*n\*d\* \*E\*e\*v\*e\*e\*l\*u\*t\*i\*o\*n\* \*H\*e\*a\*d\* \*B\*a\*s\*e\*](<attachments/Head Patterns/BasilBites Kemono and Eeveelution Head Base/image-02.png>)
+![\*B\*a\*s\*i\*l\*B\*i\*t\*e\*s\* \*K\*e\*m\*o\*n\*o\* \*a\*n\*d\* \*E\*e\*v\*e\*e\*l\*u\*t\*i\*o\*n\* \*H\*e\*a\*d\* \*B\*a\*s\*e\*](<../attachments/Head Patterns/BasilBites Kemono and Eeveelution Head Base/image-02.png>)
 
 ---
 
@@ -644,11 +644,11 @@ Eeveelution: [https://www.etsy.com/ca/listing/1266794998/eeveelution-fursuit-foa
 
 [https://www.youtube.com/watch?v=8o7AtXXdxF8](https://www.youtube.com/watch?v=8o7AtXXdxF8 "smartCard-inline")
 
-![\*D\*o\*u\*b\*l\*e\*T\*r\*o\*u\*b\*l\*e\*F\*u\*r\*s\*u\*i\*t\* \*K\*e\*m\*o\*n\*o\* \*+\* \*C\*a\*n\*i\*n\*e\* \*H\*e\*a\*d\* \*B\*a\*s\*e\*s\*](<attachments/Head Patterns/DoubleTroubleFursuit Kemono + Canine Head Bases/image-01.png>)
+![\*D\*o\*u\*b\*l\*e\*T\*r\*o\*u\*b\*l\*e\*F\*u\*r\*s\*u\*i\*t\* \*K\*e\*m\*o\*n\*o\* \*+\* \*C\*a\*n\*i\*n\*e\* \*H\*e\*a\*d\* \*B\*a\*s\*e\*s\*](<../attachments/Head Patterns/DoubleTroubleFursuit Kemono + Canine Head Bases/image-01.png>)
 
-![\*D\*o\*u\*b\*l\*e\*T\*r\*o\*u\*b\*l\*e\*F\*u\*r\*s\*u\*i\*t\* \*K\*e\*m\*o\*n\*o\* \*+\* \*C\*a\*n\*i\*n\*e\* \*H\*e\*a\*d\* \*B\*a\*s\*e\*s\*](<attachments/Head Patterns/DoubleTroubleFursuit Kemono + Canine Head Bases/image-02.png>)
+![\*D\*o\*u\*b\*l\*e\*T\*r\*o\*u\*b\*l\*e\*F\*u\*r\*s\*u\*i\*t\* \*K\*e\*m\*o\*n\*o\* \*+\* \*C\*a\*n\*i\*n\*e\* \*H\*e\*a\*d\* \*B\*a\*s\*e\*s\*](<../attachments/Head Patterns/DoubleTroubleFursuit Kemono + Canine Head Bases/image-02.png>)
 
-![\*D\*o\*u\*b\*l\*e\*T\*r\*o\*u\*b\*l\*e\*F\*u\*r\*s\*u\*i\*t\* \*K\*e\*m\*o\*n\*o\* \*+\* \*C\*a\*n\*i\*n\*e\* \*H\*e\*a\*d\* \*B\*a\*s\*e\*s\*](<attachments/Head Patterns/DoubleTroubleFursuit Kemono + Canine Head Bases/image-03.png>)
+![\*D\*o\*u\*b\*l\*e\*T\*r\*o\*u\*b\*l\*e\*F\*u\*r\*s\*u\*i\*t\* \*K\*e\*m\*o\*n\*o\* \*+\* \*C\*a\*n\*i\*n\*e\* \*H\*e\*a\*d\* \*B\*a\*s\*e\*s\*](<../attachments/Head Patterns/DoubleTroubleFursuit Kemono + Canine Head Bases/image-03.png>)
 
 ---
 
@@ -660,13 +660,13 @@ Feline:[https://www.etsy.com/ca/listing/1312586661/digital-pattern-moveable-jaw-
 
 Canine:[https://www.etsy.com/ca/listing/1336930634/digital-pattern-toony-canine-hollow-with](https://www.etsy.com/ca/listing/1336930634/digital-pattern-toony-canine-hollow-with "smartCard-inline")
 
-![\*L\*u\*v\*l\*y\*D\*e\*s\*e\*r\*t\*T\*r\*e\*a\*s\*u\*r\*e\*s\* \*C\*a\*n\*i\*n\*e\* \*a\*n\*d\* \*B\*i\*g\* \*C\*a\*t\* \*P\*a\*t\*t\*e\*r\*n\*](<attachments/Head Patterns/LuvlyDesertTreasures Canine and Big Cat Pattern/image-01.png>)
+![\*L\*u\*v\*l\*y\*D\*e\*s\*e\*r\*t\*T\*r\*e\*a\*s\*u\*r\*e\*s\* \*C\*a\*n\*i\*n\*e\* \*a\*n\*d\* \*B\*i\*g\* \*C\*a\*t\* \*P\*a\*t\*t\*e\*r\*n\*](<../attachments/Head Patterns/LuvlyDesertTreasures Canine and Big Cat Pattern/image-01.png>)
 
-![\*L\*u\*v\*l\*y\*D\*e\*s\*e\*r\*t\*T\*r\*e\*a\*s\*u\*r\*e\*s\* \*C\*a\*n\*i\*n\*e\* \*a\*n\*d\* \*B\*i\*g\* \*C\*a\*t\* \*P\*a\*t\*t\*e\*r\*n\*](<attachments/Head Patterns/LuvlyDesertTreasures Canine and Big Cat Pattern/image-02.png>)
+![\*L\*u\*v\*l\*y\*D\*e\*s\*e\*r\*t\*T\*r\*e\*a\*s\*u\*r\*e\*s\* \*C\*a\*n\*i\*n\*e\* \*a\*n\*d\* \*B\*i\*g\* \*C\*a\*t\* \*P\*a\*t\*t\*e\*r\*n\*](<../attachments/Head Patterns/LuvlyDesertTreasures Canine and Big Cat Pattern/image-02.png>)
 
-![\*L\*u\*v\*l\*y\*D\*e\*s\*e\*r\*t\*T\*r\*e\*a\*s\*u\*r\*e\*s\* \*C\*a\*n\*i\*n\*e\* \*a\*n\*d\* \*B\*i\*g\* \*C\*a\*t\* \*P\*a\*t\*t\*e\*r\*n\*](<attachments/Head Patterns/LuvlyDesertTreasures Canine and Big Cat Pattern/image-03.png>)
+![\*L\*u\*v\*l\*y\*D\*e\*s\*e\*r\*t\*T\*r\*e\*a\*s\*u\*r\*e\*s\* \*C\*a\*n\*i\*n\*e\* \*a\*n\*d\* \*B\*i\*g\* \*C\*a\*t\* \*P\*a\*t\*t\*e\*r\*n\*](<../attachments/Head Patterns/LuvlyDesertTreasures Canine and Big Cat Pattern/image-03.png>)
 
-![\*L\*u\*v\*l\*y\*D\*e\*s\*e\*r\*t\*T\*r\*e\*a\*s\*u\*r\*e\*s\* \*C\*a\*n\*i\*n\*e\* \*a\*n\*d\* \*B\*i\*g\* \*C\*a\*t\* \*P\*a\*t\*t\*e\*r\*n\*](<attachments/Head Patterns/LuvlyDesertTreasures Canine and Big Cat Pattern/image-04.png>)
+![\*L\*u\*v\*l\*y\*D\*e\*s\*e\*r\*t\*T\*r\*e\*a\*s\*u\*r\*e\*s\* \*C\*a\*n\*i\*n\*e\* \*a\*n\*d\* \*B\*i\*g\* \*C\*a\*t\* \*P\*a\*t\*t\*e\*r\*n\*](<../attachments/Head Patterns/LuvlyDesertTreasures Canine and Big Cat Pattern/image-04.png>)
 
 ---
 
@@ -676,7 +676,7 @@ Canine:[https://www.etsy.com/ca/listing/1336930634/digital-pattern-toony-canine-
 
 [https://www.etsy.com/ca/listing/1423761819/digital-kemono-fursuit-head-pattern](https://www.etsy.com/ca/listing/1423761819/digital-kemono-fursuit-head-pattern "smartCard-inline")
 
-![\*N\*e\*k\*o\*S\*o\*n\*a\* \*H\*e\*a\*d\* \*B\*a\*s\*e\* \*P\*a\*t\*t\*e\*r\*n\*](<attachments/Head Patterns/NekoSona Head Base Pattern/image-01.png>)
+![\*N\*e\*k\*o\*S\*o\*n\*a\* \*H\*e\*a\*d\* \*B\*a\*s\*e\* \*P\*a\*t\*t\*e\*r\*n\*](<../attachments/Head Patterns/NekoSona Head Base Pattern/image-01.png>)
 
 ---
 
@@ -688,9 +688,9 @@ Version 1: [https://www.etsy.com/ca/listing/1672030528/dragon-dino-headmask-base
 
 Version 2: [https://www.etsy.com/ca/listing/4426461906/furred-dragon-head-kobold-mask-base-with](https://www.etsy.com/ca/listing/4426461906/furred-dragon-head-kobold-mask-base-with "smartCard-inline")
 
-![\*T\*h\*e\*R\*a\*p\*t\*o\*r\*s\*S\*h\*o\*p\* \*D\*r\*a\*g\*o\*n\* \*H\*e\*a\*d\* \*P\*a\*t\*t\*e\*r\*n\* \*2\* \*V\*e\*r\*s\*i\*o\*n\*s\*](<attachments/Head Patterns/TheRaptorsShop Dragon Head Pattern 2 Versions/image-01.jpg>)
+![\*T\*h\*e\*R\*a\*p\*t\*o\*r\*s\*S\*h\*o\*p\* \*D\*r\*a\*g\*o\*n\* \*H\*e\*a\*d\* \*P\*a\*t\*t\*e\*r\*n\* \*2\* \*V\*e\*r\*s\*i\*o\*n\*s\*](<../attachments/Head Patterns/TheRaptorsShop Dragon Head Pattern 2 Versions/image-01.jpg>)
 
-![\*T\*h\*e\*R\*a\*p\*t\*o\*r\*s\*S\*h\*o\*p\* \*D\*r\*a\*g\*o\*n\* \*H\*e\*a\*d\* \*P\*a\*t\*t\*e\*r\*n\* \*2\* \*V\*e\*r\*s\*i\*o\*n\*s\*](<attachments/Head Patterns/TheRaptorsShop Dragon Head Pattern 2 Versions/image-02.png>)
+![\*T\*h\*e\*R\*a\*p\*t\*o\*r\*s\*S\*h\*o\*p\* \*D\*r\*a\*g\*o\*n\* \*H\*e\*a\*d\* \*P\*a\*t\*t\*e\*r\*n\* \*2\* \*V\*e\*r\*s\*i\*o\*n\*s\*](<../attachments/Head Patterns/TheRaptorsShop Dragon Head Pattern 2 Versions/image-02.png>)
 
 ---
 
@@ -700,9 +700,9 @@ Version 2: [https://www.etsy.com/ca/listing/4426461906/furred-dragon-head-kobold
 
 [https://www.etsy.com/ca/listing/1096825331/snake-head-pattern-for-eva-foam](https://www.etsy.com/ca/listing/1096825331/snake-head-pattern-for-eva-foam "smartCard-inline")
 
-![\*T\*h\*e\*R\*a\*p\*t\*o\*r\*s\*S\*h\*o\*p\* \*S\*n\*a\*k\*e\* \*H\*e\*a\*d\* \*P\*a\*t\*t\*e\*r\*n\*](<attachments/Head Patterns/TheRaptorsShop Snake Head Pattern/image-01.webp>)
+![\*T\*h\*e\*R\*a\*p\*t\*o\*r\*s\*S\*h\*o\*p\* \*S\*n\*a\*k\*e\* \*H\*e\*a\*d\* \*P\*a\*t\*t\*e\*r\*n\*](<../attachments/Head Patterns/TheRaptorsShop Snake Head Pattern/image-01.webp>)
 
-![\*T\*h\*e\*R\*a\*p\*t\*o\*r\*s\*S\*h\*o\*p\* \*S\*n\*a\*k\*e\* \*H\*e\*a\*d\* \*P\*a\*t\*t\*e\*r\*n\*](<attachments/Head Patterns/TheRaptorsShop Snake Head Pattern/image-02.webp>)
+![\*T\*h\*e\*R\*a\*p\*t\*o\*r\*s\*S\*h\*o\*p\* \*S\*n\*a\*k\*e\* \*H\*e\*a\*d\* \*P\*a\*t\*t\*e\*r\*n\*](<../attachments/Head Patterns/TheRaptorsShop Snake Head Pattern/image-02.webp>)
 
 ---
 
@@ -717,11 +717,11 @@ Version 2: [https://www.etsy.com/ca/listing/4426461906/furred-dragon-head-kobold
 Or Worbla Version:
 [https://www.etsy.com/ca/listing/1032686912/synth-head-freamwork-pattern-from](https://www.etsy.com/ca/listing/1032686912/synth-head-freamwork-pattern-from "‌")
 
-![\*T\*h\*e\*R\*a\*p\*t\*o\*r\*s\*S\*h\*o\*p\* \*S\*y\*n\*t\*h\* \*H\*e\*a\*d\* \*P\*a\*t\*t\*e\*r\*n\*](<attachments/Head Patterns/TheRaptorsShop Synth Head Pattern/image-01.jpg>)
+![\*T\*h\*e\*R\*a\*p\*t\*o\*r\*s\*S\*h\*o\*p\* \*S\*y\*n\*t\*h\* \*H\*e\*a\*d\* \*P\*a\*t\*t\*e\*r\*n\*](<../attachments/Head Patterns/TheRaptorsShop Synth Head Pattern/image-01.jpg>)
 
-![\*T\*h\*e\*R\*a\*p\*t\*o\*r\*s\*S\*h\*o\*p\* \*S\*y\*n\*t\*h\* \*H\*e\*a\*d\* \*P\*a\*t\*t\*e\*r\*n\*](<attachments/Head Patterns/TheRaptorsShop Synth Head Pattern/image-02.jpg>)
+![\*T\*h\*e\*R\*a\*p\*t\*o\*r\*s\*S\*h\*o\*p\* \*S\*y\*n\*t\*h\* \*H\*e\*a\*d\* \*P\*a\*t\*t\*e\*r\*n\*](<../attachments/Head Patterns/TheRaptorsShop Synth Head Pattern/image-02.jpg>)
 
-![\*T\*h\*e\*R\*a\*p\*t\*o\*r\*s\*S\*h\*o\*p\* \*S\*y\*n\*t\*h\* \*H\*e\*a\*d\* \*P\*a\*t\*t\*e\*r\*n\*](<attachments/Head Patterns/TheRaptorsShop Synth Head Pattern/image-03.jpg>)
+![\*T\*h\*e\*R\*a\*p\*t\*o\*r\*s\*S\*h\*o\*p\* \*S\*y\*n\*t\*h\* \*H\*e\*a\*d\* \*P\*a\*t\*t\*e\*r\*n\*](<../attachments/Head Patterns/TheRaptorsShop Synth Head Pattern/image-03.jpg>)
 
 ---
 
@@ -733,9 +733,9 @@ Use at own risk, newer pattern maker, read description
 
 [https://drive.google.com/drive/folders/1HbCi_-ym58konyPn-k8ciHdqmOpVHA0O?usp=drive_link](https://drive.google.com/drive/folders/1HbCi_-ym58konyPn-k8ciHdqmOpVHA0O?usp=drive_link "smartCard-inline")
 
-![\*(\*F\*R\*E\*E\*)\* \*N\*a\*t\*h\*a\*h\*n\*i\*e\*l\* \*K\*e\*m\*o\*g\*a\*o\* \*B\*a\*s\*e\* \*(\*R\*E\*A\*D\* \*D\*E\*S\*C\*R\*I\*P\*T\*I\*O\*N\*)\*](<attachments/Head Patterns/(FREE) Nathahniel Kemogao Base (READ DESCRIPTION)/image-01.webp>)
+![\*(\*F\*R\*E\*E\*)\* \*N\*a\*t\*h\*a\*h\*n\*i\*e\*l\* \*K\*e\*m\*o\*g\*a\*o\* \*B\*a\*s\*e\* \*(\*R\*E\*A\*D\* \*D\*E\*S\*C\*R\*I\*P\*T\*I\*O\*N\*)\*](<../attachments/Head Patterns/(FREE) Nathahniel Kemogao Base (READ DESCRIPTION)/image-01.webp>)
 
-![\*(\*F\*R\*E\*E\*)\* \*N\*a\*t\*h\*a\*h\*n\*i\*e\*l\* \*K\*e\*m\*o\*g\*a\*o\* \*B\*a\*s\*e\* \*(\*R\*E\*A\*D\* \*D\*E\*S\*C\*R\*I\*P\*T\*I\*O\*N\*)\*](<attachments/Head Patterns/(FREE) Nathahniel Kemogao Base (READ DESCRIPTION)/image-02.webp>)
+![\*(\*F\*R\*E\*E\*)\* \*N\*a\*t\*h\*a\*h\*n\*i\*e\*l\* \*K\*e\*m\*o\*g\*a\*o\* \*B\*a\*s\*e\* \*(\*R\*E\*A\*D\* \*D\*E\*S\*C\*R\*I\*P\*T\*I\*O\*N\*)\*](<../attachments/Head Patterns/(FREE) Nathahniel Kemogao Base (READ DESCRIPTION)/image-02.webp>)
 
 ---
 
@@ -747,9 +747,9 @@ Use at own risk, newer pattern maker, read description
 
 [https://www.youtube.com/watch?v=AWSO_3SPaoM](https://www.youtube.com/watch?v=AWSO_3SPaoM "smartCard-inline")
 
-![\*O\*l\*l\*y\*F\*u\*r\* \*K\*e\*m\*o\*n\*o\* \*H\*e\*a\*d\* \*B\*a\*s\*e\*](<attachments/Head Patterns/OllyFur Kemono Head Base/image-01.webp>)
+![\*O\*l\*l\*y\*F\*u\*r\* \*K\*e\*m\*o\*n\*o\* \*H\*e\*a\*d\* \*B\*a\*s\*e\*](<../attachments/Head Patterns/OllyFur Kemono Head Base/image-01.webp>)
 
-![\*O\*l\*l\*y\*F\*u\*r\* \*K\*e\*m\*o\*n\*o\* \*H\*e\*a\*d\* \*B\*a\*s\*e\*](<attachments/Head Patterns/OllyFur Kemono Head Base/image-02.webp>)
+![\*O\*l\*l\*y\*F\*u\*r\* \*K\*e\*m\*o\*n\*o\* \*H\*e\*a\*d\* \*B\*a\*s\*e\*](<../attachments/Head Patterns/OllyFur Kemono Head Base/image-02.webp>)
 
 ---
 
@@ -761,11 +761,11 @@ Canine:[https://www.etsy.com/ca/listing/1362197910/fursuit-head-patternfor-comme
 
 Feline: [https://www.etsy.com/ca/listing/1845429158/fursuit-head-pattern-full-diy-guide](https://www.etsy.com/ca/listing/1845429158/fursuit-head-pattern-full-diy-guide "smartCard-inline")
 
-![\*T\*h\*e\*M\*a\*t\*e\*r\*i\*a\*l\*A\*l\*c\*h\*e\*m\*i\*s\*t\* \*K\*9\* \*+\* \*F\*e\*l\*i\*n\*e\* \*H\*e\*a\*d\* \*P\*a\*t\*t\*e\*r\*n\*](<attachments/Head Patterns/TheMaterialAlchemist K9 + Feline Head Pattern/image-01.jpg>)
+![\*T\*h\*e\*M\*a\*t\*e\*r\*i\*a\*l\*A\*l\*c\*h\*e\*m\*i\*s\*t\* \*K\*9\* \*+\* \*F\*e\*l\*i\*n\*e\* \*H\*e\*a\*d\* \*P\*a\*t\*t\*e\*r\*n\*](<../attachments/Head Patterns/TheMaterialAlchemist K9 + Feline Head Pattern/image-01.jpg>)
 
-![\*T\*h\*e\*M\*a\*t\*e\*r\*i\*a\*l\*A\*l\*c\*h\*e\*m\*i\*s\*t\* \*K\*9\* \*+\* \*F\*e\*l\*i\*n\*e\* \*H\*e\*a\*d\* \*P\*a\*t\*t\*e\*r\*n\*](<attachments/Head Patterns/TheMaterialAlchemist K9 + Feline Head Pattern/image-02.webp>)
+![\*T\*h\*e\*M\*a\*t\*e\*r\*i\*a\*l\*A\*l\*c\*h\*e\*m\*i\*s\*t\* \*K\*9\* \*+\* \*F\*e\*l\*i\*n\*e\* \*H\*e\*a\*d\* \*P\*a\*t\*t\*e\*r\*n\*](<../attachments/Head Patterns/TheMaterialAlchemist K9 + Feline Head Pattern/image-02.webp>)
 
-![\*T\*h\*e\*M\*a\*t\*e\*r\*i\*a\*l\*A\*l\*c\*h\*e\*m\*i\*s\*t\* \*K\*9\* \*+\* \*F\*e\*l\*i\*n\*e\* \*H\*e\*a\*d\* \*P\*a\*t\*t\*e\*r\*n\*](<attachments/Head Patterns/TheMaterialAlchemist K9 + Feline Head Pattern/image-03.webp>)
+![\*T\*h\*e\*M\*a\*t\*e\*r\*i\*a\*l\*A\*l\*c\*h\*e\*m\*i\*s\*t\* \*K\*9\* \*+\* \*F\*e\*l\*i\*n\*e\* \*H\*e\*a\*d\* \*P\*a\*t\*t\*e\*r\*n\*](<../attachments/Head Patterns/TheMaterialAlchemist K9 + Feline Head Pattern/image-03.webp>)
 
 ---
 
@@ -775,7 +775,7 @@ Feline: [https://www.etsy.com/ca/listing/1845429158/fursuit-head-pattern-full-di
 
 [https://ko-fi.com/s/23eb056673](https://ko-fi.com/s/23eb056673 "smartCard-inline")
 
-![\*M\*y\*s\*t\*i\*c\*M\*a\*l\*a\*m\*u\*t\*e\* \*C\*a\*n\*i\*n\*e\* \*H\*e\*a\*d\*b\*a\*s\*e\*](<attachments/Head Patterns/MysticMalamute Canine Headbase/image-01.png>)
+![\*M\*y\*s\*t\*i\*c\*M\*a\*l\*a\*m\*u\*t\*e\* \*C\*a\*n\*i\*n\*e\* \*H\*e\*a\*d\*b\*a\*s\*e\*](<../attachments/Head Patterns/MysticMalamute Canine Headbase/image-01.png>)
 
 ---
 
@@ -805,17 +805,17 @@ Wolf:[https://www.etsy.com/ca/listing/1491018548/wolf-therian-mask-digital-patte
 
 here: [https://youtu.be/8-48edmx5-E](https://youtu.be/8-48edmx5-E "smartCard-inline")
 
-![\*K\*a\*z\*p\*l\*a\*y\* \*H\*e\*a\*d\* \*P\*a\*t\*t\*e\*r\*n\*s\*](<attachments/Head Patterns/Kazplay Head Patterns/image-01.webp>)
+![\*K\*a\*z\*p\*l\*a\*y\* \*H\*e\*a\*d\* \*P\*a\*t\*t\*e\*r\*n\*s\*](<../attachments/Head Patterns/Kazplay Head Patterns/image-01.webp>)
 
-![\*K\*a\*z\*p\*l\*a\*y\* \*H\*e\*a\*d\* \*P\*a\*t\*t\*e\*r\*n\*s\*](<attachments/Head Patterns/Kazplay Head Patterns/image-02.webp>)
+![\*K\*a\*z\*p\*l\*a\*y\* \*H\*e\*a\*d\* \*P\*a\*t\*t\*e\*r\*n\*s\*](<../attachments/Head Patterns/Kazplay Head Patterns/image-02.webp>)
 
-![\*K\*a\*z\*p\*l\*a\*y\* \*H\*e\*a\*d\* \*P\*a\*t\*t\*e\*r\*n\*s\*](<attachments/Head Patterns/Kazplay Head Patterns/image-03.webp>)
+![\*K\*a\*z\*p\*l\*a\*y\* \*H\*e\*a\*d\* \*P\*a\*t\*t\*e\*r\*n\*s\*](<../attachments/Head Patterns/Kazplay Head Patterns/image-03.webp>)
 
-![\*K\*a\*z\*p\*l\*a\*y\* \*H\*e\*a\*d\* \*P\*a\*t\*t\*e\*r\*n\*s\*](<attachments/Head Patterns/Kazplay Head Patterns/image-04.jpg>)
+![\*K\*a\*z\*p\*l\*a\*y\* \*H\*e\*a\*d\* \*P\*a\*t\*t\*e\*r\*n\*s\*](<../attachments/Head Patterns/Kazplay Head Patterns/image-04.jpg>)
 
-![\*K\*a\*z\*p\*l\*a\*y\* \*H\*e\*a\*d\* \*P\*a\*t\*t\*e\*r\*n\*s\*](<attachments/Head Patterns/Kazplay Head Patterns/image-05.webp>)
+![\*K\*a\*z\*p\*l\*a\*y\* \*H\*e\*a\*d\* \*P\*a\*t\*t\*e\*r\*n\*s\*](<../attachments/Head Patterns/Kazplay Head Patterns/image-05.webp>)
 
-![\*K\*a\*z\*p\*l\*a\*y\* \*H\*e\*a\*d\* \*P\*a\*t\*t\*e\*r\*n\*s\*](<attachments/Head Patterns/Kazplay Head Patterns/image-06.jpg>)
+![\*K\*a\*z\*p\*l\*a\*y\* \*H\*e\*a\*d\* \*P\*a\*t\*t\*e\*r\*n\*s\*](<../attachments/Head Patterns/Kazplay Head Patterns/image-06.jpg>)
 
 ---
 
@@ -831,13 +831,13 @@ Feline: [https://www.etsy.com/ca/listing/784749793/cat-fursuit-head-base-pattern
 
 Bird: [https://www.etsy.com/ca/listing/691163435/avian-fursuit-head-base-pattern](https://www.etsy.com/ca/listing/691163435/avian-fursuit-head-base-pattern "smartCard-inline")
 
-![\*T\*h\*e\* \*M\*a\*n\*i\*c\* \*M\*a\*c\*a\*w\* \*4\* \*F\*u\*r\*s\*u\*i\*t\* \*H\*e\*a\*d\* \*b\*a\*s\*e\*s\*](<attachments/Head Patterns/The Manic Macaw 4 Fursuit Head bases/image-01.jpg>)
+![\*T\*h\*e\* \*M\*a\*n\*i\*c\* \*M\*a\*c\*a\*w\* \*4\* \*F\*u\*r\*s\*u\*i\*t\* \*H\*e\*a\*d\* \*b\*a\*s\*e\*s\*](<../attachments/Head Patterns/The Manic Macaw 4 Fursuit Head bases/image-01.jpg>)
 
-![\*T\*h\*e\* \*M\*a\*n\*i\*c\* \*M\*a\*c\*a\*w\* \*4\* \*F\*u\*r\*s\*u\*i\*t\* \*H\*e\*a\*d\* \*b\*a\*s\*e\*s\*](<attachments/Head Patterns/The Manic Macaw 4 Fursuit Head bases/image-02.jpg>)
+![\*T\*h\*e\* \*M\*a\*n\*i\*c\* \*M\*a\*c\*a\*w\* \*4\* \*F\*u\*r\*s\*u\*i\*t\* \*H\*e\*a\*d\* \*b\*a\*s\*e\*s\*](<../attachments/Head Patterns/The Manic Macaw 4 Fursuit Head bases/image-02.jpg>)
 
-![\*T\*h\*e\* \*M\*a\*n\*i\*c\* \*M\*a\*c\*a\*w\* \*4\* \*F\*u\*r\*s\*u\*i\*t\* \*H\*e\*a\*d\* \*b\*a\*s\*e\*s\*](<attachments/Head Patterns/The Manic Macaw 4 Fursuit Head bases/image-03.jpg>)
+![\*T\*h\*e\* \*M\*a\*n\*i\*c\* \*M\*a\*c\*a\*w\* \*4\* \*F\*u\*r\*s\*u\*i\*t\* \*H\*e\*a\*d\* \*b\*a\*s\*e\*s\*](<../attachments/Head Patterns/The Manic Macaw 4 Fursuit Head bases/image-03.jpg>)
 
-![\*T\*h\*e\* \*M\*a\*n\*i\*c\* \*M\*a\*c\*a\*w\* \*4\* \*F\*u\*r\*s\*u\*i\*t\* \*H\*e\*a\*d\* \*b\*a\*s\*e\*s\*](<attachments/Head Patterns/The Manic Macaw 4 Fursuit Head bases/image-04.jpg>)
+![\*T\*h\*e\* \*M\*a\*n\*i\*c\* \*M\*a\*c\*a\*w\* \*4\* \*F\*u\*r\*s\*u\*i\*t\* \*H\*e\*a\*d\* \*b\*a\*s\*e\*s\*](<../attachments/Head Patterns/The Manic Macaw 4 Fursuit Head bases/image-04.jpg>)
 
 ---
 
@@ -847,9 +847,9 @@ Bird: [https://www.etsy.com/ca/listing/691163435/avian-fursuit-head-base-pattern
 
 [https://www.etsy.com/ca/listing/1641639244/pdf-pattern-download-retro-toony-cat](https://www.etsy.com/ca/listing/1641639244/pdf-pattern-download-retro-toony-cat "‌")
 
-![\*M\*o\*n\*o\*c\*h\*r\*o\*m\*e\* \*A\*g\*e\*n\*t\* \*R\*e\*t\*r\*o\* \*T\*o\*o\*n\*y\* \*H\*e\*a\*d\*](<attachments/Head Patterns/Monochrome Agent Retro Toony Head/image-01.jpg>)
+![\*M\*o\*n\*o\*c\*h\*r\*o\*m\*e\* \*A\*g\*e\*n\*t\* \*R\*e\*t\*r\*o\* \*T\*o\*o\*n\*y\* \*H\*e\*a\*d\*](<../attachments/Head Patterns/Monochrome Agent Retro Toony Head/image-01.jpg>)
 
-![\*M\*o\*n\*o\*c\*h\*r\*o\*m\*e\* \*A\*g\*e\*n\*t\* \*R\*e\*t\*r\*o\* \*T\*o\*o\*n\*y\* \*H\*e\*a\*d\*](<attachments/Head Patterns/Monochrome Agent Retro Toony Head/image-02.webp>)
+![\*M\*o\*n\*o\*c\*h\*r\*o\*m\*e\* \*A\*g\*e\*n\*t\* \*R\*e\*t\*r\*o\* \*T\*o\*o\*n\*y\* \*H\*e\*a\*d\*](<../attachments/Head Patterns/Monochrome Agent Retro Toony Head/image-02.webp>)
 
 ---
 
@@ -859,7 +859,7 @@ Bird: [https://www.etsy.com/ca/listing/691163435/avian-fursuit-head-base-pattern
 
 [https://www.etsy.com/ca/listing/1776309261/fursuit-kemono-head-base-pdf-pattern](https://www.etsy.com/ca/listing/1776309261/fursuit-kemono-head-base-pdf-pattern "smartCard-inline")
 
-![\*W\*i\*n\*g\*L\*e\*a\*f\*W\*o\*r\*k\*s\*h\*o\*p\* \*E\*V\*A\* \*H\*e\*a\*d\*](<attachments/Head Patterns/WingLeafWorkshop EVA Head/image-01.webp>)
+![\*W\*i\*n\*g\*L\*e\*a\*f\*W\*o\*r\*k\*s\*h\*o\*p\* \*E\*V\*A\* \*H\*e\*a\*d\*](<../attachments/Head Patterns/WingLeafWorkshop EVA Head/image-01.webp>)
 
 ---
 
@@ -875,13 +875,13 @@ Opossum/Bat: [https://www.etsy.com/ca/listing/1852988428/opossum-possum-bat-furs
 
 Toony Cat: [https://www.etsy.com/ca/listing/4405149119/cat-toony-head-base-pdf-pattern-detailed](https://www.etsy.com/ca/listing/4405149119/cat-toony-head-base-pdf-pattern-detailed "smartCard-inline")
 
-![\*W\*i\*n\*g\*L\*e\*a\*f\*W\*o\*r\*k\*s\*h\*o\*p\* \*4\* \*F\*o\*a\*m\* \*H\*e\*a\*d\* \*B\*a\*s\*e\*s\*](<attachments/Head Patterns/WingLeafWorkshop 4 Foam Head Bases/image-01.png>)
+![\*W\*i\*n\*g\*L\*e\*a\*f\*W\*o\*r\*k\*s\*h\*o\*p\* \*4\* \*F\*o\*a\*m\* \*H\*e\*a\*d\* \*B\*a\*s\*e\*s\*](<../attachments/Head Patterns/WingLeafWorkshop 4 Foam Head Bases/image-01.png>)
 
-![\*W\*i\*n\*g\*L\*e\*a\*f\*W\*o\*r\*k\*s\*h\*o\*p\* \*4\* \*F\*o\*a\*m\* \*H\*e\*a\*d\* \*B\*a\*s\*e\*s\*](<attachments/Head Patterns/WingLeafWorkshop 4 Foam Head Bases/image-02.png>)
+![\*W\*i\*n\*g\*L\*e\*a\*f\*W\*o\*r\*k\*s\*h\*o\*p\* \*4\* \*F\*o\*a\*m\* \*H\*e\*a\*d\* \*B\*a\*s\*e\*s\*](<../attachments/Head Patterns/WingLeafWorkshop 4 Foam Head Bases/image-02.png>)
 
-![\*W\*i\*n\*g\*L\*e\*a\*f\*W\*o\*r\*k\*s\*h\*o\*p\* \*4\* \*F\*o\*a\*m\* \*H\*e\*a\*d\* \*B\*a\*s\*e\*s\*](<attachments/Head Patterns/WingLeafWorkshop 4 Foam Head Bases/image-03.png>)
+![\*W\*i\*n\*g\*L\*e\*a\*f\*W\*o\*r\*k\*s\*h\*o\*p\* \*4\* \*F\*o\*a\*m\* \*H\*e\*a\*d\* \*B\*a\*s\*e\*s\*](<../attachments/Head Patterns/WingLeafWorkshop 4 Foam Head Bases/image-03.png>)
 
-![\*W\*i\*n\*g\*L\*e\*a\*f\*W\*o\*r\*k\*s\*h\*o\*p\* \*4\* \*F\*o\*a\*m\* \*H\*e\*a\*d\* \*B\*a\*s\*e\*s\*](<attachments/Head Patterns/WingLeafWorkshop 4 Foam Head Bases/image-04.png>)
+![\*W\*i\*n\*g\*L\*e\*a\*f\*W\*o\*r\*k\*s\*h\*o\*p\* \*4\* \*F\*o\*a\*m\* \*H\*e\*a\*d\* \*B\*a\*s\*e\*s\*](<../attachments/Head Patterns/WingLeafWorkshop 4 Foam Head Bases/image-04.png>)
 
 ---
 
@@ -891,6 +891,6 @@ Toony Cat: [https://www.etsy.com/ca/listing/4405149119/cat-toony-head-base-pdf-p
 
 [https://www.etsy.com/ca/listing/4542278798/canine-head-base-pattern-written-and](https://www.etsy.com/ca/listing/4542278798/canine-head-base-pattern-written-and "smartCard-inline")
 
-![\*D\*o\*u\*b\*l\*e\*T\*r\*o\*u\*b\*l\*e\*F\*u\*r\*s\*u\*i\*t\* \*C\*a\*n\*i\*n\*e\* \*H\*e\*a\*d\*b\*a\*s\*e\*](<attachments/Head Patterns/DoubleTroubleFursuit Canine Headbase/image-01.png>)
+![\*D\*o\*u\*b\*l\*e\*T\*r\*o\*u\*b\*l\*e\*F\*u\*r\*s\*u\*i\*t\* \*C\*a\*n\*i\*n\*e\* \*H\*e\*a\*d\*b\*a\*s\*e\*](<../attachments/Head Patterns/DoubleTroubleFursuit Canine Headbase/image-01.png>)
 
 ---
