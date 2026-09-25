@@ -10,7 +10,7 @@
 
 [http://freakhoundstudios.com/hoofpaws](http://freakhoundstudios.com/hoofpaws "smartCard-inline")
 
-![\*(\*F\*R\*E\*E\*)\* \*F\*r\*e\*a\*k\*h\*o\*u\*n\*d\* \*E\*q\*u\*i\*n\*e\* \*H\*a\*n\*d\* \*H\*o\*o\*v\*e\*s\*](<../attachments/Other Species Hand Paws/(FREE) Freakhound Equine Hand Hooves/image-01.png>)
+![\*(\*F\*R\*E\*E\*)\* \*F\*r\*e\*a\*k\*h\*o\*u\*n\*d\* \*E\*q\*u\*i\*n\*e\* \*H\*a\*n\*d\* \*H\*o\*o\*v\*e\*s\*](../attachments/Other Species Hand Paws/(FREE) Freakhound Equine Hand Hooves/image-01.png)
 
 ---
 
@@ -20,9 +20,9 @@
 
 [https://www.etsy.com/ca/listing/958977582/puffy-sergaldragon-hand-paw-digital](https://www.etsy.com/ca/listing/958977582/puffy-sergaldragon-hand-paw-digital "smartCard-inline")
 
-![\*O\*k\*t\*a\*v\*i\*a\*'\*s\* \*C\*r\*e\*a\*t\*u\*r\*e\*s\* \*D\*r\*a\*g\*o\*n\*/\*S\*e\*r\*g\*a\*l\* \*P\*a\*w\*s\*](<../attachments/Other Species Hand Paws/Oktavia's Creatures DragonSergal Paws/image-01.png>)
+![\*O\*k\*t\*a\*v\*i\*a\*'\*s\* \*C\*r\*e\*a\*t\*u\*r\*e\*s\* \*D\*r\*a\*g\*o\*n\*/\*S\*e\*r\*g\*a\*l\* \*P\*a\*w\*s\*](../attachments/Other Species Hand Paws/Oktavia's Creatures DragonSergal Paws/image-01.png)
 
-![\*O\*k\*t\*a\*v\*i\*a\*'\*s\* \*C\*r\*e\*a\*t\*u\*r\*e\*s\* \*D\*r\*a\*g\*o\*n\*/\*S\*e\*r\*g\*a\*l\* \*P\*a\*w\*s\*](<../attachments/Other Species Hand Paws/Oktavia's Creatures DragonSergal Paws/image-02.png>)
+![\*O\*k\*t\*a\*v\*i\*a\*'\*s\* \*C\*r\*e\*a\*t\*u\*r\*e\*s\* \*D\*r\*a\*g\*o\*n\*/\*S\*e\*r\*g\*a\*l\* \*P\*a\*w\*s\*](../attachments/Other Species Hand Paws/Oktavia's Creatures DragonSergal Paws/image-02.png)
 
 ---
 
@@ -34,11 +34,11 @@ Only the finger pattern, you need to figure out the palm/top of hand pattern!
 
 [https://www.etsy.com/ca/listing/995567028/opossumrattalon-finger-pattern](https://www.etsy.com/ca/listing/995567028/opossumrattalon-finger-pattern "smartCard-inline")
 
-![\*R\*a\*t\*/\*O\*p\*o\*s\*s\*u\*m\*/\*D\*r\*a\*g\*o\*n\* \*(\*F\*i\*n\*g\*e\*r\*s\* \*O\*n\*l\*y\*!\*)\*](<../attachments/Other Species Hand Paws/RatOpossumDragon (Fingers Only!)/image-01.png>)
+![\*R\*a\*t\*/\*O\*p\*o\*s\*s\*u\*m\*/\*D\*r\*a\*g\*o\*n\* \*(\*F\*i\*n\*g\*e\*r\*s\* \*O\*n\*l\*y\*!\*)\*](../attachments/Other Species Hand Paws/RatOpossumDragon (Fingers Only!)/image-01.png)
 
-![\*R\*a\*t\*/\*O\*p\*o\*s\*s\*u\*m\*/\*D\*r\*a\*g\*o\*n\* \*(\*F\*i\*n\*g\*e\*r\*s\* \*O\*n\*l\*y\*!\*)\*](<../attachments/Other Species Hand Paws/RatOpossumDragon (Fingers Only!)/image-02.png>)
+![\*R\*a\*t\*/\*O\*p\*o\*s\*s\*u\*m\*/\*D\*r\*a\*g\*o\*n\* \*(\*F\*i\*n\*g\*e\*r\*s\* \*O\*n\*l\*y\*!\*)\*](../attachments/Other Species Hand Paws/RatOpossumDragon (Fingers Only!)/image-02.png)
 
-![\*R\*a\*t\*/\*O\*p\*o\*s\*s\*u\*m\*/\*D\*r\*a\*g\*o\*n\* \*(\*F\*i\*n\*g\*e\*r\*s\* \*O\*n\*l\*y\*!\*)\*](<../attachments/Other Species Hand Paws/RatOpossumDragon (Fingers Only!)/image-03.png>)
+![\*R\*a\*t\*/\*O\*p\*o\*s\*s\*u\*m\*/\*D\*r\*a\*g\*o\*n\* \*(\*F\*i\*n\*g\*e\*r\*s\* \*O\*n\*l\*y\*!\*)\*](../attachments/Other Species Hand Paws/RatOpossumDragon (Fingers Only!)/image-03.png)
 
 ---
 
@@ -48,11 +48,11 @@ Only the finger pattern, you need to figure out the palm/top of hand pattern!
 
 [https://www.etsy.com/ca/listing/913081410/puffy-birdreptile-handpaw-pdf-download](https://www.etsy.com/ca/listing/913081410/puffy-birdreptile-handpaw-pdf-download "smartCard-inline")
 
-![\*S\*o\*u\*l\*E\*n\*t\*e\*r\*p\*r\*i\*s\*e\* \*B\*i\*r\*d\*/\*R\*e\*p\*t\*i\*l\*e\* \*H\*a\*n\*d\*s\*](<../attachments/Other Species Hand Paws/SoulEnterprise BirdReptile Hands/image-01.png>)
+![\*S\*o\*u\*l\*E\*n\*t\*e\*r\*p\*r\*i\*s\*e\* \*B\*i\*r\*d\*/\*R\*e\*p\*t\*i\*l\*e\* \*H\*a\*n\*d\*s\*](../attachments/Other Species Hand Paws/SoulEnterprise BirdReptile Hands/image-01.png)
 
-![\*S\*o\*u\*l\*E\*n\*t\*e\*r\*p\*r\*i\*s\*e\* \*B\*i\*r\*d\*/\*R\*e\*p\*t\*i\*l\*e\* \*H\*a\*n\*d\*s\*](<../attachments/Other Species Hand Paws/SoulEnterprise BirdReptile Hands/image-02.png>)
+![\*S\*o\*u\*l\*E\*n\*t\*e\*r\*p\*r\*i\*s\*e\* \*B\*i\*r\*d\*/\*R\*e\*p\*t\*i\*l\*e\* \*H\*a\*n\*d\*s\*](../attachments/Other Species Hand Paws/SoulEnterprise BirdReptile Hands/image-02.png)
 
-![\*S\*o\*u\*l\*E\*n\*t\*e\*r\*p\*r\*i\*s\*e\* \*B\*i\*r\*d\*/\*R\*e\*p\*t\*i\*l\*e\* \*H\*a\*n\*d\*s\*](<../attachments/Other Species Hand Paws/SoulEnterprise BirdReptile Hands/image-03.png>)
+![\*S\*o\*u\*l\*E\*n\*t\*e\*r\*p\*r\*i\*s\*e\* \*B\*i\*r\*d\*/\*R\*e\*p\*t\*i\*l\*e\* \*H\*a\*n\*d\*s\*](../attachments/Other Species Hand Paws/SoulEnterprise BirdReptile Hands/image-03.png)
 
 ---
 
@@ -64,11 +64,11 @@ Only the finger pattern, you need to figure out the palm/top of hand pattern!
 
 [https://www.youtube.com/watch?v=ANUsob4Girs](https://www.youtube.com/watch?v=ANUsob4Girs "smartCard-inline")
 
-![\*N\*e\*f\*f\*e\*r\*t\*i\*t\*y\* \*H\*a\*n\*d\* \*P\*a\*w\*s\*](<../attachments/Other Species Hand Paws/Neffertity Hand Paws/image-01.png>)
+![\*N\*e\*f\*f\*e\*r\*t\*i\*t\*y\* \*H\*a\*n\*d\* \*P\*a\*w\*s\*](../attachments/Other Species Hand Paws/Neffertity Hand Paws/image-01.png)
 
-![\*N\*e\*f\*f\*e\*r\*t\*i\*t\*y\* \*H\*a\*n\*d\* \*P\*a\*w\*s\*](<../attachments/Other Species Hand Paws/Neffertity Hand Paws/image-02.png>)
+![\*N\*e\*f\*f\*e\*r\*t\*i\*t\*y\* \*H\*a\*n\*d\* \*P\*a\*w\*s\*](../attachments/Other Species Hand Paws/Neffertity Hand Paws/image-02.png)
 
-![\*N\*e\*f\*f\*e\*r\*t\*i\*t\*y\* \*H\*a\*n\*d\* \*P\*a\*w\*s\*](<../attachments/Other Species Hand Paws/Neffertity Hand Paws/image-03.png>)
+![\*N\*e\*f\*f\*e\*r\*t\*i\*t\*y\* \*H\*a\*n\*d\* \*P\*a\*w\*s\*](../attachments/Other Species Hand Paws/Neffertity Hand Paws/image-03.png)
 
 ---
 
@@ -78,7 +78,7 @@ Only the finger pattern, you need to figure out the palm/top of hand pattern!
 
 [https://www.etsy.com/ca/listing/889213715/premium-tutorial-webbed-fingers-for](https://www.etsy.com/ca/listing/889213715/premium-tutorial-webbed-fingers-for "smartCard-inline")
 
-![\*W\*e\*b\*b\*e\*d\* \*P\*a\*w\*s\* \*T\*u\*t\*o\*r\*i\*a\*l\*](<../attachments/Other Species Hand Paws/Webbed Paws Tutorial/image-01.png>)
+![\*W\*e\*b\*b\*e\*d\* \*P\*a\*w\*s\* \*T\*u\*t\*o\*r\*i\*a\*l\*](../attachments/Other Species Hand Paws/Webbed Paws Tutorial/image-01.png)
 
 ---
 
@@ -88,11 +88,11 @@ Only the finger pattern, you need to figure out the palm/top of hand pattern!
 
 [https://www.etsy.com/ca/listing/1041510199/puffy-cloven-hoof-fursuit-pattern-pdf](https://www.etsy.com/ca/listing/1041510199/puffy-cloven-hoof-fursuit-pattern-pdf "smartCard-inline")
 
-![\*Y\*B\*L\* \*S\*u\*i\*t\*s\* \*C\*l\*o\*v\*e\*n\* \*H\*a\*n\*d\* \*H\*o\*o\*v\*e\*s\*](<../attachments/Other Species Hand Paws/YBL Suits Cloven Hand Hooves/image-01.png>)
+![\*Y\*B\*L\* \*S\*u\*i\*t\*s\* \*C\*l\*o\*v\*e\*n\* \*H\*a\*n\*d\* \*H\*o\*o\*v\*e\*s\*](../attachments/Other Species Hand Paws/YBL Suits Cloven Hand Hooves/image-01.png)
 
-![\*Y\*B\*L\* \*S\*u\*i\*t\*s\* \*C\*l\*o\*v\*e\*n\* \*H\*a\*n\*d\* \*H\*o\*o\*v\*e\*s\*](<../attachments/Other Species Hand Paws/YBL Suits Cloven Hand Hooves/image-02.png>)
+![\*Y\*B\*L\* \*S\*u\*i\*t\*s\* \*C\*l\*o\*v\*e\*n\* \*H\*a\*n\*d\* \*H\*o\*o\*v\*e\*s\*](../attachments/Other Species Hand Paws/YBL Suits Cloven Hand Hooves/image-02.png)
 
-![\*Y\*B\*L\* \*S\*u\*i\*t\*s\* \*C\*l\*o\*v\*e\*n\* \*H\*a\*n\*d\* \*H\*o\*o\*v\*e\*s\*](<../attachments/Other Species Hand Paws/YBL Suits Cloven Hand Hooves/image-03.png>)
+![\*Y\*B\*L\* \*S\*u\*i\*t\*s\* \*C\*l\*o\*v\*e\*n\* \*H\*a\*n\*d\* \*H\*o\*o\*v\*e\*s\*](../attachments/Other Species Hand Paws/YBL Suits Cloven Hand Hooves/image-03.png)
 
 ---
 
@@ -102,7 +102,7 @@ Only the finger pattern, you need to figure out the palm/top of hand pattern!
 
 [https://ko-fi.com/s/7e12e071b1](https://ko-fi.com/s/7e12e071b1 "smartCard-inline")
 
-![\*M\*a\*k\*e\*A\*F\*u\*r\* \*3\* \*F\*i\*n\*g\*e\*r\* \*M\*o\*n\*s\*t\*e\*r\* \*P\*a\*w\*s\*](<../attachments/Other Species Hand Paws/MakeAFur 3 Finger Monster Paws/image-01.png>)
+![\*M\*a\*k\*e\*A\*F\*u\*r\* \*3\* \*F\*i\*n\*g\*e\*r\* \*M\*o\*n\*s\*t\*e\*r\* \*P\*a\*w\*s\*](../attachments/Other Species Hand Paws/MakeAFur 3 Finger Monster Paws/image-01.png)
 
 ---
 
@@ -112,7 +112,7 @@ Only the finger pattern, you need to figure out the palm/top of hand pattern!
 
 [https://ko-fi.com/s/d454932d81](https://ko-fi.com/s/d454932d81 "smartCard-inline")
 
-![\*M\*a\*k\*e\*A\*F\*u\*r\* \*4\* \*F\*i\*n\*g\*e\*r\* \*M\*o\*n\*s\*t\*e\*r\* \*P\*a\*w\*s\*](<../attachments/Other Species Hand Paws/MakeAFur 4 Finger Monster Paws/image-01.png>)
+![\*M\*a\*k\*e\*A\*F\*u\*r\* \*4\* \*F\*i\*n\*g\*e\*r\* \*M\*o\*n\*s\*t\*e\*r\* \*P\*a\*w\*s\*](../attachments/Other Species Hand Paws/MakeAFur 4 Finger Monster Paws/image-01.png)
 
 ---
 
@@ -126,7 +126,7 @@ Only the finger pattern, you need to figure out the palm/top of hand pattern!
 
 [https://www.youtube.com/watch?v=943q25buo1A](https://www.youtube.com/watch?v=943q25buo1A "smartCard-inline")
 
-![\*M\*u\*g\*i\*w\*a\*r\*a\* \*W\*i\*c\*k\*e\*r\*b\*e\*a\*s\*t\* \*P\*a\*w\*s\*](<../attachments/Other Species Hand Paws/Mugiwara Wickerbeast Paws/image-01.png>)
+![\*M\*u\*g\*i\*w\*a\*r\*a\* \*W\*i\*c\*k\*e\*r\*b\*e\*a\*s\*t\* \*P\*a\*w\*s\*](../attachments/Other Species Hand Paws/Mugiwara Wickerbeast Paws/image-01.png)
 
 ---
 
@@ -140,7 +140,7 @@ Only the finger pattern, you need to figure out the palm/top of hand pattern!
 
 [https://www.youtube.com/watch?v=943q25buo1A](https://www.youtube.com/watch?v=943q25buo1A "smartCard-inline")
 
-![\*M\*u\*g\*i\*w\*a\*r\*a\* \*M\*o\*n\*s\*t\*e\*r\* \*P\*a\*w\*](<../attachments/Other Species Hand Paws/Mugiwara Monster Paw/image-01.png>)
+![\*M\*u\*g\*i\*w\*a\*r\*a\* \*M\*o\*n\*s\*t\*e\*r\* \*P\*a\*w\*](../attachments/Other Species Hand Paws/Mugiwara Monster Paw/image-01.png)
 
 ---
 
@@ -156,9 +156,9 @@ Could be good for a toony bird with the right materials, adding feathers, etc as
 
 [https://www.youtube.com/watch?v=s7DXexmcpFs](https://www.youtube.com/watch?v=s7DXexmcpFs "smartCard-inline")
 
-![\*M\*u\*g\*i\*w\*a\*r\*a\* \*3\* \*F\*i\*n\*g\*e\*r\* \*P\*a\*w\*](<../attachments/Other Species Hand Paws/Mugiwara 3 Finger Paw/image-01.png>)
+![\*M\*u\*g\*i\*w\*a\*r\*a\* \*3\* \*F\*i\*n\*g\*e\*r\* \*P\*a\*w\*](../attachments/Other Species Hand Paws/Mugiwara 3 Finger Paw/image-01.png)
 
-![\*M\*u\*g\*i\*w\*a\*r\*a\* \*3\* \*F\*i\*n\*g\*e\*r\* \*P\*a\*w\*](<../attachments/Other Species Hand Paws/Mugiwara 3 Finger Paw/image-02.png>)
+![\*M\*u\*g\*i\*w\*a\*r\*a\* \*3\* \*F\*i\*n\*g\*e\*r\* \*P\*a\*w\*](../attachments/Other Species Hand Paws/Mugiwara 3 Finger Paw/image-02.png)
 
 ---
 
@@ -168,7 +168,7 @@ Could be good for a toony bird with the right materials, adding feathers, etc as
 
 [https://www.etsy.com/ca/listing/1282933686/toony-fursuit-paw-pattern](https://www.etsy.com/ca/listing/1282933686/toony-fursuit-paw-pattern "smartCard-inline")
 
-![\*T\*h\*e\*C\*a\*s\*u\*a\*l\*F\*r\*i\*d\*a\*y\* \*T\*o\*o\*n\*y\* \*P\*a\*w\*s\*](<../attachments/Other Species Hand Paws/TheCasualFriday Toony Paws/image-01.png>)
+![\*T\*h\*e\*C\*a\*s\*u\*a\*l\*F\*r\*i\*d\*a\*y\* \*T\*o\*o\*n\*y\* \*P\*a\*w\*s\*](../attachments/Other Species Hand Paws/TheCasualFriday Toony Paws/image-01.png)
 
 ---
 
@@ -178,7 +178,7 @@ Could be good for a toony bird with the right materials, adding feathers, etc as
 
 [https://www.etsy.com/ca/listing/1194328737/wicker-beast-handpaws-digital-pattern](https://www.etsy.com/ca/listing/1194328737/wicker-beast-handpaws-digital-pattern "‌")
 
-![\*S\*t\*u\*f\*f\*e\*d\*T\*a\*i\*l\*s\*F\*u\*r\*s\*u\*i\*t\*s\* \*W\*i\*c\*k\*e\*r\*b\*e\*a\*s\*t\* \*P\*a\*w\*s\*](<../attachments/Other Species Hand Paws/StuffedTailsFursuits Wickerbeast Paws/image-01.png>)
+![\*S\*t\*u\*f\*f\*e\*d\*T\*a\*i\*l\*s\*F\*u\*r\*s\*u\*i\*t\*s\* \*W\*i\*c\*k\*e\*r\*b\*e\*a\*s\*t\* \*P\*a\*w\*s\*](../attachments/Other Species Hand Paws/StuffedTailsFursuits Wickerbeast Paws/image-01.png)
 
 ---
 
@@ -188,9 +188,9 @@ Could be good for a toony bird with the right materials, adding feathers, etc as
 
 [https://www.etsy.com/ca/listing/1099472326/diy-bird-gloves-pattern-for-sewing](https://www.etsy.com/ca/listing/1099472326/diy-bird-gloves-pattern-for-sewing "smartCard-inline")
 
-![\*W\*i\*t\*h\*e\*n\*c\*r\*o\*f\*t\*C\*o\* \*B\*i\*r\*d\* \*G\*l\*o\*v\*e\*s\*](<../attachments/Other Species Hand Paws/WithencroftCo Bird Gloves/image-01.png>)
+![\*W\*i\*t\*h\*e\*n\*c\*r\*o\*f\*t\*C\*o\* \*B\*i\*r\*d\* \*G\*l\*o\*v\*e\*s\*](../attachments/Other Species Hand Paws/WithencroftCo Bird Gloves/image-01.png)
 
-![\*W\*i\*t\*h\*e\*n\*c\*r\*o\*f\*t\*C\*o\* \*B\*i\*r\*d\* \*G\*l\*o\*v\*e\*s\*](<../attachments/Other Species Hand Paws/WithencroftCo Bird Gloves/image-02.png>)
+![\*W\*i\*t\*h\*e\*n\*c\*r\*o\*f\*t\*C\*o\* \*B\*i\*r\*d\* \*G\*l\*o\*v\*e\*s\*](../attachments/Other Species Hand Paws/WithencroftCo Bird Gloves/image-02.png)
 
 ---
 
@@ -200,9 +200,9 @@ Could be good for a toony bird with the right materials, adding feathers, etc as
 
 [https://www.etsy.com/ca/listing/1234612751/raptor-hand-fursuit-pattern](https://www.etsy.com/ca/listing/1234612751/raptor-hand-fursuit-pattern "smartCard-inline")
 
-![\*T\*L\*A\*A\*S\*u\*i\*t\*s\*n\*M\*o\*r\*e\* \*T\*o\*o\*n\*y\* \*R\*a\*p\*t\*o\*r\* \*H\*a\*n\*d\*](<../attachments/Other Species Hand Paws/TLAASuitsnMore Toony Raptor Hand/image-01.png>)
+![\*T\*L\*A\*A\*S\*u\*i\*t\*s\*n\*M\*o\*r\*e\* \*T\*o\*o\*n\*y\* \*R\*a\*p\*t\*o\*r\* \*H\*a\*n\*d\*](../attachments/Other Species Hand Paws/TLAASuitsnMore Toony Raptor Hand/image-01.png)
 
-![\*T\*L\*A\*A\*S\*u\*i\*t\*s\*n\*M\*o\*r\*e\* \*T\*o\*o\*n\*y\* \*R\*a\*p\*t\*o\*r\* \*H\*a\*n\*d\*](<../attachments/Other Species Hand Paws/TLAASuitsnMore Toony Raptor Hand/image-02.png>)
+![\*T\*L\*A\*A\*S\*u\*i\*t\*s\*n\*M\*o\*r\*e\* \*T\*o\*o\*n\*y\* \*R\*a\*p\*t\*o\*r\* \*H\*a\*n\*d\*](../attachments/Other Species Hand Paws/TLAASuitsnMore Toony Raptor Hand/image-02.png)
 
 ---
 
@@ -212,9 +212,9 @@ Could be good for a toony bird with the right materials, adding feathers, etc as
 
 [https://www.etsy.com/ca/listing/1555165623/monster-claw-puffy-paws-pdf-download](https://www.etsy.com/ca/listing/1555165623/monster-claw-puffy-paws-pdf-download "smartCard-inline")
 
-![\*s\*o\*f\*t\*p\*l\*u\*s\*h\*d\*i\*g\*i\*t\*a\*l\* \*B\*i\*g\* \*C\*l\*a\*w\* \*P\*a\*w\*s\*](<../attachments/Other Species Hand Paws/softplushdigital Big Claw Paws/image-01.jpg>)
+![\*s\*o\*f\*t\*p\*l\*u\*s\*h\*d\*i\*g\*i\*t\*a\*l\* \*B\*i\*g\* \*C\*l\*a\*w\* \*P\*a\*w\*s\*](../attachments/Other Species Hand Paws/softplushdigital Big Claw Paws/image-01.jpg)
 
-![\*s\*o\*f\*t\*p\*l\*u\*s\*h\*d\*i\*g\*i\*t\*a\*l\* \*B\*i\*g\* \*C\*l\*a\*w\* \*P\*a\*w\*s\*](<../attachments/Other Species Hand Paws/softplushdigital Big Claw Paws/image-02.webp>)
+![\*s\*o\*f\*t\*p\*l\*u\*s\*h\*d\*i\*g\*i\*t\*a\*l\* \*B\*i\*g\* \*C\*l\*a\*w\* \*P\*a\*w\*s\*](../attachments/Other Species Hand Paws/softplushdigital Big Claw Paws/image-02.webp)
 
 ---
 
@@ -232,11 +232,11 @@ Could be good for a toony bird with the right materials, adding feathers, etc as
 
 [https://www.etsy.com/ca/listing/1686355389/5-finger-synth-paw-pattern-and-guide](https://www.etsy.com/ca/listing/1686355389/5-finger-synth-paw-pattern-and-guide "smartCard-inline")
 
-![\*T\*h\*e\*R\*a\*p\*t\*o\*r\*s\*S\*h\*o\*p\* \*S\*y\*n\*t\*h\* \*P\*a\*w\*s\* \*4\* \*o\*r\* \*5\* \*f\*i\*n\*g\*e\*r\*s\*](<../attachments/Other Species Hand Paws/TheRaptorsShop Synth Paws 4 or 5 fingers/image-01.jpg>)
+![\*T\*h\*e\*R\*a\*p\*t\*o\*r\*s\*S\*h\*o\*p\* \*S\*y\*n\*t\*h\* \*P\*a\*w\*s\* \*4\* \*o\*r\* \*5\* \*f\*i\*n\*g\*e\*r\*s\*](../attachments/Other Species Hand Paws/TheRaptorsShop Synth Paws 4 or 5 fingers/image-01.jpg)
 
-![\*T\*h\*e\*R\*a\*p\*t\*o\*r\*s\*S\*h\*o\*p\* \*S\*y\*n\*t\*h\* \*P\*a\*w\*s\* \*4\* \*o\*r\* \*5\* \*f\*i\*n\*g\*e\*r\*s\*](<../attachments/Other Species Hand Paws/TheRaptorsShop Synth Paws 4 or 5 fingers/image-02.jpg>)
+![\*T\*h\*e\*R\*a\*p\*t\*o\*r\*s\*S\*h\*o\*p\* \*S\*y\*n\*t\*h\* \*P\*a\*w\*s\* \*4\* \*o\*r\* \*5\* \*f\*i\*n\*g\*e\*r\*s\*](../attachments/Other Species Hand Paws/TheRaptorsShop Synth Paws 4 or 5 fingers/image-02.jpg)
 
-![\*T\*h\*e\*R\*a\*p\*t\*o\*r\*s\*S\*h\*o\*p\* \*S\*y\*n\*t\*h\* \*P\*a\*w\*s\* \*4\* \*o\*r\* \*5\* \*f\*i\*n\*g\*e\*r\*s\*](<../attachments/Other Species Hand Paws/TheRaptorsShop Synth Paws 4 or 5 fingers/image-03.jpg>)
+![\*T\*h\*e\*R\*a\*p\*t\*o\*r\*s\*S\*h\*o\*p\* \*S\*y\*n\*t\*h\* \*P\*a\*w\*s\* \*4\* \*o\*r\* \*5\* \*f\*i\*n\*g\*e\*r\*s\*](../attachments/Other Species Hand Paws/TheRaptorsShop Synth Paws 4 or 5 fingers/image-03.jpg)
 
 ---
 
@@ -246,11 +246,11 @@ Could be good for a toony bird with the right materials, adding feathers, etc as
 
 https://www.etsy.com/ca/listing/1794618327/diy-toony-slim-four-fingered-fox-paw-pdf
 
-![\*A\*k\*e\*l\*a\*T\*a\*k\*a\*W\*o\*l\*f\* \*S\*l\*i\*m\* \*4\* \*F\*i\*n\*g\*e\*r\* \*P\*a\*w\*](<../attachments/Other Species Hand Paws/AkelaTakaWolf Slim 4 Finger Paw/image-01.jpg>)
+![\*A\*k\*e\*l\*a\*T\*a\*k\*a\*W\*o\*l\*f\* \*S\*l\*i\*m\* \*4\* \*F\*i\*n\*g\*e\*r\* \*P\*a\*w\*](../attachments/Other Species Hand Paws/AkelaTakaWolf Slim 4 Finger Paw/image-01.jpg)
 
-![\*A\*k\*e\*l\*a\*T\*a\*k\*a\*W\*o\*l\*f\* \*S\*l\*i\*m\* \*4\* \*F\*i\*n\*g\*e\*r\* \*P\*a\*w\*](<../attachments/Other Species Hand Paws/AkelaTakaWolf Slim 4 Finger Paw/image-02.webp>)
+![\*A\*k\*e\*l\*a\*T\*a\*k\*a\*W\*o\*l\*f\* \*S\*l\*i\*m\* \*4\* \*F\*i\*n\*g\*e\*r\* \*P\*a\*w\*](../attachments/Other Species Hand Paws/AkelaTakaWolf Slim 4 Finger Paw/image-02.webp)
 
-![\*A\*k\*e\*l\*a\*T\*a\*k\*a\*W\*o\*l\*f\* \*S\*l\*i\*m\* \*4\* \*F\*i\*n\*g\*e\*r\* \*P\*a\*w\*](<../attachments/Other Species Hand Paws/AkelaTakaWolf Slim 4 Finger Paw/image-03.webp>)
+![\*A\*k\*e\*l\*a\*T\*a\*k\*a\*W\*o\*l\*f\* \*S\*l\*i\*m\* \*4\* \*F\*i\*n\*g\*e\*r\* \*P\*a\*w\*](../attachments/Other Species Hand Paws/AkelaTakaWolf Slim 4 Finger Paw/image-03.webp)
 
 ---
 
@@ -260,9 +260,9 @@ https://www.etsy.com/ca/listing/1794618327/diy-toony-slim-four-fingered-fox-paw-
 
 [https://www.etsy.com/ca/listing/1205217059/hollow-foam-hand-paw-pattern](https://www.etsy.com/ca/listing/1205217059/hollow-foam-hand-paw-pattern "smartCard-inline")
 
-![\*R\*i\*c\*o\*c\*h\*e\*t\*x\*c\*r\*a\*f\*t\*s\* \*H\*o\*l\*l\*o\*w\* \*F\*O\*A\*M\* \*3\* \*F\*i\*n\*g\*e\*r\* \*P\*a\*w\*s\*](<../attachments/Other Species Hand Paws/Ricochetxcrafts Hollow FOAM 3 Finger Paws/image-01.jpg>)
+![\*R\*i\*c\*o\*c\*h\*e\*t\*x\*c\*r\*a\*f\*t\*s\* \*H\*o\*l\*l\*o\*w\* \*F\*O\*A\*M\* \*3\* \*F\*i\*n\*g\*e\*r\* \*P\*a\*w\*s\*](../attachments/Other Species Hand Paws/Ricochetxcrafts Hollow FOAM 3 Finger Paws/image-01.jpg)
 
-![\*R\*i\*c\*o\*c\*h\*e\*t\*x\*c\*r\*a\*f\*t\*s\* \*H\*o\*l\*l\*o\*w\* \*F\*O\*A\*M\* \*3\* \*F\*i\*n\*g\*e\*r\* \*P\*a\*w\*s\*](<../attachments/Other Species Hand Paws/Ricochetxcrafts Hollow FOAM 3 Finger Paws/image-02.jpg>)
+![\*R\*i\*c\*o\*c\*h\*e\*t\*x\*c\*r\*a\*f\*t\*s\* \*H\*o\*l\*l\*o\*w\* \*F\*O\*A\*M\* \*3\* \*F\*i\*n\*g\*e\*r\* \*P\*a\*w\*s\*](../attachments/Other Species Hand Paws/Ricochetxcrafts Hollow FOAM 3 Finger Paws/image-02.jpg)
 
 ---
 
@@ -272,9 +272,9 @@ https://www.etsy.com/ca/listing/1794618327/diy-toony-slim-four-fingered-fox-paw-
 
 [https://www.etsy.com/ca/listing/1205217059/hollow-foam-hand-paw-pattern](https://www.etsy.com/ca/listing/1205217059/hollow-foam-hand-paw-pattern "smartCard-inline")
 
-![\*R\*i\*c\*o\*c\*h\*e\*t\*x\*c\*r\*a\*f\*t\*s\* \*H\*o\*l\*l\*o\*w\* \*F\*O\*A\*M\* \*C\*l\*a\*w\* \*H\*a\*n\*d\*s\*](<../attachments/Other Species Hand Paws/Ricochetxcrafts Hollow FOAM Claw Hands/image-01.webp>)
+![\*R\*i\*c\*o\*c\*h\*e\*t\*x\*c\*r\*a\*f\*t\*s\* \*H\*o\*l\*l\*o\*w\* \*F\*O\*A\*M\* \*C\*l\*a\*w\* \*H\*a\*n\*d\*s\*](../attachments/Other Species Hand Paws/Ricochetxcrafts Hollow FOAM Claw Hands/image-01.webp)
 
-![\*R\*i\*c\*o\*c\*h\*e\*t\*x\*c\*r\*a\*f\*t\*s\* \*H\*o\*l\*l\*o\*w\* \*F\*O\*A\*M\* \*C\*l\*a\*w\* \*H\*a\*n\*d\*s\*](<../attachments/Other Species Hand Paws/Ricochetxcrafts Hollow FOAM Claw Hands/image-02.webp>)
+![\*R\*i\*c\*o\*c\*h\*e\*t\*x\*c\*r\*a\*f\*t\*s\* \*H\*o\*l\*l\*o\*w\* \*F\*O\*A\*M\* \*C\*l\*a\*w\* \*H\*a\*n\*d\*s\*](../attachments/Other Species Hand Paws/Ricochetxcrafts Hollow FOAM Claw Hands/image-02.webp)
 
 ---
 
@@ -294,13 +294,13 @@ Just Armor:
 
 [https://www.etsy.com/ca/listing/883165915/diy-segmented-finger-armor-cosplay-armor](https://www.etsy.com/ca/listing/883165915/diy-segmented-finger-armor-cosplay-armor "‌")
 
-![\*F\*a\*t\*U\*n\*i\*c\*o\*r\*n\*C\*o\*s\*p\*l\*a\*y\* \*F\*i\*n\*g\*e\*r\* \*C\*l\*a\*w\*s\*/\*A\*r\*m\*o\*r\* \*(\*o\*r\* \*s\*i\*n\*g\*l\*e\* \*f\*i\*l\*e\*s\*)\*](<../attachments/Other Species Hand Paws/FatUnicornCosplay Finger ClawsArmor (or single files)/image-01.webp>)
+![\*F\*a\*t\*U\*n\*i\*c\*o\*r\*n\*C\*o\*s\*p\*l\*a\*y\* \*F\*i\*n\*g\*e\*r\* \*C\*l\*a\*w\*s\*/\*A\*r\*m\*o\*r\* \*(\*o\*r\* \*s\*i\*n\*g\*l\*e\* \*f\*i\*l\*e\*s\*)\*](../attachments/Other Species Hand Paws/FatUnicornCosplay Finger ClawsArmor (or single files)/image-01.webp)
 
-![\*F\*a\*t\*U\*n\*i\*c\*o\*r\*n\*C\*o\*s\*p\*l\*a\*y\* \*F\*i\*n\*g\*e\*r\* \*C\*l\*a\*w\*s\*/\*A\*r\*m\*o\*r\* \*(\*o\*r\* \*s\*i\*n\*g\*l\*e\* \*f\*i\*l\*e\*s\*)\*](<../attachments/Other Species Hand Paws/FatUnicornCosplay Finger ClawsArmor (or single files)/image-02.webp>)
+![\*F\*a\*t\*U\*n\*i\*c\*o\*r\*n\*C\*o\*s\*p\*l\*a\*y\* \*F\*i\*n\*g\*e\*r\* \*C\*l\*a\*w\*s\*/\*A\*r\*m\*o\*r\* \*(\*o\*r\* \*s\*i\*n\*g\*l\*e\* \*f\*i\*l\*e\*s\*)\*](../attachments/Other Species Hand Paws/FatUnicornCosplay Finger ClawsArmor (or single files)/image-02.webp)
 
-![\*F\*a\*t\*U\*n\*i\*c\*o\*r\*n\*C\*o\*s\*p\*l\*a\*y\* \*F\*i\*n\*g\*e\*r\* \*C\*l\*a\*w\*s\*/\*A\*r\*m\*o\*r\* \*(\*o\*r\* \*s\*i\*n\*g\*l\*e\* \*f\*i\*l\*e\*s\*)\*](<../attachments/Other Species Hand Paws/FatUnicornCosplay Finger ClawsArmor (or single files)/image-03.webp>)
+![\*F\*a\*t\*U\*n\*i\*c\*o\*r\*n\*C\*o\*s\*p\*l\*a\*y\* \*F\*i\*n\*g\*e\*r\* \*C\*l\*a\*w\*s\*/\*A\*r\*m\*o\*r\* \*(\*o\*r\* \*s\*i\*n\*g\*l\*e\* \*f\*i\*l\*e\*s\*)\*](../attachments/Other Species Hand Paws/FatUnicornCosplay Finger ClawsArmor (or single files)/image-03.webp)
 
-![\*F\*a\*t\*U\*n\*i\*c\*o\*r\*n\*C\*o\*s\*p\*l\*a\*y\* \*F\*i\*n\*g\*e\*r\* \*C\*l\*a\*w\*s\*/\*A\*r\*m\*o\*r\* \*(\*o\*r\* \*s\*i\*n\*g\*l\*e\* \*f\*i\*l\*e\*s\*)\*](<../attachments/Other Species Hand Paws/FatUnicornCosplay Finger ClawsArmor (or single files)/image-04.webp>)
+![\*F\*a\*t\*U\*n\*i\*c\*o\*r\*n\*C\*o\*s\*p\*l\*a\*y\* \*F\*i\*n\*g\*e\*r\* \*C\*l\*a\*w\*s\*/\*A\*r\*m\*o\*r\* \*(\*o\*r\* \*s\*i\*n\*g\*l\*e\* \*f\*i\*l\*e\*s\*)\*](../attachments/Other Species Hand Paws/FatUnicornCosplay Finger ClawsArmor (or single files)/image-04.webp)
 
 ---
 
@@ -310,7 +310,7 @@ Just Armor:
 
 [https://www.etsy.com/ca/listing/1566473402/opossum-handpaw-pattern-and-instructions](https://www.etsy.com/ca/listing/1566473402/opossum-handpaw-pattern-and-instructions "smartCard-inline")
 
-![\*O\*p\*o\*s\*s\*u\*m\*C\*a\*f\*e\* \*O\*p\*o\*s\*s\*u\*m\* \*H\*a\*n\*d\*p\*a\*w\* \*P\*a\*t\*t\*e\*r\*n\*](<../attachments/Other Species Hand Paws/OpossumCafe Opossum Handpaw Pattern/image-01.jpg>)
+![\*O\*p\*o\*s\*s\*u\*m\*C\*a\*f\*e\* \*O\*p\*o\*s\*s\*u\*m\* \*H\*a\*n\*d\*p\*a\*w\* \*P\*a\*t\*t\*e\*r\*n\*](../attachments/Other Species Hand Paws/OpossumCafe Opossum Handpaw Pattern/image-01.jpg)
 
 ---
 
@@ -322,7 +322,7 @@ Just Armor:
 
 see reviews, may have few instructions on how to build
 
-![\*H\*a\*x\*C\*r\*e\*a\*t\*i\*v\*e\* \*5\* \*F\*i\*n\*g\*e\*r\* \*W\*e\*b\*b\*e\*d\* \*P\*a\*w\*s\*](<../attachments/Other Species Hand Paws/HaxCreative 5 Finger Webbed Paws/image-01.jpg>)
+![\*H\*a\*x\*C\*r\*e\*a\*t\*i\*v\*e\* \*5\* \*F\*i\*n\*g\*e\*r\* \*W\*e\*b\*b\*e\*d\* \*P\*a\*w\*s\*](../attachments/Other Species Hand Paws/HaxCreative 5 Finger Webbed Paws/image-01.jpg)
 
 ---
 
@@ -332,7 +332,7 @@ see reviews, may have few instructions on how to build
 
 [https://www.etsy.com/ca/listing/1557687145/four-finger-monster-claw-paw-pattern](https://www.etsy.com/ca/listing/1557687145/four-finger-monster-claw-paw-pattern "‌")
 
-![\*C\*r\*a\*f\*t\*s\*b\*y\*B\*l\*u\*r\*r\*y\* \*4\* \*F\*i\*n\*g\*e\*r\* \*M\*o\*n\*s\*t\*e\*r\* \*C\*l\*a\*w\*s\*](<../attachments/Other Species Hand Paws/CraftsbyBlurry 4 Finger Monster Claws/image-01.jpg>)
+![\*C\*r\*a\*f\*t\*s\*b\*y\*B\*l\*u\*r\*r\*y\* \*4\* \*F\*i\*n\*g\*e\*r\* \*M\*o\*n\*s\*t\*e\*r\* \*C\*l\*a\*w\*s\*](../attachments/Other Species Hand Paws/CraftsbyBlurry 4 Finger Monster Claws/image-01.jpg)
 
 ---
 
@@ -342,7 +342,7 @@ see reviews, may have few instructions on how to build
 
 [https://www.etsy.com/ca/listing/1761900025/spiderbug-fursuit-hand-paw-pattern-png](https://www.etsy.com/ca/listing/1761900025/spiderbug-fursuit-hand-paw-pattern-png "smartCard-inline")
 
-![\*N\*o\*c\*t\*u\*r\*n\*a\*l\*S\*t\*u\*d\*i\*o\*s\*s\* \*S\*p\*i\*d\*e\*r\*/\*B\*u\*g\* \*P\*a\*w\*s\*](<../attachments/Other Species Hand Paws/NocturnalStudioss SpiderBug Paws/image-01.jpg>)
+![\*N\*o\*c\*t\*u\*r\*n\*a\*l\*S\*t\*u\*d\*i\*o\*s\*s\* \*S\*p\*i\*d\*e\*r\*/\*B\*u\*g\* \*P\*a\*w\*s\*](../attachments/Other Species Hand Paws/NocturnalStudioss SpiderBug Paws/image-01.jpg)
 
 ---
 
@@ -352,13 +352,15 @@ see reviews, may have few instructions on how to build
 
 [https://www.etsy.com/ca/listing/1684090611/wickerbeast-handpaws-pattern-tutorial](https://www.etsy.com/ca/listing/1684090611/wickerbeast-handpaws-pattern-tutorial "‌")
 
-![\*T\*w\*i\*l\*i\*g\*h\*t\*K\*n\*i\*g\*h\*t\*s\* \*W\*i\*c\*k\*e\*r\*b\*e\*a\*s\*t\* \*H\*a\*n\*d\*p\*a\*w\*s\*](<../attachments/Other Species Hand Paws/TwilightKnights Wickerbeast Handpaws/image-01.webp>)
+![\*T\*w\*i\*l\*i\*g\*h\*t\*K\*n\*i\*g\*h\*t\*s\* \*W\*i\*c\*k\*e\*r\*b\*e\*a\*s\*t\* \*H\*a\*n\*d\*p\*a\*w\*s\*](../attachments/Other Species Hand Paws/TwilightKnights Wickerbeast Handpaws/image-01.webp)
 
 ---
 
 <a id="theraptorshop-5-finger-synth-paws"></a>
 
 ### TheRaptorShop 5 Finger Synth Paws
+
+*No images available*
 
 ---
 
@@ -368,9 +370,9 @@ see reviews, may have few instructions on how to build
 
 [https://www.etsy.com/ca/listing/1881944335/bird-reptile-dinosaur-raptor-paw-pattern](https://www.etsy.com/ca/listing/1881944335/bird-reptile-dinosaur-raptor-paw-pattern "smartCard-inline")
 
-![\*S\*o\*n\*s\*t\*a\*f\*u\*r\*s\* \*B\*i\*r\*d\*/\*R\*e\*p\*t\*i\*l\*e\*/\*D\*i\*n\*o\*s\*a\*u\*r\* \*p\*a\*w\*s\*](<../attachments/Other Species Hand Paws/Sonstafurs BirdReptileDinosaur paws/image-01.png>)
+![\*S\*o\*n\*s\*t\*a\*f\*u\*r\*s\* \*B\*i\*r\*d\*/\*R\*e\*p\*t\*i\*l\*e\*/\*D\*i\*n\*o\*s\*a\*u\*r\* \*p\*a\*w\*s\*](../attachments/Other Species Hand Paws/Sonstafurs BirdReptileDinosaur paws/image-01.png)
 
-![\*S\*o\*n\*s\*t\*a\*f\*u\*r\*s\* \*B\*i\*r\*d\*/\*R\*e\*p\*t\*i\*l\*e\*/\*D\*i\*n\*o\*s\*a\*u\*r\* \*p\*a\*w\*s\*](<../attachments/Other Species Hand Paws/Sonstafurs BirdReptileDinosaur paws/image-02.png>)
+![\*S\*o\*n\*s\*t\*a\*f\*u\*r\*s\* \*B\*i\*r\*d\*/\*R\*e\*p\*t\*i\*l\*e\*/\*D\*i\*n\*o\*s\*a\*u\*r\* \*p\*a\*w\*s\*](../attachments/Other Species Hand Paws/Sonstafurs BirdReptileDinosaur paws/image-02.png)
 
 ---
 
@@ -382,7 +384,7 @@ see reviews, may have few instructions on how to build
 
 uses mochi minky, interfacing and applique
 
-![\*R\*u\*d\*e\*B\*i\*r\*d\*S\*t\*u\*d\*i\*o\*s\* \*M\*o\*c\*h\*i\* \*B\*i\*r\*d\*/\*D\*r\*a\*g\*o\*n\*/\*R\*e\*p\*t\*i\*l\*e\* \*H\*a\*n\*d\* \*P\*a\*w\* \*P\*a\*t\*t\*e\*r\*](<../attachments/Other Species Hand Paws/RudeBirdStudios Mochi BirdDragonReptile Hand Paw Patter/image-01.png>)
+![\*R\*u\*d\*e\*B\*i\*r\*d\*S\*t\*u\*d\*i\*o\*s\* \*M\*o\*c\*h\*i\* \*B\*i\*r\*d\*/\*D\*r\*a\*g\*o\*n\*/\*R\*e\*p\*t\*i\*l\*e\* \*H\*a\*n\*d\* \*P\*a\*w\* \*P\*a\*t\*t\*e\*r\*](../attachments/Other Species Hand Paws/RudeBirdStudios Mochi BirdDragonReptile Hand Paw Patter/image-01.png)
 
 ---
 
@@ -392,7 +394,7 @@ uses mochi minky, interfacing and applique
 
 [https://www.etsy.com/ca/listing/1828340647/bear-handpaw-pattern-pdf](https://www.etsy.com/ca/listing/1828340647/bear-handpaw-pattern-pdf "smartCard-inline")
 
-![\*W\*o\*l\*f\*s\*k\*i\*n\*S\*t\*u\*d\*i\*o\*s\* \*B\*e\*a\*r\* \*P\*a\*w\* \*P\*a\*t\*t\*e\*r\*n\*](<../attachments/Other Species Hand Paws/WolfskinStudios Bear Paw Pattern/image-01.png>)
+![\*W\*o\*l\*f\*s\*k\*i\*n\*S\*t\*u\*d\*i\*o\*s\* \*B\*e\*a\*r\* \*P\*a\*w\* \*P\*a\*t\*t\*e\*r\*n\*](../attachments/Other Species Hand Paws/WolfskinStudios Bear Paw Pattern/image-01.png)
 
 ---
 
@@ -402,7 +404,7 @@ uses mochi minky, interfacing and applique
 
 [https://www.patreon.com/FinchFactoryFursuits/shop/bird-hand-paw-pattern-advanced-read-1399017](https://www.patreon.com/FinchFactoryFursuits/shop/bird-hand-paw-pattern-advanced-read-1399017 "smartCard-inline")
 
-![\*F\*i\*n\*c\*h\* \*F\*a\*c\*t\*o\*r\*y\* \*B\*i\*r\*d\* \*H\*a\*n\*d\*s\*](<../attachments/Other Species Hand Paws/Finch Factory Bird Hands/image-01.png>)
+![\*F\*i\*n\*c\*h\* \*F\*a\*c\*t\*o\*r\*y\* \*B\*i\*r\*d\* \*H\*a\*n\*d\*s\*](../attachments/Other Species Hand Paws/Finch Factory Bird Hands/image-01.png)
 
 ---
 
@@ -412,6 +414,6 @@ uses mochi minky, interfacing and applique
 
 [https://www.etsy.com/ca/listing/4452569232/fursuit-seal-pattern-tail-and-paws](https://www.etsy.com/ca/listing/4452569232/fursuit-seal-pattern-tail-and-paws "smartCard-inline")
 
-![\*B\*e\*t\*w\*e\*e\*n\*S\*p\*a\*c\*e\*&\*S\*e\*a\* \*S\*e\*a\*l\* \*H\*a\*n\*d\* \*a\*n\*d\* \*T\*a\*i\*l\* \*P\*a\*t\*t\*e\*r\*n\*](<../attachments/Other Species Hand Paws/BetweenSpace&Sea Seal Hand and Tail Pattern/image-01.webp>)
+![\*B\*e\*t\*w\*e\*e\*n\*S\*p\*a\*c\*e\*&\*S\*e\*a\* \*S\*e\*a\*l\* \*H\*a\*n\*d\* \*a\*n\*d\* \*T\*a\*i\*l\* \*P\*a\*t\*t\*e\*r\*n\*](../attachments/Other Species Hand Paws/BetweenSpace&Sea Seal Hand and Tail Pattern/image-01.webp)
 
 ---

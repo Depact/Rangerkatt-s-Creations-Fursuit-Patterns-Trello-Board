@@ -12,11 +12,11 @@
 
 [https://youtu.be/TiUGvxzBjyc](https://youtu.be/TiUGvxzBjyc "smartCard-inline")
 
-![\*P\*s\*e\*u\*d\*o\*c\*a\*n\*i\*d\* \*B\*i\*r\*d\* \*W\*i\*n\*g\*s\*/\*A\*r\*m\*s\*](<../attachments/WingsFeathers/Pseudocanid Bird WingsArms/image-01.png>)
+![\*P\*s\*e\*u\*d\*o\*c\*a\*n\*i\*d\* \*B\*i\*r\*d\* \*W\*i\*n\*g\*s\*/\*A\*r\*m\*s\*](../attachments/WingsFeathers/Pseudocanid Bird WingsArms/image-01.png)
 
-![\*P\*s\*e\*u\*d\*o\*c\*a\*n\*i\*d\* \*B\*i\*r\*d\* \*W\*i\*n\*g\*s\*/\*A\*r\*m\*s\*](<../attachments/WingsFeathers/Pseudocanid Bird WingsArms/image-02.png>)
+![\*P\*s\*e\*u\*d\*o\*c\*a\*n\*i\*d\* \*B\*i\*r\*d\* \*W\*i\*n\*g\*s\*/\*A\*r\*m\*s\*](../attachments/WingsFeathers/Pseudocanid Bird WingsArms/image-02.png)
 
-![\*P\*s\*e\*u\*d\*o\*c\*a\*n\*i\*d\* \*B\*i\*r\*d\* \*W\*i\*n\*g\*s\*/\*A\*r\*m\*s\*](<../attachments/WingsFeathers/Pseudocanid Bird WingsArms/image-03.png>)
+![\*P\*s\*e\*u\*d\*o\*c\*a\*n\*i\*d\* \*B\*i\*r\*d\* \*W\*i\*n\*g\*s\*/\*A\*r\*m\*s\*](../attachments/WingsFeathers/Pseudocanid Bird WingsArms/image-03.png)
 
 ---
 
@@ -26,9 +26,9 @@
 
 [https://www.etsy.com/ca/listing/1453760737/fabric-feathers-for-fursuits-cosplay](https://www.etsy.com/ca/listing/1453760737/fabric-feathers-for-fursuits-cosplay "smartCard-inline")
 
-![\*O\*k\*t\*a\*v\*i\*a\*'\*s\* \*C\*r\*e\*a\*t\*u\*r\*e\*s\* \*F\*a\*b\*r\*i\*c\* \*F\*e\*a\*t\*h\*e\*r\*s\*](<../attachments/WingsFeathers/Oktavia's Creatures Fabric Feathers/image-01.png>)
+![\*O\*k\*t\*a\*v\*i\*a\*'\*s\* \*C\*r\*e\*a\*t\*u\*r\*e\*s\* \*F\*a\*b\*r\*i\*c\* \*F\*e\*a\*t\*h\*e\*r\*s\*](../attachments/WingsFeathers/Oktavia's Creatures Fabric Feathers/image-01.png)
 
-![\*O\*k\*t\*a\*v\*i\*a\*'\*s\* \*C\*r\*e\*a\*t\*u\*r\*e\*s\* \*F\*a\*b\*r\*i\*c\* \*F\*e\*a\*t\*h\*e\*r\*s\*](<../attachments/WingsFeathers/Oktavia's Creatures Fabric Feathers/image-02.png>)
+![\*O\*k\*t\*a\*v\*i\*a\*'\*s\* \*C\*r\*e\*a\*t\*u\*r\*e\*s\* \*F\*a\*b\*r\*i\*c\* \*F\*e\*a\*t\*h\*e\*r\*s\*](../attachments/WingsFeathers/Oktavia's Creatures Fabric Feathers/image-02.png)
 
 ---
 
@@ -42,7 +42,7 @@
 
 [https://www.youtube.com/watch?v=gOsm-CHuOrQ](https://www.youtube.com/watch?v=gOsm-CHuOrQ "smartCard-inline")
 
-![\*M\*u\*g\*i\*w\*a\*r\*a\* \*T\*a\*i\*l\* \*F\*e\*a\*t\*h\*e\*r\*s\*](<../attachments/WingsFeathers/Mugiwara Tail Feathers/image-01.png>)
+![\*M\*u\*g\*i\*w\*a\*r\*a\* \*T\*a\*i\*l\* \*F\*e\*a\*t\*h\*e\*r\*s\*](../attachments/WingsFeathers/Mugiwara Tail Feathers/image-01.png)
 
 ---
 
@@ -56,7 +56,7 @@
 
 [https://www.youtube.com/watch?v=hq9Zk2EIYnI](https://www.youtube.com/watch?v=hq9Zk2EIYnI "smartCard-inline")
 
-![\*M\*u\*g\*i\*w\*a\*r\*a\* \*F\*e\*a\*t\*h\*e\*r\* \*P\*a\*t\*t\*e\*r\*n\*s\*](<../attachments/WingsFeathers/Mugiwara Feather Patterns/image-01.png>)
+![\*M\*u\*g\*i\*w\*a\*r\*a\* \*F\*e\*a\*t\*h\*e\*r\* \*P\*a\*t\*t\*e\*r\*n\*s\*](../attachments/WingsFeathers/Mugiwara Feather Patterns/image-01.png)
 
 ---
 
@@ -70,7 +70,7 @@
 
 [https://www.youtube.com/watch?v=I2_NHOGRLs8](https://www.youtube.com/watch?v=I2_NHOGRLs8 "smartCard-inline")
 
-![\*M\*u\*g\*i\*w\*a\*r\*a\* \*B\*i\*r\*d\* \*A\*r\*m\* \*W\*i\*n\*g\*s\*](<../attachments/WingsFeathers/Mugiwara Bird Arm Wings/image-01.png>)
+![\*M\*u\*g\*i\*w\*a\*r\*a\* \*B\*i\*r\*d\* \*A\*r\*m\* \*W\*i\*n\*g\*s\*](../attachments/WingsFeathers/Mugiwara Bird Arm Wings/image-01.png)
 
 ---
 
@@ -84,7 +84,7 @@
 
 [https://www.youtube.com/watch?v=aCpSWxwf-lw](https://www.youtube.com/watch?v=aCpSWxwf-lw "smartCard-inline")
 
-![\*M\*u\*g\*i\*w\*a\*r\*a\* \*A\*n\*g\*e\*l\* \*D\*r\*a\*g\*o\*n\* \*W\*i\*n\*g\*s\*](<../attachments/WingsFeathers/Mugiwara Angel Dragon Wings/image-01.png>)
+![\*M\*u\*g\*i\*w\*a\*r\*a\* \*A\*n\*g\*e\*l\* \*D\*r\*a\*g\*o\*n\* \*W\*i\*n\*g\*s\*](../attachments/WingsFeathers/Mugiwara Angel Dragon Wings/image-01.png)
 
 ---
 
@@ -98,7 +98,7 @@
 
 [https://www.youtube.com/watch?v=DbPgklNCg_M](https://www.youtube.com/watch?v=DbPgklNCg_M "smartCard-inline")
 
-![\*M\*u\*g\*i\*w\*a\*r\*a\* \*B\*a\*t\*/\*D\*r\*a\*g\*o\*n\* \*W\*i\*n\*g\* \*V\*1\*](<../attachments/WingsFeathers/Mugiwara BatDragon Wing V1/image-01.png>)
+![\*M\*u\*g\*i\*w\*a\*r\*a\* \*B\*a\*t\*/\*D\*r\*a\*g\*o\*n\* \*W\*i\*n\*g\* \*V\*1\*](../attachments/WingsFeathers/Mugiwara BatDragon Wing V1/image-01.png)
 
 ---
 
@@ -112,7 +112,7 @@
 
 [https://www.youtube.com/watch?v=MsRHpJGjqgw](https://www.youtube.com/watch?v=MsRHpJGjqgw "smartCard-inline")
 
-![\*M\*u\*g\*i\*w\*a\*r\*a\* \*B\*a\*t\*/\*D\*r\*a\*g\*o\*n\* \*W\*i\*n\*g\* \*V\*2\*](<../attachments/WingsFeathers/Mugiwara BatDragon Wing V2/image-01.jpg>)
+![\*M\*u\*g\*i\*w\*a\*r\*a\* \*B\*a\*t\*/\*D\*r\*a\*g\*o\*n\* \*W\*i\*n\*g\* \*V\*2\*](../attachments/WingsFeathers/Mugiwara BatDragon Wing V2/image-01.jpg)
 
 ---
 
@@ -126,7 +126,7 @@
 
 [https://www.youtube.com/watch?v=x-erJBZEIzU](https://www.youtube.com/watch?v=x-erJBZEIzU "smartCard-inline")
 
-![\*M\*u\*g\*i\*w\*a\*r\*a\* \*B\*i\*r\*d\* \*T\*a\*i\*l\*](<../attachments/WingsFeathers/Mugiwara Bird Tail/image-01.png>)
+![\*M\*u\*g\*i\*w\*a\*r\*a\* \*B\*i\*r\*d\* \*T\*a\*i\*l\*](../attachments/WingsFeathers/Mugiwara Bird Tail/image-01.png)
 
 ---
 
@@ -153,11 +153,11 @@ LARGE:
 
 [https://www.etsy.com/ca/listing/702061758/digital-bat-wing-pattern-for-partial](https://www.etsy.com/ca/listing/702061758/digital-bat-wing-pattern-for-partial "smartCard-inline")
 
-![\*M\*u\*g\*i\*w\*a\*r\*a\* \*M\*i\*n\*i\* \*A\*r\*m\* \*W\*i\*n\*g\*s\* \*(\*3\* \*L\*e\*n\*g\*t\*h\*s\*)\*](<../attachments/WingsFeathers/Mugiwara Mini Arm Wings (3 Lengths)/image-01.png>)
+![\*M\*u\*g\*i\*w\*a\*r\*a\* \*M\*i\*n\*i\* \*A\*r\*m\* \*W\*i\*n\*g\*s\* \*(\*3\* \*L\*e\*n\*g\*t\*h\*s\*)\*](../attachments/WingsFeathers/Mugiwara Mini Arm Wings (3 Lengths)/image-01.png)
 
-![\*M\*u\*g\*i\*w\*a\*r\*a\* \*M\*i\*n\*i\* \*A\*r\*m\* \*W\*i\*n\*g\*s\* \*(\*3\* \*L\*e\*n\*g\*t\*h\*s\*)\*](<../attachments/WingsFeathers/Mugiwara Mini Arm Wings (3 Lengths)/image-02.webp>)
+![\*M\*u\*g\*i\*w\*a\*r\*a\* \*M\*i\*n\*i\* \*A\*r\*m\* \*W\*i\*n\*g\*s\* \*(\*3\* \*L\*e\*n\*g\*t\*h\*s\*)\*](../attachments/WingsFeathers/Mugiwara Mini Arm Wings (3 Lengths)/image-02.webp)
 
-![\*M\*u\*g\*i\*w\*a\*r\*a\* \*M\*i\*n\*i\* \*A\*r\*m\* \*W\*i\*n\*g\*s\* \*(\*3\* \*L\*e\*n\*g\*t\*h\*s\*)\*](<../attachments/WingsFeathers/Mugiwara Mini Arm Wings (3 Lengths)/image-03.webp>)
+![\*M\*u\*g\*i\*w\*a\*r\*a\* \*M\*i\*n\*i\* \*A\*r\*m\* \*W\*i\*n\*g\*s\* \*(\*3\* \*L\*e\*n\*g\*t\*h\*s\*)\*](../attachments/WingsFeathers/Mugiwara Mini Arm Wings (3 Lengths)/image-03.webp)
 
 ---
 
@@ -167,9 +167,9 @@ LARGE:
 
 [https://www.etsy.com/ca/listing/1227048609/mini-fursuit-wings-sewing-pattern](https://www.etsy.com/ca/listing/1227048609/mini-fursuit-wings-sewing-pattern "smartCard-inline")
 
-![\*F\*u\*r\*g\*e\*t\*f\*u\*l\*F\*a\*e\*F\*u\*r\*s\*u\*i\*t\*s\* \*M\*i\*n\*i\* \*F\*l\*a\*t\* \*W\*i\*n\*g\*s\*](<../attachments/WingsFeathers/FurgetfulFaeFursuits Mini Flat Wings/image-01.png>)
+![\*F\*u\*r\*g\*e\*t\*f\*u\*l\*F\*a\*e\*F\*u\*r\*s\*u\*i\*t\*s\* \*M\*i\*n\*i\* \*F\*l\*a\*t\* \*W\*i\*n\*g\*s\*](../attachments/WingsFeathers/FurgetfulFaeFursuits Mini Flat Wings/image-01.png)
 
-![\*F\*u\*r\*g\*e\*t\*f\*u\*l\*F\*a\*e\*F\*u\*r\*s\*u\*i\*t\*s\* \*M\*i\*n\*i\* \*F\*l\*a\*t\* \*W\*i\*n\*g\*s\*](<../attachments/WingsFeathers/FurgetfulFaeFursuits Mini Flat Wings/image-02.png>)
+![\*F\*u\*r\*g\*e\*t\*f\*u\*l\*F\*a\*e\*F\*u\*r\*s\*u\*i\*t\*s\* \*M\*i\*n\*i\* \*F\*l\*a\*t\* \*W\*i\*n\*g\*s\*](../attachments/WingsFeathers/FurgetfulFaeFursuits Mini Flat Wings/image-02.png)
 
 ---
 
@@ -179,9 +179,9 @@ LARGE:
 
 [https://www.etsy.com/ca/listing/1240028393/bird-fursuit-wings-pattern-pdf](https://www.etsy.com/ca/listing/1240028393/bird-fursuit-wings-pattern-pdf "smartCard-inline")
 
-![\*N\*o\*r\*t\*h\* \*C\*a\*t\* \*C\*r\*e\*a\*t\*i\*o\*n\*s\* \*W\*i\*n\*g\*s\*](<../attachments/WingsFeathers/North Cat Creations Wings/image-01.png>)
+![\*N\*o\*r\*t\*h\* \*C\*a\*t\* \*C\*r\*e\*a\*t\*i\*o\*n\*s\* \*W\*i\*n\*g\*s\*](../attachments/WingsFeathers/North Cat Creations Wings/image-01.png)
 
-![\*N\*o\*r\*t\*h\* \*C\*a\*t\* \*C\*r\*e\*a\*t\*i\*o\*n\*s\* \*W\*i\*n\*g\*s\*](<../attachments/WingsFeathers/North Cat Creations Wings/image-02.png>)
+![\*N\*o\*r\*t\*h\* \*C\*a\*t\* \*C\*r\*e\*a\*t\*i\*o\*n\*s\* \*W\*i\*n\*g\*s\*](../attachments/WingsFeathers/North Cat Creations Wings/image-02.png)
 
 ---
 
@@ -191,7 +191,7 @@ LARGE:
 
 [https://www.etsy.com/ca/listing/1256213346/bird-fursuit-tail-pattern-pdf](https://www.etsy.com/ca/listing/1256213346/bird-fursuit-tail-pattern-pdf "smartCard-inline")
 
-![\*N\*o\*r\*t\*h\* \*C\*a\*t\* \*C\*r\*e\*a\*t\*i\*o\*n\*s\* \*F\*e\*a\*t\*h\*e\*r\*e\*d\* \*T\*a\*i\*l\*](<../attachments/WingsFeathers/North Cat Creations Feathered Tail/image-01.png>)
+![\*N\*o\*r\*t\*h\* \*C\*a\*t\* \*C\*r\*e\*a\*t\*i\*o\*n\*s\* \*F\*e\*a\*t\*h\*e\*r\*e\*d\* \*T\*a\*i\*l\*](../attachments/WingsFeathers/North Cat Creations Feathered Tail/image-01.png)
 
 ---
 
@@ -201,7 +201,7 @@ LARGE:
 
 [https://www.etsy.com/ca/listing/1473701755/fursuit-wings-tutorial](https://www.etsy.com/ca/listing/1473701755/fursuit-wings-tutorial "smartCard-inline")
 
-![\*T\*w\*i\*l\*i\*g\*h\*t\*K\*n\*i\*g\*h\*t\*s\* \*L\*a\*r\*g\*e\* \*F\*u\*r\*s\*u\*i\*t\* \*W\*i\*n\*g\*s\*](<../attachments/WingsFeathers/TwilightKnights Large Fursuit Wings/image-01.png>)
+![\*T\*w\*i\*l\*i\*g\*h\*t\*K\*n\*i\*g\*h\*t\*s\* \*L\*a\*r\*g\*e\* \*F\*u\*r\*s\*u\*i\*t\* \*W\*i\*n\*g\*s\*](../attachments/WingsFeathers/TwilightKnights Large Fursuit Wings/image-01.png)
 
 ---
 
@@ -211,9 +211,9 @@ LARGE:
 
 [https://www.etsy.com/ca/listing/1068678264/diy-bird-tail-pdf-pattern](https://www.etsy.com/ca/listing/1068678264/diy-bird-tail-pdf-pattern "smartCard-inline")
 
-![\*P\*i\*n\*k\*u\*s\*C\*r\*a\*f\*t\*y\*C\*o\*t\*t\*a\*g\*e\* \*B\*i\*r\*d\* \*T\*a\*i\*l\*](<../attachments/WingsFeathers/PinkusCraftyCottage Bird Tail/image-01.webp>)
+![\*P\*i\*n\*k\*u\*s\*C\*r\*a\*f\*t\*y\*C\*o\*t\*t\*a\*g\*e\* \*B\*i\*r\*d\* \*T\*a\*i\*l\*](../attachments/WingsFeathers/PinkusCraftyCottage Bird Tail/image-01.webp)
 
-![\*P\*i\*n\*k\*u\*s\*C\*r\*a\*f\*t\*y\*C\*o\*t\*t\*a\*g\*e\* \*B\*i\*r\*d\* \*T\*a\*i\*l\*](<../attachments/WingsFeathers/PinkusCraftyCottage Bird Tail/image-02.webp>)
+![\*P\*i\*n\*k\*u\*s\*C\*r\*a\*f\*t\*y\*C\*o\*t\*t\*a\*g\*e\* \*B\*i\*r\*d\* \*T\*a\*i\*l\*](../attachments/WingsFeathers/PinkusCraftyCottage Bird Tail/image-02.webp)
 
 ---
 
@@ -223,7 +223,7 @@ LARGE:
 
 [https://www.etsy.com/ca/listing/1547695126/fursuit-or-cosplay-wings-pdf-pattern](https://www.etsy.com/ca/listing/1547695126/fursuit-or-cosplay-wings-pdf-pattern "smartCard-inline")
 
-![\*B\*a\*s\*i\*l\*M\*i\*n\*t\*C\*r\*e\*a\*t\*i\*o\*n\* \*B\*i\*r\*d\* \*W\*i\*n\*g\*s\*](<../attachments/WingsFeathers/BasilMintCreation Bird Wings/image-01.webp>)
+![\*B\*a\*s\*i\*l\*M\*i\*n\*t\*C\*r\*e\*a\*t\*i\*o\*n\* \*B\*i\*r\*d\* \*W\*i\*n\*g\*s\*](../attachments/WingsFeathers/BasilMintCreation Bird Wings/image-01.webp)
 
 ---
 
@@ -235,7 +235,7 @@ LARGE:
 
 [https://youtu.be/SN95R_n4mAI](https://youtu.be/SN95R_n4mAI "smartCard-inline")
 
-![\*K\*a\*z\*p\*l\*a\*y\* \*D\*I\*Y\* \*W\*i\*n\*g\* \*H\*a\*r\*n\*e\*s\*s\*](<../attachments/WingsFeathers/Kazplay DIY Wing Harness/image-01.webp>)
+![\*K\*a\*z\*p\*l\*a\*y\* \*D\*I\*Y\* \*W\*i\*n\*g\* \*H\*a\*r\*n\*e\*s\*s\*](../attachments/WingsFeathers/Kazplay DIY Wing Harness/image-01.webp)
 
 ---
 
@@ -245,7 +245,7 @@ LARGE:
 
 [https://www.etsy.com/ca/listing/1738170780/bird-arm-wing-pattern](https://www.etsy.com/ca/listing/1738170780/bird-arm-wing-pattern "‌")
 
-![\*r\*i\*c\*o\*c\*h\*e\*t\*x\*c\*r\*a\*f\*t\*s\* \*B\*i\*r\*d\* \*W\*i\*n\*g\*s\*](<../attachments/WingsFeathers/ricochetxcrafts Bird Wings/image-01.png>)
+![\*r\*i\*c\*o\*c\*h\*e\*t\*x\*c\*r\*a\*f\*t\*s\* \*B\*i\*r\*d\* \*W\*i\*n\*g\*s\*](../attachments/WingsFeathers/ricochetxcrafts Bird Wings/image-01.png)
 
 ---
 
@@ -255,7 +255,7 @@ LARGE:
 
 [https://www.etsy.com/ca/listing/1683882618/bird-tail-pattern](https://www.etsy.com/ca/listing/1683882618/bird-tail-pattern "‌")
 
-![\*r\*i\*c\*o\*c\*h\*e\*t\*x\*c\*r\*a\*f\*t\*s\* \*B\*i\*r\*d\* \*t\*a\*i\*l\*](<../attachments/WingsFeathers/ricochetxcrafts Bird tail/image-01.png>)
+![\*r\*i\*c\*o\*c\*h\*e\*t\*x\*c\*r\*a\*f\*t\*s\* \*B\*i\*r\*d\* \*t\*a\*i\*l\*](../attachments/WingsFeathers/ricochetxcrafts Bird tail/image-01.png)
 
 ---
 
@@ -265,13 +265,15 @@ LARGE:
 
 [https://www.etsy.com/ca/listing/1242775146/starbird-bird-tail-feathers-cosplay](https://www.etsy.com/ca/listing/1242775146/starbird-bird-tail-feathers-cosplay "smartCard-inline")
 
-![\*F\*a\*e\*T\*r\*i\*n\*k\*e\*t\*s\* \*T\*a\*i\*l\* \*T\*e\*m\*p\*l\*a\*t\*e\*](<../attachments/WingsFeathers/FaeTrinkets Tail Template/image-01.jpg>)
+![\*F\*a\*e\*T\*r\*i\*n\*k\*e\*t\*s\* \*T\*a\*i\*l\* \*T\*e\*m\*p\*l\*a\*t\*e\*](../attachments/WingsFeathers/FaeTrinkets Tail Template/image-01.jpg)
 
 ---
 
 <a id="https-assets-bigcartel-com-product-images-15224abd-03cb-461b-bf12-ddb6d7f16e32-1000000520-jpg-auto-format-fit-max-w-2000"></a>
 
 ### https://assets.bigcartel.com/product_images/15224abd-03cb-461b-bf12-ddb6d7f16e32/1000000520.jpg?auto=format&fit=max&w=2000
+
+*No images available*
 
 ---
 
@@ -283,7 +285,7 @@ Just the wing pattern: [https://mossyfox.bigcartel.com/product/bat-wing-pattern]
 
 Bundle comes with bat wing + ear pattern: [https://mossyfox.bigcartel.com/product/digital-bat-eing-ear-bundle](https://mossyfox.bigcartel.com/product/digital-bat-eing-ear-bundle "smartCard-inline")
 
-![\*M\*o\*s\*s\*y\*F\*o\*x\* \*B\*a\*t\* \*W\*i\*n\*g\* \*P\*a\*t\*t\*e\*r\*n\*](<../attachments/WingsFeathers/MossyFox Bat Wing Pattern/image-01.webp>)
+![\*M\*o\*s\*s\*y\*F\*o\*x\* \*B\*a\*t\* \*W\*i\*n\*g\* \*P\*a\*t\*t\*e\*r\*n\*](../attachments/WingsFeathers/MossyFox Bat Wing Pattern/image-01.webp)
 
 ---
 
@@ -293,13 +295,13 @@ Bundle comes with bat wing + ear pattern: [https://mossyfox.bigcartel.com/produc
 
 [https://www.etsy.com/ca/listing/1242775146/starbird-bird-tail-feathers-cosplay](https://www.etsy.com/ca/listing/1242775146/starbird-bird-tail-feathers-cosplay "smartCard-inline")
 
-![\*F\*a\*e\*T\*r\*i\*n\*k\*e\*t\*s\* \*T\*a\*i\*l\* \*T\*e\*m\*p\*l\*a\*t\*e\*](<../attachments/WingsFeathers/FaeTrinkets Tail Template/image-01.avif>)
+![\*F\*a\*e\*T\*r\*i\*n\*k\*e\*t\*s\* \*T\*a\*i\*l\* \*T\*e\*m\*p\*l\*a\*t\*e\*](../attachments/WingsFeathers/FaeTrinkets Tail Template/image-01.avif)
 
-![\*F\*a\*e\*T\*r\*i\*n\*k\*e\*t\*s\* \*T\*a\*i\*l\* \*T\*e\*m\*p\*l\*a\*t\*e\*](<../attachments/WingsFeathers/FaeTrinkets Tail Template/image-02.jpg>)
+![\*F\*a\*e\*T\*r\*i\*n\*k\*e\*t\*s\* \*T\*a\*i\*l\* \*T\*e\*m\*p\*l\*a\*t\*e\*](../attachments/WingsFeathers/FaeTrinkets Tail Template/image-02.jpg)
 
-![\*F\*a\*e\*T\*r\*i\*n\*k\*e\*t\*s\* \*T\*a\*i\*l\* \*T\*e\*m\*p\*l\*a\*t\*e\*](<../attachments/WingsFeathers/FaeTrinkets Tail Template/image-03.webp>)
+![\*F\*a\*e\*T\*r\*i\*n\*k\*e\*t\*s\* \*T\*a\*i\*l\* \*T\*e\*m\*p\*l\*a\*t\*e\*](../attachments/WingsFeathers/FaeTrinkets Tail Template/image-03.webp)
 
-![\*F\*a\*e\*T\*r\*i\*n\*k\*e\*t\*s\* \*T\*a\*i\*l\* \*T\*e\*m\*p\*l\*a\*t\*e\*](<../attachments/WingsFeathers/FaeTrinkets Tail Template/image-04.jpg>)
+![\*F\*a\*e\*T\*r\*i\*n\*k\*e\*t\*s\* \*T\*a\*i\*l\* \*T\*e\*m\*p\*l\*a\*t\*e\*](../attachments/WingsFeathers/FaeTrinkets Tail Template/image-04.jpg)
 
 ---
 
@@ -309,7 +311,7 @@ Bundle comes with bat wing + ear pattern: [https://mossyfox.bigcartel.com/produc
 
 [https://www.etsy.com/ca/listing/1827604445/5-styles-pattern-tutorial-diy-fursuit](https://www.etsy.com/ca/listing/1827604445/5-styles-pattern-tutorial-diy-fursuit "smartCard-inline")
 
-![\*K\*i\*t\*t\*e\*n\*C\*a\*f\*e\*S\*t\*u\*d\*i\*o\*s\* \*5\* \*S\*t\*y\*l\*e\*s\* \*S\*m\*a\*l\*l\* \*F\*u\*r\*s\*u\*i\*t\* \*W\*i\*n\*g\*s\*](<../attachments/WingsFeathers/KittenCafeStudios 5 Styles Small Fursuit Wings/image-01.webp>)
+![\*K\*i\*t\*t\*e\*n\*C\*a\*f\*e\*S\*t\*u\*d\*i\*o\*s\* \*5\* \*S\*t\*y\*l\*e\*s\* \*S\*m\*a\*l\*l\* \*F\*u\*r\*s\*u\*i\*t\* \*W\*i\*n\*g\*s\*](../attachments/WingsFeathers/KittenCafeStudios 5 Styles Small Fursuit Wings/image-01.webp)
 
 ---
 
@@ -319,7 +321,7 @@ Bundle comes with bat wing + ear pattern: [https://mossyfox.bigcartel.com/produc
 
 [https://www.etsy.com/ca/listing/1906261739/bird-wing-fursuit-paw-pattern](https://www.etsy.com/ca/listing/1906261739/bird-wing-fursuit-paw-pattern "smartCard-inline")
 
-![\*T\*h\*e\*C\*a\*s\*u\*a\*l\*F\*r\*i\*d\*a\*y\* \*W\*i\*n\*g\* \*H\*a\*n\*d\*s\*](<../attachments/WingsFeathers/TheCasualFriday Wing Hands/image-01.png>)
+![\*T\*h\*e\*C\*a\*s\*u\*a\*l\*F\*r\*i\*d\*a\*y\* \*W\*i\*n\*g\* \*H\*a\*n\*d\*s\*](../attachments/WingsFeathers/TheCasualFriday Wing Hands/image-01.png)
 
 ---
 
@@ -327,9 +329,9 @@ Bundle comes with bat wing + ear pattern: [https://mossyfox.bigcartel.com/produc
 
 ### FaeTrinkets Tail Template
 
-![\*F\*a\*e\*T\*r\*i\*n\*k\*e\*t\*s\* \*T\*a\*i\*l\* \*T\*e\*m\*p\*l\*a\*t\*e\*](<../attachments/WingsFeathers/FaeTrinkets Tail Template/image-01.avif>)
+![\*F\*a\*e\*T\*r\*i\*n\*k\*e\*t\*s\* \*T\*a\*i\*l\* \*T\*e\*m\*p\*l\*a\*t\*e\*](../attachments/WingsFeathers/FaeTrinkets Tail Template/image-01.avif)
 
-![\*F\*a\*e\*T\*r\*i\*n\*k\*e\*t\*s\* \*T\*a\*i\*l\* \*T\*e\*m\*p\*l\*a\*t\*e\*](<../attachments/WingsFeathers/FaeTrinkets Tail Template/image-02.jpg>)
+![\*F\*a\*e\*T\*r\*i\*n\*k\*e\*t\*s\* \*T\*a\*i\*l\* \*T\*e\*m\*p\*l\*a\*t\*e\*](../attachments/WingsFeathers/FaeTrinkets Tail Template/image-02.jpg)
 
 ---
 
@@ -339,7 +341,7 @@ Bundle comes with bat wing + ear pattern: [https://mossyfox.bigcartel.com/produc
 
 [https://www.etsy.com/ca/listing/1771835964/toon-bird-tail-foam-pattern](https://www.etsy.com/ca/listing/1771835964/toon-bird-tail-foam-pattern "smartCard-inline")
 
-![\*r\*i\*c\*o\*c\*h\*e\*t\*x\*c\*r\*a\*f\*t\*s\* \*T\*o\*o\*n\*y\* \*B\*i\*r\*d\* \*T\*a\*i\*l\*](<../attachments/WingsFeathers/ricochetxcrafts Toony Bird Tail/image-01.png>)
+![\*r\*i\*c\*o\*c\*h\*e\*t\*x\*c\*r\*a\*f\*t\*s\* \*T\*o\*o\*n\*y\* \*B\*i\*r\*d\* \*T\*a\*i\*l\*](../attachments/WingsFeathers/ricochetxcrafts Toony Bird Tail/image-01.png)
 
 ---
 
@@ -349,7 +351,7 @@ Bundle comes with bat wing + ear pattern: [https://mossyfox.bigcartel.com/produc
 
 [https://www.etsy.com/ca/listing/4376220656/mini-wings-and-harness-pattern](https://www.etsy.com/ca/listing/4376220656/mini-wings-and-harness-pattern "smartCard-inline")
 
-![\*r\*i\*c\*o\*c\*h\*e\*t\*x\*c\*r\*a\*f\*t\*s\* \*M\*i\*n\*i\* \*W\*i\*n\*g\*s\* \*+\* \*H\*a\*r\*n\*e\*s\*s\*](<../attachments/WingsFeathers/ricochetxcrafts Mini Wings + Harness/image-01.png>)
+![\*r\*i\*c\*o\*c\*h\*e\*t\*x\*c\*r\*a\*f\*t\*s\* \*M\*i\*n\*i\* \*W\*i\*n\*g\*s\* \*+\* \*H\*a\*r\*n\*e\*s\*s\*](../attachments/WingsFeathers/ricochetxcrafts Mini Wings + Harness/image-01.png)
 
 ---
 
@@ -359,7 +361,7 @@ Bundle comes with bat wing + ear pattern: [https://mossyfox.bigcartel.com/produc
 
 [https://www.etsy.com/ca/listing/1842329777/fantasy-wing-foam-pattern](https://www.etsy.com/ca/listing/1842329777/fantasy-wing-foam-pattern "smartCard-inline")
 
-![\*r\*i\*c\*o\*c\*h\*e\*t\*x\*c\*r\*a\*f\*t\*s\* \*F\*a\*n\*t\*a\*s\*y\*/\*L\*u\*g\*i\*a\* \*W\*i\*n\*g\*s\*](<../attachments/WingsFeathers/ricochetxcrafts FantasyLugia Wings/image-01.png>)
+![\*r\*i\*c\*o\*c\*h\*e\*t\*x\*c\*r\*a\*f\*t\*s\* \*F\*a\*n\*t\*a\*s\*y\*/\*L\*u\*g\*i\*a\* \*W\*i\*n\*g\*s\*](../attachments/WingsFeathers/ricochetxcrafts FantasyLugia Wings/image-01.png)
 
 ---
 
@@ -371,7 +373,7 @@ Bundle comes with bat wing + ear pattern: [https://mossyfox.bigcartel.com/produc
 
 Follows Neffertity’s tutorial:[https://youtu.be/1AV_HpCQwZ8?si=XUY6aZv9VQdvbBmx](https://youtu.be/1AV_HpCQwZ8?si=XUY6aZv9VQdvbBmx "smartCard-inline")
 
-![\*C\*h\*e\*v\*a\*l\*H\*o\*o\*f\* \*W\*i\*n\*g\* \*P\*a\*t\*t\*e\*r\*n\*](<../attachments/WingsFeathers/ChevalHoof Wing Pattern/image-01.png>)
+![\*C\*h\*e\*v\*a\*l\*H\*o\*o\*f\* \*W\*i\*n\*g\* \*P\*a\*t\*t\*e\*r\*n\*](../attachments/WingsFeathers/ChevalHoof Wing Pattern/image-01.png)
 
 ---
 
@@ -391,14 +393,14 @@ Free 1: [https://ko-fi.com/s/7b67069f5a](https://ko-fi.com/s/7b67069f5a "smartCa
 
 Free 2: [https://ko-fi.com/s/da48cb08e8](https://ko-fi.com/s/da48cb08e8 "smartCard-inline")
 
-![\*N\*e\*a\*r\*V\*a\*l\*k\*y\*r\*i\*e\* \*B\*u\*t\*t\*e\*r\*f\*l\*y\* \*W\*i\*n\*g\*s\*](<../attachments/WingsFeathers/NearValkyrie Butterfly Wings/image-01.webp>)
+![\*N\*e\*a\*r\*V\*a\*l\*k\*y\*r\*i\*e\* \*B\*u\*t\*t\*e\*r\*f\*l\*y\* \*W\*i\*n\*g\*s\*](../attachments/WingsFeathers/NearValkyrie Butterfly Wings/image-01.webp)
 
-![\*N\*e\*a\*r\*V\*a\*l\*k\*y\*r\*i\*e\* \*B\*u\*t\*t\*e\*r\*f\*l\*y\* \*W\*i\*n\*g\*s\*](<../attachments/WingsFeathers/NearValkyrie Butterfly Wings/image-02.png>)
+![\*N\*e\*a\*r\*V\*a\*l\*k\*y\*r\*i\*e\* \*B\*u\*t\*t\*e\*r\*f\*l\*y\* \*W\*i\*n\*g\*s\*](../attachments/WingsFeathers/NearValkyrie Butterfly Wings/image-02.png)
 
-![\*N\*e\*a\*r\*V\*a\*l\*k\*y\*r\*i\*e\* \*B\*u\*t\*t\*e\*r\*f\*l\*y\* \*W\*i\*n\*g\*s\*](<../attachments/WingsFeathers/NearValkyrie Butterfly Wings/image-03.png>)
+![\*N\*e\*a\*r\*V\*a\*l\*k\*y\*r\*i\*e\* \*B\*u\*t\*t\*e\*r\*f\*l\*y\* \*W\*i\*n\*g\*s\*](../attachments/WingsFeathers/NearValkyrie Butterfly Wings/image-03.png)
 
-![\*N\*e\*a\*r\*V\*a\*l\*k\*y\*r\*i\*e\* \*B\*u\*t\*t\*e\*r\*f\*l\*y\* \*W\*i\*n\*g\*s\*](<../attachments/WingsFeathers/NearValkyrie Butterfly Wings/image-04.png>)
+![\*N\*e\*a\*r\*V\*a\*l\*k\*y\*r\*i\*e\* \*B\*u\*t\*t\*e\*r\*f\*l\*y\* \*W\*i\*n\*g\*s\*](../attachments/WingsFeathers/NearValkyrie Butterfly Wings/image-04.png)
 
-![\*N\*e\*a\*r\*V\*a\*l\*k\*y\*r\*i\*e\* \*B\*u\*t\*t\*e\*r\*f\*l\*y\* \*W\*i\*n\*g\*s\*](<../attachments/WingsFeathers/NearValkyrie Butterfly Wings/image-05.png>)
+![\*N\*e\*a\*r\*V\*a\*l\*k\*y\*r\*i\*e\* \*B\*u\*t\*t\*e\*r\*f\*l\*y\* \*W\*i\*n\*g\*s\*](../attachments/WingsFeathers/NearValkyrie Butterfly Wings/image-05.png)
 
 ---

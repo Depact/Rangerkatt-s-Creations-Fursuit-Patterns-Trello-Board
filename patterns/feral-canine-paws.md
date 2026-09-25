@@ -16,11 +16,11 @@ Just the pattern, NO INSTRUCTIONS:
 
 [https://ko-fi.com/s/b11eb3e09b](https://ko-fi.com/s/b11eb3e09b "smartCard-inline")
 
-![\*(\*F\*R\*E\*E\*)\* \*F\*o\*x\*f\*i\*r\*e\* \*F\*a\*n\*t\*a\*s\*y\* \*F\*e\*r\*a\*l\* \*C\*a\*n\*i\*n\*e\*](<../attachments/Feral Canine Paws/(FREE) Foxfire Fantasy Feral Canine/image-01.png>)
+![\*(\*F\*R\*E\*E\*)\* \*F\*o\*x\*f\*i\*r\*e\* \*F\*a\*n\*t\*a\*s\*y\* \*F\*e\*r\*a\*l\* \*C\*a\*n\*i\*n\*e\*](../attachments/Feral Canine Paws/(FREE) Foxfire Fantasy Feral Canine/image-01.png)
 
-![\*(\*F\*R\*E\*E\*)\* \*F\*o\*x\*f\*i\*r\*e\* \*F\*a\*n\*t\*a\*s\*y\* \*F\*e\*r\*a\*l\* \*C\*a\*n\*i\*n\*e\*](<../attachments/Feral Canine Paws/(FREE) Foxfire Fantasy Feral Canine/image-02.png>)
+![\*(\*F\*R\*E\*E\*)\* \*F\*o\*x\*f\*i\*r\*e\* \*F\*a\*n\*t\*a\*s\*y\* \*F\*e\*r\*a\*l\* \*C\*a\*n\*i\*n\*e\*](../attachments/Feral Canine Paws/(FREE) Foxfire Fantasy Feral Canine/image-02.png)
 
-![\*(\*F\*R\*E\*E\*)\* \*F\*o\*x\*f\*i\*r\*e\* \*F\*a\*n\*t\*a\*s\*y\* \*F\*e\*r\*a\*l\* \*C\*a\*n\*i\*n\*e\*](<../attachments/Feral Canine Paws/(FREE) Foxfire Fantasy Feral Canine/image-03.png>)
+![\*(\*F\*R\*E\*E\*)\* \*F\*o\*x\*f\*i\*r\*e\* \*F\*a\*n\*t\*a\*s\*y\* \*F\*e\*r\*a\*l\* \*C\*a\*n\*i\*n\*e\*](../attachments/Feral Canine Paws/(FREE) Foxfire Fantasy Feral Canine/image-03.png)
 
 ---
 
@@ -36,7 +36,7 @@ Assembly video:
 
 Intermediate to advanced pattern!
 
-![\*(\*F\*R\*E\*E\*)\* \*F\*o\*x\*f\*i\*r\*e\* \*F\*a\*n\*t\*a\*s\*y\* \*"\*F\*o\*x\*"\* \*S\*l\*i\*m\* \*C\*a\*n\*i\*n\*e\*](<../attachments/Feral Canine Paws/(FREE) Foxfire Fantasy Fox Slim Canine/image-01.jpg>)
+![\*(\*F\*R\*E\*E\*)\* \*F\*o\*x\*f\*i\*r\*e\* \*F\*a\*n\*t\*a\*s\*y\* \*"\*F\*o\*x\*"\* \*S\*l\*i\*m\* \*C\*a\*n\*i\*n\*e\*](../attachments/Feral Canine Paws/(FREE) Foxfire Fantasy Fox Slim Canine/image-01.jpg)
 
 ---
 
@@ -46,7 +46,7 @@ Intermediate to advanced pattern!
 
 [https://yellowfr3ak.gumroad.com/l/LoSul](https://yellowfr3ak.gumroad.com/l/LoSul "smartCard-inline")
 
-![\*F\*r\*e\*a\*k\*h\*o\*u\*n\*d\* \*F\*e\*r\*a\*l\* \*P\*a\*w\*](<../attachments/Feral Canine Paws/Freakhound Feral Paw/image-01.png>)
+![\*F\*r\*e\*a\*k\*h\*o\*u\*n\*d\* \*F\*e\*r\*a\*l\* \*P\*a\*w\*](../attachments/Feral Canine Paws/Freakhound Feral Paw/image-01.png)
 
 ---
 
@@ -60,7 +60,7 @@ Intermediate to advanced pattern!
 
 [https://www.youtube.com/watch?v=x6yYytDshjw](https://www.youtube.com/watch?v=x6yYytDshjw "smartCard-inline")
 
-![\*M\*u\*g\*i\*w\*a\*r\*a\* \*S\*i\*m\*p\*l\*e\* \*F\*e\*r\*a\*l\* \*P\*a\*w\*](<../attachments/Feral Canine Paws/Mugiwara Simple Feral Paw/image-01.png>)
+![\*M\*u\*g\*i\*w\*a\*r\*a\* \*S\*i\*m\*p\*l\*e\* \*F\*e\*r\*a\*l\* \*P\*a\*w\*](../attachments/Feral Canine Paws/Mugiwara Simple Feral Paw/image-01.png)
 
 ---
 
@@ -70,9 +70,9 @@ Intermediate to advanced pattern!
 
 [https://www.etsy.com/ca/listing/930893122/pdf-pattern-4-finger-feral-puffy-fursuit](https://www.etsy.com/ca/listing/930893122/pdf-pattern-4-finger-feral-puffy-fursuit "smartCard-inline")
 
-![\*M\*i\*s\*s\*r\*a\*r\*s\* \*C\*r\*e\*a\*t\*u\*r\*e\*s\* \*F\*e\*r\*a\*l\* \*C\*a\*n\*i\*n\*e\*](<../attachments/Feral Canine Paws/Missrars Creatures Feral Canine/image-01.png>)
+![\*M\*i\*s\*s\*r\*a\*r\*s\* \*C\*r\*e\*a\*t\*u\*r\*e\*s\* \*F\*e\*r\*a\*l\* \*C\*a\*n\*i\*n\*e\*](../attachments/Feral Canine Paws/Missrars Creatures Feral Canine/image-01.png)
 
-![\*M\*i\*s\*s\*r\*a\*r\*s\* \*C\*r\*e\*a\*t\*u\*r\*e\*s\* \*F\*e\*r\*a\*l\* \*C\*a\*n\*i\*n\*e\*](<../attachments/Feral Canine Paws/Missrars Creatures Feral Canine/image-02.png>)
+![\*M\*i\*s\*s\*r\*a\*r\*s\* \*C\*r\*e\*a\*t\*u\*r\*e\*s\* \*F\*e\*r\*a\*l\* \*C\*a\*n\*i\*n\*e\*](../attachments/Feral Canine Paws/Missrars Creatures Feral Canine/image-02.png)
 
 ---
 
@@ -82,7 +82,7 @@ Intermediate to advanced pattern!
 
 [https://www.etsy.com/ca/listing/1272450471/wolfskinstudios-feral-paw-pattern](https://www.etsy.com/ca/listing/1272450471/wolfskinstudios-feral-paw-pattern "‌")
 
-![\*W\*o\*l\*f\*s\*k\*i\*n\*S\*t\*u\*d\*i\*o\*s\* \*F\*e\*r\*a\*l\* \*P\*u\*f\*f\*y\* \*P\*a\*w\*](<../attachments/Feral Canine Paws/WolfskinStudios Feral Puffy Paw/image-01.png>)
+![\*W\*o\*l\*f\*s\*k\*i\*n\*S\*t\*u\*d\*i\*o\*s\* \*F\*e\*r\*a\*l\* \*P\*u\*f\*f\*y\* \*P\*a\*w\*](../attachments/Feral Canine Paws/WolfskinStudios Feral Puffy Paw/image-01.png)
 
 ---
 
@@ -94,7 +94,7 @@ Intermediate to advanced pattern!
 
 [https://www.youtube.com/watch?v=MXiYc9-fLNM](https://www.youtube.com/watch?v=MXiYc9-fLNM "smartCard-inline")
 
-![\*S\*k\*y\*e\*h\*i\*g\*h\*S\*t\*u\*d\*i\*o\*s\* \*F\*e\*r\*a\*l\* \*P\*a\*w\*s\*](<../attachments/Feral Canine Paws/SkyehighStudios Feral Paws/image-01.png>)
+![\*S\*k\*y\*e\*h\*i\*g\*h\*S\*t\*u\*d\*i\*o\*s\* \*F\*e\*r\*a\*l\* \*P\*a\*w\*s\*](../attachments/Feral Canine Paws/SkyehighStudios Feral Paws/image-01.png)
 
 ---
 
@@ -108,6 +108,6 @@ Intermediate to advanced pattern!
 
 [https://www.youtube.com/watch?v=OEm1-GqDgPs](https://www.youtube.com/watch?v=OEm1-GqDgPs "smartCard-inline")
 
-![\*S\*p\*i\*l\*t\*G\*r\*a\*p\*e\* \*F\*e\*r\*a\*l\* \*P\*a\*w\*s\*](<../attachments/Feral Canine Paws/SpiltGrape Feral Paws/image-01.webp>)
+![\*S\*p\*i\*l\*t\*G\*r\*a\*p\*e\* \*F\*e\*r\*a\*l\* \*P\*a\*w\*s\*](../attachments/Feral Canine Paws/SpiltGrape Feral Paws/image-01.webp)
 
 ---

@@ -16,11 +16,11 @@ Just the pattern NO INSTRUCTIONS:
 
 [https://ko-fi.com/s/e6c5ebc0cb](https://ko-fi.com/s/e6c5ebc0cb "smartCard-inline")
 
-![\*(\*F\*R\*E\*E\*)\* \*F\*o\*x\*F\*i\*r\*e\* \*F\*a\*n\*t\*a\*s\*y\* \*F\*e\*r\*a\*l\* \*C\*a\*n\*i\*n\*e\* \*S\*l\*i\*m\* \*P\*a\*w\*s\*](<../attachments/Canine & Generic Feet Paws/(FREE) FoxFire Fantasy Feral Canine Slim Paws/image-01.png>)
+![\*(\*F\*R\*E\*E\*)\* \*F\*o\*x\*F\*i\*r\*e\* \*F\*a\*n\*t\*a\*s\*y\* \*F\*e\*r\*a\*l\* \*C\*a\*n\*i\*n\*e\* \*S\*l\*i\*m\* \*P\*a\*w\*s\*](../attachments/Canine & Generic Feet Paws/(FREE) FoxFire Fantasy Feral Canine Slim Paws/image-01.png)
 
-![\*(\*F\*R\*E\*E\*)\* \*F\*o\*x\*F\*i\*r\*e\* \*F\*a\*n\*t\*a\*s\*y\* \*F\*e\*r\*a\*l\* \*C\*a\*n\*i\*n\*e\* \*S\*l\*i\*m\* \*P\*a\*w\*s\*](<../attachments/Canine & Generic Feet Paws/(FREE) FoxFire Fantasy Feral Canine Slim Paws/image-02.png>)
+![\*(\*F\*R\*E\*E\*)\* \*F\*o\*x\*F\*i\*r\*e\* \*F\*a\*n\*t\*a\*s\*y\* \*F\*e\*r\*a\*l\* \*C\*a\*n\*i\*n\*e\* \*S\*l\*i\*m\* \*P\*a\*w\*s\*](../attachments/Canine & Generic Feet Paws/(FREE) FoxFire Fantasy Feral Canine Slim Paws/image-02.png)
 
-![\*(\*F\*R\*E\*E\*)\* \*F\*o\*x\*F\*i\*r\*e\* \*F\*a\*n\*t\*a\*s\*y\* \*F\*e\*r\*a\*l\* \*C\*a\*n\*i\*n\*e\* \*S\*l\*i\*m\* \*P\*a\*w\*s\*](<../attachments/Canine & Generic Feet Paws/(FREE) FoxFire Fantasy Feral Canine Slim Paws/image-03.png>)
+![\*(\*F\*R\*E\*E\*)\* \*F\*o\*x\*F\*i\*r\*e\* \*F\*a\*n\*t\*a\*s\*y\* \*F\*e\*r\*a\*l\* \*C\*a\*n\*i\*n\*e\* \*S\*l\*i\*m\* \*P\*a\*w\*s\*](../attachments/Canine & Generic Feet Paws/(FREE) FoxFire Fantasy Feral Canine Slim Paws/image-03.png)
 
 ---
 
@@ -30,7 +30,7 @@ Just the pattern NO INSTRUCTIONS:
 
 [https://www.patreon.com/posts/37800176](https://www.patreon.com/posts/37800176 "smartCard-inline")
 
-![\*(\*F\*R\*E\*E\*)\* \*F\*r\*e\*a\*k\*h\*o\*u\*n\*d\* \*S\*o\*c\*k\*p\*a\*w\*](<../attachments/Canine & Generic Feet Paws/(FREE) Freakhound Sockpaw/image-01.png>)
+![\*(\*F\*R\*E\*E\*)\* \*F\*r\*e\*a\*k\*h\*o\*u\*n\*d\* \*S\*o\*c\*k\*p\*a\*w\*](../attachments/Canine & Generic Feet Paws/(FREE) Freakhound Sockpaw/image-01.png)
 
 ---
 
@@ -40,7 +40,7 @@ Just the pattern NO INSTRUCTIONS:
 
 [https://ko-fi.com/s/620b6f6f93](https://ko-fi.com/s/620b6f6f93 "smartCard-inline")
 
-![\*F\*o\*x\*F\*i\*r\*e\* \*F\*a\*n\*t\*a\*s\*y\* \*F\*o\*x\* \*F\*o\*o\*t\* \*P\*a\*t\*t\*e\*r\*n\*](<../attachments/Canine & Generic Feet Paws/FoxFire Fantasy Fox Foot Pattern/image-01.png>)
+![\*F\*o\*x\*F\*i\*r\*e\* \*F\*a\*n\*t\*a\*s\*y\* \*F\*o\*x\* \*F\*o\*o\*t\* \*P\*a\*t\*t\*e\*r\*n\*](../attachments/Canine & Generic Feet Paws/FoxFire Fantasy Fox Foot Pattern/image-01.png)
 
 ---
 
@@ -50,7 +50,7 @@ Just the pattern NO INSTRUCTIONS:
 
 [https://yellowfr3ak.gumroad.com/l/gOXUw](https://yellowfr3ak.gumroad.com/l/gOXUw "smartCard-inline")
 
-![\*F\*r\*e\*a\*k\*h\*o\*u\*n\*d\* \*S\*o\*c\*k\* \*P\*a\*w\*](<../attachments/Canine & Generic Feet Paws/Freakhound Sock Paw/image-01.png>)
+![\*F\*r\*e\*a\*k\*h\*o\*u\*n\*d\* \*S\*o\*c\*k\* \*P\*a\*w\*](../attachments/Canine & Generic Feet Paws/Freakhound Sock Paw/image-01.png)
 
 ---
 
@@ -62,7 +62,7 @@ Just the pattern NO INSTRUCTIONS:
 
 [https://www.etsy.com/ca/listing/639864906/pattern-and-tutorial-fursuit-plantigrade](https://www.etsy.com/ca/listing/639864906/pattern-and-tutorial-fursuit-plantigrade "smartCard-inline")
 
-![\*M\*a\*t\*r\*i\*c\*e\*s\* \*P\*l\*a\*n\*t\*i\*F\*o\*o\*t\*p\*a\*w\*](<../attachments/Canine & Generic Feet Paws/Matrices PlantiFootpaw/image-01.png>)
+![\*M\*a\*t\*r\*i\*c\*e\*s\* \*P\*l\*a\*n\*t\*i\*F\*o\*o\*t\*p\*a\*w\*](../attachments/Canine & Generic Feet Paws/Matrices PlantiFootpaw/image-01.png)
 
 ---
 
@@ -76,9 +76,9 @@ YaBoiLuke Suits
 
 [https://www.etsy.com/ca/listing/1103588238/toony-footpaw-fursuit-pattern-pdf](https://www.etsy.com/ca/listing/1103588238/toony-footpaw-fursuit-pattern-pdf "smartCard-inline")
 
-![\*Y\*B\*L\* \*S\*u\*i\*t\*s\* \*P\*u\*f\*f\*y\* \*F\*o\*o\*t\*p\*a\*w\*](<../attachments/Canine & Generic Feet Paws/YBL Suits Puffy Footpaw/image-01.png>)
+![\*Y\*B\*L\* \*S\*u\*i\*t\*s\* \*P\*u\*f\*f\*y\* \*F\*o\*o\*t\*p\*a\*w\*](../attachments/Canine & Generic Feet Paws/YBL Suits Puffy Footpaw/image-01.png)
 
-![\*Y\*B\*L\* \*S\*u\*i\*t\*s\* \*P\*u\*f\*f\*y\* \*F\*o\*o\*t\*p\*a\*w\*](<../attachments/Canine & Generic Feet Paws/YBL Suits Puffy Footpaw/image-02.png>)
+![\*Y\*B\*L\* \*S\*u\*i\*t\*s\* \*P\*u\*f\*f\*y\* \*F\*o\*o\*t\*p\*a\*w\*](../attachments/Canine & Generic Feet Paws/YBL Suits Puffy Footpaw/image-02.png)
 
 ---
 
@@ -90,9 +90,9 @@ YaBoiLuke Suits
 
 [https://www.etsy.com/ca/listing/971364183/digigrade-fursuit-feetpaw-pattern-pdf](https://www.etsy.com/ca/listing/971364183/digigrade-fursuit-feetpaw-pattern-pdf "smartCard-inline")
 
-![\*S\*p\*i\*l\*t\*G\*r\*a\*p\*e\*S\*o\*d\*a\* \*D\*i\*g\*i\* \*F\*e\*e\*t\*p\*a\*w\*s\* \*V\*1\*](<../attachments/Canine & Generic Feet Paws/SpiltGrapeSoda Digi Feetpaws V1/image-01.png>)
+![\*S\*p\*i\*l\*t\*G\*r\*a\*p\*e\*S\*o\*d\*a\* \*D\*i\*g\*i\* \*F\*e\*e\*t\*p\*a\*w\*s\* \*V\*1\*](../attachments/Canine & Generic Feet Paws/SpiltGrapeSoda Digi Feetpaws V1/image-01.png)
 
-![\*S\*p\*i\*l\*t\*G\*r\*a\*p\*e\*S\*o\*d\*a\* \*D\*i\*g\*i\* \*F\*e\*e\*t\*p\*a\*w\*s\* \*V\*1\*](<../attachments/Canine & Generic Feet Paws/SpiltGrapeSoda Digi Feetpaws V1/image-02.png>)
+![\*S\*p\*i\*l\*t\*G\*r\*a\*p\*e\*S\*o\*d\*a\* \*D\*i\*g\*i\* \*F\*e\*e\*t\*p\*a\*w\*s\* \*V\*1\*](../attachments/Canine & Generic Feet Paws/SpiltGrapeSoda Digi Feetpaws V1/image-02.png)
 
 ---
 
@@ -104,11 +104,11 @@ YaBoiLuke Suits
 
 [https://www.etsy.com/ca/listing/1669833867/digigrade-20-fursuit-feetpaw-indoor-and](https://www.etsy.com/ca/listing/1669833867/digigrade-20-fursuit-feetpaw-indoor-and "smartCard-inline")
 
-![\*S\*p\*i\*l\*t\*G\*r\*a\*p\*e\*S\*o\*d\*a\* \*D\*i\*g\*i\* \*V\*2\* \*I\*n\*d\*o\*o\*r\* \*+\* \*O\*u\*t\*d\*o\*o\*r\*](<../attachments/Canine & Generic Feet Paws/SpiltGrapeSoda Digi V2 Indoor + Outdoor/image-01.jpg>)
+![\*S\*p\*i\*l\*t\*G\*r\*a\*p\*e\*S\*o\*d\*a\* \*D\*i\*g\*i\* \*V\*2\* \*I\*n\*d\*o\*o\*r\* \*+\* \*O\*u\*t\*d\*o\*o\*r\*](../attachments/Canine & Generic Feet Paws/SpiltGrapeSoda Digi V2 Indoor + Outdoor/image-01.jpg)
 
-![\*S\*p\*i\*l\*t\*G\*r\*a\*p\*e\*S\*o\*d\*a\* \*D\*i\*g\*i\* \*V\*2\* \*I\*n\*d\*o\*o\*r\* \*+\* \*O\*u\*t\*d\*o\*o\*r\*](<../attachments/Canine & Generic Feet Paws/SpiltGrapeSoda Digi V2 Indoor + Outdoor/image-02.jpg>)
+![\*S\*p\*i\*l\*t\*G\*r\*a\*p\*e\*S\*o\*d\*a\* \*D\*i\*g\*i\* \*V\*2\* \*I\*n\*d\*o\*o\*r\* \*+\* \*O\*u\*t\*d\*o\*o\*r\*](../attachments/Canine & Generic Feet Paws/SpiltGrapeSoda Digi V2 Indoor + Outdoor/image-02.jpg)
 
-![\*S\*p\*i\*l\*t\*G\*r\*a\*p\*e\*S\*o\*d\*a\* \*D\*i\*g\*i\* \*V\*2\* \*I\*n\*d\*o\*o\*r\* \*+\* \*O\*u\*t\*d\*o\*o\*r\*](<../attachments/Canine & Generic Feet Paws/SpiltGrapeSoda Digi V2 Indoor + Outdoor/image-03.jpg>)
+![\*S\*p\*i\*l\*t\*G\*r\*a\*p\*e\*S\*o\*d\*a\* \*D\*i\*g\*i\* \*V\*2\* \*I\*n\*d\*o\*o\*r\* \*+\* \*O\*u\*t\*d\*o\*o\*r\*](../attachments/Canine & Generic Feet Paws/SpiltGrapeSoda Digi V2 Indoor + Outdoor/image-03.jpg)
 
 ---
 
@@ -120,9 +120,9 @@ YaBoiLuke Suits
 
 [https://www.etsy.com/ca/listing/1059368688/plantigrade-fursuit-feetpaw-pattern-pdf](https://www.etsy.com/ca/listing/1059368688/plantigrade-fursuit-feetpaw-pattern-pdf "smartCard-inline")
 
-![\*S\*p\*i\*l\*t\*G\*r\*a\*p\*e\*S\*o\*d\*a\* \*P\*l\*a\*n\*t\*i\* \*V\*1\*](<../attachments/Canine & Generic Feet Paws/SpiltGrapeSoda Planti V1/image-01.png>)
+![\*S\*p\*i\*l\*t\*G\*r\*a\*p\*e\*S\*o\*d\*a\* \*P\*l\*a\*n\*t\*i\* \*V\*1\*](../attachments/Canine & Generic Feet Paws/SpiltGrapeSoda Planti V1/image-01.png)
 
-![\*S\*p\*i\*l\*t\*G\*r\*a\*p\*e\*S\*o\*d\*a\* \*P\*l\*a\*n\*t\*i\* \*V\*1\*](<../attachments/Canine & Generic Feet Paws/SpiltGrapeSoda Planti V1/image-02.png>)
+![\*S\*p\*i\*l\*t\*G\*r\*a\*p\*e\*S\*o\*d\*a\* \*P\*l\*a\*n\*t\*i\* \*V\*1\*](../attachments/Canine & Generic Feet Paws/SpiltGrapeSoda Planti V1/image-02.png)
 
 ---
 
@@ -132,9 +132,9 @@ YaBoiLuke Suits
 
 [https://www.etsy.com/ca/listing/1059368688/plantigrade-fursuit-feetpaw-pattern-pdf](https://www.etsy.com/ca/listing/1059368688/plantigrade-fursuit-feetpaw-pattern-pdf "smartCard-inline")
 
-![\*S\*p\*i\*l\*t\*G\*r\*a\*p\*e\*S\*o\*d\*a\* \*P\*l\*a\*n\*t\*i\* \*V\*2\*](<../attachments/Canine & Generic Feet Paws/SpiltGrapeSoda Planti V2/image-01.webp>)
+![\*S\*p\*i\*l\*t\*G\*r\*a\*p\*e\*S\*o\*d\*a\* \*P\*l\*a\*n\*t\*i\* \*V\*2\*](../attachments/Canine & Generic Feet Paws/SpiltGrapeSoda Planti V2/image-01.webp)
 
-![\*S\*p\*i\*l\*t\*G\*r\*a\*p\*e\*S\*o\*d\*a\* \*P\*l\*a\*n\*t\*i\* \*V\*2\*](<../attachments/Canine & Generic Feet Paws/SpiltGrapeSoda Planti V2/image-02.jpg>)
+![\*S\*p\*i\*l\*t\*G\*r\*a\*p\*e\*S\*o\*d\*a\* \*P\*l\*a\*n\*t\*i\* \*V\*2\*](../attachments/Canine & Generic Feet Paws/SpiltGrapeSoda Planti V2/image-02.jpg)
 
 ---
 
@@ -144,9 +144,9 @@ YaBoiLuke Suits
 
 [https://www.etsy.com/ca/listing/1549700617/slim-fursuit-feetpaw-pattern-pdf](https://www.etsy.com/ca/listing/1549700617/slim-fursuit-feetpaw-pattern-pdf "smartCard-inline")
 
-![\*S\*p\*i\*l\*t\*G\*r\*a\*p\*e\*S\*o\*d\*a\* \*S\*l\*i\*m\* \*F\*e\*e\*t\* \*P\*a\*w\*](<../attachments/Canine & Generic Feet Paws/SpiltGrapeSoda Slim Feet Paw/image-01.png>)
+![\*S\*p\*i\*l\*t\*G\*r\*a\*p\*e\*S\*o\*d\*a\* \*S\*l\*i\*m\* \*F\*e\*e\*t\* \*P\*a\*w\*](../attachments/Canine & Generic Feet Paws/SpiltGrapeSoda Slim Feet Paw/image-01.png)
 
-![\*S\*p\*i\*l\*t\*G\*r\*a\*p\*e\*S\*o\*d\*a\* \*S\*l\*i\*m\* \*F\*e\*e\*t\* \*P\*a\*w\*](<../attachments/Canine & Generic Feet Paws/SpiltGrapeSoda Slim Feet Paw/image-02.png>)
+![\*S\*p\*i\*l\*t\*G\*r\*a\*p\*e\*S\*o\*d\*a\* \*S\*l\*i\*m\* \*F\*e\*e\*t\* \*P\*a\*w\*](../attachments/Canine & Generic Feet Paws/SpiltGrapeSoda Slim Feet Paw/image-02.png)
 
 ---
 
@@ -156,11 +156,11 @@ YaBoiLuke Suits
 
 [https://www.etsy.com/ca/listing/1139118218/slim-sockpawfeetpaw-pattern-digital](https://www.etsy.com/ca/listing/1139118218/slim-sockpawfeetpaw-pattern-digital "smartCard-inline")
 
-![\*P\*s\*e\*u\*d\*o\*c\*a\*n\*i\*d\* \*S\*l\*i\*m\* \*P\*l\*a\*n\*t\*i\* \*F\*e\*e\*t\*/\*S\*o\*c\*k\*p\*a\*w\*](<../attachments/Canine & Generic Feet Paws/Pseudocanid Slim Planti FeetSockpaw/image-01.png>)
+![\*P\*s\*e\*u\*d\*o\*c\*a\*n\*i\*d\* \*S\*l\*i\*m\* \*P\*l\*a\*n\*t\*i\* \*F\*e\*e\*t\*/\*S\*o\*c\*k\*p\*a\*w\*](../attachments/Canine & Generic Feet Paws/Pseudocanid Slim Planti FeetSockpaw/image-01.png)
 
-![\*P\*s\*e\*u\*d\*o\*c\*a\*n\*i\*d\* \*S\*l\*i\*m\* \*P\*l\*a\*n\*t\*i\* \*F\*e\*e\*t\*/\*S\*o\*c\*k\*p\*a\*w\*](<../attachments/Canine & Generic Feet Paws/Pseudocanid Slim Planti FeetSockpaw/image-02.png>)
+![\*P\*s\*e\*u\*d\*o\*c\*a\*n\*i\*d\* \*S\*l\*i\*m\* \*P\*l\*a\*n\*t\*i\* \*F\*e\*e\*t\*/\*S\*o\*c\*k\*p\*a\*w\*](../attachments/Canine & Generic Feet Paws/Pseudocanid Slim Planti FeetSockpaw/image-02.png)
 
-![\*P\*s\*e\*u\*d\*o\*c\*a\*n\*i\*d\* \*S\*l\*i\*m\* \*P\*l\*a\*n\*t\*i\* \*F\*e\*e\*t\*/\*S\*o\*c\*k\*p\*a\*w\*](<../attachments/Canine & Generic Feet Paws/Pseudocanid Slim Planti FeetSockpaw/image-03.png>)
+![\*P\*s\*e\*u\*d\*o\*c\*a\*n\*i\*d\* \*S\*l\*i\*m\* \*P\*l\*a\*n\*t\*i\* \*F\*e\*e\*t\*/\*S\*o\*c\*k\*p\*a\*w\*](../attachments/Canine & Generic Feet Paws/Pseudocanid Slim Planti FeetSockpaw/image-03.png)
 
 ---
 
@@ -172,11 +172,11 @@ YaBoiLuke Suits
 
 [https://www.youtube.com/watch?v=uwKIbc0KVLM](https://www.youtube.com/watch?v=uwKIbc0KVLM "smartCard-inline")
 
-![\*P\*s\*e\*u\*d\*o\*c\*a\*n\*i\*d\* \*S\*t\*o\*m\*p\*y\* \*S\*o\*c\*k\*/\*F\*e\*e\*t\*p\*a\*w\*s\*](<../attachments/Canine & Generic Feet Paws/Pseudocanid Stompy SockFeetpaws/image-01.png>)
+![\*P\*s\*e\*u\*d\*o\*c\*a\*n\*i\*d\* \*S\*t\*o\*m\*p\*y\* \*S\*o\*c\*k\*/\*F\*e\*e\*t\*p\*a\*w\*s\*](../attachments/Canine & Generic Feet Paws/Pseudocanid Stompy SockFeetpaws/image-01.png)
 
-![\*P\*s\*e\*u\*d\*o\*c\*a\*n\*i\*d\* \*S\*t\*o\*m\*p\*y\* \*S\*o\*c\*k\*/\*F\*e\*e\*t\*p\*a\*w\*s\*](<../attachments/Canine & Generic Feet Paws/Pseudocanid Stompy SockFeetpaws/image-02.png>)
+![\*P\*s\*e\*u\*d\*o\*c\*a\*n\*i\*d\* \*S\*t\*o\*m\*p\*y\* \*S\*o\*c\*k\*/\*F\*e\*e\*t\*p\*a\*w\*s\*](../attachments/Canine & Generic Feet Paws/Pseudocanid Stompy SockFeetpaws/image-02.png)
 
-![\*P\*s\*e\*u\*d\*o\*c\*a\*n\*i\*d\* \*S\*t\*o\*m\*p\*y\* \*S\*o\*c\*k\*/\*F\*e\*e\*t\*p\*a\*w\*s\*](<../attachments/Canine & Generic Feet Paws/Pseudocanid Stompy SockFeetpaws/image-03.png>)
+![\*P\*s\*e\*u\*d\*o\*c\*a\*n\*i\*d\* \*S\*t\*o\*m\*p\*y\* \*S\*o\*c\*k\*/\*F\*e\*e\*t\*p\*a\*w\*s\*](../attachments/Canine & Generic Feet Paws/Pseudocanid Stompy SockFeetpaws/image-03.png)
 
 ---
 
@@ -186,7 +186,7 @@ YaBoiLuke Suits
 
 [https://www.etsy.com/ca/listing/1001219718/fleece-sockpaw-pattern-and-tutorial](https://www.etsy.com/ca/listing/1001219718/fleece-sockpaw-pattern-and-tutorial "smartCard-inline")
 
-![\*A\*p\*o\*x\*o\*n\* \*I\*n\*d\*u\*s\*t\*r\*i\*e\*s\* \*S\*l\*i\*m\* \*F\*l\*e\*e\*c\*e\* \*S\*o\*c\*k\*p\*a\*w\*](<../attachments/Canine & Generic Feet Paws/Apoxon Industries Slim Fleece Sockpaw/image-01.png>)
+![\*A\*p\*o\*x\*o\*n\* \*I\*n\*d\*u\*s\*t\*r\*i\*e\*s\* \*S\*l\*i\*m\* \*F\*l\*e\*e\*c\*e\* \*S\*o\*c\*k\*p\*a\*w\*](../attachments/Canine & Generic Feet Paws/Apoxon Industries Slim Fleece Sockpaw/image-01.png)
 
 ---
 
@@ -198,9 +198,9 @@ YaBoiLuke Suits
 
 [https://www.youtube.com/playlist?list=PLLY8iOf8Yzs1VfpfktaPsLZrz-Lcq8iN2](https://www.youtube.com/playlist?list=PLLY8iOf8Yzs1VfpfktaPsLZrz-Lcq8iN2 "smartCard-inline")
 
-![\*F\*u\*r\*S\*m\*o\*o\*t\*h\*i\*e\* \*F\*o\*o\*t\*p\*a\*w\* \*P\*a\*t\*t\*e\*r\*n\*](<../attachments/Canine & Generic Feet Paws/FurSmoothie Footpaw Pattern/image-01.webp>)
+![\*F\*u\*r\*S\*m\*o\*o\*t\*h\*i\*e\* \*F\*o\*o\*t\*p\*a\*w\* \*P\*a\*t\*t\*e\*r\*n\*](../attachments/Canine & Generic Feet Paws/FurSmoothie Footpaw Pattern/image-01.webp)
 
-![\*F\*u\*r\*S\*m\*o\*o\*t\*h\*i\*e\* \*F\*o\*o\*t\*p\*a\*w\* \*P\*a\*t\*t\*e\*r\*n\*](<../attachments/Canine & Generic Feet Paws/FurSmoothie Footpaw Pattern/image-02.webp>)
+![\*F\*u\*r\*S\*m\*o\*o\*t\*h\*i\*e\* \*F\*o\*o\*t\*p\*a\*w\* \*P\*a\*t\*t\*e\*r\*n\*](../attachments/Canine & Generic Feet Paws/FurSmoothie Footpaw Pattern/image-02.webp)
 
 ---
 
@@ -210,9 +210,9 @@ YaBoiLuke Suits
 
 [https://www.etsy.com/ca/listing/1133033536/mochi-indoor-sockpaws](https://www.etsy.com/ca/listing/1133033536/mochi-indoor-sockpaws "smartCard-inline")
 
-![\*F\*u\*r\*S\*m\*o\*o\*t\*h\*i\*e\* \*M\*o\*c\*h\*i\* \*I\*n\*d\*o\*o\*r\* \*S\*o\*c\*k\*p\*a\*w\*s\*](<../attachments/Canine & Generic Feet Paws/FurSmoothie Mochi Indoor Sockpaws/image-01.png>)
+![\*F\*u\*r\*S\*m\*o\*o\*t\*h\*i\*e\* \*M\*o\*c\*h\*i\* \*I\*n\*d\*o\*o\*r\* \*S\*o\*c\*k\*p\*a\*w\*s\*](../attachments/Canine & Generic Feet Paws/FurSmoothie Mochi Indoor Sockpaws/image-01.png)
 
-![\*F\*u\*r\*S\*m\*o\*o\*t\*h\*i\*e\* \*M\*o\*c\*h\*i\* \*I\*n\*d\*o\*o\*r\* \*S\*o\*c\*k\*p\*a\*w\*s\*](<../attachments/Canine & Generic Feet Paws/FurSmoothie Mochi Indoor Sockpaws/image-02.png>)
+![\*F\*u\*r\*S\*m\*o\*o\*t\*h\*i\*e\* \*M\*o\*c\*h\*i\* \*I\*n\*d\*o\*o\*r\* \*S\*o\*c\*k\*p\*a\*w\*s\*](../attachments/Canine & Generic Feet Paws/FurSmoothie Mochi Indoor Sockpaws/image-02.png)
 
 ---
 
@@ -222,9 +222,9 @@ YaBoiLuke Suits
 
 [https://www.etsy.com/ca/listing/852343056/kemocubes-fursuit-slim-sock-paws-pattern](https://www.etsy.com/ca/listing/852343056/kemocubes-fursuit-slim-sock-paws-pattern "smartCard-inline")
 
-![\*K\*e\*m\*o\*C\*u\*b\*e\* \*S\*l\*i\*m\* \*M\*o\*c\*h\*i\* \*S\*o\*c\*k\*p\*a\*w\*](<../attachments/Canine & Generic Feet Paws/KemoCube Slim Mochi Sockpaw/image-01.png>)
+![\*K\*e\*m\*o\*C\*u\*b\*e\* \*S\*l\*i\*m\* \*M\*o\*c\*h\*i\* \*S\*o\*c\*k\*p\*a\*w\*](../attachments/Canine & Generic Feet Paws/KemoCube Slim Mochi Sockpaw/image-01.png)
 
-![\*K\*e\*m\*o\*C\*u\*b\*e\* \*S\*l\*i\*m\* \*M\*o\*c\*h\*i\* \*S\*o\*c\*k\*p\*a\*w\*](<../attachments/Canine & Generic Feet Paws/KemoCube Slim Mochi Sockpaw/image-02.png>)
+![\*K\*e\*m\*o\*C\*u\*b\*e\* \*S\*l\*i\*m\* \*M\*o\*c\*h\*i\* \*S\*o\*c\*k\*p\*a\*w\*](../attachments/Canine & Generic Feet Paws/KemoCube Slim Mochi Sockpaw/image-02.png)
 
 ---
 
@@ -236,11 +236,11 @@ YaBoiLuke Suits
 
 [https://www.youtube.com/watch?v=N9V1Z4zKZSc](https://www.youtube.com/watch?v=N9V1Z4zKZSc "smartCard-inline")
 
-![\*N\*e\*f\*f\*e\*r\*t\*i\*t\*y\* \*D\*i\*g\*i\* \*P\*a\*w\*s\*](<../attachments/Canine & Generic Feet Paws/Neffertity Digi Paws/image-01.png>)
+![\*N\*e\*f\*f\*e\*r\*t\*i\*t\*y\* \*D\*i\*g\*i\* \*P\*a\*w\*s\*](../attachments/Canine & Generic Feet Paws/Neffertity Digi Paws/image-01.png)
 
-![\*N\*e\*f\*f\*e\*r\*t\*i\*t\*y\* \*D\*i\*g\*i\* \*P\*a\*w\*s\*](<../attachments/Canine & Generic Feet Paws/Neffertity Digi Paws/image-02.png>)
+![\*N\*e\*f\*f\*e\*r\*t\*i\*t\*y\* \*D\*i\*g\*i\* \*P\*a\*w\*s\*](../attachments/Canine & Generic Feet Paws/Neffertity Digi Paws/image-02.png)
 
-![\*N\*e\*f\*f\*e\*r\*t\*i\*t\*y\* \*D\*i\*g\*i\* \*P\*a\*w\*s\*](<../attachments/Canine & Generic Feet Paws/Neffertity Digi Paws/image-03.png>)
+![\*N\*e\*f\*f\*e\*r\*t\*i\*t\*y\* \*D\*i\*g\*i\* \*P\*a\*w\*s\*](../attachments/Canine & Generic Feet Paws/Neffertity Digi Paws/image-03.png)
 
 ---
 
@@ -254,7 +254,7 @@ YaBoiLuke Suits
 
 [https://www.youtube.com/watch?v=5h5b1grqWFk](https://www.youtube.com/watch?v=5h5b1grqWFk "smartCard-inline")
 
-![\*M\*u\*g\*i\*w\*a\*r\*a\* \*S\*t\*o\*m\*p\*y\* \*S\*o\*c\*k\* \*P\*a\*w\*s\*](<../attachments/Canine & Generic Feet Paws/Mugiwara Stompy Sock Paws/image-01.png>)
+![\*M\*u\*g\*i\*w\*a\*r\*a\* \*S\*t\*o\*m\*p\*y\* \*S\*o\*c\*k\* \*P\*a\*w\*s\*](../attachments/Canine & Generic Feet Paws/Mugiwara Stompy Sock Paws/image-01.png)
 
 ---
 
@@ -268,7 +268,7 @@ YaBoiLuke Suits
 
 [https://www.youtube.com/watch?v=5h5b1grqWFk](https://www.youtube.com/watch?v=5h5b1grqWFk "smartCard-inline")
 
-![\*M\*u\*g\*i\*w\*a\*r\*a\* \*V\*2\* \*S\*t\*o\*m\*p\*y\* \*S\*o\*c\*k\* \*P\*a\*w\*s\*](<../attachments/Canine & Generic Feet Paws/Mugiwara V2 Stompy Sock Paws/image-01.webp>)
+![\*M\*u\*g\*i\*w\*a\*r\*a\* \*V\*2\* \*S\*t\*o\*m\*p\*y\* \*S\*o\*c\*k\* \*P\*a\*w\*s\*](../attachments/Canine & Generic Feet Paws/Mugiwara V2 Stompy Sock Paws/image-01.webp)
 
 ---
 
@@ -282,7 +282,7 @@ YaBoiLuke Suits
 
 [https://www.youtube.com/watch?v=5h5b1grqWFk](https://www.youtube.com/watch?v=5h5b1grqWFk "smartCard-inline")
 
-![\*M\*u\*g\*i\*w\*a\*r\*a\* \*S\*o\*c\*k\* \*P\*a\*w\*s\*](<../attachments/Canine & Generic Feet Paws/Mugiwara Sock Paws/image-01.png>)
+![\*M\*u\*g\*i\*w\*a\*r\*a\* \*S\*o\*c\*k\* \*P\*a\*w\*s\*](../attachments/Canine & Generic Feet Paws/Mugiwara Sock Paws/image-01.png)
 
 ---
 
@@ -294,7 +294,7 @@ YaBoiLuke Suits
 
 comes with 2 toe styles
 
-![\*T\*w\*i\*l\*i\*g\*h\*t\*K\*n\*i\*g\*h\*t\*s\* \*D\*i\*g\*i\* \*S\*o\*c\*k\*p\*a\*w\*s\*](<../attachments/Canine & Generic Feet Paws/TwilightKnights Digi Sockpaws/image-01.jpg>)
+![\*T\*w\*i\*l\*i\*g\*h\*t\*K\*n\*i\*g\*h\*t\*s\* \*D\*i\*g\*i\* \*S\*o\*c\*k\*p\*a\*w\*s\*](../attachments/Canine & Generic Feet Paws/TwilightKnights Digi Sockpaws/image-01.jpg)
 
 ---
 
@@ -306,7 +306,7 @@ NO FUR PATTERN, just inner liner and foam patterns
 
 [https://www.etsy.com/ca/listing/1509221547/foam-feetpaw-tutorial-pattern-pdf](https://www.etsy.com/ca/listing/1509221547/foam-feetpaw-tutorial-pattern-pdf "smartCard-inline")
 
-![\*T\*w\*i\*l\*i\*g\*h\*t\*K\*n\*i\*g\*h\*t\*s\* \*F\*o\*a\*m\* \*F\*e\*e\*t\*p\*a\*w\*s\*](<../attachments/Canine & Generic Feet Paws/TwilightKnights Foam Feetpaws/image-01.png>)
+![\*T\*w\*i\*l\*i\*g\*h\*t\*K\*n\*i\*g\*h\*t\*s\* \*F\*o\*a\*m\* \*F\*e\*e\*t\*p\*a\*w\*s\*](../attachments/Canine & Generic Feet Paws/TwilightKnights Foam Feetpaws/image-01.png)
 
 ---
 
@@ -316,7 +316,7 @@ NO FUR PATTERN, just inner liner and foam patterns
 
 [https://www.etsy.com/ca/listing/1348480068/digi-feet-base-pattern](https://www.etsy.com/ca/listing/1348480068/digi-feet-base-pattern "smartCard-inline")
 
-![\*S\*a\*b\*e\*r\*W\*o\*l\*f\*S\*t\*u\*d\*i\*o\* \*D\*i\*g\*i\* \*F\*o\*a\*m\* \*F\*e\*e\*t\* \*P\*a\*t\*t\*e\*r\*n\*](<../attachments/Canine & Generic Feet Paws/SaberWolfStudio Digi Foam Feet Pattern/image-01.png>)
+![\*S\*a\*b\*e\*r\*W\*o\*l\*f\*S\*t\*u\*d\*i\*o\* \*D\*i\*g\*i\* \*F\*o\*a\*m\* \*F\*e\*e\*t\* \*P\*a\*t\*t\*e\*r\*n\*](../attachments/Canine & Generic Feet Paws/SaberWolfStudio Digi Foam Feet Pattern/image-01.png)
 
 ---
 
@@ -326,7 +326,7 @@ NO FUR PATTERN, just inner liner and foam patterns
 
 [https://www.etsy.com/ca/listing/1198683632/one-size-fits-most-fursuit-feet-straps](https://www.etsy.com/ca/listing/1198683632/one-size-fits-most-fursuit-feet-straps "smartCard-inline")
 
-![\*L\*o\*b\*i\*t\*o\*W\*o\*r\*k\*s\* \*F\*o\*o\*t\*p\*a\*w\* \*S\*T\*R\*A\*P\*S\*](<../attachments/Canine & Generic Feet Paws/LobitoWorks Footpaw STRAPS/image-01.png>)
+![\*L\*o\*b\*i\*t\*o\*W\*o\*r\*k\*s\* \*F\*o\*o\*t\*p\*a\*w\* \*S\*T\*R\*A\*P\*S\*](../attachments/Canine & Generic Feet Paws/LobitoWorks Footpaw STRAPS/image-01.png)
 
 ---
 
@@ -336,7 +336,7 @@ NO FUR PATTERN, just inner liner and foam patterns
 
 [https://www.etsy.com/ca/listing/889677544/fursuit-paw-liner-pattern-tutorial](https://www.etsy.com/ca/listing/889677544/fursuit-paw-liner-pattern-tutorial "smartCard-inline")
 
-![\*L\*o\*b\*i\*t\*o\*W\*o\*r\*k\*s\* \*F\*o\*o\*t\*p\*a\*w\* \*L\*I\*N\*E\*R\*](<../attachments/Canine & Generic Feet Paws/LobitoWorks Footpaw LINER/image-01.png>)
+![\*L\*o\*b\*i\*t\*o\*W\*o\*r\*k\*s\* \*F\*o\*o\*t\*p\*a\*w\* \*L\*I\*N\*E\*R\*](../attachments/Canine & Generic Feet Paws/LobitoWorks Footpaw LINER/image-01.png)
 
 ---
 
@@ -346,7 +346,7 @@ NO FUR PATTERN, just inner liner and foam patterns
 
 [https://www.etsy.com/ca/listing/1107961401/pdf-pattern-foundation-foot-liner-for](https://www.etsy.com/ca/listing/1107961401/pdf-pattern-foundation-foot-liner-for "smartCard-inline")
 
-![\*M\*i\*s\*s\*r\*a\*r\*s\* \*C\*r\*e\*a\*t\*u\*r\*e\*s\* \*F\*o\*u\*n\*d\*a\*t\*i\*o\*n\* \*F\*o\*o\*t\* \*L\*i\*n\*e\*r\* \*(\*1\*0\* \*s\*i\*z\*e\*s\*)\*](<../attachments/Canine & Generic Feet Paws/Missrars Creatures Foundation Foot Liner (10 sizes)/image-01.png>)
+![\*M\*i\*s\*s\*r\*a\*r\*s\* \*C\*r\*e\*a\*t\*u\*r\*e\*s\* \*F\*o\*u\*n\*d\*a\*t\*i\*o\*n\* \*F\*o\*o\*t\* \*L\*i\*n\*e\*r\* \*(\*1\*0\* \*s\*i\*z\*e\*s\*)\*](../attachments/Canine & Generic Feet Paws/Missrars Creatures Foundation Foot Liner (10 sizes)/image-01.png)
 
 ---
 
@@ -358,7 +358,7 @@ NO FUR PATTERN, just inner liner and foam patterns
 
 [https://www.etsy.com/ca/listing/653709457/premium-tutorial-creating-liners-and](https://www.etsy.com/ca/listing/653709457/premium-tutorial-creating-liners-and "smartCard-inline")
 
-![\*M\*a\*t\*r\*i\*c\*e\*s\* \*T\*u\*t\*o\*r\*i\*a\*l\* \*L\*i\*n\*e\*r\*s\* \*a\*n\*d\* \*S\*o\*l\*e\*s\* \*f\*o\*r\* \*S\*t\*u\*f\*f\*e\*d\* \*F\*e\*e\*t\*p\*a\*w\*s\*](<../attachments/Canine & Generic Feet Paws/Matrices Tutorial Liners and Soles for Stuffed Feetpaws/image-01.png>)
+![\*M\*a\*t\*r\*i\*c\*e\*s\* \*T\*u\*t\*o\*r\*i\*a\*l\* \*L\*i\*n\*e\*r\*s\* \*a\*n\*d\* \*S\*o\*l\*e\*s\* \*f\*o\*r\* \*S\*t\*u\*f\*f\*e\*d\* \*F\*e\*e\*t\*p\*a\*w\*s\*](../attachments/Canine & Generic Feet Paws/Matrices Tutorial Liners and Soles for Stuffed Feetpaws/image-01.png)
 
 ---
 
@@ -368,7 +368,7 @@ NO FUR PATTERN, just inner liner and foam patterns
 
 [https://www.etsy.com/ca/listing/1591350139/digi-toes-pattern](https://www.etsy.com/ca/listing/1591350139/digi-toes-pattern "smartCard-inline")
 
-![\*R\*i\*c\*o\*c\*h\*e\*t\*x\*c\*r\*a\*f\*t\*s\* \*D\*i\*g\*i\* \*T\*o\*e\*s\*](<../attachments/Canine & Generic Feet Paws/Ricochetxcrafts Digi Toes/image-01.png>)
+![\*R\*i\*c\*o\*c\*h\*e\*t\*x\*c\*r\*a\*f\*t\*s\* \*D\*i\*g\*i\* \*T\*o\*e\*s\*](../attachments/Canine & Generic Feet Paws/Ricochetxcrafts Digi Toes/image-01.png)
 
 ---
 
@@ -378,7 +378,7 @@ NO FUR PATTERN, just inner liner and foam patterns
 
 [https://www.etsy.com/ca/listing/1598862835/digi-fursuit-foot-pattern-and-short](https://www.etsy.com/ca/listing/1598862835/digi-fursuit-foot-pattern-and-short "smartCard-inline")
 
-![\*L\*i\*l\*y\*M\*o\*o\*n\*S\*u\*i\*t\*s\* \*D\*i\*g\*i\*t\* \*F\*e\*e\*t\*p\*a\*w\* \*P\*a\*t\*t\*e\*r\*n\*](<../attachments/Canine & Generic Feet Paws/LilyMoonSuits Digit Feetpaw Pattern/image-01.webp>)
+![\*L\*i\*l\*y\*M\*o\*o\*n\*S\*u\*i\*t\*s\* \*D\*i\*g\*i\*t\* \*F\*e\*e\*t\*p\*a\*w\* \*P\*a\*t\*t\*e\*r\*n\*](../attachments/Canine & Generic Feet Paws/LilyMoonSuits Digit Feetpaw Pattern/image-01.webp)
 
 ---
 
@@ -390,7 +390,7 @@ NO FUR PATTERN, just inner liner and foam patterns
 
 [https://www.youtube.com/watch?v=JI0ZZYt3fKk](https://www.youtube.com/watch?v=JI0ZZYt3fKk "smartCard-inline")
 
-![\*O\*l\*l\*y\*F\*u\*r\* \*D\*i\*g\*i\* \*F\*e\*e\*t\* \*P\*a\*w\* \*P\*a\*t\*t\*e\*r\*n\*](<../attachments/Canine & Generic Feet Paws/OllyFur Digi Feet Paw Pattern/image-01.png>)
+![\*O\*l\*l\*y\*F\*u\*r\* \*D\*i\*g\*i\* \*F\*e\*e\*t\* \*P\*a\*w\* \*P\*a\*t\*t\*e\*r\*n\*](../attachments/Canine & Generic Feet Paws/OllyFur Digi Feet Paw Pattern/image-01.png)
 
 ---
 
@@ -400,7 +400,7 @@ NO FUR PATTERN, just inner liner and foam patterns
 
 [https://musingwolfdog.gumroad.com/l/feetpawpattern](https://musingwolfdog.gumroad.com/l/feetpawpattern "smartCard-inline")
 
-![\*T\*e\*s\* \*F\*e\*e\*t\*p\*a\*w\*s\*](<../attachments/Canine & Generic Feet Paws/Tes Feetpaws/image-01.png>)
+![\*T\*e\*s\* \*F\*e\*e\*t\*p\*a\*w\*s\*](../attachments/Canine & Generic Feet Paws/Tes Feetpaws/image-01.png)
 
 ---
 
@@ -410,7 +410,7 @@ NO FUR PATTERN, just inner liner and foam patterns
 
 [https://www.etsy.com/ca/listing/1612971861/indoor-fursuit-feet-paws-pattern-digital](https://www.etsy.com/ca/listing/1612971861/indoor-fursuit-feet-paws-pattern-digital "‌")
 
-![\*O\*k\*t\*a\*v\*i\*a\*s\*C\*r\*e\*a\*t\*u\*r\*e\*s\* \*I\*n\*d\*o\*o\*r\* \*F\*e\*e\*t\*p\*a\*w\*s\*](<../attachments/Canine & Generic Feet Paws/OktaviasCreatures Indoor Feetpaws/image-01.jpg>)
+![\*O\*k\*t\*a\*v\*i\*a\*s\*C\*r\*e\*a\*t\*u\*r\*e\*s\* \*I\*n\*d\*o\*o\*r\* \*F\*e\*e\*t\*p\*a\*w\*s\*](../attachments/Canine & Generic Feet Paws/OktaviasCreatures Indoor Feetpaws/image-01.jpg)
 
 ---
 
@@ -422,7 +422,7 @@ NO FUR PATTERN, just inner liner and foam patterns
 
 [https://www.etsy.com/ca/listing/1551549366/digital-stompy-fursuit-feet-paws-pattern?click_key=bf1cedd895fd9634d4b79f777dbd43658791e087%3A1551549366&click_sum=e38e13a2&ref=shop_home_active_8&pro=1](https://www.etsy.com/ca/listing/1551549366/digital-stompy-fursuit-feet-paws-pattern?click_key=bf1cedd895fd9634d4b79f777dbd43658791e087%3A1551549366&click_sum=e38e13a2&ref=shop_home_active_8&pro=1 "smartCard-inline") [https://www.youtube.com/watch?v=0wFsKW_v77Q](https://www.youtube.com/watch?v=0wFsKW_v77Q "smartCard-inline")
 
-![\*M\*u\*g\*i\*w\*a\*r\*a\* \*S\*t\*o\*m\*p\*y\* \*F\*e\*e\*t\* \*P\*a\*w\*s\*](<../attachments/Canine & Generic Feet Paws/Mugiwara Stompy Feet Paws/image-01.jpg>)
+![\*M\*u\*g\*i\*w\*a\*r\*a\* \*S\*t\*o\*m\*p\*y\* \*F\*e\*e\*t\* \*P\*a\*w\*s\*](../attachments/Canine & Generic Feet Paws/Mugiwara Stompy Feet Paws/image-01.jpg)
 
 ---
 
@@ -436,7 +436,7 @@ NO FUR PATTERN, just inner liner and foam patterns
 
 [https://youtu.be/ydUnEkX9o7Q](https://youtu.be/ydUnEkX9o7Q "smartCard-inline")
 
-![\*M\*u\*g\*i\*w\*a\*r\*a\* \*D\*i\*g\*i\* \*F\*e\*e\*t\*p\*a\*w\*s\*](<../attachments/Canine & Generic Feet Paws/Mugiwara Digi Feetpaws/image-01.jpg>)
+![\*M\*u\*g\*i\*w\*a\*r\*a\* \*D\*i\*g\*i\* \*F\*e\*e\*t\*p\*a\*w\*s\*](../attachments/Canine & Generic Feet Paws/Mugiwara Digi Feetpaws/image-01.jpg)
 
 ---
 
@@ -446,7 +446,7 @@ NO FUR PATTERN, just inner liner and foam patterns
 
 [https://www.etsy.com/ca/listing/1651131817/paw-foot-pattern-for-eva-foam-a4-and-us](https://www.etsy.com/ca/listing/1651131817/paw-foot-pattern-for-eva-foam-a4-and-us "smartCard-inline")
 
-![\*T\*r\*i\*n\*e\*s\*T\*r\*e\*a\*s\*u\*r\*e\*s\* \*F\*o\*a\*m\* \*F\*e\*e\*t\* \*P\*a\*w\*s\*](<../attachments/Canine & Generic Feet Paws/TrinesTreasures Foam Feet Paws/image-01.jpg>)
+![\*T\*r\*i\*n\*e\*s\*T\*r\*e\*a\*s\*u\*r\*e\*s\* \*F\*o\*a\*m\* \*F\*e\*e\*t\* \*P\*a\*w\*s\*](../attachments/Canine & Generic Feet Paws/TrinesTreasures Foam Feet Paws/image-01.jpg)
 
 ---
 
@@ -460,7 +460,7 @@ NO FUR PATTERN, just inner liner and foam patterns
 
 [https://www.youtube.com/watch?v=SGfuphAGgi8](https://www.youtube.com/watch?v=SGfuphAGgi8 "smartCard-inline")
 
-![\*M\*u\*g\*i\*w\*a\*r\*a\* \*F\*o\*a\*m\* \*F\*e\*e\*t\*p\*a\*w\*s\*](<../attachments/Canine & Generic Feet Paws/Mugiwara Foam Feetpaws/image-01.jpg>)
+![\*M\*u\*g\*i\*w\*a\*r\*a\* \*F\*o\*a\*m\* \*F\*e\*e\*t\*p\*a\*w\*s\*](../attachments/Canine & Generic Feet Paws/Mugiwara Foam Feetpaws/image-01.jpg)
 
 ---
 
@@ -472,7 +472,7 @@ NO FUR PATTERN, just inner liner and foam patterns
 
 [https://youtu.be/jPWX4di-Lhk](https://youtu.be/jPWX4di-Lhk "smartCard-inline")
 
-![\*M\*u\*g\*i\*w\*a\*r\*a\* \*4\* \*T\*o\*e\*d\* \*D\*i\*g\*i\* \*F\*o\*a\*m\* \*F\*e\*e\*t\*](<../attachments/Canine & Generic Feet Paws/Mugiwara 4 Toed Digi Foam Feet/image-01.jpg>)
+![\*M\*u\*g\*i\*w\*a\*r\*a\* \*4\* \*T\*o\*e\*d\* \*D\*i\*g\*i\* \*F\*o\*a\*m\* \*F\*e\*e\*t\*](../attachments/Canine & Generic Feet Paws/Mugiwara 4 Toed Digi Foam Feet/image-01.jpg)
 
 ---
 
@@ -482,7 +482,7 @@ NO FUR PATTERN, just inner liner and foam patterns
 
 [https://www.etsy.com/ca/listing/1752574811/paw-shoe-cover-pattern-eva-foam-cosplay](https://www.etsy.com/ca/listing/1752574811/paw-shoe-cover-pattern-eva-foam-cosplay "‌")
 
-![\*P\*l\*e\*x\*i\*C\*o\*s\*p\*l\*a\*y\* \*P\*a\*w\* \*S\*h\*o\*e\* \*C\*o\*v\*e\*r\*](<../attachments/Canine & Generic Feet Paws/PlexiCosplay Paw Shoe Cover/image-01.webp>)
+![\*P\*l\*e\*x\*i\*C\*o\*s\*p\*l\*a\*y\* \*P\*a\*w\* \*S\*h\*o\*e\* \*C\*o\*v\*e\*r\*](../attachments/Canine & Generic Feet Paws/PlexiCosplay Paw Shoe Cover/image-01.webp)
 
 ---
 
@@ -492,7 +492,7 @@ NO FUR PATTERN, just inner liner and foam patterns
 
 [https://www.etsy.com/ca/listing/1782946115/digital-download-slim-digitigrade](https://www.etsy.com/ca/listing/1782946115/digital-download-slim-digitigrade "smartCard-inline")
 
-![\*R\*e\*d\*S\*e\*w\*s\*S\*h\*o\*p\* \*D\*i\*g\*i\* \*F\*e\*e\*t\*p\*a\*w\*s\*](<../attachments/Canine & Generic Feet Paws/RedSewsShop Digi Feetpaws/image-01.png>)
+![\*R\*e\*d\*S\*e\*w\*s\*S\*h\*o\*p\* \*D\*i\*g\*i\* \*F\*e\*e\*t\*p\*a\*w\*s\*](../attachments/Canine & Generic Feet Paws/RedSewsShop Digi Feetpaws/image-01.png)
 
 ---
 
@@ -506,7 +506,7 @@ Comes in 3 sizes
 
 [https://www.etsy.com/ca/listing/1519885189/fursuit-foot-paw-pattern-and-tutorial](https://www.etsy.com/ca/listing/1519885189/fursuit-foot-paw-pattern-and-tutorial "smartCard-inline")
 
-![\*C\*h\*a\*r\*r\*e\*d\* \*F\*u\*r\*s\*u\*i\*t\*s\* \*F\*o\*o\*t\* \*P\*a\*w\*](<../attachments/Canine & Generic Feet Paws/Charred Fursuits Foot Paw/image-01.webp>)
+![\*C\*h\*a\*r\*r\*e\*d\* \*F\*u\*r\*s\*u\*i\*t\*s\* \*F\*o\*o\*t\* \*P\*a\*w\*](../attachments/Canine & Generic Feet Paws/Charred Fursuits Foot Paw/image-01.webp)
 
 ---
 
@@ -516,7 +516,7 @@ Comes in 3 sizes
 
 [https://www.etsy.com/ca/listing/1903779709/pattern-full-digi-fursuit-feet](https://www.etsy.com/ca/listing/1903779709/pattern-full-digi-fursuit-feet "smartCard-inline")
 
-![\*T\*h\*i\*s\*t\*l\*e\*c\*r\*u\*x\* \*D\*i\*g\*i\* \*F\*e\*e\*t\* \*P\*a\*w\*](<../attachments/Canine & Generic Feet Paws/Thistlecrux Digi Feet Paw/image-01.png>)
+![\*T\*h\*i\*s\*t\*l\*e\*c\*r\*u\*x\* \*D\*i\*g\*i\* \*F\*e\*e\*t\* \*P\*a\*w\*](../attachments/Canine & Generic Feet Paws/Thistlecrux Digi Feet Paw/image-01.png)
 
 ---
 
@@ -526,7 +526,7 @@ Comes in 3 sizes
 
 [https://www.etsy.com/ca/listing/1833830702/ultra-slim-fursuit-sock-paw-pattern-and](https://www.etsy.com/ca/listing/1833830702/ultra-slim-fursuit-sock-paw-pattern-and "smartCard-inline")
 
-![\*R\*i\*t\*a\*F\*o\*x\*F\*u\*r\*s\*u\*i\*t\*s\* \*U\*l\*t\*r\*a\*S\*l\*i\*m\* \*P\*a\*w\*s\*](<../attachments/Canine & Generic Feet Paws/RitaFoxFursuits UltraSlim Paws/image-01.png>)
+![\*R\*i\*t\*a\*F\*o\*x\*F\*u\*r\*s\*u\*i\*t\*s\* \*U\*l\*t\*r\*a\*S\*l\*i\*m\* \*P\*a\*w\*s\*](../attachments/Canine & Generic Feet Paws/RitaFoxFursuits UltraSlim Paws/image-01.png)
 
 ---
 
@@ -538,7 +538,7 @@ Comes in 3 sizes
 
 Includes material list
 
-![\*T\*e\*a\*c\*u\*p\*L\*i\*o\*n\* \*F\*e\*e\*t\* \*P\*a\*w\*s\*](<../attachments/Canine & Generic Feet Paws/TeacupLion Feet Paws/image-01.png>)
+![\*T\*e\*a\*c\*u\*p\*L\*i\*o\*n\* \*F\*e\*e\*t\* \*P\*a\*w\*s\*](../attachments/Canine & Generic Feet Paws/TeacupLion Feet Paws/image-01.png)
 
 ---
 
@@ -548,7 +548,7 @@ Includes material list
 
 [https://www.flowerfurstudio.com/p/fursuit-feet-paws-pattern/](https://www.flowerfurstudio.com/p/fursuit-feet-paws-pattern/ "smartCard-inline")
 
-![\*F\*l\*o\*w\*e\*r\* \*F\*u\*r\* \*S\*t\*u\*d\*i\*o\* \*F\*e\*e\*t\* \*P\*a\*w\*s\*](<../attachments/Canine & Generic Feet Paws/Flower Fur Studio Feet Paws/image-01.png>)
+![\*F\*l\*o\*w\*e\*r\* \*F\*u\*r\* \*S\*t\*u\*d\*i\*o\* \*F\*e\*e\*t\* \*P\*a\*w\*s\*](../attachments/Canine & Generic Feet Paws/Flower Fur Studio Feet Paws/image-01.png)
 
 ---
 
@@ -562,7 +562,7 @@ Made to match this thigh padding:
 
 [https://www.etsy.com/ca/listing/4438634426/digigrade-leg-foam-padding-pattern](https://www.etsy.com/ca/listing/4438634426/digigrade-leg-foam-padding-pattern "smartCard-inline")
 
-![\*E\*t\*h\*e\*r\*e\*a\*l\*F\*u\*r\*s\*u\*i\*t\*s\* \*D\*i\*g\*i\* \*F\*e\*e\*t\*p\*a\*w\*s\*](<../attachments/Canine & Generic Feet Paws/EtherealFursuits Digi Feetpaws/image-01.webp>)
+![\*E\*t\*h\*e\*r\*e\*a\*l\*F\*u\*r\*s\*u\*i\*t\*s\* \*D\*i\*g\*i\* \*F\*e\*e\*t\*p\*a\*w\*s\*](../attachments/Canine & Generic Feet Paws/EtherealFursuits Digi Feetpaws/image-01.webp)
 
 ---
 
@@ -572,7 +572,7 @@ Made to match this thigh padding:
 
 [https://www.etsy.com/ca/listing/1867168737/slim-plantigrade-fursuit-feetpaw-pattern](https://www.etsy.com/ca/listing/1867168737/slim-plantigrade-fursuit-feetpaw-pattern "smartCard-inline")
 
-![\*G\*e\*k\*n\*o\*m\*e\* \*S\*l\*i\*m\* \*P\*l\*a\*n\*t\*i\*g\*r\*a\*d\*e\* \*F\*e\*e\*t\* \*P\*a\*w\*s\*](<../attachments/Canine & Generic Feet Paws/Geknome Slim Plantigrade Feet Paws/image-01.webp>)
+![\*G\*e\*k\*n\*o\*m\*e\* \*S\*l\*i\*m\* \*P\*l\*a\*n\*t\*i\*g\*r\*a\*d\*e\* \*F\*e\*e\*t\* \*P\*a\*w\*s\*](../attachments/Canine & Generic Feet Paws/Geknome Slim Plantigrade Feet Paws/image-01.webp)
 
 ---
 
@@ -582,7 +582,7 @@ Made to match this thigh padding:
 
 [https://www.etsy.com/ca/listing/1904794173/old-version-slim-footpaw-pattern-with](https://www.etsy.com/ca/listing/1904794173/old-version-slim-footpaw-pattern-with "smartCard-inline")
 
-![\*N\*i\*c\*o\*s\*F\*u\*r\*r\*y\*F\*r\*i\*e\*n\*d\*s\* \*V\*1\* \*S\*l\*i\*m\* \*F\*o\*o\*t\* \*P\*a\*w\*](<../attachments/Canine & Generic Feet Paws/NicosFurryFriends V1 Slim Foot Paw/image-01.webp>)
+![\*N\*i\*c\*o\*s\*F\*u\*r\*r\*y\*F\*r\*i\*e\*n\*d\*s\* \*V\*1\* \*S\*l\*i\*m\* \*F\*o\*o\*t\* \*P\*a\*w\*](../attachments/Canine & Generic Feet Paws/NicosFurryFriends V1 Slim Foot Paw/image-01.webp)
 
 ---
 
@@ -592,7 +592,7 @@ Made to match this thigh padding:
 
 [https://www.etsy.com/ca/listing/4353842344/20-new-and-improved-revised-slim-footpaw](https://www.etsy.com/ca/listing/4353842344/20-new-and-improved-revised-slim-footpaw "smartCard-inline")
 
-![\*N\*i\*c\*o\*s\*F\*u\*r\*r\*y\*F\*r\*i\*e\*n\*d\*s\* \*V\*2\* \*S\*l\*i\*m\* \*F\*o\*o\*t\*p\*a\*w\*](<../attachments/Canine & Generic Feet Paws/NicosFurryFriends V2 Slim Footpaw/image-01.webp>)
+![\*N\*i\*c\*o\*s\*F\*u\*r\*r\*y\*F\*r\*i\*e\*n\*d\*s\* \*V\*2\* \*S\*l\*i\*m\* \*F\*o\*o\*t\*p\*a\*w\*](../attachments/Canine & Generic Feet Paws/NicosFurryFriends V2 Slim Footpaw/image-01.webp)
 
 ---
 
@@ -604,8 +604,8 @@ Digi Feet: [https://www.etsy.com/ca/listing/1824468276/digitigrade-fursuit-feetp
 
 Slim Feet: [https://www.etsy.com/ca/listing/1880654333/slim-digitigrade-fursuit-feetpaws-base](https://www.etsy.com/ca/listing/1880654333/slim-digitigrade-fursuit-feetpaws-base "smartCard-inline")
 
-![\*W\*i\*n\*g\*L\*e\*a\*f\*W\*o\*r\*k\*s\*h\*o\*p\* \*2\* \*F\*o\*a\*m\* \*F\*e\*e\*t\*](<../attachments/Canine & Generic Feet Paws/WingLeafWorkshop 2 Foam Feet/image-01.png>)
+![\*W\*i\*n\*g\*L\*e\*a\*f\*W\*o\*r\*k\*s\*h\*o\*p\* \*2\* \*F\*o\*a\*m\* \*F\*e\*e\*t\*](../attachments/Canine & Generic Feet Paws/WingLeafWorkshop 2 Foam Feet/image-01.png)
 
-![\*W\*i\*n\*g\*L\*e\*a\*f\*W\*o\*r\*k\*s\*h\*o\*p\* \*2\* \*F\*o\*a\*m\* \*F\*e\*e\*t\*](<../attachments/Canine & Generic Feet Paws/WingLeafWorkshop 2 Foam Feet/image-02.png>)
+![\*W\*i\*n\*g\*L\*e\*a\*f\*W\*o\*r\*k\*s\*h\*o\*p\* \*2\* \*F\*o\*a\*m\* \*F\*e\*e\*t\*](../attachments/Canine & Generic Feet Paws/WingLeafWorkshop 2 Foam Feet/image-02.png)
 
 ---

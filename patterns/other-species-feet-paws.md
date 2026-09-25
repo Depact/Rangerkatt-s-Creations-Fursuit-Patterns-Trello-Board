@@ -14,7 +14,7 @@
 
 [https://www.youtube.com/watch?v=HXwdORWOeYY](https://www.youtube.com/watch?v=HXwdORWOeYY "smartCard-inline")
 
-![\*M\*u\*g\*i\*w\*a\*r\*a\* \*B\*i\*r\*d\* \*S\*o\*c\*k\* \*F\*e\*e\*t\*](<../attachments/Other Species Feet Paws/Mugiwara Bird Sock Feet/image-01.png>)
+![\*M\*u\*g\*i\*w\*a\*r\*a\* \*B\*i\*r\*d\* \*S\*o\*c\*k\* \*F\*e\*e\*t\*](../attachments/Other Species Feet Paws/Mugiwara Bird Sock Feet/image-01.png)
 
 ---
 
@@ -28,7 +28,7 @@
 
 [https://youtu.be/6uiMm-y6gig](https://youtu.be/6uiMm-y6gig "smartCard-inline")
 
-![\*M\*u\*g\*i\*w\*a\*r\*a\* \*3\* \*T\*o\*e\* \*D\*i\*g\*i\* \*F\*e\*e\*t\* \*P\*a\*w\*s\*](<../attachments/Other Species Feet Paws/Mugiwara 3 Toe Digi Feet Paws/image-01.webp>)
+![\*M\*u\*g\*i\*w\*a\*r\*a\* \*3\* \*T\*o\*e\* \*D\*i\*g\*i\* \*F\*e\*e\*t\* \*P\*a\*w\*s\*](../attachments/Other Species Feet Paws/Mugiwara 3 Toe Digi Feet Paws/image-01.webp)
 
 ---
 
@@ -42,7 +42,7 @@
 
 [https://youtu.be/5h5b1grqWFk](https://youtu.be/5h5b1grqWFk "smartCard-inline")
 
-![\*M\*u\*g\*i\*w\*a\*r\*a\* \*3\* \*T\*o\*e\* \*F\*e\*e\*t\* \*P\*a\*w\*s\*](<../attachments/Other Species Feet Paws/Mugiwara 3 Toe Feet Paws/image-01.png>)
+![\*M\*u\*g\*i\*w\*a\*r\*a\* \*3\* \*T\*o\*e\* \*F\*e\*e\*t\* \*P\*a\*w\*s\*](../attachments/Other Species Feet Paws/Mugiwara 3 Toe Feet Paws/image-01.png)
 
 ---
 
@@ -56,7 +56,7 @@
 
 [https://youtu.be/i0C4HIhh6GU](https://youtu.be/i0C4HIhh6GU "smartCard-inline")
 
-![\*M\*u\*g\*i\*w\*a\*r\*a\* \*S\*o\*c\*k\* \*R\*a\*p\*t\*o\*r\* \*F\*e\*e\*t\*](<../attachments/Other Species Feet Paws/Mugiwara Sock Raptor Feet/image-01.png>)
+![\*M\*u\*g\*i\*w\*a\*r\*a\* \*S\*o\*c\*k\* \*R\*a\*p\*t\*o\*r\* \*F\*e\*e\*t\*](../attachments/Other Species Feet Paws/Mugiwara Sock Raptor Feet/image-01.png)
 
 ---
 
@@ -66,7 +66,7 @@
 
 [https://www.etsy.com/ca/listing/1278048687/hollow-foam-foot-claw-pattern](https://www.etsy.com/ca/listing/1278048687/hollow-foam-foot-claw-pattern "smartCard-inline")
 
-![\*R\*i\*c\*o\*c\*h\*e\*t\*x\*c\*r\*a\*f\*t\*s\* \*F\*O\*A\*M\* \*F\*e\*e\*t\* \*C\*l\*a\*w\*s\*](<../attachments/Other Species Feet Paws/Ricochetxcrafts FOAM Feet Claws/image-01.png>)
+![\*R\*i\*c\*o\*c\*h\*e\*t\*x\*c\*r\*a\*f\*t\*s\* \*F\*O\*A\*M\* \*F\*e\*e\*t\* \*C\*l\*a\*w\*s\*](../attachments/Other Species Feet Paws/Ricochetxcrafts FOAM Feet Claws/image-01.png)
 
 ---
 
@@ -76,9 +76,9 @@
 
 [https://www.etsy.com/ca/listing/1183743955/hollow-foam-foot-paw-pattern](https://www.etsy.com/ca/listing/1183743955/hollow-foam-foot-paw-pattern "smartCard-inline")
 
-![\*R\*i\*c\*o\*c\*h\*e\*t\*x\*c\*r\*a\*f\*t\*s\* \*F\*O\*A\*M\* \*3\* \*T\*o\*e\* \*f\*e\*e\*t\*p\*a\*w\*s\*](<../attachments/Other Species Feet Paws/Ricochetxcrafts FOAM 3 Toe feetpaws/image-01.webp>)
+![\*R\*i\*c\*o\*c\*h\*e\*t\*x\*c\*r\*a\*f\*t\*s\* \*F\*O\*A\*M\* \*3\* \*T\*o\*e\* \*f\*e\*e\*t\*p\*a\*w\*s\*](../attachments/Other Species Feet Paws/Ricochetxcrafts FOAM 3 Toe feetpaws/image-01.webp)
 
-![\*R\*i\*c\*o\*c\*h\*e\*t\*x\*c\*r\*a\*f\*t\*s\* \*F\*O\*A\*M\* \*3\* \*T\*o\*e\* \*f\*e\*e\*t\*p\*a\*w\*s\*](<../attachments/Other Species Feet Paws/Ricochetxcrafts FOAM 3 Toe feetpaws/image-02.webp>)
+![\*R\*i\*c\*o\*c\*h\*e\*t\*x\*c\*r\*a\*f\*t\*s\* \*F\*O\*A\*M\* \*3\* \*T\*o\*e\* \*f\*e\*e\*t\*p\*a\*w\*s\*](../attachments/Other Species Feet Paws/Ricochetxcrafts FOAM 3 Toe feetpaws/image-02.webp)
 
 ---
 
@@ -92,7 +92,7 @@
 
 [https://www.youtube.com/watch?v=7yn-Nv4XGwc](https://www.youtube.com/watch?v=7yn-Nv4XGwc "smartCard-inline")
 
-![\*M\*u\*g\*i\*w\*a\*r\*a\* \*F\*o\*a\*m\* \*3\* \*T\*o\*e\*d\* \*F\*e\*e\*t\*p\*a\*w\*s\*](<../attachments/Other Species Feet Paws/Mugiwara Foam 3 Toed Feetpaws/image-01.jpg>)
+![\*M\*u\*g\*i\*w\*a\*r\*a\* \*F\*o\*a\*m\* \*3\* \*T\*o\*e\*d\* \*F\*e\*e\*t\*p\*a\*w\*s\*](../attachments/Other Species Feet Paws/Mugiwara Foam 3 Toed Feetpaws/image-01.jpg)
 
 ---
 
@@ -104,7 +104,7 @@
 
 [https://www.youtube.com/watch?v=hW-HpWSyYCs](https://www.youtube.com/watch?v=hW-HpWSyYCs "smartCard-inline")
 
-![\*M\*u\*g\*i\*w\*a\*r\*a\* \*S\*e\*r\*g\*a\*l\* \*F\*o\*a\*m\* \*F\*e\*e\*t\*](<../attachments/Other Species Feet Paws/Mugiwara Sergal Foam Feet/image-01.jpg>)
+![\*M\*u\*g\*i\*w\*a\*r\*a\* \*S\*e\*r\*g\*a\*l\* \*F\*o\*a\*m\* \*F\*e\*e\*t\*](../attachments/Other Species Feet Paws/Mugiwara Sergal Foam Feet/image-01.jpg)
 
 ---
 
@@ -114,7 +114,7 @@
 
 [https://www.etsy.com/ca/listing/1755596765/digital-download-bird-feet-pattern](https://www.etsy.com/ca/listing/1755596765/digital-download-bird-feet-pattern "smartCard-inline")
 
-![\*R\*e\*d\*S\*e\*w\*s\*S\*h\*o\*p\* \*B\*i\*r\*d\* \*F\*e\*e\*t\*](<../attachments/Other Species Feet Paws/RedSewsShop Bird Feet/image-01.webp>)
+![\*R\*e\*d\*S\*e\*w\*s\*S\*h\*o\*p\* \*B\*i\*r\*d\* \*F\*e\*e\*t\*](../attachments/Other Species Feet Paws/RedSewsShop Bird Feet/image-01.webp)
 
 ---
 
@@ -124,7 +124,7 @@
 
 [https://www.etsy.com/ca/listing/1856652346/synth-feetpaw-shoe-pattern-and-build](https://www.etsy.com/ca/listing/1856652346/synth-feetpaw-shoe-pattern-and-build "‌")
 
-![\*T\*h\*e\*R\*a\*p\*t\*o\*r\*S\*h\*o\*p\* \*S\*y\*n\*t\*h\* \*F\*e\*e\*t\* \*p\*a\*w\*s\*](<../attachments/Other Species Feet Paws/TheRaptorShop Synth Feet paws/image-01.webp>)
+![\*T\*h\*e\*R\*a\*p\*t\*o\*r\*S\*h\*o\*p\* \*S\*y\*n\*t\*h\* \*F\*e\*e\*t\* \*p\*a\*w\*s\*](../attachments/Other Species Feet Paws/TheRaptorShop Synth Feet paws/image-01.webp)
 
 ---
 
@@ -136,7 +136,7 @@ Advanced pattern
 
 [https://www.etsy.com/ca/listing/4366078795/opossum-fursuit-indoor-feetpaws-pattern](https://www.etsy.com/ca/listing/4366078795/opossum-fursuit-indoor-feetpaws-pattern "smartCard-inline")
 
-![\*O\*p\*o\*s\*s\*u\*m\*C\*a\*f\*e\* \*I\*n\*d\*o\*o\*r\* \*O\*p\*o\*s\*s\*u\*m\*/\*R\*o\*d\*e\*n\*t\* \*F\*e\*e\*t\*p\*a\*w\*s\*](<../attachments/Other Species Feet Paws/OpossumCafe Indoor OpossumRodent Feetpaws/image-01.png>)
+![\*O\*p\*o\*s\*s\*u\*m\*C\*a\*f\*e\* \*I\*n\*d\*o\*o\*r\* \*O\*p\*o\*s\*s\*u\*m\*/\*R\*o\*d\*e\*n\*t\* \*F\*e\*e\*t\*p\*a\*w\*s\*](../attachments/Other Species Feet Paws/OpossumCafe Indoor OpossumRodent Feetpaws/image-01.png)
 
 ---
 
@@ -146,9 +146,9 @@ Advanced pattern
 
 [https://www.etsy.com/ca/listing/4400859287/birddragon-hollow-foam-foot-paw-pattern](https://www.etsy.com/ca/listing/4400859287/birddragon-hollow-foam-foot-paw-pattern "smartCard-inline")
 
-![\*R\*u\*d\*e\*B\*i\*r\*d\*S\*t\*u\*d\*i\*o\*s\* \*B\*i\*r\*d\*/\*D\*r\*a\*g\*o\*n\*/\*D\*i\*n\*o\* \*F\*e\*e\*t\*](<../attachments/Other Species Feet Paws/RudeBirdStudios BirdDragonDino Feet/image-01.webp>)
+![\*R\*u\*d\*e\*B\*i\*r\*d\*S\*t\*u\*d\*i\*o\*s\* \*B\*i\*r\*d\*/\*D\*r\*a\*g\*o\*n\*/\*D\*i\*n\*o\* \*F\*e\*e\*t\*](../attachments/Other Species Feet Paws/RudeBirdStudios BirdDragonDino Feet/image-01.webp)
 
-![\*R\*u\*d\*e\*B\*i\*r\*d\*S\*t\*u\*d\*i\*o\*s\* \*B\*i\*r\*d\*/\*D\*r\*a\*g\*o\*n\*/\*D\*i\*n\*o\* \*F\*e\*e\*t\*](<../attachments/Other Species Feet Paws/RudeBirdStudios BirdDragonDino Feet/image-02.webp>)
+![\*R\*u\*d\*e\*B\*i\*r\*d\*S\*t\*u\*d\*i\*o\*s\* \*B\*i\*r\*d\*/\*D\*r\*a\*g\*o\*n\*/\*D\*i\*n\*o\* \*F\*e\*e\*t\*](../attachments/Other Species Feet Paws/RudeBirdStudios BirdDragonDino Feet/image-02.webp)
 
 ---
 
@@ -158,6 +158,6 @@ Advanced pattern
 
 [https://www.etsy.com/ca/listing/4413156853/dragondinosaur-3-toed-paw-pattern-pdf](https://www.etsy.com/ca/listing/4413156853/dragondinosaur-3-toed-paw-pattern-pdf "smartCard-inline")
 
-![\*R\*u\*d\*e\*B\*i\*r\*d\*S\*t\*u\*d\*i\*o\*s\* \*3\* \*T\*o\*e\*d\* \*P\*a\*w\* \*P\*a\*t\*t\*e\*r\*n\*](<../attachments/Other Species Feet Paws/RudeBirdStudios 3 Toed Paw Pattern/image-01.webp>)
+![\*R\*u\*d\*e\*B\*i\*r\*d\*S\*t\*u\*d\*i\*o\*s\* \*3\* \*T\*o\*e\*d\* \*P\*a\*w\* \*P\*a\*t\*t\*e\*r\*n\*](../attachments/Other Species Feet Paws/RudeBirdStudios 3 Toed Paw Pattern/image-01.webp)
 
 ---

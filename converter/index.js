@@ -29,10 +29,8 @@ function isImageUrl(url) {
 
 /* --- helper: extract first image URL from attachments or description --- */
 function getFirstImageUrl(item) {
-  // Check attachments first
   const fromAttach = item.attachments?.find(a => a?.mimeType?.startsWith('image/') || isImageUrl(a?.url))?.url;
   if (fromAttach) return fromAttach;
-  // Fallback: scan description for image URLs
   if (item.desc) {
     const urls = item.desc.match(/https?:\/\/[^\s)]+/g) || [];
     const imgUrl = urls.find(u => isImageUrl(u));
@@ -41,16 +39,35 @@ function getFirstImageUrl(item) {
   return '';
 }
 
-/* --- helper: create 2-col preview grid markdown --- */
-function createItemGridMarkdown(items, listName, count, sectionFile) {
+/* --- helper: fetch HTML page and extract first image --- */
+async function fetchPageImage(url) {
+  try {
+    const res = await fetch(url, { headers: { 'User-Agent': 'Mozilla/5.0' } });
+    if (!res.ok) return null;
+    const html = await res.text();
+    // Look for og:image, twitter:image, or first <img>
+    const metaMatch = html.match(/<meta[^>]+property=["']og:image["'][^>]+content=["']([^"']+)["']/i) ||
+                      html.match(/<meta[^>]+name=["']twitter:image["'][^>]+content=["']([^"']+)["']/i);
+    if (metaMatch) return metaMatch[1];
+    const imgMatch = html.match(/<img[^>]+src=["']([^"']+)["']/i);
+    if (imgMatch) {
+      const imgUrl = new URL(imgMatch[1], url).href;
+      return imgUrl;
+    }
+  } catch {}
+  return null;
+}
+
+/* --- helper: create 2-col preview grid markdown using LOCAL paths --- */
+function createItemGridMarkdown(items, listName, count, sectionFile, localImages) {
   if (items.length === 0) return '';
   
   const makeCell = (item) => {
     if (!item) return '';
     const itemAnchor = slug(one(item.name));
-    const firstItemImg = getFirstImageUrl(item);
-    const imageMd = firstItemImg 
-      ? `![${one(item.name)}](${firstItemImg})`
+    const localImg = localImages.get(item.id);
+    const imageMd = localImg 
+      ? `![${one(item.name)}](${localImg})`
       : '*No image*';
     return `[${one(item.name)}](${sectionFile}#${itemAnchor}) ${imageMd}`;
   };
@@ -124,11 +141,124 @@ async function run(jsonFile, OUT) {
   const patternsDir = path.join(outDir, 'patterns');
   await fs.ensureDir(patternsDir);
 
-  /* --- Generate section files --- */
-  const jobs = [];
-  let totalCards = 0, totalRefs = 0;
-  const stats = { ok: 0, skip: 0, fail: 0 };
+  /* --- First pass: collect all image URLs to download (attachments + external) --- */
+  const downloadJobs = []; // { url, destPath, cardId, listDir, cardDir, imageIndex }
+  const cardImageMap = new Map(); // cardId -> [local relative paths]
+  const stats = { ok: 0, fail: 0 };
+  let totalRefs = 0;
 
+  for (const { list, items, sectionFile } of sections) {
+    const listDir = sanitize(list.name).slice(0, 80) || 'list';
+    
+    for (const c of items) {
+      const cardAnchor = slug(one(c.name));
+      const cardDir    = sanitize(one(c.name)).slice(0, 100) || 'card';
+      const relDir     = `../attachments/${listDir}/${cardDir}`;
+      const imgRelDir  = relDir.split('\\').join('/');
+      const absDir     = path.join(outDir, 'attachments', listDir, cardDir);
+      
+      await fs.ensureDir(absDir);
+      
+      const localPaths = [];
+      let n = 0;
+
+      // 1. Download attachment images
+      for (const att of c.attachments ?? []) {
+        if (!att.mimeType?.startsWith('image/') && !isImageUrl(att.url)) continue;
+        try { new URL(att.url); } catch { continue; }
+        n++; totalRefs++;
+        let ext = '.png';
+        try { ext = path.extname(new URL(att.url).pathname) || '.png'; } catch {}
+        if (ext.length > 6) ext = '.png';
+        const file = `image-${String(n).padStart(2, '0')}${ext}`;
+        const destPath = path.join(absDir, file);
+        localPaths.push(`${imgRelDir}/${file}`);
+        downloadJobs.push({ url: att.url, destPath, cardId: c.id });
+      }
+
+      // 2. If no attachment images, try external URLs from description
+      if (localPaths.length === 0 && c.desc) {
+        const urls = c.desc.match(/https?:\/\/[^\s)]+/g) || [];
+        for (const url of urls) {
+          // Skip non-product URLs (trello, etc.)
+          if (url.includes('trello.com') || url.includes('github.com')) continue;
+          
+          // Try direct image URL first
+          if (isImageUrl(url)) {
+            n++; totalRefs++;
+            let ext = '.png';
+            try { ext = path.extname(new URL(url).pathname) || '.png'; } catch {}
+            if (ext.length > 6) ext = '.png';
+            const file = `image-${String(n).padStart(2, '0')}${ext}`;
+            const destPath = path.join(absDir, file);
+            localPaths.push(`${imgRelDir}/${file}`);
+            downloadJobs.push({ url, destPath, cardId: c.id });
+            break;
+          }
+          
+          // Try fetching product page for image
+          const pageImage = await fetchPageImage(url);
+          if (pageImage && isImageUrl(pageImage)) {
+            n++; totalRefs++;
+            let ext = '.png';
+            try { ext = path.extname(new URL(pageImage).pathname) || '.png'; } catch {}
+            if (ext.length > 6) ext = '.png';
+            const file = `image-${String(n).padStart(2, '0')}${ext}`;
+            const destPath = path.join(absDir, file);
+            localPaths.push(`${imgRelDir}/${file}`);
+            downloadJobs.push({ url: pageImage, destPath, cardId: c.id });
+            break;
+          }
+        }
+      }
+
+      cardImageMap.set(c.id, localPaths);
+    }
+  }
+
+  /* --- Download all images with concurrency limit --- */
+  async function downloadWithConcurrency(jobs, limit) {
+    const executing = [];
+    for (const job of jobs) {
+      const p = pull(job.url, job.destPath)
+        .then(() => { stats.ok++; })
+        .catch(e => { 
+          console.error(`  ✗ Failed: ${job.url} — ${e.message}`);
+          stats.fail++; 
+        });
+      executing.push(p);
+      if (executing.length >= limit) {
+        await Promise.race(executing);
+        // Remove settled
+        for (let i = executing.length - 1; i >= 0; i--) {
+          if (executing[i] === p) break; // simple approach
+        }
+      }
+    }
+    await Promise.allSettled(executing);
+  }
+
+  if (downloadJobs.length) {
+    console.log(`\n↓ Fetching ${downloadJobs.length} images → ${outDir}/attachments/`);
+    // Simple batching for concurrency
+    const BATCH = concurrency;
+    for (let i = 0; i < downloadJobs.length; i += BATCH) {
+      const batch = downloadJobs.slice(i, i + BATCH);
+      await Promise.allSettled(batch.map(job => 
+        pull(job.url, job.destPath)
+          .then(() => stats.ok++)
+          .catch(e => { 
+            console.error(`  ✗ Failed: ${job.url} — ${e.message}`);
+            stats.fail++; 
+          })
+      ));
+    }
+    console.log(`  ✓ ${stats.ok} downloaded  ·  ${stats.fail} failed`);
+  }
+
+  /* --- Second pass: Generate section files with LOCAL paths --- */
+  let totalCards = 0;
+  
   for (const { list, items, sectionFile } of sections) {
     const sectionPath = path.join(patternsDir, sectionFile);
     const listDir = sanitize(list.name).slice(0, 80) || 'list';
@@ -144,7 +274,6 @@ async function run(jsonFile, OUT) {
       const cardDir    = sanitize(one(c.name)).slice(0, 100) || 'card';
       const relDir     = `../attachments/${listDir}/${cardDir}`;
       const imgRelDir  = relDir.split('\\').join('/');
-      const absDir     = path.join(outDir, 'attachments', listDir, cardDir);
       const tags       = (c.labels ?? []).map(l => l.name).filter(Boolean).map(l => l.name);
 
       lines.push(`<a id="${cardAnchor}"></a>`, '');
@@ -153,22 +282,14 @@ async function run(jsonFile, OUT) {
       const desc = clean(c.desc);
       if (desc) lines.push(desc, '');
 
-      let n = 0;
-      for (const att of c.attachments ?? []) {
-        if (!att.mimeType?.startsWith('image/') && !isImageUrl(att.url)) continue;
-        try { new URL(att.url); } catch { continue; }
-        n++; totalRefs++;
-        let ext = '.png';
-        try { ext = path.extname(new URL(att.url).pathname) || '.png'; } catch {}
-        if (ext.length > 6) ext = '.png';
-        const file = `image-${String(n).padStart(2, '0')}${ext}`;
-        jobs.push(pull(att.url, path.join(absDir, file))
-          .then(() => stats.ok++)
-          .catch(e => {
-            console.error(`  ✗ Failed: ${att.url} — ${e.message}`);
-            stats.fail++;
-          }));
-        lines.push(`![${alt(c.name)}](<${imgRelDir}/${file}>)`, '');
+      // Use local downloaded images
+      const localImgs = cardImageMap.get(c.id) || [];
+      for (const localPath of localImgs) {
+        lines.push(`![${alt(c.name)}](${localPath})`, '');
+      }
+      // If still no images, note it
+      if (localImgs.length === 0) {
+        lines.push('*No images available*', '');
       }
       lines.push('---', '');
     }
@@ -176,7 +297,7 @@ async function run(jsonFile, OUT) {
     await fs.writeFile(sectionPath, lines.join('\n'));
   }
 
-  /* --- Generate main README.md with preview grids --- */
+  /* --- Generate main README.md with preview grids using LOCAL paths --- */
   const readmeLines = [
     `# Rangerkatt's Creations Fursuit Patterns (Trello Board)`, '',
     `**Original Board Source board:** <${board.url}>`, '',
@@ -185,7 +306,15 @@ async function run(jsonFile, OUT) {
   ];
 
   for (const { list, items, sectionFile } of sections) {
-    readmeLines.push(createItemGridMarkdown(items, list.name, items.length, `patterns/${sectionFile}`));
+    // Build localImages map for this section
+    const localImages = new Map();
+    for (const item of items) {
+      const paths = cardImageMap.get(item.id) || [];
+      if (paths.length > 0) {
+        localImages.set(item.id, paths[0]); // first image for preview
+      }
+    }
+    readmeLines.push(createItemGridMarkdown(items, list.name, items.length, `patterns/${sectionFile}`, localImages));
     readmeLines.push('');
   }
 
@@ -199,13 +328,6 @@ async function run(jsonFile, OUT) {
   await fs.ensureDir(outDir);
   await fs.writeFile(readmePath, readmeLines.join('\n'));
   console.log(`✓ ${readmePath} + ${sections.length} section files  (${sections.length} lists · ${totalCards} cards · ${totalRefs} image refs)`);
-
-  /* --- wait for downloads --- */
-  if (jobs.length) {
-    console.log(`\n↓ Fetching ${jobs.length} images → ${outDir}/attachments/`);
-    await Promise.allSettled(jobs);
-    console.log(`  ✓ ${stats.ok} downloaded  ·  ${stats.skip} cached  ·  ${stats.fail} failed`);
-  }
 }
 
 program
