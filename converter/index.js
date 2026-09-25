@@ -59,6 +59,11 @@ async function fetchPageImage(url) {
 }
 
 /* --- helper: create 2-col preview grid markdown using LOCAL paths --- */
+function mdImg(alt, url) {
+  const needsWrap = /[\s()#?%&]/.test(url);
+  return `![${alt}](${needsWrap ? '<' + url + '>' : url})`;
+}
+
 function createItemGridMarkdown(items, listName, count, sectionFile, localImages) {
   if (items.length === 0) return '';
   
@@ -67,7 +72,7 @@ function createItemGridMarkdown(items, listName, count, sectionFile, localImages
     const itemAnchor = slug(one(item.name));
     const localImg = localImages.get(item.id);
     const imageMd = localImg 
-      ? `![${one(item.name)}](${localImg})`
+      ? mdImg(one(item.name), localImg)
       : '*No image*';
     return `[${one(item.name)}](${sectionFile}#${itemAnchor}) ${imageMd}`;
   };
@@ -285,7 +290,7 @@ async function run(jsonFile, OUT) {
       // Use local downloaded images
       const localImgs = cardImageMap.get(c.id) || [];
       for (const localPath of localImgs) {
-        lines.push(`![${alt(c.name)}](${localPath})`, '');
+        lines.push(`${mdImg(alt(c.name), localPath)}`, '');
       }
       // If still no images, note it
       if (localImgs.length === 0) {

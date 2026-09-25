@@ -14,7 +14,7 @@
 
 [https://www.youtube.com/watch?v=NKakGSz9WCs](https://www.youtube.com/watch?v=NKakGSz9WCs "smartCard-inline")
 
-![\*M\*u\*g\*i\*w\*a\*r\*a\* \*H\*o\*r\*n\*s\*](../attachments/Horns/Mugiwara Horns/image-01.png)
+![\*M\*u\*g\*i\*w\*a\*r\*a\* \*H\*o\*r\*n\*s\*](<../attachments/Horns/Mugiwara Horns/image-01.png>)
 
 ---
 
@@ -24,9 +24,9 @@
 
 [https://www.etsy.com/ca/listing/1148154168/plush-horn-tutorial-and-pattern-horns](https://www.etsy.com/ca/listing/1148154168/plush-horn-tutorial-and-pattern-horns "smartCard-inline")
 
-![\*K\*i\*v\*o\*v\*i\*s\*S\*u\*i\*t\*s\* \*P\*l\*u\*s\*h\* \*C\*u\*r\*l\*e\*d\* \*H\*o\*r\*n\*s\*](../attachments/Horns/KivovisSuits Plush Curled Horns/image-01.png)
+![\*K\*i\*v\*o\*v\*i\*s\*S\*u\*i\*t\*s\* \*P\*l\*u\*s\*h\* \*C\*u\*r\*l\*e\*d\* \*H\*o\*r\*n\*s\*](<../attachments/Horns/KivovisSuits Plush Curled Horns/image-01.png>)
 
-![\*K\*i\*v\*o\*v\*i\*s\*S\*u\*i\*t\*s\* \*P\*l\*u\*s\*h\* \*C\*u\*r\*l\*e\*d\* \*H\*o\*r\*n\*s\*](../attachments/Horns/KivovisSuits Plush Curled Horns/image-02.png)
+![\*K\*i\*v\*o\*v\*i\*s\*S\*u\*i\*t\*s\* \*P\*l\*u\*s\*h\* \*C\*u\*r\*l\*e\*d\* \*H\*o\*r\*n\*s\*](<../attachments/Horns/KivovisSuits Plush Curled Horns/image-02.png>)
 
 ---
 
@@ -36,9 +36,9 @@
 
 [https://www.etsy.com/ca/listing/1268153736/horn-pattern-digital-download](https://www.etsy.com/ca/listing/1268153736/horn-pattern-digital-download "smartCard-inline")
 
-![\*R\*o\*c\*k\*y\*R\*a\*i\*n\*b\*o\*w\*S\*t\*u\*d\*i\*o\*s\* \*C\*u\*r\*v\*e\*d\* \*P\*l\*u\*s\*h\* \*H\*o\*r\*n\*](../attachments/Horns/RockyRainbowStudios Curved Plush Horn/image-01.png)
+![\*R\*o\*c\*k\*y\*R\*a\*i\*n\*b\*o\*w\*S\*t\*u\*d\*i\*o\*s\* \*C\*u\*r\*v\*e\*d\* \*P\*l\*u\*s\*h\* \*H\*o\*r\*n\*](<../attachments/Horns/RockyRainbowStudios Curved Plush Horn/image-01.png>)
 
-![\*R\*o\*c\*k\*y\*R\*a\*i\*n\*b\*o\*w\*S\*t\*u\*d\*i\*o\*s\* \*C\*u\*r\*v\*e\*d\* \*P\*l\*u\*s\*h\* \*H\*o\*r\*n\*](../attachments/Horns/RockyRainbowStudios Curved Plush Horn/image-02.png)
+![\*R\*o\*c\*k\*y\*R\*a\*i\*n\*b\*o\*w\*S\*t\*u\*d\*i\*o\*s\* \*C\*u\*r\*v\*e\*d\* \*P\*l\*u\*s\*h\* \*H\*o\*r\*n\*](<../attachments/Horns/RockyRainbowStudios Curved Plush Horn/image-02.png>)
 
 ---
 
@@ -48,7 +48,7 @@
 
 [https://www.etsy.com/ca/listing/1148515254/fabric-unicorn-horn-tutorial-and-pattern](https://www.etsy.com/ca/listing/1148515254/fabric-unicorn-horn-tutorial-and-pattern "smartCard-inline")
 
-![\*F\*i\*s\*h\*P\*i\*s\*h\*S\*t\*u\*d\*i\*o\*s\* \*P\*l\*u\*s\*h\* \*U\*n\*i\*c\*o\*r\*n\* \*H\*o\*r\*n\*](../attachments/Horns/FishPishStudios Plush Unicorn Horn/image-01.webp)
+![\*F\*i\*s\*h\*P\*i\*s\*h\*S\*t\*u\*d\*i\*o\*s\* \*P\*l\*u\*s\*h\* \*U\*n\*i\*c\*o\*r\*n\* \*H\*o\*r\*n\*](<../attachments/Horns/FishPishStudios Plush Unicorn Horn/image-01.webp>)
 
 ---
 
@@ -62,7 +62,7 @@
 
 [https://www.youtube.com/watch?v=Nt0Md8yHjqs](https://www.youtube.com/watch?v=Nt0Md8yHjqs "smartCard-inline")
 
-![\*L\*o\*s\*t\*W\*a\*x\* \*1\*2\* \*E\*V\*A\* \*H\*o\*r\*n\*s\*](../attachments/Horns/LostWax 12 EVA Horns/image-01.jpeg)
+![\*L\*o\*s\*t\*W\*a\*x\* \*1\*2\* \*E\*V\*A\* \*H\*o\*r\*n\*s\*](<../attachments/Horns/LostWax 12 EVA Horns/image-01.jpeg>)
 
 ---
 
@@ -83,17 +83,17 @@ Curved Horn: [https://www.kamuicosplay.com/product/curvedhorn/](https://www.kamu
 
 Spiky Horn: [https://www.kamuicosplay.com/product/spikyhorn/](https://www.kamuicosplay.com/product/spikyhorn/ "smartCard-inline")
 
-![\*K\*a\*m\*u\*i\*C\*o\*s\*p\*l\*a\*y\* \*H\*o\*r\*n\* \*M\*u\*l\*t\*i\*p\*a\*c\*k\* \*V\*1\* \*(\*5\* \*s\*t\*y\*l\*e\*s\*,\* \*o\*r\* \*s\*o\*l\*d\* \*i\*n\*d\*i\*v\*i\*d\*u\*a\*l\*l\*y\*)\*](../attachments/Horns/KamuiCosplay Horn Multipack V1 (5 styles, or sold individually)/image-01.jpg)
+![\*K\*a\*m\*u\*i\*C\*o\*s\*p\*l\*a\*y\* \*H\*o\*r\*n\* \*M\*u\*l\*t\*i\*p\*a\*c\*k\* \*V\*1\* \*(\*5\* \*s\*t\*y\*l\*e\*s\*,\* \*o\*r\* \*s\*o\*l\*d\* \*i\*n\*d\*i\*v\*i\*d\*u\*a\*l\*l\*y\*)\*](<../attachments/Horns/KamuiCosplay Horn Multipack V1 (5 styles, or sold individually)/image-01.jpg>)
 
-![\*K\*a\*m\*u\*i\*C\*o\*s\*p\*l\*a\*y\* \*H\*o\*r\*n\* \*M\*u\*l\*t\*i\*p\*a\*c\*k\* \*V\*1\* \*(\*5\* \*s\*t\*y\*l\*e\*s\*,\* \*o\*r\* \*s\*o\*l\*d\* \*i\*n\*d\*i\*v\*i\*d\*u\*a\*l\*l\*y\*)\*](../attachments/Horns/KamuiCosplay Horn Multipack V1 (5 styles, or sold individually)/image-02.jpg)
+![\*K\*a\*m\*u\*i\*C\*o\*s\*p\*l\*a\*y\* \*H\*o\*r\*n\* \*M\*u\*l\*t\*i\*p\*a\*c\*k\* \*V\*1\* \*(\*5\* \*s\*t\*y\*l\*e\*s\*,\* \*o\*r\* \*s\*o\*l\*d\* \*i\*n\*d\*i\*v\*i\*d\*u\*a\*l\*l\*y\*)\*](<../attachments/Horns/KamuiCosplay Horn Multipack V1 (5 styles, or sold individually)/image-02.jpg>)
 
-![\*K\*a\*m\*u\*i\*C\*o\*s\*p\*l\*a\*y\* \*H\*o\*r\*n\* \*M\*u\*l\*t\*i\*p\*a\*c\*k\* \*V\*1\* \*(\*5\* \*s\*t\*y\*l\*e\*s\*,\* \*o\*r\* \*s\*o\*l\*d\* \*i\*n\*d\*i\*v\*i\*d\*u\*a\*l\*l\*y\*)\*](../attachments/Horns/KamuiCosplay Horn Multipack V1 (5 styles, or sold individually)/image-03.jpg)
+![\*K\*a\*m\*u\*i\*C\*o\*s\*p\*l\*a\*y\* \*H\*o\*r\*n\* \*M\*u\*l\*t\*i\*p\*a\*c\*k\* \*V\*1\* \*(\*5\* \*s\*t\*y\*l\*e\*s\*,\* \*o\*r\* \*s\*o\*l\*d\* \*i\*n\*d\*i\*v\*i\*d\*u\*a\*l\*l\*y\*)\*](<../attachments/Horns/KamuiCosplay Horn Multipack V1 (5 styles, or sold individually)/image-03.jpg>)
 
-![\*K\*a\*m\*u\*i\*C\*o\*s\*p\*l\*a\*y\* \*H\*o\*r\*n\* \*M\*u\*l\*t\*i\*p\*a\*c\*k\* \*V\*1\* \*(\*5\* \*s\*t\*y\*l\*e\*s\*,\* \*o\*r\* \*s\*o\*l\*d\* \*i\*n\*d\*i\*v\*i\*d\*u\*a\*l\*l\*y\*)\*](../attachments/Horns/KamuiCosplay Horn Multipack V1 (5 styles, or sold individually)/image-04.jpg)
+![\*K\*a\*m\*u\*i\*C\*o\*s\*p\*l\*a\*y\* \*H\*o\*r\*n\* \*M\*u\*l\*t\*i\*p\*a\*c\*k\* \*V\*1\* \*(\*5\* \*s\*t\*y\*l\*e\*s\*,\* \*o\*r\* \*s\*o\*l\*d\* \*i\*n\*d\*i\*v\*i\*d\*u\*a\*l\*l\*y\*)\*](<../attachments/Horns/KamuiCosplay Horn Multipack V1 (5 styles, or sold individually)/image-04.jpg>)
 
-![\*K\*a\*m\*u\*i\*C\*o\*s\*p\*l\*a\*y\* \*H\*o\*r\*n\* \*M\*u\*l\*t\*i\*p\*a\*c\*k\* \*V\*1\* \*(\*5\* \*s\*t\*y\*l\*e\*s\*,\* \*o\*r\* \*s\*o\*l\*d\* \*i\*n\*d\*i\*v\*i\*d\*u\*a\*l\*l\*y\*)\*](../attachments/Horns/KamuiCosplay Horn Multipack V1 (5 styles, or sold individually)/image-05.jpg)
+![\*K\*a\*m\*u\*i\*C\*o\*s\*p\*l\*a\*y\* \*H\*o\*r\*n\* \*M\*u\*l\*t\*i\*p\*a\*c\*k\* \*V\*1\* \*(\*5\* \*s\*t\*y\*l\*e\*s\*,\* \*o\*r\* \*s\*o\*l\*d\* \*i\*n\*d\*i\*v\*i\*d\*u\*a\*l\*l\*y\*)\*](<../attachments/Horns/KamuiCosplay Horn Multipack V1 (5 styles, or sold individually)/image-05.jpg>)
 
-![\*K\*a\*m\*u\*i\*C\*o\*s\*p\*l\*a\*y\* \*H\*o\*r\*n\* \*M\*u\*l\*t\*i\*p\*a\*c\*k\* \*V\*1\* \*(\*5\* \*s\*t\*y\*l\*e\*s\*,\* \*o\*r\* \*s\*o\*l\*d\* \*i\*n\*d\*i\*v\*i\*d\*u\*a\*l\*l\*y\*)\*](../attachments/Horns/KamuiCosplay Horn Multipack V1 (5 styles, or sold individually)/image-06.jpg)
+![\*K\*a\*m\*u\*i\*C\*o\*s\*p\*l\*a\*y\* \*H\*o\*r\*n\* \*M\*u\*l\*t\*i\*p\*a\*c\*k\* \*V\*1\* \*(\*5\* \*s\*t\*y\*l\*e\*s\*,\* \*o\*r\* \*s\*o\*l\*d\* \*i\*n\*d\*i\*v\*i\*d\*u\*a\*l\*l\*y\*)\*](<../attachments/Horns/KamuiCosplay Horn Multipack V1 (5 styles, or sold individually)/image-06.jpg>)
 
 ---
 
@@ -119,15 +119,15 @@ Fairy Horns: [https://www.kamuicosplay.com/product/fairyhorns/](https://www.kamu
 
 Bull Horns: [https://www.kamuicosplay.com/product/bullhorns/](https://www.kamuicosplay.com/product/bullhorns/ "smartCard-inline")
 
-![\*K\*a\*m\*u\*i\*C\*o\*s\*p\*l\*a\*y\* \*H\*o\*r\*n\* \*M\*u\*l\*t\*i\*p\*a\*c\*k\* \*V\*2\* \*(\*7\* \*s\*t\*y\*l\*e\*s\*,\* \*o\*r\* \*s\*o\*l\*d\* \*i\*n\*d\*i\*v\*i\*d\*u\*a\*l\*l\*y\*)\*](../attachments/Horns/KamuiCosplay Horn Multipack V2 (7 styles, or sold individually)/image-01.jpg)
+![\*K\*a\*m\*u\*i\*C\*o\*s\*p\*l\*a\*y\* \*H\*o\*r\*n\* \*M\*u\*l\*t\*i\*p\*a\*c\*k\* \*V\*2\* \*(\*7\* \*s\*t\*y\*l\*e\*s\*,\* \*o\*r\* \*s\*o\*l\*d\* \*i\*n\*d\*i\*v\*i\*d\*u\*a\*l\*l\*y\*)\*](<../attachments/Horns/KamuiCosplay Horn Multipack V2 (7 styles, or sold individually)/image-01.jpg>)
 
-![\*K\*a\*m\*u\*i\*C\*o\*s\*p\*l\*a\*y\* \*H\*o\*r\*n\* \*M\*u\*l\*t\*i\*p\*a\*c\*k\* \*V\*2\* \*(\*7\* \*s\*t\*y\*l\*e\*s\*,\* \*o\*r\* \*s\*o\*l\*d\* \*i\*n\*d\*i\*v\*i\*d\*u\*a\*l\*l\*y\*)\*](../attachments/Horns/KamuiCosplay Horn Multipack V2 (7 styles, or sold individually)/image-02.jpg)
+![\*K\*a\*m\*u\*i\*C\*o\*s\*p\*l\*a\*y\* \*H\*o\*r\*n\* \*M\*u\*l\*t\*i\*p\*a\*c\*k\* \*V\*2\* \*(\*7\* \*s\*t\*y\*l\*e\*s\*,\* \*o\*r\* \*s\*o\*l\*d\* \*i\*n\*d\*i\*v\*i\*d\*u\*a\*l\*l\*y\*)\*](<../attachments/Horns/KamuiCosplay Horn Multipack V2 (7 styles, or sold individually)/image-02.jpg>)
 
-![\*K\*a\*m\*u\*i\*C\*o\*s\*p\*l\*a\*y\* \*H\*o\*r\*n\* \*M\*u\*l\*t\*i\*p\*a\*c\*k\* \*V\*2\* \*(\*7\* \*s\*t\*y\*l\*e\*s\*,\* \*o\*r\* \*s\*o\*l\*d\* \*i\*n\*d\*i\*v\*i\*d\*u\*a\*l\*l\*y\*)\*](../attachments/Horns/KamuiCosplay Horn Multipack V2 (7 styles, or sold individually)/image-03.jpg)
+![\*K\*a\*m\*u\*i\*C\*o\*s\*p\*l\*a\*y\* \*H\*o\*r\*n\* \*M\*u\*l\*t\*i\*p\*a\*c\*k\* \*V\*2\* \*(\*7\* \*s\*t\*y\*l\*e\*s\*,\* \*o\*r\* \*s\*o\*l\*d\* \*i\*n\*d\*i\*v\*i\*d\*u\*a\*l\*l\*y\*)\*](<../attachments/Horns/KamuiCosplay Horn Multipack V2 (7 styles, or sold individually)/image-03.jpg>)
 
-![\*K\*a\*m\*u\*i\*C\*o\*s\*p\*l\*a\*y\* \*H\*o\*r\*n\* \*M\*u\*l\*t\*i\*p\*a\*c\*k\* \*V\*2\* \*(\*7\* \*s\*t\*y\*l\*e\*s\*,\* \*o\*r\* \*s\*o\*l\*d\* \*i\*n\*d\*i\*v\*i\*d\*u\*a\*l\*l\*y\*)\*](../attachments/Horns/KamuiCosplay Horn Multipack V2 (7 styles, or sold individually)/image-04.jpg)
+![\*K\*a\*m\*u\*i\*C\*o\*s\*p\*l\*a\*y\* \*H\*o\*r\*n\* \*M\*u\*l\*t\*i\*p\*a\*c\*k\* \*V\*2\* \*(\*7\* \*s\*t\*y\*l\*e\*s\*,\* \*o\*r\* \*s\*o\*l\*d\* \*i\*n\*d\*i\*v\*i\*d\*u\*a\*l\*l\*y\*)\*](<../attachments/Horns/KamuiCosplay Horn Multipack V2 (7 styles, or sold individually)/image-04.jpg>)
 
-![\*K\*a\*m\*u\*i\*C\*o\*s\*p\*l\*a\*y\* \*H\*o\*r\*n\* \*M\*u\*l\*t\*i\*p\*a\*c\*k\* \*V\*2\* \*(\*7\* \*s\*t\*y\*l\*e\*s\*,\* \*o\*r\* \*s\*o\*l\*d\* \*i\*n\*d\*i\*v\*i\*d\*u\*a\*l\*l\*y\*)\*](../attachments/Horns/KamuiCosplay Horn Multipack V2 (7 styles, or sold individually)/image-05.jpg)
+![\*K\*a\*m\*u\*i\*C\*o\*s\*p\*l\*a\*y\* \*H\*o\*r\*n\* \*M\*u\*l\*t\*i\*p\*a\*c\*k\* \*V\*2\* \*(\*7\* \*s\*t\*y\*l\*e\*s\*,\* \*o\*r\* \*s\*o\*l\*d\* \*i\*n\*d\*i\*v\*i\*d\*u\*a\*l\*l\*y\*)\*](<../attachments/Horns/KamuiCosplay Horn Multipack V2 (7 styles, or sold individually)/image-05.jpg>)
 
 ---
 
@@ -139,7 +139,7 @@ Bull Horns: [https://www.kamuicosplay.com/product/bullhorns/](https://www.kamuic
 
 [https://www.etsy.com/ca/listing/901809040/foam-oni-horn-patterns-and-tutorial](https://www.etsy.com/ca/listing/901809040/foam-oni-horn-patterns-and-tutorial "smartCard-inline")
 
-![\*S\*a\*y\*a\*k\*a\*t\* \*C\*o\*s\*p\*l\*a\*y\* \*7\* \*F\*o\*a\*m\* \*O\*n\*i\* \*H\*o\*r\*n\*s\*](../attachments/Horns/Sayakat Cosplay 7 Foam Oni Horns/image-01.jpg)
+![\*S\*a\*y\*a\*k\*a\*t\* \*C\*o\*s\*p\*l\*a\*y\* \*7\* \*F\*o\*a\*m\* \*O\*n\*i\* \*H\*o\*r\*n\*s\*](<../attachments/Horns/Sayakat Cosplay 7 Foam Oni Horns/image-01.jpg>)
 
 ---
 
@@ -161,9 +161,9 @@ Big Ram Horn: [https://www.etsy.com/ca/listing/1397600183/big-ram-horn-pattern-f
 
 Round Ram Horn: [https://www.etsy.com/ca/listing/1397607821/round-ram-horn-pattern-for-eva-foam-a4](https://www.etsy.com/ca/listing/1397607821/round-ram-horn-pattern-for-eva-foam-a4 "smartCard-inline")
 
-![\*T\*r\*i\*n\*e\*s\*T\*r\*e\*a\*s\*u\*r\*y\* \*R\*a\*m\*'\*s\* \*H\*o\*r\*n\* \*P\*a\*c\*k\* \*(\*5\* \*i\*n\* \*p\*a\*c\*k\* \*o\*r\* \*s\*i\*n\*g\*l\*e\*s\*)\*](../attachments/Horns/TrinesTreasury Ram's Horn Pack (5 in pack or singles)/image-01.webp)
+![\*T\*r\*i\*n\*e\*s\*T\*r\*e\*a\*s\*u\*r\*y\* \*R\*a\*m\*'\*s\* \*H\*o\*r\*n\* \*P\*a\*c\*k\* \*(\*5\* \*i\*n\* \*p\*a\*c\*k\* \*o\*r\* \*s\*i\*n\*g\*l\*e\*s\*)\*](<../attachments/Horns/TrinesTreasury Ram's Horn Pack (5 in pack or singles)/image-01.webp>)
 
-![\*T\*r\*i\*n\*e\*s\*T\*r\*e\*a\*s\*u\*r\*y\* \*R\*a\*m\*'\*s\* \*H\*o\*r\*n\* \*P\*a\*c\*k\* \*(\*5\* \*i\*n\* \*p\*a\*c\*k\* \*o\*r\* \*s\*i\*n\*g\*l\*e\*s\*)\*](../attachments/Horns/TrinesTreasury Ram's Horn Pack (5 in pack or singles)/image-02.webp)
+![\*T\*r\*i\*n\*e\*s\*T\*r\*e\*a\*s\*u\*r\*y\* \*R\*a\*m\*'\*s\* \*H\*o\*r\*n\* \*P\*a\*c\*k\* \*(\*5\* \*i\*n\* \*p\*a\*c\*k\* \*o\*r\* \*s\*i\*n\*g\*l\*e\*s\*)\*](<../attachments/Horns/TrinesTreasury Ram's Horn Pack (5 in pack or singles)/image-02.webp>)
 
 ---
 
@@ -185,19 +185,19 @@ Tiefling Horns: [https://www.etsy.com/ca/listing/1597438078/ruin-curves-tiefling
 
 Ox Horns: [https://www.etsy.com/ca/listing/1659090812/ox-horn-pattern-for-eva-foam-a4-and-us](https://www.etsy.com/ca/listing/1659090812/ox-horn-pattern-for-eva-foam-a4-and-us "‌")
 
-![\*T\*r\*i\*n\*e\*s\*T\*r\*e\*a\*s\*u\*r\*y\* \*S\*i\*n\*g\*l\*e\* \*H\*o\*r\*n\*s\* \*+\* \*A\*n\*t\*l\*e\*r\* \*S\*o\*l\*d\* \*S\*e\*p\*e\*r\*a\*t\*e\*l\*y\*](../attachments/Horns/TrinesTreasury Single Horns + Antler Sold Seperately/image-01.webp)
+![\*T\*r\*i\*n\*e\*s\*T\*r\*e\*a\*s\*u\*r\*y\* \*S\*i\*n\*g\*l\*e\* \*H\*o\*r\*n\*s\* \*+\* \*A\*n\*t\*l\*e\*r\* \*S\*o\*l\*d\* \*S\*e\*p\*e\*r\*a\*t\*e\*l\*y\*](<../attachments/Horns/TrinesTreasury Single Horns + Antler Sold Seperately/image-01.webp>)
 
-![\*T\*r\*i\*n\*e\*s\*T\*r\*e\*a\*s\*u\*r\*y\* \*S\*i\*n\*g\*l\*e\* \*H\*o\*r\*n\*s\* \*+\* \*A\*n\*t\*l\*e\*r\* \*S\*o\*l\*d\* \*S\*e\*p\*e\*r\*a\*t\*e\*l\*y\*](../attachments/Horns/TrinesTreasury Single Horns + Antler Sold Seperately/image-02.webp)
+![\*T\*r\*i\*n\*e\*s\*T\*r\*e\*a\*s\*u\*r\*y\* \*S\*i\*n\*g\*l\*e\* \*H\*o\*r\*n\*s\* \*+\* \*A\*n\*t\*l\*e\*r\* \*S\*o\*l\*d\* \*S\*e\*p\*e\*r\*a\*t\*e\*l\*y\*](<../attachments/Horns/TrinesTreasury Single Horns + Antler Sold Seperately/image-02.webp>)
 
-![\*T\*r\*i\*n\*e\*s\*T\*r\*e\*a\*s\*u\*r\*y\* \*S\*i\*n\*g\*l\*e\* \*H\*o\*r\*n\*s\* \*+\* \*A\*n\*t\*l\*e\*r\* \*S\*o\*l\*d\* \*S\*e\*p\*e\*r\*a\*t\*e\*l\*y\*](../attachments/Horns/TrinesTreasury Single Horns + Antler Sold Seperately/image-03.webp)
+![\*T\*r\*i\*n\*e\*s\*T\*r\*e\*a\*s\*u\*r\*y\* \*S\*i\*n\*g\*l\*e\* \*H\*o\*r\*n\*s\* \*+\* \*A\*n\*t\*l\*e\*r\* \*S\*o\*l\*d\* \*S\*e\*p\*e\*r\*a\*t\*e\*l\*y\*](<../attachments/Horns/TrinesTreasury Single Horns + Antler Sold Seperately/image-03.webp>)
 
-![\*T\*r\*i\*n\*e\*s\*T\*r\*e\*a\*s\*u\*r\*y\* \*S\*i\*n\*g\*l\*e\* \*H\*o\*r\*n\*s\* \*+\* \*A\*n\*t\*l\*e\*r\* \*S\*o\*l\*d\* \*S\*e\*p\*e\*r\*a\*t\*e\*l\*y\*](../attachments/Horns/TrinesTreasury Single Horns + Antler Sold Seperately/image-04.png)
+![\*T\*r\*i\*n\*e\*s\*T\*r\*e\*a\*s\*u\*r\*y\* \*S\*i\*n\*g\*l\*e\* \*H\*o\*r\*n\*s\* \*+\* \*A\*n\*t\*l\*e\*r\* \*S\*o\*l\*d\* \*S\*e\*p\*e\*r\*a\*t\*e\*l\*y\*](<../attachments/Horns/TrinesTreasury Single Horns + Antler Sold Seperately/image-04.png>)
 
-![\*T\*r\*i\*n\*e\*s\*T\*r\*e\*a\*s\*u\*r\*y\* \*S\*i\*n\*g\*l\*e\* \*H\*o\*r\*n\*s\* \*+\* \*A\*n\*t\*l\*e\*r\* \*S\*o\*l\*d\* \*S\*e\*p\*e\*r\*a\*t\*e\*l\*y\*](../attachments/Horns/TrinesTreasury Single Horns + Antler Sold Seperately/image-05.jpg)
+![\*T\*r\*i\*n\*e\*s\*T\*r\*e\*a\*s\*u\*r\*y\* \*S\*i\*n\*g\*l\*e\* \*H\*o\*r\*n\*s\* \*+\* \*A\*n\*t\*l\*e\*r\* \*S\*o\*l\*d\* \*S\*e\*p\*e\*r\*a\*t\*e\*l\*y\*](<../attachments/Horns/TrinesTreasury Single Horns + Antler Sold Seperately/image-05.jpg>)
 
-![\*T\*r\*i\*n\*e\*s\*T\*r\*e\*a\*s\*u\*r\*y\* \*S\*i\*n\*g\*l\*e\* \*H\*o\*r\*n\*s\* \*+\* \*A\*n\*t\*l\*e\*r\* \*S\*o\*l\*d\* \*S\*e\*p\*e\*r\*a\*t\*e\*l\*y\*](../attachments/Horns/TrinesTreasury Single Horns + Antler Sold Seperately/image-06.jpg)
+![\*T\*r\*i\*n\*e\*s\*T\*r\*e\*a\*s\*u\*r\*y\* \*S\*i\*n\*g\*l\*e\* \*H\*o\*r\*n\*s\* \*+\* \*A\*n\*t\*l\*e\*r\* \*S\*o\*l\*d\* \*S\*e\*p\*e\*r\*a\*t\*e\*l\*y\*](<../attachments/Horns/TrinesTreasury Single Horns + Antler Sold Seperately/image-06.jpg>)
 
-![\*T\*r\*i\*n\*e\*s\*T\*r\*e\*a\*s\*u\*r\*y\* \*S\*i\*n\*g\*l\*e\* \*H\*o\*r\*n\*s\* \*+\* \*A\*n\*t\*l\*e\*r\* \*S\*o\*l\*d\* \*S\*e\*p\*e\*r\*a\*t\*e\*l\*y\*](../attachments/Horns/TrinesTreasury Single Horns + Antler Sold Seperately/image-07.jpg)
+![\*T\*r\*i\*n\*e\*s\*T\*r\*e\*a\*s\*u\*r\*y\* \*S\*i\*n\*g\*l\*e\* \*H\*o\*r\*n\*s\* \*+\* \*A\*n\*t\*l\*e\*r\* \*S\*o\*l\*d\* \*S\*e\*p\*e\*r\*a\*t\*e\*l\*y\*](<../attachments/Horns/TrinesTreasury Single Horns + Antler Sold Seperately/image-07.jpg>)
 
 ---
 
@@ -241,21 +241,21 @@ Satyr Horns:
 
 [https://www.etsy.com/ca/listing/1305754198/diy-eva-foam-horn-pattern-ram-horn](https://www.etsy.com/ca/listing/1305754198/diy-eva-foam-horn-pattern-ram-horn "‌")
 
-![\*F\*a\*t\*U\*n\*i\*c\*o\*r\*n\*C\*o\*s\*p\*l\*a\*y\* \*H\*o\*r\*n\* \*M\*u\*l\*t\*i\*p\*a\*c\*k\*s\* \*&\* \*S\*i\*n\*g\*l\*e\*s\* \*(\*1\*2\* \*P\*a\*t\*t\*e\*r\*n\*s\* \*T\*o\*t\*a\*l\*)\*](../attachments/Horns/FatUnicornCosplay Horn Multipacks & Singles (12 Patterns Total)/image-01.webp)
+![\*F\*a\*t\*U\*n\*i\*c\*o\*r\*n\*C\*o\*s\*p\*l\*a\*y\* \*H\*o\*r\*n\* \*M\*u\*l\*t\*i\*p\*a\*c\*k\*s\* \*&\* \*S\*i\*n\*g\*l\*e\*s\* \*(\*1\*2\* \*P\*a\*t\*t\*e\*r\*n\*s\* \*T\*o\*t\*a\*l\*)\*](<../attachments/Horns/FatUnicornCosplay Horn Multipacks & Singles (12 Patterns Total)/image-01.webp>)
 
-![\*F\*a\*t\*U\*n\*i\*c\*o\*r\*n\*C\*o\*s\*p\*l\*a\*y\* \*H\*o\*r\*n\* \*M\*u\*l\*t\*i\*p\*a\*c\*k\*s\* \*&\* \*S\*i\*n\*g\*l\*e\*s\* \*(\*1\*2\* \*P\*a\*t\*t\*e\*r\*n\*s\* \*T\*o\*t\*a\*l\*)\*](../attachments/Horns/FatUnicornCosplay Horn Multipacks & Singles (12 Patterns Total)/image-02.webp)
+![\*F\*a\*t\*U\*n\*i\*c\*o\*r\*n\*C\*o\*s\*p\*l\*a\*y\* \*H\*o\*r\*n\* \*M\*u\*l\*t\*i\*p\*a\*c\*k\*s\* \*&\* \*S\*i\*n\*g\*l\*e\*s\* \*(\*1\*2\* \*P\*a\*t\*t\*e\*r\*n\*s\* \*T\*o\*t\*a\*l\*)\*](<../attachments/Horns/FatUnicornCosplay Horn Multipacks & Singles (12 Patterns Total)/image-02.webp>)
 
-![\*F\*a\*t\*U\*n\*i\*c\*o\*r\*n\*C\*o\*s\*p\*l\*a\*y\* \*H\*o\*r\*n\* \*M\*u\*l\*t\*i\*p\*a\*c\*k\*s\* \*&\* \*S\*i\*n\*g\*l\*e\*s\* \*(\*1\*2\* \*P\*a\*t\*t\*e\*r\*n\*s\* \*T\*o\*t\*a\*l\*)\*](../attachments/Horns/FatUnicornCosplay Horn Multipacks & Singles (12 Patterns Total)/image-03.webp)
+![\*F\*a\*t\*U\*n\*i\*c\*o\*r\*n\*C\*o\*s\*p\*l\*a\*y\* \*H\*o\*r\*n\* \*M\*u\*l\*t\*i\*p\*a\*c\*k\*s\* \*&\* \*S\*i\*n\*g\*l\*e\*s\* \*(\*1\*2\* \*P\*a\*t\*t\*e\*r\*n\*s\* \*T\*o\*t\*a\*l\*)\*](<../attachments/Horns/FatUnicornCosplay Horn Multipacks & Singles (12 Patterns Total)/image-03.webp>)
 
-![\*F\*a\*t\*U\*n\*i\*c\*o\*r\*n\*C\*o\*s\*p\*l\*a\*y\* \*H\*o\*r\*n\* \*M\*u\*l\*t\*i\*p\*a\*c\*k\*s\* \*&\* \*S\*i\*n\*g\*l\*e\*s\* \*(\*1\*2\* \*P\*a\*t\*t\*e\*r\*n\*s\* \*T\*o\*t\*a\*l\*)\*](../attachments/Horns/FatUnicornCosplay Horn Multipacks & Singles (12 Patterns Total)/image-04.webp)
+![\*F\*a\*t\*U\*n\*i\*c\*o\*r\*n\*C\*o\*s\*p\*l\*a\*y\* \*H\*o\*r\*n\* \*M\*u\*l\*t\*i\*p\*a\*c\*k\*s\* \*&\* \*S\*i\*n\*g\*l\*e\*s\* \*(\*1\*2\* \*P\*a\*t\*t\*e\*r\*n\*s\* \*T\*o\*t\*a\*l\*)\*](<../attachments/Horns/FatUnicornCosplay Horn Multipacks & Singles (12 Patterns Total)/image-04.webp>)
 
-![\*F\*a\*t\*U\*n\*i\*c\*o\*r\*n\*C\*o\*s\*p\*l\*a\*y\* \*H\*o\*r\*n\* \*M\*u\*l\*t\*i\*p\*a\*c\*k\*s\* \*&\* \*S\*i\*n\*g\*l\*e\*s\* \*(\*1\*2\* \*P\*a\*t\*t\*e\*r\*n\*s\* \*T\*o\*t\*a\*l\*)\*](../attachments/Horns/FatUnicornCosplay Horn Multipacks & Singles (12 Patterns Total)/image-05.webp)
+![\*F\*a\*t\*U\*n\*i\*c\*o\*r\*n\*C\*o\*s\*p\*l\*a\*y\* \*H\*o\*r\*n\* \*M\*u\*l\*t\*i\*p\*a\*c\*k\*s\* \*&\* \*S\*i\*n\*g\*l\*e\*s\* \*(\*1\*2\* \*P\*a\*t\*t\*e\*r\*n\*s\* \*T\*o\*t\*a\*l\*)\*](<../attachments/Horns/FatUnicornCosplay Horn Multipacks & Singles (12 Patterns Total)/image-05.webp>)
 
-![\*F\*a\*t\*U\*n\*i\*c\*o\*r\*n\*C\*o\*s\*p\*l\*a\*y\* \*H\*o\*r\*n\* \*M\*u\*l\*t\*i\*p\*a\*c\*k\*s\* \*&\* \*S\*i\*n\*g\*l\*e\*s\* \*(\*1\*2\* \*P\*a\*t\*t\*e\*r\*n\*s\* \*T\*o\*t\*a\*l\*)\*](../attachments/Horns/FatUnicornCosplay Horn Multipacks & Singles (12 Patterns Total)/image-06.webp)
+![\*F\*a\*t\*U\*n\*i\*c\*o\*r\*n\*C\*o\*s\*p\*l\*a\*y\* \*H\*o\*r\*n\* \*M\*u\*l\*t\*i\*p\*a\*c\*k\*s\* \*&\* \*S\*i\*n\*g\*l\*e\*s\* \*(\*1\*2\* \*P\*a\*t\*t\*e\*r\*n\*s\* \*T\*o\*t\*a\*l\*)\*](<../attachments/Horns/FatUnicornCosplay Horn Multipacks & Singles (12 Patterns Total)/image-06.webp>)
 
-![\*F\*a\*t\*U\*n\*i\*c\*o\*r\*n\*C\*o\*s\*p\*l\*a\*y\* \*H\*o\*r\*n\* \*M\*u\*l\*t\*i\*p\*a\*c\*k\*s\* \*&\* \*S\*i\*n\*g\*l\*e\*s\* \*(\*1\*2\* \*P\*a\*t\*t\*e\*r\*n\*s\* \*T\*o\*t\*a\*l\*)\*](../attachments/Horns/FatUnicornCosplay Horn Multipacks & Singles (12 Patterns Total)/image-07.webp)
+![\*F\*a\*t\*U\*n\*i\*c\*o\*r\*n\*C\*o\*s\*p\*l\*a\*y\* \*H\*o\*r\*n\* \*M\*u\*l\*t\*i\*p\*a\*c\*k\*s\* \*&\* \*S\*i\*n\*g\*l\*e\*s\* \*(\*1\*2\* \*P\*a\*t\*t\*e\*r\*n\*s\* \*T\*o\*t\*a\*l\*)\*](<../attachments/Horns/FatUnicornCosplay Horn Multipacks & Singles (12 Patterns Total)/image-07.webp>)
 
-![\*F\*a\*t\*U\*n\*i\*c\*o\*r\*n\*C\*o\*s\*p\*l\*a\*y\* \*H\*o\*r\*n\* \*M\*u\*l\*t\*i\*p\*a\*c\*k\*s\* \*&\* \*S\*i\*n\*g\*l\*e\*s\* \*(\*1\*2\* \*P\*a\*t\*t\*e\*r\*n\*s\* \*T\*o\*t\*a\*l\*)\*](../attachments/Horns/FatUnicornCosplay Horn Multipacks & Singles (12 Patterns Total)/image-08.webp)
+![\*F\*a\*t\*U\*n\*i\*c\*o\*r\*n\*C\*o\*s\*p\*l\*a\*y\* \*H\*o\*r\*n\* \*M\*u\*l\*t\*i\*p\*a\*c\*k\*s\* \*&\* \*S\*i\*n\*g\*l\*e\*s\* \*(\*1\*2\* \*P\*a\*t\*t\*e\*r\*n\*s\* \*T\*o\*t\*a\*l\*)\*](<../attachments/Horns/FatUnicornCosplay Horn Multipacks & Singles (12 Patterns Total)/image-08.webp>)
 
 ---
 
@@ -265,7 +265,7 @@ Satyr Horns:
 
 [https://www.etsy.com/ca/listing/1851433176/diy-fursuit-horns-and-antlers-pattern](https://www.etsy.com/ca/listing/1851433176/diy-fursuit-horns-and-antlers-pattern "smartCard-inline")
 
-![\*K\*i\*t\*t\*e\*n\*C\*a\*f\*e\*S\*t\*u\*d\*i\*o\*s\* \*3\* \*P\*l\*u\*s\*h\* \*H\*o\*r\*n\*s\* \*a\*n\*d\* \*A\*n\*t\*l\*e\*r\*s\*](../attachments/Horns/KittenCafeStudios 3 Plush Horns and Antlers/image-01.webp)
+![\*K\*i\*t\*t\*e\*n\*C\*a\*f\*e\*S\*t\*u\*d\*i\*o\*s\* \*3\* \*P\*l\*u\*s\*h\* \*H\*o\*r\*n\*s\* \*a\*n\*d\* \*A\*n\*t\*l\*e\*r\*s\*](<../attachments/Horns/KittenCafeStudios 3 Plush Horns and Antlers/image-01.webp>)
 
 ---
 
@@ -275,7 +275,7 @@ Satyr Horns:
 
 [https://ko-fi.com/s/3595aec21b](https://ko-fi.com/s/3595aec21b "smartCard-inline")
 
-![\*A\*T\*D\* \*F\*u\*r\*s\*u\*i\*t\*s\* \*P\*l\*e\*a\*t\*e\*d\* \*H\*o\*r\*n\* \*T\*U\*T\*O\*R\*I\*A\*L\*](../attachments/Horns/ATD Fursuits Pleated Horn TUTORIAL/image-01.png)
+![\*A\*T\*D\* \*F\*u\*r\*s\*u\*i\*t\*s\* \*P\*l\*e\*a\*t\*e\*d\* \*H\*o\*r\*n\* \*T\*U\*T\*O\*R\*I\*A\*L\*](<../attachments/Horns/ATD Fursuits Pleated Horn TUTORIAL/image-01.png>)
 
 ---
 
@@ -338,33 +338,33 @@ Dragon Horns:
 Curly Twist Demon:
 [https://www.etsy.com/ca/listing/624905450/curly-twist-demon-horns-pattern-eva-foam](https://www.etsy.com/ca/listing/624905450/curly-twist-demon-horns-pattern-eva-foam "smartCard-inline")
 
-![\*C\*h\*i\*l\*l\*i\*C\*o\*s\*p\*l\*a\*y\* \*1\*4\* \*H\*o\*r\*n\* \*P\*a\*t\*t\*e\*r\*n\*s\*](../attachments/Horns/ChilliCosplay 14 Horn Patterns/image-01.webp)
+![\*C\*h\*i\*l\*l\*i\*C\*o\*s\*p\*l\*a\*y\* \*1\*4\* \*H\*o\*r\*n\* \*P\*a\*t\*t\*e\*r\*n\*s\*](<../attachments/Horns/ChilliCosplay 14 Horn Patterns/image-01.webp>)
 
-![\*C\*h\*i\*l\*l\*i\*C\*o\*s\*p\*l\*a\*y\* \*1\*4\* \*H\*o\*r\*n\* \*P\*a\*t\*t\*e\*r\*n\*s\*](../attachments/Horns/ChilliCosplay 14 Horn Patterns/image-02.png)
+![\*C\*h\*i\*l\*l\*i\*C\*o\*s\*p\*l\*a\*y\* \*1\*4\* \*H\*o\*r\*n\* \*P\*a\*t\*t\*e\*r\*n\*s\*](<../attachments/Horns/ChilliCosplay 14 Horn Patterns/image-02.png>)
 
-![\*C\*h\*i\*l\*l\*i\*C\*o\*s\*p\*l\*a\*y\* \*1\*4\* \*H\*o\*r\*n\* \*P\*a\*t\*t\*e\*r\*n\*s\*](../attachments/Horns/ChilliCosplay 14 Horn Patterns/image-03.png)
+![\*C\*h\*i\*l\*l\*i\*C\*o\*s\*p\*l\*a\*y\* \*1\*4\* \*H\*o\*r\*n\* \*P\*a\*t\*t\*e\*r\*n\*s\*](<../attachments/Horns/ChilliCosplay 14 Horn Patterns/image-03.png>)
 
-![\*C\*h\*i\*l\*l\*i\*C\*o\*s\*p\*l\*a\*y\* \*1\*4\* \*H\*o\*r\*n\* \*P\*a\*t\*t\*e\*r\*n\*s\*](../attachments/Horns/ChilliCosplay 14 Horn Patterns/image-04.png)
+![\*C\*h\*i\*l\*l\*i\*C\*o\*s\*p\*l\*a\*y\* \*1\*4\* \*H\*o\*r\*n\* \*P\*a\*t\*t\*e\*r\*n\*s\*](<../attachments/Horns/ChilliCosplay 14 Horn Patterns/image-04.png>)
 
-![\*C\*h\*i\*l\*l\*i\*C\*o\*s\*p\*l\*a\*y\* \*1\*4\* \*H\*o\*r\*n\* \*P\*a\*t\*t\*e\*r\*n\*s\*](../attachments/Horns/ChilliCosplay 14 Horn Patterns/image-05.png)
+![\*C\*h\*i\*l\*l\*i\*C\*o\*s\*p\*l\*a\*y\* \*1\*4\* \*H\*o\*r\*n\* \*P\*a\*t\*t\*e\*r\*n\*s\*](<../attachments/Horns/ChilliCosplay 14 Horn Patterns/image-05.png>)
 
-![\*C\*h\*i\*l\*l\*i\*C\*o\*s\*p\*l\*a\*y\* \*1\*4\* \*H\*o\*r\*n\* \*P\*a\*t\*t\*e\*r\*n\*s\*](../attachments/Horns/ChilliCosplay 14 Horn Patterns/image-06.png)
+![\*C\*h\*i\*l\*l\*i\*C\*o\*s\*p\*l\*a\*y\* \*1\*4\* \*H\*o\*r\*n\* \*P\*a\*t\*t\*e\*r\*n\*s\*](<../attachments/Horns/ChilliCosplay 14 Horn Patterns/image-06.png>)
 
-![\*C\*h\*i\*l\*l\*i\*C\*o\*s\*p\*l\*a\*y\* \*1\*4\* \*H\*o\*r\*n\* \*P\*a\*t\*t\*e\*r\*n\*s\*](../attachments/Horns/ChilliCosplay 14 Horn Patterns/image-07.png)
+![\*C\*h\*i\*l\*l\*i\*C\*o\*s\*p\*l\*a\*y\* \*1\*4\* \*H\*o\*r\*n\* \*P\*a\*t\*t\*e\*r\*n\*s\*](<../attachments/Horns/ChilliCosplay 14 Horn Patterns/image-07.png>)
 
-![\*C\*h\*i\*l\*l\*i\*C\*o\*s\*p\*l\*a\*y\* \*1\*4\* \*H\*o\*r\*n\* \*P\*a\*t\*t\*e\*r\*n\*s\*](../attachments/Horns/ChilliCosplay 14 Horn Patterns/image-08.png)
+![\*C\*h\*i\*l\*l\*i\*C\*o\*s\*p\*l\*a\*y\* \*1\*4\* \*H\*o\*r\*n\* \*P\*a\*t\*t\*e\*r\*n\*s\*](<../attachments/Horns/ChilliCosplay 14 Horn Patterns/image-08.png>)
 
-![\*C\*h\*i\*l\*l\*i\*C\*o\*s\*p\*l\*a\*y\* \*1\*4\* \*H\*o\*r\*n\* \*P\*a\*t\*t\*e\*r\*n\*s\*](../attachments/Horns/ChilliCosplay 14 Horn Patterns/image-09.png)
+![\*C\*h\*i\*l\*l\*i\*C\*o\*s\*p\*l\*a\*y\* \*1\*4\* \*H\*o\*r\*n\* \*P\*a\*t\*t\*e\*r\*n\*s\*](<../attachments/Horns/ChilliCosplay 14 Horn Patterns/image-09.png>)
 
-![\*C\*h\*i\*l\*l\*i\*C\*o\*s\*p\*l\*a\*y\* \*1\*4\* \*H\*o\*r\*n\* \*P\*a\*t\*t\*e\*r\*n\*s\*](../attachments/Horns/ChilliCosplay 14 Horn Patterns/image-10.png)
+![\*C\*h\*i\*l\*l\*i\*C\*o\*s\*p\*l\*a\*y\* \*1\*4\* \*H\*o\*r\*n\* \*P\*a\*t\*t\*e\*r\*n\*s\*](<../attachments/Horns/ChilliCosplay 14 Horn Patterns/image-10.png>)
 
-![\*C\*h\*i\*l\*l\*i\*C\*o\*s\*p\*l\*a\*y\* \*1\*4\* \*H\*o\*r\*n\* \*P\*a\*t\*t\*e\*r\*n\*s\*](../attachments/Horns/ChilliCosplay 14 Horn Patterns/image-11.png)
+![\*C\*h\*i\*l\*l\*i\*C\*o\*s\*p\*l\*a\*y\* \*1\*4\* \*H\*o\*r\*n\* \*P\*a\*t\*t\*e\*r\*n\*s\*](<../attachments/Horns/ChilliCosplay 14 Horn Patterns/image-11.png>)
 
-![\*C\*h\*i\*l\*l\*i\*C\*o\*s\*p\*l\*a\*y\* \*1\*4\* \*H\*o\*r\*n\* \*P\*a\*t\*t\*e\*r\*n\*s\*](../attachments/Horns/ChilliCosplay 14 Horn Patterns/image-12.png)
+![\*C\*h\*i\*l\*l\*i\*C\*o\*s\*p\*l\*a\*y\* \*1\*4\* \*H\*o\*r\*n\* \*P\*a\*t\*t\*e\*r\*n\*s\*](<../attachments/Horns/ChilliCosplay 14 Horn Patterns/image-12.png>)
 
-![\*C\*h\*i\*l\*l\*i\*C\*o\*s\*p\*l\*a\*y\* \*1\*4\* \*H\*o\*r\*n\* \*P\*a\*t\*t\*e\*r\*n\*s\*](../attachments/Horns/ChilliCosplay 14 Horn Patterns/image-13.png)
+![\*C\*h\*i\*l\*l\*i\*C\*o\*s\*p\*l\*a\*y\* \*1\*4\* \*H\*o\*r\*n\* \*P\*a\*t\*t\*e\*r\*n\*s\*](<../attachments/Horns/ChilliCosplay 14 Horn Patterns/image-13.png>)
 
-![\*C\*h\*i\*l\*l\*i\*C\*o\*s\*p\*l\*a\*y\* \*1\*4\* \*H\*o\*r\*n\* \*P\*a\*t\*t\*e\*r\*n\*s\*](../attachments/Horns/ChilliCosplay 14 Horn Patterns/image-14.png)
+![\*C\*h\*i\*l\*l\*i\*C\*o\*s\*p\*l\*a\*y\* \*1\*4\* \*H\*o\*r\*n\* \*P\*a\*t\*t\*e\*r\*n\*s\*](<../attachments/Horns/ChilliCosplay 14 Horn Patterns/image-14.png>)
 
 ---
 
@@ -384,16 +384,16 @@ All 5:[https://www.etsy.com/ca/listing/1794760298/5-pdf-horns-pattern-set](https
 
 5 Devil Horns: [https://www.etsy.com/ca/listing/1868209935/pdf-fantasy-horn-cosplay-pattern-5](https://www.etsy.com/ca/listing/1868209935/pdf-fantasy-horn-cosplay-pattern-5 "smartCard-inline")
 
-![\*S\*i\*w\*e\*n\*c\*o\*s\*p\*l\*a\*y\*p\*a\*t\*t\*e\*r\*n\*s\* \*5\* \*H\*o\*r\*n\* \*P\*a\*t\*t\*e\*r\*n\*s\*](../attachments/Horns/Siwencosplaypatterns 5 Horn Patterns/image-01.webp)
+![\*S\*i\*w\*e\*n\*c\*o\*s\*p\*l\*a\*y\*p\*a\*t\*t\*e\*r\*n\*s\* \*5\* \*H\*o\*r\*n\* \*P\*a\*t\*t\*e\*r\*n\*s\*](<../attachments/Horns/Siwencosplaypatterns 5 Horn Patterns/image-01.webp>)
 
-![\*S\*i\*w\*e\*n\*c\*o\*s\*p\*l\*a\*y\*p\*a\*t\*t\*e\*r\*n\*s\* \*5\* \*H\*o\*r\*n\* \*P\*a\*t\*t\*e\*r\*n\*s\*](../attachments/Horns/Siwencosplaypatterns 5 Horn Patterns/image-02.png)
+![\*S\*i\*w\*e\*n\*c\*o\*s\*p\*l\*a\*y\*p\*a\*t\*t\*e\*r\*n\*s\* \*5\* \*H\*o\*r\*n\* \*P\*a\*t\*t\*e\*r\*n\*s\*](<../attachments/Horns/Siwencosplaypatterns 5 Horn Patterns/image-02.png>)
 
-![\*S\*i\*w\*e\*n\*c\*o\*s\*p\*l\*a\*y\*p\*a\*t\*t\*e\*r\*n\*s\* \*5\* \*H\*o\*r\*n\* \*P\*a\*t\*t\*e\*r\*n\*s\*](../attachments/Horns/Siwencosplaypatterns 5 Horn Patterns/image-03.png)
+![\*S\*i\*w\*e\*n\*c\*o\*s\*p\*l\*a\*y\*p\*a\*t\*t\*e\*r\*n\*s\* \*5\* \*H\*o\*r\*n\* \*P\*a\*t\*t\*e\*r\*n\*s\*](<../attachments/Horns/Siwencosplaypatterns 5 Horn Patterns/image-03.png>)
 
-![\*S\*i\*w\*e\*n\*c\*o\*s\*p\*l\*a\*y\*p\*a\*t\*t\*e\*r\*n\*s\* \*5\* \*H\*o\*r\*n\* \*P\*a\*t\*t\*e\*r\*n\*s\*](../attachments/Horns/Siwencosplaypatterns 5 Horn Patterns/image-04.png)
+![\*S\*i\*w\*e\*n\*c\*o\*s\*p\*l\*a\*y\*p\*a\*t\*t\*e\*r\*n\*s\* \*5\* \*H\*o\*r\*n\* \*P\*a\*t\*t\*e\*r\*n\*s\*](<../attachments/Horns/Siwencosplaypatterns 5 Horn Patterns/image-04.png>)
 
-![\*S\*i\*w\*e\*n\*c\*o\*s\*p\*l\*a\*y\*p\*a\*t\*t\*e\*r\*n\*s\* \*5\* \*H\*o\*r\*n\* \*P\*a\*t\*t\*e\*r\*n\*s\*](../attachments/Horns/Siwencosplaypatterns 5 Horn Patterns/image-05.png)
+![\*S\*i\*w\*e\*n\*c\*o\*s\*p\*l\*a\*y\*p\*a\*t\*t\*e\*r\*n\*s\* \*5\* \*H\*o\*r\*n\* \*P\*a\*t\*t\*e\*r\*n\*s\*](<../attachments/Horns/Siwencosplaypatterns 5 Horn Patterns/image-05.png>)
 
-![\*S\*i\*w\*e\*n\*c\*o\*s\*p\*l\*a\*y\*p\*a\*t\*t\*e\*r\*n\*s\* \*5\* \*H\*o\*r\*n\* \*P\*a\*t\*t\*e\*r\*n\*s\*](../attachments/Horns/Siwencosplaypatterns 5 Horn Patterns/image-06.png)
+![\*S\*i\*w\*e\*n\*c\*o\*s\*p\*l\*a\*y\*p\*a\*t\*t\*e\*r\*n\*s\* \*5\* \*H\*o\*r\*n\* \*P\*a\*t\*t\*e\*r\*n\*s\*](<../attachments/Horns/Siwencosplaypatterns 5 Horn Patterns/image-06.png>)
 
 ---
