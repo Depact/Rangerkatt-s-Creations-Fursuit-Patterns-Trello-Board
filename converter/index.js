@@ -15,7 +15,7 @@ function one(x) { return x ?? ''; }
 function clean(x) { return x?.trim() || ''; }
 function alt(x) { return x.replace(/\\/g, '\\\\').replace(/`/g, '\\`').replace(/\\*/g, '\\*'); }
 
-/* --- helper: create 3-col preview grid markdown --- */
+/* --- helper: create 2-col preview grid markdown --- */
 function createItemGridMarkdown(items, listName, count, sectionFile) {
   if (items.length === 0) return '';
   
@@ -31,16 +31,15 @@ function createItemGridMarkdown(items, listName, count, sectionFile) {
   };
   
   const rows = [];
-  for (let i = 0; i < items.length; i += 3) {
+  for (let i = 0; i < items.length; i += 2) {
     const cells = [
       makeCell(items[i]),
-      makeCell(items[i + 1]),
-      makeCell(items[i + 2])
+      makeCell(items[i + 1])
     ];
     rows.push(`|${cells.join('|')}|`);
   }
   
-  const header = `### ${listName} (${count} cards)\n\n|Preview|Preview|Preview|\n|---|---|---|`;
+  const header = `### ${listName} (${count} cards)\n\n|Preview|Preview|\n|---|---|`;
   return [header, ...rows].join('\n');
 }
 
@@ -103,6 +102,7 @@ async function run(jsonFile, OUT) {
   /* --- Generate section files --- */
   const jobs = [];
   let totalCards = 0, totalRefs = 0;
+  const stats = { ok: 0, skip: 0, fail: 0 };
 
   for (const { list, items, sectionFile } of sections) {
     const sectionPath = path.join(patternsDir, sectionFile);
@@ -176,7 +176,6 @@ async function run(jsonFile, OUT) {
   console.log(`✓ ${readmePath} + ${sections.length} section files  (${sections.length} lists · ${totalCards} cards · ${totalRefs} image refs)`);
 
   /* --- wait for downloads --- */
-  const stats = { ok: 0, skip: 0, fail: 0 };
   if (jobs.length) {
     console.log(`\n↓ Fetching ${jobs.length} images → ${outDir}/attachments/`);
     await Promise.allSettled(jobs);
