@@ -6,7 +6,7 @@ This repo goal is to make Rangerkatt's Creations easy to access, as my laptop st
 
 ## Table of Contents
 
-### Generic or Puffy Paws (60 cards)
+# Generic or Puffy Paws (60 cards)
 
 |Preview|Preview|
 |---|---|
@@ -41,7 +41,7 @@ This repo goal is to make Rangerkatt's Creations easy to access, as my laptop st
 |[Tinnatu Paws Semi-Slim Paw Pattern](patterns/generic-or-puffy-paws.md#tinnatu-paws-semi-slim-paw-pattern) ![Tinnatu Paws Semi-Slim Paw Pattern](https://trello.com/1/cards/69834786971748177acd41cc/attachments/698347a110aa2519fbc64c94/download/il_794xN.6537060035_16hs.webp)|[KittenCafeStudios Toony Feral Paws](patterns/generic-or-puffy-paws.md#kittencafestudios-toony-feral-paws) ![KittenCafeStudios Toony Feral Paws](https://trello.com/1/cards/6988f7bc3ab42503d2c90eb0/attachments/6988f7bee02521c299df258a/download/il_794xN.7565517876_b9y5.webp)|
 |[KittenCafeStudios Anthro Paws](patterns/generic-or-puffy-paws.md#kittencafestudios-anthro-paws) ![KittenCafeStudios Anthro Paws](https://trello.com/1/cards/6988f7fc3f34837fcdbe8f2e/attachments/6988f816be945d900f81bef2/download/il_794xN.7613471739_d06o.webp)|[MysticMalamute 4 Finger Paw](patterns/generic-or-puffy-paws.md#mysticmalamute-4-finger-paw) ![MysticMalamute 4 Finger Paw](https://trello.com/1/cards/69f4c2406bf99d28d2c3f40c/attachments/69f4c24a2e1d898c3a9b7cc3/download/image.png)|
 
-### 5 Finger Paw Patterns (27 cards)
+# 5 Finger Paw Patterns (27 cards)
 
 |Preview|Preview|
 |---|---|
@@ -60,7 +60,7 @@ This repo goal is to make Rangerkatt's Creations easy to access, as my laptop st
 |[Thistlecrux 5 Finger Paws](patterns/5-finger-paw-patterns.md#thistlecrux-5-finger-paws) ![Thistlecrux 5 Finger Paws](https://trello.com/1/cards/6904b768d48ed0133be28302/attachments/6904b77517c6de73c1a70807/download/image.png)|[MysticMalamute 5 Finger Puffy Paw](patterns/5-finger-paw-patterns.md#mysticmalamute-5-finger-puffy-paw) ![MysticMalamute 5 Finger Puffy Paw](https://trello.com/1/cards/69f4c287e041602866931737/attachments/69f4c2a020ab0803e5879ed3/download/image.png)|
 |[MysticMalamute Flat 5 Finger Paw](patterns/5-finger-paw-patterns.md#mysticmalamute-flat-5-finger-paw) ![MysticMalamute Flat 5 Finger Paw](https://trello.com/1/cards/69f4c2ba545e815c6ad8f540/attachments/69f4c2dda563c89d71fe66dc/download/image.png)||
 
-### Mitten Paws (11 cards)
+# Mitten Paws (11 cards)
 
 |Preview|Preview|
 |---|---|
@@ -71,7 +71,7 @@ This repo goal is to make Rangerkatt's Creations easy to access, as my laptop st
 |[BirchDoesWorks Mitten Paws](patterns/mitten-paws.md#birchdoesworks-mitten-paws) ![BirchDoesWorks Mitten Paws](https://trello.com/1/cards/653fc0b4e52e2a6ac664dc55/attachments/653fc0b7a522aaefd6cc3350/download/il_794xN.5428151875_7ww3.webp)|[Geknome Mitten Paws](patterns/mitten-paws.md#geknome-mitten-paws) ![Geknome Mitten Paws](https://trello.com/1/cards/669effc95cdc757eebd5dbdd/attachments/669effd0554cf94005c07bb1/download/il_794xN.6111212487_bjpt.jpg)|
 |[Sonstafurs Mitten Paws](patterns/mitten-paws.md#sonstafurs-mitten-paws) ![Sonstafurs Mitten Paws](https://trello.com/1/cards/69021b1235bcbc8489b40b97/attachments/69021b2b7d8c226fc26e911a/download/image.png)||
 
-### Feral Canine Paws (8 cards)
+# Feral Canine Paws (8 cards)
 
 |Preview|Preview|
 |---|---|
@@ -80,7 +80,7 @@ This repo goal is to make Rangerkatt's Creations easy to access, as my laptop st
 |[Missrars Creatures Feral Canine](patterns/feral-canine-paws.md#missrars-creatures-feral-canine) ![Missrars Creatures Feral Canine](https://trello.com/1/cards/64907b3da2764b1c2bdaba3c/attachments/64907b4ce05d99af7243f830/download/image.png)|[WolfskinStudios Feral Puffy Paw](patterns/feral-canine-paws.md#wolfskinstudios-feral-puffy-paw) ![WolfskinStudios Feral Puffy Paw](https://trello.com/1/cards/6490fe95a00a8c01e23b8453/attachments/6490fe9968dbba2253ac8cd5/download/image.png)|
 |[SkyehighStudios Feral Paws](patterns/feral-canine-paws.md#skyehighstudios-feral-paws) ![SkyehighStudios Feral Paws](https://trello.com/1/cards/64aafc5a3a86f00e9903e1cd/attachments/64aafc9e17a9075cf142ec5c/download/image.png)|[SpiltGrape Feral Paws](patterns/feral-canine-paws.md#spiltgrape-feral-paws) ![SpiltGrape Feral Paws](https://trello.com/1/cards/66b7a6937f0f6ba4f91b48dc/attachments/66b7a69e342238a5ec8349a2/download/il_794xN.5958088292_orng.webp)|
 
-### Feline Paws (5 cards)
+# Feline Paws (5 cards)
 
 |Preview|Preview|
 |---|---|
@@ -88,7 +88,7 @@ This repo goal is to make Rangerkatt's Creations easy to access, as my laptop st
 |[FloofUnlimited Feline Puffy Paws](patterns/feline-paws.md#floofunlimited-feline-puffy-paws) ![FloofUnlimited Feline Puffy Paws](https://trello.com/1/cards/6904eec789991a259f0d8371/attachments/6904eed7d28fad8575d58f1d/download/image.png)|[Pseudocanid Chunky Cat Paws](patterns/feline-paws.md#pseudocanid-chunky-cat-paws) ![Pseudocanid Chunky Cat Paws](https://trello.com/1/cards/649074f12de44a5c09ec45d2/attachments/649074f6c00f4171caa7ae22/download/image.png)|
 |[Oktavia's Creatures Feral 2 Pattern Pack (Canine & Feline)](patterns/feline-paws.md#oktavia-s-creatures-feral-2-pattern-pack-canine-feline) ![Oktavia's Creatures Feral 2 Pattern Pack (Canine & Feline)](https://trello.com/1/cards/64907f1f0f5146c0e2995a83/attachments/64907f1f0f5146c0e2995ae9/download/image.png)||
 
-### Other Species Hand Paws (33 cards)
+# Other Species Hand Paws (33 cards)
 
 |Preview|Preview|
 |---|---|
@@ -110,7 +110,7 @@ This repo goal is to make Rangerkatt's Creations easy to access, as my laptop st
 |[WolfskinStudios Bear Paw Pattern](patterns/other-species-hand-paws.md#wolfskinstudios-bear-paw-pattern) ![WolfskinStudios Bear Paw Pattern](https://trello.com/1/cards/6904b2c7c14e2ece8fbcace2/attachments/6904b2d1bd9c12b1638e9031/download/image.png)|[Finch Factory Bird Hands](patterns/other-species-hand-paws.md#finch-factory-bird-hands) ![Finch Factory Bird Hands](https://trello.com/1/cards/691bcfbadd5c27cbcb54a9d5/attachments/691bd01d18dae743c50b7b19/download/image.png)|
 |[BetweenSpace&Sea Seal Hand and Tail Pattern](patterns/other-species-hand-paws.md#betweenspace-sea-seal-hand-and-tail-pattern) ![BetweenSpace&Sea Seal Hand and Tail Pattern](https://trello.com/1/cards/6989dda765762841453a0200/attachments/6989dda865762841453a0627/download/il_794xN.7679769334_3o5g.webp)||
 
-### Hand Hooves (24 cards)
+# Hand Hooves (24 cards)
 
 |Preview|Preview|
 |---|---|
@@ -127,7 +127,7 @@ This repo goal is to make Rangerkatt's Creations easy to access, as my laptop st
 |[CrypticCanis Cloven Hoof Pattern](patterns/hand-hooves.md#crypticcanis-cloven-hoof-pattern) ![CrypticCanis Cloven Hoof Pattern](https://trello.com/1/cards/6904b5a11e90e91211ae24e4/attachments/6904b5a9e2e44f7286e08a59/download/image.png)|[Flower Fur Studio Hoof Pattern](patterns/hand-hooves.md#flower-fur-studio-hoof-pattern) ![Flower Fur Studio Hoof Pattern](https://trello.com/1/cards/693dedf7ca02fc97f7820613/attachments/693dee0a39241d0af5ae721d/download/image.png)|
 |[MysticMalamute Toony 3 Finger Hooves](patterns/hand-hooves.md#mysticmalamute-toony-3-finger-hooves) ![MysticMalamute Toony 3 Finger Hooves](https://trello.com/1/cards/69f4c34a9720a823c3864405/attachments/69f4c3614fdf9b473f26066c/download/image.png)|[TechnoCheese Hand Hooves w/Finger Escape](patterns/hand-hooves.md#technocheese-hand-hooves-w-finger-escape) ![TechnoCheese Hand Hooves w/Finger Escape](https://trello.com/1/cards/6aaeb149847045dd44b49ebd/attachments/6aaeb1559d30d94cbbcba13a/download/image.png)|
 
-### Faun or Digitigrade legs & Bodysuits (32 cards)
+# Faun or Digitigrade legs & Bodysuits (32 cards)
 
 |Preview|Preview|
 |---|---|
@@ -148,7 +148,7 @@ This repo goal is to make Rangerkatt's Creations easy to access, as my laptop st
 |[WingLeafWorkshop Thigh Base 2 Versions](patterns/faun-or-digitigrade-legs-bodysuits.md#wingleafworkshop-thigh-base-2-versions) ![WingLeafWorkshop Thigh Base 2 Versions](https://trello.com/1/cards/698a09a8770f9b7124f925ce/attachments/698a09ed2758e27cd1c376a6/download/image.png)|[WingLeafWorkshop Foam Digi Legs](patterns/faun-or-digitigrade-legs-bodysuits.md#wingleafworkshop-foam-digi-legs) ![WingLeafWorkshop Foam Digi Legs](https://trello.com/1/cards/698a0a3c882abc25b2ef6950/attachments/698a0a71d55e1eb00709b66e/download/image.png)|
 |[Teacuplion Women's Bodysuit](patterns/faun-or-digitigrade-legs-bodysuits.md#teacuplion-women-s-bodysuit) ![Teacuplion Women's Bodysuit](https://trello.com/1/cards/69f23ffd2a6d379b04423218/attachments/69f24014b3c2d7db2481eee2/download/image.png)|[TechnoCheese Slim Open LEg Digi Padding](patterns/faun-or-digitigrade-legs-bodysuits.md#technocheese-slim-open-leg-digi-padding) ![TechnoCheese Slim Open LEg Digi Padding](https://trello.com/1/cards/6aaeb1a48d143a25bcc1a3a2/attachments/6aaeb1c3eac9a1211b151880/download/image.png)|
 
-### Canine & Generic Feet Paws (50 cards)
+# Canine & Generic Feet Paws (50 cards)
 
 |Preview|Preview|
 |---|---|
@@ -178,7 +178,7 @@ This repo goal is to make Rangerkatt's Creations easy to access, as my laptop st
 |[Geknome Slim Plantigrade Feet Paws](patterns/canine-generic-feet-paws.md#geknome-slim-plantigrade-feet-paws) ![Geknome Slim Plantigrade Feet Paws](https://trello.com/1/cards/69834acf8ced4684f0cbad0b/attachments/69834ad3efb9ce8183ba7ba9/download/il_794xN.6657289309_4hq5.webp)|[NicosFurryFriends V1 Slim Foot Paw](patterns/canine-generic-feet-paws.md#nicosfurryfriends-v1-slim-foot-paw) ![NicosFurryFriends V1 Slim Foot Paw](https://trello.com/1/cards/69890902292deda9cd02ae02/attachments/698909071546f77b80098773/download/il_794xN.6848068321_92yb.webp)|
 |[NicosFurryFriends V2 Slim Footpaw](patterns/canine-generic-feet-paws.md#nicosfurryfriends-v2-slim-footpaw) ![NicosFurryFriends V2 Slim Footpaw](https://trello.com/1/cards/6989093e2af7b378690a49e0/attachments/6989094c95d4783136d248d7/download/il_794xN.7118119568_nefc.webp)|[WingLeafWorkshop 2 Foam Feet](patterns/canine-generic-feet-paws.md#wingleafworkshop-2-foam-feet) ![WingLeafWorkshop 2 Foam Feet](https://trello.com/1/cards/6989ff82a2db689bafe2a68c/attachments/6989ffa0dc721f36d89757f0/download/image.png)|
 
-### Feet Hooves (12 cards)
+# Feet Hooves (12 cards)
 
 |Preview|Preview|
 |---|---|
@@ -189,7 +189,7 @@ This repo goal is to make Rangerkatt's Creations easy to access, as my laptop st
 |[PremiumFauntent EVA Hoof Template](patterns/feet-hooves.md#premiumfauntent-eva-hoof-template) ![PremiumFauntent EVA Hoof Template](https://trello.com/1/cards/65cf87b8da5b400b2d88ac7a/attachments/65cf87cedfa60be750be0d45/download/il_794xN.4769626824_liml.webp)|[Mugiwara Digi Horse Hoof](patterns/feet-hooves.md#mugiwara-digi-horse-hoof) ![Mugiwara Digi Horse Hoof](https://trello.com/1/cards/660960b7c46f5f10f05a5e51/attachments/660960c6bf31e6147908221f/download/il_794xN.5926452449_29yh.jpg)|
 |[Mugiwara Digi Cloven Hoof](patterns/feet-hooves.md#mugiwara-digi-cloven-hoof) ![Mugiwara Digi Cloven Hoof](https://trello.com/1/cards/660960c26efe98eeae926fe3/attachments/66096123822f27caef5722da/download/il_794xN.5912608833_de6c.webp)|[Sonstafurs Horse Feethooves](patterns/feet-hooves.md#sonstafurs-horse-feethooves) ![Sonstafurs Horse Feethooves](https://trello.com/1/cards/69021cb55d2726462202493b/attachments/69021cc1b0578cfcd1d91aad/download/image.png)|
 
-### Other Species Feet Paws (13 cards)
+# Other Species Feet Paws (13 cards)
 
 |Preview|Preview|
 |---|---|
@@ -201,7 +201,7 @@ This repo goal is to make Rangerkatt's Creations easy to access, as my laptop st
 |[OpossumCafe Indoor Opossum/Rodent Feetpaws](patterns/other-species-feet-paws.md#opossumcafe-indoor-opossum-rodent-feetpaws) ![OpossumCafe Indoor Opossum/Rodent Feetpaws](https://trello.com/1/cards/6904b9466850feb1066c8903/attachments/6904ba4cf7518a2af1c7da72/download/image.png)|[RudeBirdStudios Bird/Dragon/Dino Feet](patterns/other-species-feet-paws.md#rudebirdstudios-bird-dragon-dino-feet) ![RudeBirdStudios Bird/Dragon/Dino Feet](https://trello.com/1/cards/69890a0eaf8803c1e54ce401/attachments/69890a18f66b33cc5069ce26/download/il_794xN.7422020725_1a2u.webp)|
 |[RudeBirdStudios 3 Toed Paw Pattern](patterns/other-species-feet-paws.md#rudebirdstudios-3-toed-paw-pattern) ![RudeBirdStudios 3 Toed Paw Pattern](https://trello.com/1/cards/69890a87fe83d533af84c013/attachments/69890ac56ac90759263e278b/download/il_794xN.7494847037_9fp9.webp)||
 
-### Wings/Feathers (31 cards)
+# Wings/Feathers (31 cards)
 
 |Preview|Preview|
 |---|---|
@@ -222,7 +222,7 @@ This repo goal is to make Rangerkatt's Creations easy to access, as my laptop st
 |[ricochetxcrafts Fantasy/Lugia Wings](patterns/wings-feathers.md#ricochetxcrafts-fantasy-lugia-wings) ![ricochetxcrafts Fantasy/Lugia Wings](https://trello.com/1/cards/6904cb72225a0f7a30f69aad/attachments/6904cb93da690ce6d1ac9196/download/image.png)|[ChevalHoof Wing Pattern](patterns/wings-feathers.md#chevalhoof-wing-pattern) ![ChevalHoof Wing Pattern](https://trello.com/1/cards/6988f5136249a4011f23b9d6/attachments/6988f52ccb0511ca35884308/download/image.png)|
 |[NearValkyrie Butterfly Wings](patterns/wings-feathers.md#nearvalkyrie-butterfly-wings) ![NearValkyrie Butterfly Wings](https://trello.com/1/cards/6989e3e9c3e85f1b65b8b408/attachments/6989e3f010a28d3d92dec8e3/download/il_794xN.4815232225_735y.webp)||
 
-### Canine/Hyena Tails (47 cards)
+# Canine/Hyena Tails (47 cards)
 
 |Preview|Preview|
 |---|---|
@@ -251,7 +251,7 @@ This repo goal is to make Rangerkatt's Creations easy to access, as my laptop st
 |[KanixStudios Canine Tail](patterns/canine-hyena-tails.md#kanixstudios-canine-tail) ![KanixStudios Canine Tail](https://trello.com/1/cards/6989e079e659f0a7f557bedc/attachments/6989e07c2e41f140c33d46e7/download/il_794xN.5890616374_10l6.jpg)|[Yugoro Articulated Canine Tail](patterns/canine-hyena-tails.md#yugoro-articulated-canine-tail) ![Yugoro Articulated Canine Tail](https://trello.com/1/cards/6989e62abed3130c926d7e30/attachments/6989e63166f22f0f16551f02/download/il_794xN.7361794953_6nkg.webp)|
 |[WingLeafWorkshop Foam Canine Tail](patterns/canine-hyena-tails.md#wingleafworkshop-foam-canine-tail) ![WingLeafWorkshop Foam Canine Tail](https://trello.com/1/cards/6989fef29b0a4989bc11b5e2/attachments/6989fefe8b807f57c5f70037/download/image.png)||
 
-### Curly Tails (17 cards)
+# Curly Tails (17 cards)
 
 |Preview|Preview|
 |---|---|
@@ -265,7 +265,7 @@ This repo goal is to make Rangerkatt's Creations easy to access, as my laptop st
 |[SpiltGrapeSoda Standard Curly Tail Pattern](patterns/curly-tails.md#spiltgrapesoda-standard-curly-tail-pattern) ![SpiltGrapeSoda Standard Curly Tail Pattern](https://trello.com/1/cards/67c3a63eed7e31ede9347048/attachments/67c3a676552114de58f1fa46/download/il_794xN.6194735994_ac7e.webp)|[SpiltGrapeSoda Upright Curly Tail Pattern](patterns/curly-tails.md#spiltgrapesoda-upright-curly-tail-pattern) ![SpiltGrapeSoda Upright Curly Tail Pattern](https://trello.com/1/cards/67c3a69cde19192144d11e12/attachments/67c3a6ace8931972bb52073f/download/il_794xN.6242761839_6fw3.webp)|
 |[SpiltGrapeSoda Relaxed Curly Tail Pattern](patterns/curly-tails.md#spiltgrapesoda-relaxed-curly-tail-pattern) ![SpiltGrapeSoda Relaxed Curly Tail Pattern](https://trello.com/1/cards/67c3a6bfa81e07d30e6b06cd/attachments/67c3a6cfe5fb2c5df4f36d19/download/il_794xN.6242763023_h0yt.webp)||
 
-### Feline Tails (22 cards)
+# Feline Tails (22 cards)
 
 |Preview|Preview|
 |---|---|
@@ -281,7 +281,7 @@ This repo goal is to make Rangerkatt's Creations easy to access, as my laptop st
 |[Sonstafurs Lion Tail](patterns/feline-tails.md#sonstafurs-lion-tail) ![Sonstafurs Lion Tail](https://trello.com/1/cards/69021c97daf76eb95c83c8f2/attachments/69021ca1db608b0ca8326feb/download/image.png)|[HighValleyCreations Cat Tail](patterns/feline-tails.md#highvalleycreations-cat-tail) ![HighValleyCreations Cat Tail](https://trello.com/1/cards/6904d669766c21266f2d0a02/attachments/6904d66e067c5d297fa945c2/download/image.png)|
 |[SweetCiderCreation Large Feline Tail](patterns/feline-tails.md#sweetcidercreation-large-feline-tail) ![SweetCiderCreation Large Feline Tail](https://trello.com/1/cards/6929ca9a3ac5dfd3c4bbc8b0/attachments/6929cab12d264322338d414e/download/image.png)|[KanixStudios Feline Tail](patterns/feline-tails.md#kanixstudios-feline-tail) ![KanixStudios Feline Tail](https://trello.com/1/cards/6989dfdb068b5473e0f0219d/attachments/6989e00d807805fe6fa8032f/download/il_794xN.5951146559_m6rc.webp)|
 
-### Nub Tails (29 cards)
+# Nub Tails (29 cards)
 
 |Preview|Preview|
 |---|---|
@@ -301,7 +301,7 @@ This repo goal is to make Rangerkatt's Creations easy to access, as my laptop st
 |[KittenCafeStudios Deer Tail](patterns/nub-tails.md#kittencafestudios-deer-tail) ![KittenCafeStudios Deer Tail](https://trello.com/1/cards/6988f8feab6d004449ec8644/attachments/6988f904b1a092d9eac38356/download/il_794xN.7565492010_3xfz.webp)|[PuzzlePatchworks Deer Pattern](patterns/nub-tails.md#puzzlepatchworks-deer-pattern) ![PuzzlePatchworks Deer Pattern](https://trello.com/1/cards/6988fa38cd49c74b658d9a46/attachments/6988fa47ebaad28479a40488/download/il_600x600.6926907839_ivh5.webp)|
 |[DoubleTroubleFursuit Nub Tail](patterns/nub-tails.md#doubletroublefursuit-nub-tail) ![DoubleTroubleFursuit Nub Tail](https://trello.com/1/cards/6989def96f33e2eb2b6571b3/attachments/6989deffc9cb64f54e6413b0/download/il_794xN.3528322243_17zn.webp)||
 
-### Other Species Tails (48 cards)
+# Other Species Tails (48 cards)
 
 |Preview|Preview|
 |---|---|
@@ -330,7 +330,7 @@ This repo goal is to make Rangerkatt's Creations easy to access, as my laptop st
 |[BetweenSpace&Sea Seal Hand and Tail Pattern](patterns/other-species-tails.md#betweenspace-sea-seal-hand-and-tail-pattern) ![BetweenSpace&Sea Seal Hand and Tail Pattern](https://trello.com/1/cards/6989dd6338971b94a8f819ce/attachments/6989dd97266632b61692d888/download/il_794xN.7679769334_3o5g.webp)|[KanixStudios Large Racoon Tail](patterns/other-species-tails.md#kanixstudios-large-racoon-tail) ![KanixStudios Large Racoon Tail](https://trello.com/1/cards/6989e02eac2974132c29e3a4/attachments/6989e061fafbae7b53e4d201/download/il_794xN.4980600584_72hl.jpg)|
 |[NearValkyrie 4 Foam Tails](patterns/other-species-tails.md#nearvalkyrie-4-foam-tails) ![NearValkyrie 4 Foam Tails](https://trello.com/1/cards/6989e2d1c703e568c3de8428/attachments/6989e2ff11f8c04788681a00/download/il_794xN.4811227215_ipfp.webp)|[SaberWolfStudio Monster Mouth Tail](patterns/other-species-tails.md#saberwolfstudio-monster-mouth-tail) ![SaberWolfStudio Monster Mouth Tail](https://trello.com/1/cards/6aaeaf513521c296f579bee2/attachments/6aaeaf587aa8011c72029623/download/image.png)|
 
-### Noses (10 cards)
+# Noses (10 cards)
 
 |Preview|Preview|
 |---|---|
@@ -340,7 +340,7 @@ This repo goal is to make Rangerkatt's Creations easy to access, as my laptop st
 |[TeacupLion Cat and Dog Nose](patterns/noses.md#teacuplion-cat-and-dog-nose) ![TeacupLion Cat and Dog Nose](https://trello.com/1/cards/66f817f9edff211e73ea2d9e/attachments/66f8181696b265c49183c1d9/download/il_794xN.6348332281_cu0p.webp)|[KittenCafeStudios Fursuit Nose](patterns/noses.md#kittencafestudios-fursuit-nose) ![KittenCafeStudios Fursuit Nose](https://trello.com/1/cards/67a6929c792e3c42ec975a5e/attachments/67a69315004d73bb6e3acbab/download/il_794xN.6649872771_6r4i.webp)|
 |[FrostiHadaSundae Bat Nose Pattern](patterns/noses.md#frostihadasundae-bat-nose-pattern) ![FrostiHadaSundae Bat Nose Pattern](https://trello.com/1/cards/67edaea98baa797490576fbb/attachments/67edaead62112a56e3528fe5/download/il_794xN.6751996058_lvpa.webp)|[KaiyuWolfArt Pickabable Nose Pattern](patterns/noses.md#kaiyuwolfart-pickabable-nose-pattern) ![KaiyuWolfArt Pickabable Nose Pattern](https://trello.com/1/cards/690217c5893c6791e568191f/attachments/690217cda6697f9924813ddd/download/il_794xN.6783215017_o5s3.webp)|
 
-### Tongues (15 cards)
+# Tongues (15 cards)
 
 |Preview|Preview|
 |---|---|
@@ -353,7 +353,7 @@ This repo goal is to make Rangerkatt's Creations easy to access, as my laptop st
 |[CactusDogStudio Velcro Bird Tongue (3 sizes)](patterns/tongues.md#cactusdogstudio-velcro-bird-tongue-3-sizes) ![CactusDogStudio Velcro Bird Tongue (3 sizes)](https://trello.com/1/cards/6929bc65248374861a681c43/attachments/6929bcb615ec1a41a68be6d6/download/il_794xN.6871348018_qfin.webp)|[MoonDeityCrafts Tongue Templates (Snake + Normal)](patterns/tongues.md#moondeitycrafts-tongue-templates-snake-normal) ![MoonDeityCrafts Tongue Templates (Snake + Normal)](https://trello.com/1/cards/6989db53274573128107fe8f/attachments/6989db816db6df235e7821f6/download/image.png)|
 |[Kodasuits  Forked Tongue](patterns/tongues.md#kodasuits-forked-tongue) ![Kodasuits  Forked Tongue](https://trello.com/1/cards/6989de542bb679adea69912d/attachments/6989de583c1b8bd68cd2ba1c/download/il_794xN.6727031913_l7pp.webp)||
 
-### Teeth and Gums (6 cards)
+# Teeth and Gums (6 cards)
 
 |Preview|Preview|
 |---|---|
@@ -361,7 +361,7 @@ This repo goal is to make Rangerkatt's Creations easy to access, as my laptop st
 |[ATD Fursuits Mouth Ridges Tutorial](patterns/teeth-and-gums.md#atd-fursuits-mouth-ridges-tutorial) ![ATD Fursuits Mouth Ridges Tutorial](https://trello.com/1/cards/687d085cba3eb5b77fc69e04/attachments/687d088512ff97255d4e7068/download/image.png)|[Kodasuits 3 Jawset Patterns (Canine, Herbivore, Carnivore/Raptor)](patterns/teeth-and-gums.md#kodasuits-3-jawset-patterns-canine-herbivore-carnivore-raptor) ![Kodasuits 3 Jawset Patterns (Canine, Herbivore, Carnivore/Raptor)](https://trello.com/1/cards/69021de408b172b8f27069ba/attachments/69021e0a5f14d18283940229/download/image.png)|
 |[RudeBirdStudios Teeth/Maw Pattern](patterns/teeth-and-gums.md#rudebirdstudios-teeth-maw-pattern) ![RudeBirdStudios Teeth/Maw Pattern](https://trello.com/1/cards/69890c07bb42ec8ab912deae/attachments/69890c4ef3a27a1b2e465569/download/il_794xN.7529253721_8fxi.webp)|[KittenCafeStudios Teeth](patterns/teeth-and-gums.md#kittencafestudios-teeth) ![KittenCafeStudios Teeth](https://trello.com/1/cards/69890b88e0497ddff4275d74/attachments/69890b88e0497ddff4275dc9/download/il_600x600.6649937477_i567.webp)|
 
-### Horns (15 cards)
+# Horns (15 cards)
 
 |Preview|Preview|
 |---|---|
@@ -374,7 +374,7 @@ This repo goal is to make Rangerkatt's Creations easy to access, as my laptop st
 |[ATD Fursuits Pleated Horn TUTORIAL](patterns/horns.md#atd-fursuits-pleated-horn-tutorial) ![ATD Fursuits Pleated Horn TUTORIAL](https://trello.com/1/cards/697f5eaa5b193f11d7f332fd/attachments/697f5eb3404e58ec53848a83/download/image.png)|[ChilliCosplay 14 Horn Patterns](patterns/horns.md#chillicosplay-14-horn-patterns) ![ChilliCosplay 14 Horn Patterns](https://trello.com/1/cards/697f638ecbe552c03b94d513/attachments/697f641f508be156e72fa6bf/download/il_794xN.2235390749_15gn.webp)|
 |[Siwencosplaypatterns 5 Horn Patterns](patterns/horns.md#siwencosplaypatterns-5-horn-patterns) ![Siwencosplaypatterns 5 Horn Patterns](https://trello.com/1/cards/69890190b90dfd9d6fe17927/attachments/6989019dcf9039d58c31eb7b/download/il_794xN.6638482027_9ls1.webp)||
 
-### Ears (23 cards)
+# Ears (23 cards)
 
 |Preview|Preview|
 |---|---|
@@ -391,7 +391,7 @@ This repo goal is to make Rangerkatt's Creations easy to access, as my laptop st
 |[MoonDeityCrafts Cat Ear Template](patterns/ears.md#moondeitycrafts-cat-ear-template) ![MoonDeityCrafts Cat Ear Template](https://trello.com/1/cards/6989dc161d121a42f81dc9e0/attachments/6989dc2bcbb541cc92aae2e5/download/il_794xN.5645883384_rrrl.webp)|[SplitSharkSuits 5 Ear Styles](patterns/ears.md#splitsharksuits-5-ear-styles) ![SplitSharkSuits 5 Ear Styles](https://trello.com/1/cards/6989e6acf976a5cdb6179af1/attachments/6989e6fe89e486df19eed277/download/il_794xN.7486537554_6nfq.webp)|
 |[TheMishfitToy 15 Ear Patterns](patterns/ears.md#themishfittoy-15-ear-patterns) ![TheMishfitToy 15 Ear Patterns](https://trello.com/1/cards/6989f4f8211767a025474edc/attachments/6989fa4d2316a832d763802a/download/image.png)||
 
-### Necks & Dino Mask Hoods (18 cards)
+# Necks & Dino Mask Hoods (18 cards)
 
 |Preview|Preview|
 |---|---|
@@ -405,7 +405,7 @@ This repo goal is to make Rangerkatt's Creations easy to access, as my laptop st
 |[SplitSharkStudios Dino Hood](patterns/necks-dino-mask-hoods.md#splitsharkstudios-dino-hood) ![SplitSharkStudios Dino Hood](https://trello.com/1/cards/6989e8614d3b2e38322bb951/attachments/6989e86c4b3d3141342f35cf/download/il_794xN.7406585342_rz1v.webp)|[North Cat Creations Fursuit Neck Pattern](patterns/necks-dino-mask-hoods.md#north-cat-creations-fursuit-neck-pattern) ![North Cat Creations Fursuit Neck Pattern](https://trello.com/1/cards/6727e80c4bc18c6dbbe8963f/attachments/6727e813233033b44bf4c173/download/il_794xN.6331647063_gyc9.webp)|
 |[TeacupLion Neck Pattern](patterns/necks-dino-mask-hoods.md#teacuplion-neck-pattern) ![TeacupLion Neck Pattern](https://trello.com/1/cards/66e218d9286ffef6ecc6339e/attachments/66e218e4959f2c6c97b78103/download/il_600x600.6251302198_6227.webp)|[TeacupLion Neck & Head Back](patterns/necks-dino-mask-hoods.md#teacuplion-neck-head-back) ![TeacupLion Neck & Head Back](https://trello.com/1/cards/6904d9fd5d315dab37be3eee/attachments/6904da03eb18a46226076496/download/image.png)|
 
-### Head Liners (21 cards)
+# Head Liners (21 cards)
 
 |Preview|Preview|
 |---|---|
@@ -421,7 +421,7 @@ This repo goal is to make Rangerkatt's Creations easy to access, as my laptop st
 |[BloodngOOld Fursuit Neck + Hood](patterns/head-liners.md#bloodngoold-fursuit-neck-hood) ![BloodngOOld Fursuit Neck + Hood](https://trello.com/1/cards/6904d5d13ba9c7013cc3e563/attachments/6904d5d936993facb7215c19/download/image.png)|[OtterHalfCostumes Lined Neck w/Zipper](patterns/head-liners.md#otterhalfcostumes-lined-neck-w-zipper) ![OtterHalfCostumes Lined Neck w/Zipper](https://trello.com/1/cards/6989051fbc8e8f2ac761c6c0/attachments/69890525dfe376fc3cfe1004/download/il_794xN.7645068824_g0py.webp)|
 |[OtterHalfCostumes Adjustable Head Base Liner](patterns/head-liners.md#otterhalfcostumes-adjustable-head-base-liner) ![OtterHalfCostumes Adjustable Head Base Liner](https://trello.com/1/cards/698906dd4c6a019ee7e2571b/attachments/698906f81ba95d134a62df18/download/il_794xN.6686581587_5r4g.webp)||
 
-### Bucket Patterns (10 cards)
+# Bucket Patterns (10 cards)
 
 |Preview|Preview|
 |---|---|
@@ -431,7 +431,7 @@ This repo goal is to make Rangerkatt's Creations easy to access, as my laptop st
 |[SkyehighStudios Bucket Head Base](patterns/bucket-patterns.md#skyehighstudios-bucket-head-base) ![SkyehighStudios Bucket Head Base](https://trello.com/1/cards/64aafbde1ee7633eb36f4082/attachments/64aafc14ed0b863076d59dfc/download/image.png)|[DoubleTroubleFursuit Head Dome](patterns/bucket-patterns.md#doubletroublefursuit-head-dome) ![DoubleTroubleFursuit Head Dome](https://trello.com/1/cards/64ab029777364944a3750d07/attachments/64ab02ba16dfa3b9fd1c254b/download/image.png)|
 |[FatUnicornCosplay Basic Helmet](patterns/bucket-patterns.md#fatunicorncosplay-basic-helmet) ![FatUnicornCosplay Basic Helmet](https://trello.com/1/cards/6525e19c7cc0a80177bb9055/attachments/6525e1a735c34b1f502715c5/download/il_794xN.4853943578_tck5.jpg)|[Geknome Bucket Head](patterns/bucket-patterns.md#geknome-bucket-head) ![Geknome Bucket Head](https://trello.com/1/cards/6594d5162719046ee6d0cea7/attachments/6594d51d2892bda601adda21/download/il_794xN.5346051847_80n6.webp)|
 
-### Head Patterns (33 cards)
+# Head Patterns (33 cards)
 
 |Preview|Preview|
 |---|---|
@@ -453,7 +453,7 @@ This repo goal is to make Rangerkatt's Creations easy to access, as my laptop st
 |[WingLeafWorkshop EVA Head](patterns/head-patterns.md#wingleafworkshop-eva-head) ![WingLeafWorkshop EVA Head](https://trello.com/1/cards/6727e34c8aa0f0515632c646/attachments/6727e35080851dc2648e7531/download/il_794xN.6187937046_fhza.webp)|[WingLeafWorkshop 4 Foam Head Bases](patterns/head-patterns.md#wingleafworkshop-4-foam-head-bases) ![WingLeafWorkshop 4 Foam Head Bases](https://trello.com/1/cards/6989fdf9aff1577ab2b92661/attachments/6989fe0322045a463e825455/download/image.png)|
 |[DoubleTroubleFursuit Canine Headbase](patterns/head-patterns.md#doubletroublefursuit-canine-headbase) ![DoubleTroubleFursuit Canine Headbase](https://trello.com/1/cards/6aaeae810e1c20f573756eb4/attachments/6aaeae8af379eb6f9d5ad048/download/image.png)||
 
-### Fursuit Hair (8 cards)
+# Fursuit Hair (8 cards)
 
 |Preview|Preview|
 |---|---|
@@ -462,7 +462,7 @@ This repo goal is to make Rangerkatt's Creations easy to access, as my laptop st
 |[KittenCafeStudios Neck Donut Poof](patterns/fursuit-hair.md#kittencafestudios-neck-donut-poof) ![KittenCafeStudios Neck Donut Poof](https://trello.com/1/cards/67a6925ab70fc6890c88bbf0/attachments/67a6926c0915086e6257963f/download/il_794xN.6622684495_fmcw.webp)|[TeacupLion 4 Cheek Fluffs](patterns/fursuit-hair.md#teacuplion-4-cheek-fluffs) ![TeacupLion 4 Cheek Fluffs](https://trello.com/1/cards/6989d7353d79a71e43b2b716/attachments/6989d779ef50a39ec461216b/download/il_794xN.6334452774_l4r3.webp)|
 |[TeacupLion Head Fluff](patterns/fursuit-hair.md#teacuplion-head-fluff) ![TeacupLion Head Fluff](https://trello.com/1/cards/6989d7e9c6679c062f2fae55/attachments/6989d7ec5f8d1d1efdca6cc0/download/il_794xN.6421555636_j75c.webp)|[TeacupLion Deluxe Emo Hair](patterns/fursuit-hair.md#teacuplion-deluxe-emo-hair) ![TeacupLion Deluxe Emo Hair](https://trello.com/1/cards/6989d88e27ea47fd2abaf62e/attachments/6989d897b5fe9061f9d9bb57/download/il_794xN.6899318877_lxu7.webp)|
 
-### Embroidery Files (5 cards)
+# Embroidery Files (5 cards)
 
 |Preview|Preview|
 |---|---|
@@ -470,7 +470,7 @@ This repo goal is to make Rangerkatt's Creations easy to access, as my laptop st
 |[FrostyFurs 6 Tongue Files](patterns/embroidery-files.md#frostyfurs-6-tongue-files) ![FrostyFurs 6 Tongue Files](https://trello.com/1/cards/65dd122c2add4bccfab22f6c/attachments/65dd122d2add4bccfab23114/download/il_794xN.5835664735_p04x.webp)|[FrostiHadaSundae Hand Paw Files](patterns/embroidery-files.md#frostihadasundae-hand-paw-files) ![FrostiHadaSundae Hand Paw Files](https://trello.com/1/cards/65dd12e0d6fd808aa150b195/attachments/65dd12e8ea14dd4ee352f667/download/il_794xN.5753267793_1klv.jpg)|
 |[FrostiHadaSundae Foot Paw Files](patterns/embroidery-files.md#frostihadasundae-foot-paw-files) ![FrostiHadaSundae Foot Paw Files](https://trello.com/1/cards/65dd127310282ba24f5637b9/attachments/65dd12938cac071d1df02e7c/download/il_794xN.5753407279_37nz.jpg)||
 
-### Helpful Extras for Fursuit Parts (41 cards)
+# Helpful Extras for Fursuit Parts (41 cards)
 
 |Preview|Preview|
 |---|---|
@@ -496,7 +496,7 @@ This repo goal is to make Rangerkatt's Creations easy to access, as my laptop st
 |[KittenCafeStudio Footpaw Sandals (2 ver.)](patterns/helpful-extras-for-fursuit-parts.md#kittencafestudio-footpaw-sandals-2-ver) ![KittenCafeStudio Footpaw Sandals (2 ver.)](https://trello.com/1/cards/6988f857d69cf96b818921fe/attachments/6988f85bde1c012996b13d30/download/il_794xN.7565500158_d2ip.webp)|[KittenCafeStudios Neck Donut](patterns/helpful-extras-for-fursuit-parts.md#kittencafestudios-neck-donut) ![KittenCafeStudios Neck Donut](https://trello.com/1/cards/6988f959ada0e157b178e6f6/attachments/6988f95f916e468ccb27edcc/download/il_794xN.6622684495_fmcw.webp)|
 |[KittenCafeStudios Head Bag Pattern](patterns/helpful-extras-for-fursuit-parts.md#kittencafestudios-head-bag-pattern) ![KittenCafeStudios Head Bag Pattern](https://trello.com/1/cards/6988f9a2da7b32abe95d1492/attachments/6988f9c0f9f15b30dd7e4c78/download/il_794xN.7613455987_6667.webp)||
 
-### Helpful Extras (13 cards)
+# Helpful Extras (13 cards)
 
 |Preview|Preview|
 |---|---|
@@ -508,7 +508,7 @@ This repo goal is to make Rangerkatt's Creations easy to access, as my laptop st
 |[Changling Cat's Fursona Ita Bag Covers](patterns/helpful-extras.md#changling-cat-s-fursona-ita-bag-covers) ![Changling Cat's Fursona Ita Bag Covers](https://trello.com/1/cards/662cd3c2d4b60d16a1843d05/attachments/662cd415399838d163310711/download/Screenshot_20240427_063104.jpg)|[WingLeafWorkshop Plush Canine Pattern](patterns/helpful-extras.md#wingleafworkshop-plush-canine-pattern) ![WingLeafWorkshop Plush Canine Pattern](https://trello.com/1/cards/6727e3a1b96c8beaf6aa64d7/attachments/6727e3a4603717e8c4665eb4/download/il_794xN.6178968992_qyx2.webp)|
 |[TeacupLion's Fursuit Making Guide](patterns/helpful-extras.md#teacuplion-s-fursuit-making-guide) ![TeacupLion's Fursuit Making Guide](https://trello.com/1/cards/66e21b28abfd434e4a725f60/attachments/66e21b6050cd90db656ab809/download/image.png)||
 
-### Foam Head Patterns (10 cards)
+# Foam Head Patterns (10 cards)
 
 |Preview|Preview|
 |---|---|

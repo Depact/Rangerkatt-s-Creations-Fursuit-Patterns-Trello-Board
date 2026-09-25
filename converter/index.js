@@ -15,6 +15,32 @@ function one(x) { return x ?? ''; }
 function clean(x) { return x?.trim() || ''; }
 function alt(x) { return x.replace(/\\/g, '\\\\').replace(/`/g, '\\`').replace(/\\*/g, '\\*'); }
 
+/* --- helper: detect image by URL extension --- */
+function isImageUrl(url) {
+  if (!url) return false;
+  try {
+    const u = new URL(url);
+    const ext = u.pathname.split('.').pop()?.toLowerCase() || '';
+    return ['jpg', 'jpeg', 'png', 'gif', 'webp', 'avif', 'bmp', 'svg'].includes(ext);
+  } catch {
+    return false;
+  }
+}
+
+/* --- helper: extract first image URL from attachments or description --- */
+function getFirstImageUrl(item) {
+  // Check attachments first
+  const fromAttach = item.attachments?.find(a => a?.mimeType?.startsWith('image/') || isImageUrl(a?.url))?.url;
+  if (fromAttach) return fromAttach;
+  // Fallback: scan description for image URLs
+  if (item.desc) {
+    const urls = item.desc.match(/https?:\/\/[^\s)]+/g) || [];
+    const imgUrl = urls.find(u => isImageUrl(u));
+    if (imgUrl) return imgUrl;
+  }
+  return '';
+}
+
 /* --- helper: create 2-col preview grid markdown --- */
 function createItemGridMarkdown(items, listName, count, sectionFile) {
   if (items.length === 0) return '';
@@ -22,11 +48,10 @@ function createItemGridMarkdown(items, listName, count, sectionFile) {
   const makeCell = (item) => {
     if (!item) return '';
     const itemAnchor = slug(one(item.name));
-    const firstItemImg = (item.attachments?.find(a => a?.mimeType?.startsWith('image/'))?.url) || '';
+    const firstItemImg = getFirstImageUrl(item);
     const imageMd = firstItemImg 
       ? `![${one(item.name)}](${firstItemImg})`
       : '*No image*';
-    // Link to section file + anchor
     return `[${one(item.name)}](${sectionFile}#${itemAnchor}) ${imageMd}`;
   };
   
@@ -39,7 +64,7 @@ function createItemGridMarkdown(items, listName, count, sectionFile) {
     rows.push(`|${cells.join('|')}|`);
   }
   
-  const header = `### ${listName} (${count} cards)\n\n|Preview|Preview|\n|---|---|`;
+  const header = `# ${listName} (${count} cards)\n\n|Preview|Preview|\n|---|---|`;
   return [header, ...rows].join('\n');
 }
 
@@ -130,7 +155,7 @@ async function run(jsonFile, OUT) {
 
       let n = 0;
       for (const att of c.attachments ?? []) {
-        if (!att.mimeType?.startsWith('image/')) continue;
+        if (!att.mimeType?.startsWith('image/') && !isImageUrl(att.url)) continue;
         try { new URL(att.url); } catch { continue; }
         n++; totalRefs++;
         let ext = '.png';
