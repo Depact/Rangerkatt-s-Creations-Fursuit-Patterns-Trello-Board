@@ -294,7 +294,6 @@ async function run(jsonFile, OUT) {
       for (const localPath of paths.section) {
         lines.push(`${mdImg(alt(c.name), localPath)}`, '');
       }
-      // If still no images, note it
       if (paths.section.length === 0) {
         lines.push('*No images available*', '');
       }
