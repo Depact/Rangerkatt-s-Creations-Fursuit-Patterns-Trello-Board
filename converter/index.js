@@ -158,7 +158,7 @@ async function run(jsonFile, OUT) {
     for (const c of items) {
       const cardAnchor = slug(one(c.name));
       const cardDir    = sanitize(one(c.name)).slice(0, 100) || 'card';
-      const relDir     = `../attachments/${listDir}/${cardDir}`;
+      const relDir     = `attachments/${listDir}/${cardDir}`;
       const imgRelDir  = relDir.split('\\').join('/');
       const absDir     = path.join(outDir, 'attachments', listDir, cardDir);
       
@@ -277,7 +277,7 @@ async function run(jsonFile, OUT) {
       totalCards++;
       const cardAnchor = slug(one(c.name));
       const cardDir    = sanitize(one(c.name)).slice(0, 100) || 'card';
-      const relDir     = `../attachments/${listDir}/${cardDir}`;
+      const relDir     = `attachments/${listDir}/${cardDir}`;
       const imgRelDir  = relDir.split('\\').join('/');
       const tags       = (c.labels ?? []).map(l => l.name).filter(Boolean).map(l => l.name);
 

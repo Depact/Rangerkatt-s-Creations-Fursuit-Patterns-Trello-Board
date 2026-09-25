@@ -14,7 +14,7 @@
 
 [https://www.youtube.com/watch?v=emC_mtjL8Ro](https://www.youtube.com/watch?v=emC_mtjL8Ro "smartCard-inline")
 
-![\*M\*u\*g\*i\*w\*a\*r\*a\* \*7\* \*T\*o\*n\*g\*u\*e\* \*P\*a\*t\*t\*e\*r\*n\*s\*](<../attachments/Tongues/Mugiwara 7 Tongue Patterns/image-01.png>)
+![\*M\*u\*g\*i\*w\*a\*r\*a\* \*7\* \*T\*o\*n\*g\*u\*e\* \*P\*a\*t\*t\*e\*r\*n\*s\*](<attachments/Tongues/Mugiwara 7 Tongue Patterns/image-01.png>)
 
 ---
 
@@ -24,7 +24,7 @@
 
 [https://www.etsy.com/ca/listing/1395782788/fursuit-tongue-pattern-9-designs-digital](https://www.etsy.com/ca/listing/1395782788/fursuit-tongue-pattern-9-designs-digital "smartCard-inline")
 
-![\*K\*o\*i\*F\*i\*s\*h\*y\*C\*o\*s\*t\*u\*m\*e\*s\*](../attachments/Tongues/KoiFishyCostumes/image-01.png)
+![\*K\*o\*i\*F\*i\*s\*h\*y\*C\*o\*s\*t\*u\*m\*e\*s\*](attachments/Tongues/KoiFishyCostumes/image-01.png)
 
 ---
 
@@ -34,9 +34,9 @@
 
 [https://www.etsy.com/ca/listing/1379059559/fursuit-tongue-patterns-3-lengths](https://www.etsy.com/ca/listing/1379059559/fursuit-tongue-patterns-3-lengths "smartCard-inline")
 
-![\*H\*o\*w\*l\*i\*n\*g\*D\*r\*a\*g\*o\*n\*S\*t\*u\*d\*i\*o\*s\* \*3\* \*t\*o\*n\*g\*u\*e\* \*l\*e\*n\*g\*t\*h\*s\*](<../attachments/Tongues/HowlingDragonStudios 3 tongue lengths/image-01.png>)
+![\*H\*o\*w\*l\*i\*n\*g\*D\*r\*a\*g\*o\*n\*S\*t\*u\*d\*i\*o\*s\* \*3\* \*t\*o\*n\*g\*u\*e\* \*l\*e\*n\*g\*t\*h\*s\*](<attachments/Tongues/HowlingDragonStudios 3 tongue lengths/image-01.png>)
 
-![\*H\*o\*w\*l\*i\*n\*g\*D\*r\*a\*g\*o\*n\*S\*t\*u\*d\*i\*o\*s\* \*3\* \*t\*o\*n\*g\*u\*e\* \*l\*e\*n\*g\*t\*h\*s\*](<../attachments/Tongues/HowlingDragonStudios 3 tongue lengths/image-02.jpg>)
+![\*H\*o\*w\*l\*i\*n\*g\*D\*r\*a\*g\*o\*n\*S\*t\*u\*d\*i\*o\*s\* \*3\* \*t\*o\*n\*g\*u\*e\* \*l\*e\*n\*g\*t\*h\*s\*](<attachments/Tongues/HowlingDragonStudios 3 tongue lengths/image-02.jpg>)
 
 ---
 
@@ -46,11 +46,11 @@
 
 [https://www.etsy.com/ca/listing/1479225748/fursuit-tongue-and-teeth-pattern](https://www.etsy.com/ca/listing/1479225748/fursuit-tongue-and-teeth-pattern "‌")
 
-![\*w\*e\*r\*e\*w\*o\*l\*f\*p\*r\*i\*n\*c\*e\*6\*6\*6\* \*T\*e\*e\*t\*h\* \*a\*n\*d\* \*T\*o\*n\*g\*u\*e\*s\*](<../attachments/Tongues/werewolfprince666 Teeth and Tongues/image-01.png>)
+![\*w\*e\*r\*e\*w\*o\*l\*f\*p\*r\*i\*n\*c\*e\*6\*6\*6\* \*T\*e\*e\*t\*h\* \*a\*n\*d\* \*T\*o\*n\*g\*u\*e\*s\*](<attachments/Tongues/werewolfprince666 Teeth and Tongues/image-01.png>)
 
-![\*w\*e\*r\*e\*w\*o\*l\*f\*p\*r\*i\*n\*c\*e\*6\*6\*6\* \*T\*e\*e\*t\*h\* \*a\*n\*d\* \*T\*o\*n\*g\*u\*e\*s\*](<../attachments/Tongues/werewolfprince666 Teeth and Tongues/image-02.png>)
+![\*w\*e\*r\*e\*w\*o\*l\*f\*p\*r\*i\*n\*c\*e\*6\*6\*6\* \*T\*e\*e\*t\*h\* \*a\*n\*d\* \*T\*o\*n\*g\*u\*e\*s\*](<attachments/Tongues/werewolfprince666 Teeth and Tongues/image-02.png>)
 
-![\*w\*e\*r\*e\*w\*o\*l\*f\*p\*r\*i\*n\*c\*e\*6\*6\*6\* \*T\*e\*e\*t\*h\* \*a\*n\*d\* \*T\*o\*n\*g\*u\*e\*s\*](<../attachments/Tongues/werewolfprince666 Teeth and Tongues/image-03.png>)
+![\*w\*e\*r\*e\*w\*o\*l\*f\*p\*r\*i\*n\*c\*e\*6\*6\*6\* \*T\*e\*e\*t\*h\* \*a\*n\*d\* \*T\*o\*n\*g\*u\*e\*s\*](<attachments/Tongues/werewolfprince666 Teeth and Tongues/image-03.png>)
 
 ---
 
@@ -60,7 +60,7 @@
 
 [https://www.etsy.com/ca/listing/1031252614/pattern-and-tutorial-sewn-teeth-for](https://www.etsy.com/ca/listing/1031252614/pattern-and-tutorial-sewn-teeth-for "smartCard-inline")
 
-![\*M\*a\*t\*r\*i\*c\*e\*s\* \*S\*e\*w\*n\* \*T\*e\*e\*t\*h\* \*T\*u\*t\*o\*r\*i\*a\*l\*](<../attachments/Tongues/Matrices Sewn Teeth Tutorial/image-01.png>)
+![\*M\*a\*t\*r\*i\*c\*e\*s\* \*S\*e\*w\*n\* \*T\*e\*e\*t\*h\* \*T\*u\*t\*o\*r\*i\*a\*l\*](<attachments/Tongues/Matrices Sewn Teeth Tutorial/image-01.png>)
 
 ---
 
@@ -70,9 +70,9 @@
 
 [https://www.etsy.com/ca/listing/1223590856/pattern-and-tutorial-sewn-tongues-for](https://www.etsy.com/ca/listing/1223590856/pattern-and-tutorial-sewn-tongues-for "smartCard-inline")
 
-![\*M\*a\*t\*r\*i\*c\*e\*s\* \*T\*o\*n\*g\*u\*e\* \*T\*u\*t\*o\*r\*i\*a\*l\*](<../attachments/Tongues/Matrices Tongue Tutorial/image-01.png>)
+![\*M\*a\*t\*r\*i\*c\*e\*s\* \*T\*o\*n\*g\*u\*e\* \*T\*u\*t\*o\*r\*i\*a\*l\*](<attachments/Tongues/Matrices Tongue Tutorial/image-01.png>)
 
-![\*M\*a\*t\*r\*i\*c\*e\*s\* \*T\*o\*n\*g\*u\*e\* \*T\*u\*t\*o\*r\*i\*a\*l\*](<../attachments/Tongues/Matrices Tongue Tutorial/image-02.png>)
+![\*M\*a\*t\*r\*i\*c\*e\*s\* \*T\*o\*n\*g\*u\*e\* \*T\*u\*t\*o\*r\*i\*a\*l\*](<attachments/Tongues/Matrices Tongue Tutorial/image-02.png>)
 
 ---
 
@@ -84,7 +84,7 @@
 
 [https://www.etsy.com/ca/listing/1493220821/fursuit-tongue-pattern-digital-download](https://www.etsy.com/ca/listing/1493220821/fursuit-tongue-pattern-digital-download "smartCard-inline")
 
-![\*M\*a\*y\*i\*n\*g\*f\*a\*n\*t\*a\*s\*y\* \*5\* \*T\*o\*n\*g\*u\*e\* \*P\*a\*t\*t\*e\*r\*n\*s\*](<../attachments/Tongues/Mayingfantasy 5 Tongue Patterns/image-01.jpg>)
+![\*M\*a\*y\*i\*n\*g\*f\*a\*n\*t\*a\*s\*y\* \*5\* \*T\*o\*n\*g\*u\*e\* \*P\*a\*t\*t\*e\*r\*n\*s\*](<attachments/Tongues/Mayingfantasy 5 Tongue Patterns/image-01.jpg>)
 
 ---
 
@@ -96,7 +96,7 @@ Sewing machine and hand sewing pattern:
 
 [https://www.etsy.com/ca/listing/1684174099/fursuit-tongue-pattern-bundle-6-shapes](https://www.etsy.com/ca/listing/1684174099/fursuit-tongue-pattern-bundle-6-shapes "smartCard-inline")
 
-![\*F\*r\*o\*s\*t\*y\*F\*u\*r\*s\* \*6\* \*T\*o\*n\*g\*u\*e\* \*S\*h\*a\*p\*e\*s\*](<../attachments/Tongues/FrostyFurs 6 Tongue Shapes/image-01.webp>)
+![\*F\*r\*o\*s\*t\*y\*F\*u\*r\*s\* \*6\* \*T\*o\*n\*g\*u\*e\* \*S\*h\*a\*p\*e\*s\*](<attachments/Tongues/FrostyFurs 6 Tongue Shapes/image-01.webp>)
 
 ---
 
@@ -106,7 +106,7 @@ Sewing machine and hand sewing pattern:
 
 [https://www.etsy.com/ca/listing/1241748262/tongue-pattern-step-by-step-instructions](https://www.etsy.com/ca/listing/1241748262/tongue-pattern-step-by-step-instructions "smartCard-inline")
 
-![\*F\*u\*r\*r\*y\*B\*u\*n\*B\*u\*n\* \*F\*l\*e\*x\*i\*b\*l\*e\* \*T\*o\*n\*g\*u\*e\* \*P\*a\*t\*t\*e\*r\*n\*](<../attachments/Tongues/FurryBunBun Flexible Tongue Pattern/image-01.webp>)
+![\*F\*u\*r\*r\*y\*B\*u\*n\*B\*u\*n\* \*F\*l\*e\*x\*i\*b\*l\*e\* \*T\*o\*n\*g\*u\*e\* \*P\*a\*t\*t\*e\*r\*n\*](<attachments/Tongues/FurryBunBun Flexible Tongue Pattern/image-01.webp>)
 
 ---
 
@@ -120,11 +120,11 @@ Forked Tongue: [https://www.etsy.com/ca/listing/1552581241/fursuit-forked-tongue
 
 Pierced Tongue (read description): [https://www.etsy.com/ca/listing/1552585503/fursuit-pierced-tongue-pattern-template](https://www.etsy.com/ca/listing/1552585503/fursuit-pierced-tongue-pattern-template "smartCard-inline")
 
-![\*B\*l\*a\*c\*k\*M\*a\*r\*b\*l\*e\*F\*u\*r\*s\*u\*i\*t\*s\* \*3\* \*T\*o\*n\*g\*u\*e\*s\*](<../attachments/Tongues/BlackMarbleFursuits 3 Tongues/image-01.jpg>)
+![\*B\*l\*a\*c\*k\*M\*a\*r\*b\*l\*e\*F\*u\*r\*s\*u\*i\*t\*s\* \*3\* \*T\*o\*n\*g\*u\*e\*s\*](<attachments/Tongues/BlackMarbleFursuits 3 Tongues/image-01.jpg>)
 
-![\*B\*l\*a\*c\*k\*M\*a\*r\*b\*l\*e\*F\*u\*r\*s\*u\*i\*t\*s\* \*3\* \*T\*o\*n\*g\*u\*e\*s\*](<../attachments/Tongues/BlackMarbleFursuits 3 Tongues/image-02.jpg>)
+![\*B\*l\*a\*c\*k\*M\*a\*r\*b\*l\*e\*F\*u\*r\*s\*u\*i\*t\*s\* \*3\* \*T\*o\*n\*g\*u\*e\*s\*](<attachments/Tongues/BlackMarbleFursuits 3 Tongues/image-02.jpg>)
 
-![\*B\*l\*a\*c\*k\*M\*a\*r\*b\*l\*e\*F\*u\*r\*s\*u\*i\*t\*s\* \*3\* \*T\*o\*n\*g\*u\*e\*s\*](<../attachments/Tongues/BlackMarbleFursuits 3 Tongues/image-03.jpg>)
+![\*B\*l\*a\*c\*k\*M\*a\*r\*b\*l\*e\*F\*u\*r\*s\*u\*i\*t\*s\* \*3\* \*T\*o\*n\*g\*u\*e\*s\*](<attachments/Tongues/BlackMarbleFursuits 3 Tongues/image-03.jpg>)
 
 ---
 
@@ -136,7 +136,7 @@ Pierced Tongue (read description): [https://www.etsy.com/ca/listing/1552585503/f
 
 [https://www.etsy.com/ca/listing/1851432568/diy-fursuit-tongue-pattern-tutorial](https://www.etsy.com/ca/listing/1851432568/diy-fursuit-tongue-pattern-tutorial "smartCard-inline")
 
-![\*K\*i\*t\*t\*e\*n\*C\*a\*f\*e\*S\*t\*u\*d\*i\*o\*s\* \*T\*o\*n\*g\*u\*e\* \*P\*a\*t\*t\*e\*r\*n\*](<../attachments/Tongues/KittenCafeStudios Tongue Pattern/image-01.webp>)
+![\*K\*i\*t\*t\*e\*n\*C\*a\*f\*e\*S\*t\*u\*d\*i\*o\*s\* \*T\*o\*n\*g\*u\*e\* \*P\*a\*t\*t\*e\*r\*n\*](<attachments/Tongues/KittenCafeStudios Tongue Pattern/image-01.webp>)
 
 ---
 
@@ -146,7 +146,7 @@ Pierced Tongue (read description): [https://www.etsy.com/ca/listing/1552585503/f
 
 [https://www.etsy.com/ca/listing/1719740383/fursuit-sewing-pattern-teeth-tongue](https://www.etsy.com/ca/listing/1719740383/fursuit-sewing-pattern-teeth-tongue "‌")
 
-![\*T\*e\*a\*c\*u\*p\*L\*i\*o\*n\* \*T\*e\*e\*t\*h\* \*+\* \*T\*o\*n\*g\*u\*e\*](<../attachments/Tongues/TeacupLion Teeth + Tongue/image-01.png>)
+![\*T\*e\*a\*c\*u\*p\*L\*i\*o\*n\* \*T\*e\*e\*t\*h\* \*+\* \*T\*o\*n\*g\*u\*e\*](<attachments/Tongues/TeacupLion Teeth + Tongue/image-01.png>)
 
 ---
 
@@ -156,7 +156,7 @@ Pierced Tongue (read description): [https://www.etsy.com/ca/listing/1552585503/f
 
 [https://www.etsy.com/ca/listing/4307266611/fursuit-tongue-pattern-removable-velcro](https://www.etsy.com/ca/listing/4307266611/fursuit-tongue-pattern-removable-velcro "smartCard-inline")
 
-![\*C\*a\*c\*t\*u\*s\*D\*o\*g\*S\*t\*u\*d\*i\*o\* \*V\*e\*l\*c\*r\*o\* \*B\*i\*r\*d\* \*T\*o\*n\*g\*u\*e\* \*(\*3\* \*s\*i\*z\*e\*s\*)\*](<../attachments/Tongues/CactusDogStudio Velcro Bird Tongue (3 sizes)/image-01.webp>)
+![\*C\*a\*c\*t\*u\*s\*D\*o\*g\*S\*t\*u\*d\*i\*o\* \*V\*e\*l\*c\*r\*o\* \*B\*i\*r\*d\* \*T\*o\*n\*g\*u\*e\* \*(\*3\* \*s\*i\*z\*e\*s\*)\*](<attachments/Tongues/CactusDogStudio Velcro Bird Tongue (3 sizes)/image-01.webp>)
 
 ---
 
@@ -168,9 +168,9 @@ Normal:[https://www.etsy.com/ca/listing/1636986192/digital-fursuit-tongue-templa
 
 Snake: [https://www.etsy.com/ca/listing/1636965878/digital-fursuit-snake-tongue-template](https://www.etsy.com/ca/listing/1636965878/digital-fursuit-snake-tongue-template "smartCard-inline")
 
-![\*M\*o\*o\*n\*D\*e\*i\*t\*y\*C\*r\*a\*f\*t\*s\* \*T\*o\*n\*g\*u\*e\* \*T\*e\*m\*p\*l\*a\*t\*e\*s\* \*(\*S\*n\*a\*k\*e\* \*+\* \*N\*o\*r\*m\*a\*l\*)\*](<../attachments/Tongues/MoonDeityCrafts Tongue Templates (Snake + Normal)/image-01.png>)
+![\*M\*o\*o\*n\*D\*e\*i\*t\*y\*C\*r\*a\*f\*t\*s\* \*T\*o\*n\*g\*u\*e\* \*T\*e\*m\*p\*l\*a\*t\*e\*s\* \*(\*S\*n\*a\*k\*e\* \*+\* \*N\*o\*r\*m\*a\*l\*)\*](<attachments/Tongues/MoonDeityCrafts Tongue Templates (Snake + Normal)/image-01.png>)
 
-![\*M\*o\*o\*n\*D\*e\*i\*t\*y\*C\*r\*a\*f\*t\*s\* \*T\*o\*n\*g\*u\*e\* \*T\*e\*m\*p\*l\*a\*t\*e\*s\* \*(\*S\*n\*a\*k\*e\* \*+\* \*N\*o\*r\*m\*a\*l\*)\*](<../attachments/Tongues/MoonDeityCrafts Tongue Templates (Snake + Normal)/image-02.webp>)
+![\*M\*o\*o\*n\*D\*e\*i\*t\*y\*C\*r\*a\*f\*t\*s\* \*T\*o\*n\*g\*u\*e\* \*T\*e\*m\*p\*l\*a\*t\*e\*s\* \*(\*S\*n\*a\*k\*e\* \*+\* \*N\*o\*r\*m\*a\*l\*)\*](<attachments/Tongues/MoonDeityCrafts Tongue Templates (Snake + Normal)/image-02.webp>)
 
 ---
 
@@ -180,6 +180,6 @@ Snake: [https://www.etsy.com/ca/listing/1636965878/digital-fursuit-snake-tongue-
 
 [https://www.etsy.com/ca/listing/1866838818/forked-fursuit-tongue-pattern-furry-pdf](https://www.etsy.com/ca/listing/1866838818/forked-fursuit-tongue-pattern-furry-pdf "smartCard-inline")
 
-![\*K\*o\*d\*a\*s\*u\*i\*t\*s\* \* \*F\*o\*r\*k\*e\*d\* \*T\*o\*n\*g\*u\*e\*](<../attachments/Tongues/Kodasuits  Forked Tongue/image-01.webp>)
+![\*K\*o\*d\*a\*s\*u\*i\*t\*s\* \* \*F\*o\*r\*k\*e\*d\* \*T\*o\*n\*g\*u\*e\*](<attachments/Tongues/Kodasuits  Forked Tongue/image-01.webp>)
 
 ---

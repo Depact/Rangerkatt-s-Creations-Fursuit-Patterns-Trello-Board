@@ -10,7 +10,7 @@
 
 [https://foxfirefantasy.com/shop/legacy-snow-leopard-tail-pattern](https://foxfirefantasy.com/shop/legacy-snow-leopard-tail-pattern "smartCard-inline")
 
-![\*(\*F\*R\*E\*E\*)\* \*F\*o\*x\*F\*i\*r\*e\* \*F\*a\*n\*t\*a\*s\*y\* \*S\*n\*o\*w\* \*L\*e\*o\*p\*a\*r\*d\* \*T\*a\*i\*l\*](<../attachments/Feline Tails/(FREE) FoxFire Fantasy Snow Leopard Tail/image-01.png>)
+![\*(\*F\*R\*E\*E\*)\* \*F\*o\*x\*F\*i\*r\*e\* \*F\*a\*n\*t\*a\*s\*y\* \*S\*n\*o\*w\* \*L\*e\*o\*p\*a\*r\*d\* \*T\*a\*i\*l\*](<attachments/Feline Tails/(FREE) FoxFire Fantasy Snow Leopard Tail/image-01.png>)
 
 ---
 
@@ -22,9 +22,9 @@
 
 [https://youtu.be/Mlq96ojwlg8?list=PLRIT0XO_NdobD28aCtz_89mHTngtO-HyE](https://youtu.be/Mlq96ojwlg8?list=PLRIT0XO_NdobD28aCtz_89mHTngtO-HyE "smartCard-inline")
 
-![\*N\*e\*f\*f\*e\*r\*t\*i\*t\*y\* \*S\*u\*p\*e\*r\* \*M\*o\*t\*i\*o\*n\* \*F\*e\*l\*i\*n\*e\* \*T\*a\*i\*l\*](<../attachments/Feline Tails/Neffertity Super Motion Feline Tail/image-01.png>)
+![\*N\*e\*f\*f\*e\*r\*t\*i\*t\*y\* \*S\*u\*p\*e\*r\* \*M\*o\*t\*i\*o\*n\* \*F\*e\*l\*i\*n\*e\* \*T\*a\*i\*l\*](<attachments/Feline Tails/Neffertity Super Motion Feline Tail/image-01.png>)
 
-![\*N\*e\*f\*f\*e\*r\*t\*i\*t\*y\* \*S\*u\*p\*e\*r\* \*M\*o\*t\*i\*o\*n\* \*F\*e\*l\*i\*n\*e\* \*T\*a\*i\*l\*](<../attachments/Feline Tails/Neffertity Super Motion Feline Tail/image-02.png>)
+![\*N\*e\*f\*f\*e\*r\*t\*i\*t\*y\* \*S\*u\*p\*e\*r\* \*M\*o\*t\*i\*o\*n\* \*F\*e\*l\*i\*n\*e\* \*T\*a\*i\*l\*](<attachments/Feline Tails/Neffertity Super Motion Feline Tail/image-02.png>)
 
 ---
 
@@ -38,7 +38,7 @@
 
 [https://www.youtube.com/watch?v=CDyvxtK4KbU](https://www.youtube.com/watch?v=CDyvxtK4KbU "smartCard-inline")
 
-![\*M\*u\*g\*i\*w\*a\*r\*a\* \*S\*i\*m\*p\*l\*e\* \*C\*a\*t\* \*T\*a\*i\*l\*](<../attachments/Feline Tails/Mugiwara Simple Cat Tail/image-01.png>)
+![\*M\*u\*g\*i\*w\*a\*r\*a\* \*S\*i\*m\*p\*l\*e\* \*C\*a\*t\* \*T\*a\*i\*l\*](<attachments/Feline Tails/Mugiwara Simple Cat Tail/image-01.png>)
 
 ---
 
@@ -52,7 +52,7 @@
 
 [https://www.youtube.com/watch?v=CzAjjd7j3uo](https://www.youtube.com/watch?v=CzAjjd7j3uo "smartCard-inline")
 
-![\*M\*u\*g\*i\*w\*a\*r\*a\* \*L\*i\*o\*n\* \*T\*a\*i\*l\*](<../attachments/Feline Tails/Mugiwara Lion Tail/image-01.png>)
+![\*M\*u\*g\*i\*w\*a\*r\*a\* \*L\*i\*o\*n\* \*T\*a\*i\*l\*](<attachments/Feline Tails/Mugiwara Lion Tail/image-01.png>)
 
 ---
 
@@ -66,7 +66,7 @@
 
 [https://www.youtube.com/watch?v=cML5LlJM9Mk](https://www.youtube.com/watch?v=cML5LlJM9Mk "smartCard-inline")
 
-![\*M\*u\*g\*i\*w\*a\*r\*a\* \*T\*i\*g\*e\*r\* \*T\*a\*i\*l\*](<../attachments/Feline Tails/Mugiwara Tiger Tail/image-01.png>)
+![\*M\*u\*g\*i\*w\*a\*r\*a\* \*T\*i\*g\*e\*r\* \*T\*a\*i\*l\*](<attachments/Feline Tails/Mugiwara Tiger Tail/image-01.png>)
 
 ---
 
@@ -76,7 +76,7 @@
 
 [https://www.skunkydesigns.com/collections/patterns-and-tutorials/products/pattern-cat-tail](https://www.skunkydesigns.com/collections/patterns-and-tutorials/products/pattern-cat-tail "smartCard-inline")
 
-![\*S\*k\*u\*n\*k\*y\* \*D\*e\*s\*i\*g\*n\*s\* \*C\*a\*t\* \*T\*a\*i\*l\*](<../attachments/Feline Tails/Skunky Designs Cat Tail/image-01.png>)
+![\*S\*k\*u\*n\*k\*y\* \*D\*e\*s\*i\*g\*n\*s\* \*C\*a\*t\* \*T\*a\*i\*l\*](<attachments/Feline Tails/Skunky Designs Cat Tail/image-01.png>)
 
 ---
 
@@ -86,9 +86,9 @@
 
 [https://www.etsy.com/ca/listing/1015083517/feline-tail-pattern-digital-pdf](https://www.etsy.com/ca/listing/1015083517/feline-tail-pattern-digital-pdf "smartCard-inline")
 
-![\*S\*a\*b\*e\*r\*w\*o\*l\*f\*s\*t\*u\*d\*i\*o\* \*F\*e\*l\*i\*n\*e\* \*T\*a\*i\*l\*](<../attachments/Feline Tails/Saberwolfstudio Feline Tail/image-01.png>)
+![\*S\*a\*b\*e\*r\*w\*o\*l\*f\*s\*t\*u\*d\*i\*o\* \*F\*e\*l\*i\*n\*e\* \*T\*a\*i\*l\*](<attachments/Feline Tails/Saberwolfstudio Feline Tail/image-01.png>)
 
-![\*S\*a\*b\*e\*r\*w\*o\*l\*f\*s\*t\*u\*d\*i\*o\* \*F\*e\*l\*i\*n\*e\* \*T\*a\*i\*l\*](<../attachments/Feline Tails/Saberwolfstudio Feline Tail/image-02.png>)
+![\*S\*a\*b\*e\*r\*w\*o\*l\*f\*s\*t\*u\*d\*i\*o\* \*F\*e\*l\*i\*n\*e\* \*T\*a\*i\*l\*](<attachments/Feline Tails/Saberwolfstudio Feline Tail/image-02.png>)
 
 ---
 
@@ -100,7 +100,7 @@
 
 [https://www.etsy.com/ca/listing/1624282393/large-feline-tail-pattern-pdf-download](https://www.etsy.com/ca/listing/1624282393/large-feline-tail-pattern-pdf-download "smartCard-inline")
 
-![\*S\*p\*i\*l\*t\*G\*r\*a\*p\*e\*S\*o\*d\*a\* \*L\*a\*r\*g\*e\* \*F\*e\*l\*i\*n\*e\* \*T\*a\*i\*l\*](<../attachments/Feline Tails/SpiltGrapeSoda Large Feline Tail/image-01.webp>)
+![\*S\*p\*i\*l\*t\*G\*r\*a\*p\*e\*S\*o\*d\*a\* \*L\*a\*r\*g\*e\* \*F\*e\*l\*i\*n\*e\* \*T\*a\*i\*l\*](<attachments/Feline Tails/SpiltGrapeSoda Large Feline Tail/image-01.webp>)
 
 ---
 
@@ -110,7 +110,7 @@
 
 [https://www.etsy.com/ca/listing/1578769875/hollow-foam-feline-tail-pattern](https://www.etsy.com/ca/listing/1578769875/hollow-foam-feline-tail-pattern "‌")
 
-![\*R\*i\*c\*o\*c\*h\*e\*t\*x\*c\*r\*a\*f\*t\*s\* \*H\*o\*l\*l\*o\*w\* \*F\*O\*A\*M\* \*F\*e\*l\*i\*n\*e\* \*T\*a\*i\*l\*](<../attachments/Feline Tails/Ricochetxcrafts Hollow FOAM Feline Tail/image-01.jpg>)
+![\*R\*i\*c\*o\*c\*h\*e\*t\*x\*c\*r\*a\*f\*t\*s\* \*H\*o\*l\*l\*o\*w\* \*F\*O\*A\*M\* \*F\*e\*l\*i\*n\*e\* \*T\*a\*i\*l\*](<attachments/Feline Tails/Ricochetxcrafts Hollow FOAM Feline Tail/image-01.jpg>)
 
 ---
 
@@ -120,7 +120,7 @@
 
 [https://www.etsy.com/ca/listing/1019148416/diy-cheetah-tail-pdf-pattern](https://www.etsy.com/ca/listing/1019148416/diy-cheetah-tail-pdf-pattern "smartCard-inline")
 
-![\*P\*i\*n\*k\*u\*s\*C\*r\*a\*f\*t\*y\*C\*o\*t\*t\*a\*g\*e\* \*C\*h\*e\*e\*t\*a\*h\* \*P\*a\*t\*t\*e\*r\*n\*](<../attachments/Feline Tails/PinkusCraftyCottage Cheetah Pattern/image-01.webp>)
+![\*P\*i\*n\*k\*u\*s\*C\*r\*a\*f\*t\*y\*C\*o\*t\*t\*a\*g\*e\* \*C\*h\*e\*e\*t\*a\*h\* \*P\*a\*t\*t\*e\*r\*n\*](<attachments/Feline Tails/PinkusCraftyCottage Cheetah Pattern/image-01.webp>)
 
 ---
 
@@ -130,7 +130,7 @@
 
 [https://www.etsy.com/ca/listing/1425051011/diy-tiger-tail-bundle-pdf-pattern](https://www.etsy.com/ca/listing/1425051011/diy-tiger-tail-bundle-pdf-pattern "smartCard-inline")
 
-![\*P\*i\*n\*k\*u\*s\*C\*r\*a\*f\*t\*y\*C\*o\*t\*t\*a\*g\*e\* \*3\* \*T\*i\*g\*e\*r\* \*P\*a\*t\*t\*e\*r\*n\*s\*](<../attachments/Feline Tails/PinkusCraftyCottage 3 Tiger Patterns/image-01.webp>)
+![\*P\*i\*n\*k\*u\*s\*C\*r\*a\*f\*t\*y\*C\*o\*t\*t\*a\*g\*e\* \*3\* \*T\*i\*g\*e\*r\* \*P\*a\*t\*t\*e\*r\*n\*s\*](<attachments/Feline Tails/PinkusCraftyCottage 3 Tiger Patterns/image-01.webp>)
 
 ---
 
@@ -142,7 +142,7 @@
 
 [https://www.tiktok.com/@koifishycostume/video/7285332089778523394](https://www.tiktok.com/@koifishycostume/video/7285332089778523394 "smartCard-inline")
 
-![\*K\*o\*i\*F\*i\*s\*h\*y\*C\*o\*s\*t\*u\*m\*e\*s\* \*C\*a\*t\* \*T\*a\*i\*l\*](<../attachments/Feline Tails/KoiFishyCostumes Cat Tail/image-01.jpg>)
+![\*K\*o\*i\*F\*i\*s\*h\*y\*C\*o\*s\*t\*u\*m\*e\*s\* \*C\*a\*t\* \*T\*a\*i\*l\*](<attachments/Feline Tails/KoiFishyCostumes Cat Tail/image-01.jpg>)
 
 ---
 
@@ -152,7 +152,7 @@
 
 [https://www.etsy.com/ca/listing/1679677333/fursuit-medium-cat-tail-pdf-pattern](https://www.etsy.com/ca/listing/1679677333/fursuit-medium-cat-tail-pdf-pattern "‌")
 
-![\*S\*o\*n\*s\*t\*a\*f\*u\*r\*s\* \*M\*e\*d\*i\*u\*m\* \*C\*a\*t\* \*T\*a\*i\*l\*](<../attachments/Feline Tails/Sonstafurs Medium Cat Tail/image-01.jpg>)
+![\*S\*o\*n\*s\*t\*a\*f\*u\*r\*s\* \*M\*e\*d\*i\*u\*m\* \*C\*a\*t\* \*T\*a\*i\*l\*](<attachments/Feline Tails/Sonstafurs Medium Cat Tail/image-01.jpg>)
 
 ---
 
@@ -162,7 +162,7 @@
 
 [https://www.etsy.com/ca/listing/1788772524/cat-tail-fursuit-sewing-pattern-pdf](https://www.etsy.com/ca/listing/1788772524/cat-tail-fursuit-sewing-pattern-pdf "smartCard-inline")
 
-![\*K\*n\*i\*t\*t\*i\*n\*K\*i\*t\*t\*e\*n\*F\*a\*s\*h\*i\*o\*n\* \*C\*a\*t\* \*T\*a\*i\*l\*](<../attachments/Feline Tails/KnittinKittenFashion Cat Tail/image-01.webp>)
+![\*K\*n\*i\*t\*t\*i\*n\*K\*i\*t\*t\*e\*n\*F\*a\*s\*h\*i\*o\*n\* \*C\*a\*t\* \*T\*a\*i\*l\*](<attachments/Feline Tails/KnittinKittenFashion Cat Tail/image-01.webp>)
 
 ---
 
@@ -172,7 +172,7 @@
 
 [https://www.etsy.com/ca/listing/1794802090/feline-tail-pattern-large-medium-options](https://www.etsy.com/ca/listing/1794802090/feline-tail-pattern-large-medium-options "smartCard-inline")
 
-![\*K\*i\*a\*F\*u\*r\*s\*u\*i\*t\*s\* \*2\* \*S\*i\*z\*e\*s\* \*F\*e\*l\*i\*n\*e\* \*T\*a\*i\*l\*](<../attachments/Feline Tails/KiaFursuits 2 Sizes Feline Tail/image-01.png>)
+![\*K\*i\*a\*F\*u\*r\*s\*u\*i\*t\*s\* \*2\* \*S\*i\*z\*e\*s\* \*F\*e\*l\*i\*n\*e\* \*T\*a\*i\*l\*](<attachments/Feline Tails/KiaFursuits 2 Sizes Feline Tail/image-01.png>)
 
 ---
 
@@ -182,7 +182,7 @@
 
 [https://www.etsy.com/ca/listing/1859446675/big-cat-tail-pattern-digital-download](https://www.etsy.com/ca/listing/1859446675/big-cat-tail-pattern-digital-download "smartCard-inline")
 
-![\*H\*o\*w\*l\*i\*n\*g\*D\*r\*a\*g\*o\*n\*S\*t\*u\*d\*i\*o\*s\* \*B\*i\*g\* \*C\*a\*t\* \*T\*a\*i\*l\*](<../attachments/Feline Tails/HowlingDragonStudios Big Cat Tail/image-01.webp>)
+![\*H\*o\*w\*l\*i\*n\*g\*D\*r\*a\*g\*o\*n\*S\*t\*u\*d\*i\*o\*s\* \*B\*i\*g\* \*C\*a\*t\* \*T\*a\*i\*l\*](<attachments/Feline Tails/HowlingDragonStudios Big Cat Tail/image-01.webp>)
 
 ---
 
@@ -192,7 +192,7 @@
 
 [https://www.etsy.com/ca/listing/1854524247/floor-dragger-feline-tail-pattern](https://www.etsy.com/ca/listing/1854524247/floor-dragger-feline-tail-pattern "smartCard-inline")
 
-![\*G\*e\*k\*n\*o\*m\*e\* \*F\*l\*o\*o\*r\* \*D\*r\*a\*g\*g\*e\*r\* \*F\*e\*l\*i\*n\*e\* \*T\*a\*i\*l\*](<../attachments/Feline Tails/Geknome Floor Dragger Feline Tail/image-01.webp>)
+![\*G\*e\*k\*n\*o\*m\*e\* \*F\*l\*o\*o\*r\* \*D\*r\*a\*g\*g\*e\*r\* \*F\*e\*l\*i\*n\*e\* \*T\*a\*i\*l\*](<attachments/Feline Tails/Geknome Floor Dragger Feline Tail/image-01.webp>)
 
 ---
 
@@ -202,7 +202,7 @@
 
 [https://www.etsy.com/ca/listing/4348531848/cat-tail-pdf-pattern-tutorial-for](https://www.etsy.com/ca/listing/4348531848/cat-tail-pdf-pattern-tutorial-for "smartCard-inline")
 
-![\*S\*o\*n\*s\*t\*a\*f\*u\*r\*s\* \*C\*a\*t\* \*T\*a\*i\*l\*](<../attachments/Feline Tails/Sonstafurs Cat Tail/image-01.png>)
+![\*S\*o\*n\*s\*t\*a\*f\*u\*r\*s\* \*C\*a\*t\* \*T\*a\*i\*l\*](<attachments/Feline Tails/Sonstafurs Cat Tail/image-01.png>)
 
 ---
 
@@ -212,7 +212,7 @@
 
 [https://www.etsy.com/ca/listing/4338488163/lion-tail-pdf-pattern-tutorial-for](https://www.etsy.com/ca/listing/4338488163/lion-tail-pdf-pattern-tutorial-for "smartCard-inline")
 
-![\*S\*o\*n\*s\*t\*a\*f\*u\*r\*s\* \*L\*i\*o\*n\* \*T\*a\*i\*l\*](<../attachments/Feline Tails/Sonstafurs Lion Tail/image-01.png>)
+![\*S\*o\*n\*s\*t\*a\*f\*u\*r\*s\* \*L\*i\*o\*n\* \*T\*a\*i\*l\*](<attachments/Feline Tails/Sonstafurs Lion Tail/image-01.png>)
 
 ---
 
@@ -222,7 +222,7 @@
 
 [https://www.etsy.com/ca/listing/1822909499/cat-tail-pattern](https://www.etsy.com/ca/listing/1822909499/cat-tail-pattern "smartCard-inline")
 
-![\*H\*i\*g\*h\*V\*a\*l\*l\*e\*y\*C\*r\*e\*a\*t\*i\*o\*n\*s\* \*C\*a\*t\* \*T\*a\*i\*l\*](<../attachments/Feline Tails/HighValleyCreations Cat Tail/image-01.png>)
+![\*H\*i\*g\*h\*V\*a\*l\*l\*e\*y\*C\*r\*e\*a\*t\*i\*o\*n\*s\* \*C\*a\*t\* \*T\*a\*i\*l\*](<attachments/Feline Tails/HighValleyCreations Cat Tail/image-01.png>)
 
 ---
 
@@ -232,7 +232,7 @@
 
 [https://www.etsy.com/ca/listing/4323230343/fursuit-tail-pattern-large-feline](https://www.etsy.com/ca/listing/4323230343/fursuit-tail-pattern-large-feline "smartCard-inline")
 
-![\*S\*w\*e\*e\*t\*C\*i\*d\*e\*r\*C\*r\*e\*a\*t\*i\*o\*n\* \*L\*a\*r\*g\*e\* \*F\*e\*l\*i\*n\*e\* \*T\*a\*i\*l\*](<../attachments/Feline Tails/SweetCiderCreation Large Feline Tail/image-01.png>)
+![\*S\*w\*e\*e\*t\*C\*i\*d\*e\*r\*C\*r\*e\*a\*t\*i\*o\*n\* \*L\*a\*r\*g\*e\* \*F\*e\*l\*i\*n\*e\* \*T\*a\*i\*l\*](<attachments/Feline Tails/SweetCiderCreation Large Feline Tail/image-01.png>)
 
 ---
 
@@ -242,6 +242,6 @@
 
 [https://www.etsy.com/ca/listing/1693276362/fursuit-tail-pattern-felinecatkitty-pdf](https://www.etsy.com/ca/listing/1693276362/fursuit-tail-pattern-felinecatkitty-pdf "smartCard-inline")
 
-![\*K\*a\*n\*i\*x\*S\*t\*u\*d\*i\*o\*s\* \*F\*e\*l\*i\*n\*e\* \*T\*a\*i\*l\*](<../attachments/Feline Tails/KanixStudios Feline Tail/image-01.webp>)
+![\*K\*a\*n\*i\*x\*S\*t\*u\*d\*i\*o\*s\* \*F\*e\*l\*i\*n\*e\* \*T\*a\*i\*l\*](<attachments/Feline Tails/KanixStudios Feline Tail/image-01.webp>)
 
 ---
